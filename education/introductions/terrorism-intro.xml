@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Introduction to Curriculum Packet on “Terrorism: A War Without
+                    Borders”</title>
+                <title type="short">Terrorism: A War Without Borders</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <scriptStmt>
+                    <bibl>
+                        <author>U.S. Department of State</author>
+                        <title>Terrorism: A War Without Borders</title>
+                    </bibl>
+                </scriptStmt>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p><hi rend="italic">Terrorism: A War Without Borders</hi> was produced by the United States Department of
+                    State in collaboration with a special committee of social studies educators. The
+                    video, print materials, and other resources in this package are intended for use
+                    with middle school and high school courses.</p>
+                <p>The purpose of this instructional package is to help students to understand the
+                    connection between world events and their own lives and those of others in their
+                    community. It builds upon the resources of the U.S. Department of State, and can
+                    be augmented by a vast range of other instructional materials and information
+                    sources available through newspapers, television, and the Internet, and teachers
+                    are encouraged to pursue these additional sources.</p>
+                <p>The video and instructional materials in this package were designed to provide
+                    classroom teachers with a high degree of flexibility in using some or all of the
+                    elements. The package can be used as a unit of instruction or individual
+                    elements may be incorporated into existing units or lessons. The video lends
+                    itself to use as a stimulus for classroom discussion, as well as an introduction
+                    to a series of lessons on the topic.</p>
+                <p>In producing instructional materials of this nature, the developers recognize
+                    that the audience represents a vast range of interests and abilities, not to
+                    mention local and state curriculum standards and requirements. The suggested
+                    lessons reflect Expectations of Excellence: Curriculum Standards for Social
+                    Studies developed by the National Council for the Social Studies. Teachers are
+                    encouraged to modify the suggested lessons and other materials in ways that are
+                    appropriate for their students, courses, and other local circumstances.</p>
+                <p>All of the materials produced by the Department of State included in this package
+                    may be reproduced and disseminated without specific permission. However, some of
+                    the websites in the list of resources may have copyright restrictions, and
+                    teachers are advised to review and abide by those restrictions.</p>
+                <p>Print materials are provided in black on white format so that they may be easily
+                    reproduced by means of electronic copying. They may also be scanned into
+                    computer files so that teachers may customize materials for their own
+                    classrooms.</p>
+                <p>This is the first program in a continuing series that will be produced by the
+                    Department of State. We hope that you find it useful for your classroom and will
+                    look forward to other programs. A response form is included with this package
+                    and your comments and suggestions will be helpful in the development of future
+                    instructional packages.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

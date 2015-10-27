@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Introduction to Curriculum Packet on “Today in Washington:
+                    The Media and Diplomacy”</title>
+                <title type="short">Today in Washington: The Media and Diplomacy</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <scriptStmt>
+                    <bibl>
+                        <author>U.S. Department of State</author>
+                        <title>A History of Diplomacy</title>
+                    </bibl>
+                </scriptStmt>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p><hi rend="italic">Today in Washington: The Media and Diplomacy</hi> is an instructional package that
+                    explores the interaction between diplomats and reporters throughout our history,
+                    and examines the ways that both have used the media to deliver messages about
+                    international affairs.</p>
+                <p>DVD segments include “Portraits and Pamphlets: Franklin in Paris;” “Cartoons and
+                    Caricature: Diplomacy, Politics, and News;” “‘Remember the Maine!’ Moving
+                    Pictures and the Yellow Press;” “The Truth will Set Them Free: Cold War
+                    Diplomacy, and Propaganda;” “Diplomacy Live! Oil, Hostages, and Iran;” and
+                    “Dateline Yesterday: News and Diplomacy 24/7.”</p>
+                <p>This package also includes the DVD script, a chronology, glossary, lessons and
+                    extension activities, website links, and other support materials. Lessons focus
+                    on history, civics, geography, economics, and culture, and support the thematic
+                    curriculum strands of Expectations of Excellence: Curriculum Standards for
+                    Social Studies of the National Council for the Social Studies. Lessons and
+                    support materials were also designed to promote the literacy emphasis of No
+                    Child Left Behind by including oral, written, and visual communication
+                    activities.</p>
+                <p>These instructional materials were designed to provide a high degree of
+                    flexibility for teachers. The DVD can be viewed in its entirety or in segments.
+                    It can be used to stimulate classroom discussion, to introduce a series of
+                    lessons on the topic, or to supplement existing classroom lessons. The DVD and
+                    print materials may constitute a complete instructional unit, or individual
+                    elements may be incorporated into existing units. These instructional materials
+                    support U.S. history, civics and government, economics, international relations,
+                    and modern world history courses. </p>
+                <p>Teachers are encouraged to enhance the content of this package with other
+                    instructional materials and information sources, such as textbooks, newspapers,
+                    television, and the Internet. Suggestions for using additional resources are
+                    included with a number of the lessons. Teachers are encouraged to modify
+                    suggested lessons and other materials in ways that are appropriate for their
+                    students, courses, and other local circumstances.</p>
+                <p>Print materials in this package are provided in black-on-white format. They can
+                    be reproduced easily to enable teachers to customize materials for their own
+                    classrooms. Some websites in the list of web resources may have copyright
+                    restrictions, and teachers are advised to review and abide by those
+                    restrictions. All materials in this package produced by the Department of State
+                    may be reproduced and disseminated without specific permission. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modules>
+    <module>
+        <id>us-relations-with-south-and-central-america</id>
+        <title>U.S. Relations with South and Central America</title>
+        <description/>
+        <year-published>2012</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>in-preparation</published-status>
+        <availability-status/>
+        <tei-document-name/>
+    </module>
+    <module>
+        <id>documents-on-diplomacy</id>
+        <title>Documents on Diplomacy: Primary Source Documents and Lessons from the World of
+            Foreign Affairs, 1775-2011</title>
+        <description>an educational resource with more than 300 primary source documents, over 120
+            lessons, and hundreds of exercises and resources</description>
+        <year-published>2011</year-published>
+        <month-published>12</month-published>
+        <day-published>2</day-published>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>documents-intro</tei-document-name>
+        <files>
+            <file>
+                <name>documents.pdf</name>
+                <label>Project Index (PDF, 821 KB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>when-the-border-vanishes</id>
+        <title>When the Border Vanishes: Diplomacy and the Threat to our Environment and
+            Health</title>
+        <description>a DVD and curriculum package exploring two complex international issues facing
+            Americans of the 21st century, but rooted deeply in our history</description>
+        <year-published>2010</year-published>
+        <month-published>11</month-published>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>border-vanishes-intro</tei-document-name>
+        <files>
+            <file>
+                <name>border-vanishes.pdf</name>
+                <label>Introduction (PDF, 831 KB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>a-journey-shared</id>
+        <title>A Journey Shared: The United States and China, 200 Years of History</title>
+        <description/>
+        <year-published>2008</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>journey-shared-intro</tei-document-name>
+        <files>
+            <file>
+                <name>journey-shared.pdf</name>
+                <label>Full Curriculum Guide (PDF, 18.5 MB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>today-in-washington</id>
+        <title>Today in Washington: the Media and Diplomacy</title>
+        <description/>
+        <year-published>2006</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>media-intro</tei-document-name>
+        <files>
+            <file>
+                <name>media.pdf</name>
+                <label>Full Curriculum Guide (PDF, 8.1 MB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>sports-and-diplomacy</id>
+        <title>Sports and Diplomacy in the Global Arena</title>
+        <description/>
+        <year-published>2005</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>sports-intro</tei-document-name>
+        <files>
+            <file>
+                <name>sports.pdf</name>
+                <label>Full Curriculum Guide (PDF, 3 MB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>a-history-of-diplomacy</id>
+        <title>A History of Diplomacy</title>
+        <description/>
+        <year-published>2004</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>history-diplomacy-intro</tei-document-name>
+        <files>
+            <file>
+                <name>history-diplomacy.pdf</name>
+                <label>Full Curriculum Guide (PDF, 6.9 MB)</label>
+            </file>
+        </files>
+    </module>
+    <module>
+        <id>terrorism-a-war-without-borders</id>
+        <title>Terrorism: A War without Borders</title>
+        <description/>
+        <year-published>2002</year-published>
+        <month-published/>
+        <day-published/>
+        <published-status>published</published-status>
+        <availability-status>out-of-print</availability-status>
+        <tei-document-name>terrorism-intro</tei-document-name>
+        <files>
+            <file>
+                <name>terrorism.pdf</name>
+                <label>Full Curriculum Guide (PDF, 851 KB)</label>
+            </file>
+        </files>
+    </module>
+</modules>

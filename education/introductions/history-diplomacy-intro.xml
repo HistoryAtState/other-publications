@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Introduction to Curriculum Packet on “A History of
+                    Diplomacy”</title>
+                <title type="short">A History of Diplomacy</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <scriptStmt>
+                    <bibl>
+                        <author>U.S. Department of State</author>
+                        <title>A History of Diplomacy</title>
+                    </bibl>
+                </scriptStmt>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p><hi rend="italic">A History of Diplomacy</hi> is an instructional package providing an overview of
+                    American diplomacy as it evolved from the colonial period through the present
+                    day. The video is presented in two parts: the first half ends with World War II,
+                    while the second half spans the period 1945 through the present day.</p>
+                <p>This package also includes the video script, a timeline, glossary, suggested
+                    lessons and extension activities, website links, and other support material.
+                    Lessons focus on history, civics, geography, economics, and culture, and support
+                    the thematic curriculum strands of Expectations of Excellence: Curriculum
+                    Standards for Social Studies of the National Council for the Social Studies.
+                    Lessons and support materials were also designed to promote the literacy
+                    emphasis of “No Child Left Behind” by including oral, written, and visual
+                    communication activities.</p>
+                <p>These instructional materials were designed to provide a high degree of
+                    flexibility for classroom teachers. The video can be viewed in its entirety or
+                    in segments, and can be used to stimulate classroom discussion, as an
+                    introduction to a series of lessons on the topic, or as an overview of the topic
+                    of diplomacy. The video and print materials may constitute a complete
+                    instructional unit, or individual elements may be incorporated into existing
+                    units. The lessons and materials support American history, government, or modern
+                    world history courses.</p>
+                <p>Teachers are encouraged to enhance the content of this package with other
+                    instructional materials and information sources such as textbooks, newspapers,
+                    television, and the Internet. Suggestions for using additional resources are
+                    included with a number of the lessons. Teachers are encouraged to modify
+                    suggested lessons and other materials in ways that are appropriate for their
+                    students, courses, and other local circumstances.</p>
+                <p>Print materials in the package are provided in black-on-white format. They may be
+                    easily reproduced by electronic copying, or scanned into computer files to
+                    enable teachers to customize materials for their own classrooms. Some websites
+                    in the list of resources may have copyright restrictions, and teachers are
+                    advised to review and abide by those restrictions. All materials in this print
+                    package produced by the Department of State may be reproduced and disseminated
+                    without specific permission.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Introduction to Curriculum Packet on “Documents on Diplomacy:
+                    Primary Source Documents and Lessons from the World of Foreign Affairs,
+                    1775-2011”</title>
+                <title type="short">Documents on Diplomacy: Primary Source Documents and Lessons
+                    from the World of Foreign Affairs, 1775-2011</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <scriptStmt>
+                    <bibl>
+                        <author>U.S. Department of State</author>
+                        <title>Documents on Diplomacy: Primary Source Documents and Lessons from the
+                            World of Foreign Affairs, 1775-2011</title>
+                    </bibl>
+                </scriptStmt>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>The <hi rend="italic">Foreign Relations of the United States</hi> series,
+                    published by the United Stated Department of State's Office of the Historian, is
+                    one of the world's most comprehensive series of primary source documents.
+                    Inaugurated in 1861 during the administration of Abraham Lincoln, the series
+                    celebrated its 150<hi rend="superscript">th</hi> anniversary in 2011. It seemed a fitting tribute to bring
+                    this series, long valued by professional researchers, foreign policy experts,
+                    and college students, to a new audience—secondary school teachers and their
+                    students.</p>
+                <p>Designed for secondary school teachers, who may not have the time to comb through
+                    tens of thousands of documents searching for the perfect classroom resources,
+                    this CD-ROM publication includes more than 300 primary source documents, paired
+                    with over 120 classroom-ready lessons, covering key events from 1775 to 2011—as
+                    well as lessons that incorporate art, music, dance, and drama. It contains
+                    everything you need to educate—and engage—students in the world of foreign
+                    affairs.</p>
+                <p>
+                    <hi rend="italic">Documents on Diplomacy</hi> includes the following sections,
+                    with full teacher resources (briefing memos for teachers and students, lists of
+                    key terms and players, timelines, and teaching tips) for each section:</p>
+                <list>
+                    <item>I. The Revolutionary Age</item>
+                    <item>II. The Articles of Confederation</item>
+                    <item>III. The Early Republic</item>
+                    <item>IV. The Age of Expansion</item>
+                    <item>V. The Civil War &amp; the Gilded Age</item>
+                    <item>VI. A Great Power Emerges</item>
+                    <item>VII. World War I</item>
+                    <item>VIII. Isolationism &amp; the Interwar Period</item>
+                    <item>IX. World War II</item>
+                    <item>X. The Early Cold War</item>
+                    <item>XI. The Later Cold War</item>
+                    <item>XII. The Post-Cold War World &amp; the 21<hi rend="superscript">st</hi>
+                        Century</item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
