@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Watson
+                    Foster</title>
+                <title type="short">John Watson Foster</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>President <persName>Benjamin Harrison</persName> appointed <persName>John Watson
+                        Foster</persName> as Secretary of State on June 29, 1892. Foster assumed his
+                    duties on that day and served until February 23, 1893. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="foster-john-watson.jpg"/>
+                    <head>John Watson Foster, 32nd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p> Foster was born on March 2, 1836, in Pike County, Indiana. He graduated from the
+                    State University of Indiana in 1855 and then attended Harvard Law School. Foster
+                    moved to Cincinnati, passed the bar, and practiced law until 1861, when he
+                    joined the Union Army as a major. Foster rose to the rank of colonel in
+                    1864.</p>
+                <p> Following his military duty, Foster returned to Indiana politics, was appointed
+                    Evansville Postmaster in 1869, and worked to build support for the re-election
+                    of <persName>Ulysses S. Grant</persName> in 1872.</p>
+                <p>In return for his campaign work, Foster served as Minister to Mexico between 1873
+                    and 1880. He then served as Minister to <placeName>Russia</placeName> from 1880
+                    to 1881. After a brief return to private practice, Foster assumed duties as
+                    Minister to <placeName>Spain</placeName> in 1883 and served until 1885,
+                    whereupon he again returned to private practice and served as counsel
+                    representing foreign diplomatic legations in the United States.</p>
+                <p>In 1892, President Harrison appointed Foster as Secretary of State.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Foster served as Minister to <placeName>Mexico</placeName> during the rise to
+                    power of <persName>Porfirio Díaz</persName> in 1876. Foster supported
+                    recognition of Díaz’s rule, but was overruled by then Secretary of State, <ref
+                        target="/departmenthistory/people/evarts-william-maxwell">William
+                        Evarts</ref>. As the tensions rose between the two countries, Foster
+                    testified before Congress, carefully advocating recognition without appearing to
+                    undermine Evarts or President <persName>Rutherford B. Hayes</persName>. In the
+                    end, Foster was able to secure recognition for the new Mexican government. While
+                    serving in Mexico, Foster also began the negotiations to resolve U.S.-Mexico
+                    border troubles that eventually led to an 1882 agreement. </p>
+                <p>As Minister to Russia, Foster’s most pressing duty was to advocate for the rights
+                    of Jewish U.S. citizens living there. As Minister to
+                        <placeName>Spain</placeName>, Foster secured a reciprocal trade agreement
+                    for the Spanish colonies of Cuba and Puerto Rico in 1885, but the U.S. Senate
+                    rejected the agreement.</p>
+                <p>While serving as legal counsel to foreign legations in Washington, following his
+                    post in Spain, Foster provided legal representation for the Chinese Government
+                    seeking redress for an anti-immigration riot that killed twenty-eight Chinese
+                    laborers in Rock Springs, Wyoming in 1885. Foster also advocated on behalf of
+                    the Chinese Government during negotiations to overcome the exclusion of Chinese
+                    immigration to the United States and would continue to represent the Chinese
+                    Government in later years.</p>
+                <p>Foster became Secretary of State in 1892 and served for the remaining eight
+                    months of Harrison’s administration. Foster had already forged a close working
+                    relationship with Harrison, as he was involved in negotiations for numerous
+                    trade agreements in the Western Hemisphere, and continued to be as Secretary of
+                    State.</p>
+                <p>As Secretary, Foster also attempted to counter British attempts at imperial
+                    expansion in Samoa and the Mosquito Coast. Foster also worked to negotiate a
+                    99-year lease for a naval base in the <placeName>Dominican Republic</placeName>,
+                    but financial demands by the Dominican Government made Congress unwilling to
+                    approve the lease.</p>
+                <p>Foster instructed U.S. representatives at the International Monetary Conference
+                    in Brussels to advocate for a fixed rate of exchange between silver and gold,
+                    but the conference came to no agreement on precious metal issues. Foster also
+                    unsuccessfully attempted to <ref target="/milestones/1866-1898/hawaii">annex the
+                        Kingdom of Hawaii.</ref>
+                </p>
+                <p>After leaving office in 1893, Foster represented the United States in
+                    international arbitration regarding seal hunting rights in the Bering Sea and
+                    before the Alaskan Boundary Tribunal in the 1890s. At the time of his death on
+                    November 15, 1917, Foster’s son-in-law <ref
+                        target="/departmenthistory/people/lansing-robert">Robert Lansing </ref>was
+                    serving as Secretary of State. Foster was also the grandfather of future
+                    Secretary <ref target="/departmenthistory/people/dulles-john-foster">John Foster
+                        Dulles</ref>. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “John W. Foster.” <hi rend="italic">The American
+                            Secretaries of State and Their Diplomacy,</hi> edited by Samuel Flagg
+                        Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
+                        Publishers, Inc.). </bibl>
+                    <bibl>Devine, Michael J. <hi rend="italic">John W. Foster: Politics and
+                            Diplomacy in the Imperial Era, 1873-1917.</hi> Athens: Ohio
+                        University Press, 1981.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

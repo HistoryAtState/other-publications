@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Sherman</title>
+                <title type="short">John Sherman</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> John Sherman was appointed Secretary of State in President <persName>William
+                        McKinley</persName>’s Cabinet, a position in which he served from March 6,
+                    1897, until April 27, 1898. Sherman resigned his position days after the outbreak
+                    of the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War</ref>. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="sherman-john.jpg"/>
+                    <head>John Sherman, 35th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Sherman was born in Lancaster, Ohio in 1823 to a family with a long tradition of
+                    public service. Upon his father’s untimely death, Sherman and his 10 siblings,
+                    including older brother <persName>William Tecumseh Sherman</persName>, were
+                    raised by various relatives and friends.</p>
+                <p>Sherman briefly followed an interest in civil engineering and surveying before
+                    studying law under his uncle, a judge. He was admitted to the Ohio bar in 1844.</p>
+                <p>A decade later, Sherman was elected to the U.S. House of Representatives. An
+                    active member of the Republican Party, Sherman was elected U.S. Senator
+                    representing Ohio in 1860 and served until 1877. That year, he was nominated to
+                    President Hayes’ Cabinet as Secretary of the Treasury. During this time, he
+                    helped author the Sherman Antitrust Act to limit monopolies.</p>
+                <p>At the end of the Hayes administration, Sherman returned to the Senate to serve
+                    another 16 years. While in the Senate, he ran unsuccessfully for the Republican
+                    presidential nomination three times. In 1897, President McKinley selected
+                    Sherman to serve as his Secretary of State. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Sherman’s tenure as Secretary of State was marked by the tension between him,
+                    President McKinley, and Assistant Secretary of State <ref target="/departmenthistory/people/day-william-rufus">William R. Day</ref>.
+                    Sherman had been offered the position largely to free up a Senate seat for Mark
+                    Hanna, a supporter and friend of the President. Unfortunately for the President,
+                    Sherman often diverged from the President’s foreign policy agenda and became
+                    increasingly vocal in his criticism of the McKinley administration.</p>
+                <p>As a result, the President and other members of the Cabinet soon ostracized
+                    Secretary of State Sherman, allowing Sherman’s subordinates to negotiate
+                    many foreign policy decisions.</p>
+                <p>Relations between Sherman and the McKinley administration became so tense that
+                    Assistant Secretary Day often replaced Sherman at Cabinet meetings, an obvious
+                    affront to the Secretary.</p>
+                <p>Day negotiated the <ref target="/milestones/1866-1898/hawaii">annexation of
+                        Hawaii</ref>, as well as U.S. policy towards Spain as the two nations were on
+                    the brink of war. </p>
+                <p>Sherman did wield influence when it came to upholding the U.S. interpretation
+                    of most-favored-nation treatment in matters relating to international trade. He
+                    also worked to secure U.S. commercial concessions in China; many of his policies
+                    would become part of the <ref target="/milestones/1899-1913/hay-and-china">Open
+                        Door Policy</ref> at the turn of the century. Despite his influence on
+                    issues of international commerce, Sherman’s weak position in the Cabinet meant
+                    that he was unable to press his opposition to U.S. acquisition of Cuba and his
+                    objection to war with Spain.</p>
+                <p>Sherman finally resigned in protest four days into the Spanish-American
+                    War in 1898. His bitterness toward President McKinley and his
+                    administration continued until his death in 1900. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

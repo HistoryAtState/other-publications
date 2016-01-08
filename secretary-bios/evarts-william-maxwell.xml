@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: William
+                    Evarts</title>
+                <title type="short">William Evarts</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>William Evarts</persName> was appointed Secretary of State by
+                    President <persName>Rutherford B. Hayes</persName> on March 7, 1877, and began
+                    serving as Secretary on March 12. Evarts served until March 7, 1881.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="evarts-william-maxwell.jpg"/>
+                    <head>William Evarts, 27th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>William Evarts was born in Boston on February 6, 1818. He graduated from Yale
+                    College in 1837 and began Harvard Law School in 1838. Evarts moved to New York
+                    City in 1840 and was admitted to the bar on July 16, 1841.</p>
+                <p>Evarts entered into politics as a Whig and was appointed Assistant District
+                    Attorney of the southern district of New York in 1848, a post he held until
+                    1853. Evarts later joined the newly formed Republican Party and was an
+                    unsuccessful candidate for the U.S. Senate in 1861.</p>
+                <p>His work in private practice earned him a reputation as one of the country’s top
+                    lawyers. Upon the recommendation of Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William H.
+                        Seward</ref>, President <persName>Andrew Johnson</persName> retained Evarts
+                    as his counsel during his impeachment trial. Afterwards, Johnson appointed
+                    Evarts as Attorney General on July 16, 1868, a position in which he served until
+                    March 4, 1869.</p>
+                <p>After several years of private practice, Evarts represented the Republican Party
+                    before the Hayes-Tilden Commission established to resolve the disputed election
+                    of 1876.</p>
+                <p>President Hayes nominated Evarts to be his Secretary of State on March 7, 1877.
+                    Despite opposition in the Senate, including that of <ref target="/departmenthistory/people/blaine-james-gillespie">James G.
+                        Blaine</ref>, Evarts’s nomination was approved on March 10, and he began his
+                    duties on March 12.</p>
+                <p>After leaving office, Evarts served as a delegate to the International Monetary
+                    Conference in 1881 and as U.S. Senator from New York from 1885 to 1891. Evarts
+                    died on February 28, 1901.</p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As a federal prosecutor, Evarts addressed international issues including
+                    investigations of possible filibustering expeditions into Central America. These
+                    investigations eventually led to the detention of the ship <hi rend="italic">Cleopatra</hi>, which was part of Narciso López’s expedition against
+                    Cuba.</p>
+                <p>During the Civil War, Evarts became involved in the early prosecution of
+                    Confederate privateers. He was also dispatched on a mission to convince the
+                    British Government to enforce neutrality regulations more strictly in an effort
+                    to cut off assistance to the Confederacy. Evarts visited France to advocate for
+                    the Union cause and attempted to dissuade the French Government from permitting
+                    the construction of Confederate warships. Evarts also served as an arbitrator in
+                    the Alabama claims. </p>
+                <p>When Evarts became Secretary of State, he grappled with the decision of whether
+                    or not to recognize the new Mexican government led by <persName>Porfirio
+                        Díaz</persName>. Previously, the United States had followed a policy of
+                    recognizing Mexican governments as they came into effective control of Mexico,
+                    but Evarts decided to act differently. He placed several conditions on his
+                    recognition of the Díaz government, most importantly the right of U.S. troops to
+                    cross the Mexican border in pursuit of Indian raiders.</p>
+                <p>Díaz’s government responded with a condemnation of the demands and moved troops
+                    to the border. War seemed possible, particularly since Diaz’s opposition accused
+                    him of a potential willingness to bow to U.S. pressure. Under the threat of
+                    congressional investigation, Evarts backed down and extended recognition, but
+                    did not withdraw the order allowing pursuit across the border until 1880. </p>
+                <p>Evarts also faced domestic challenges from anti-immigration supporters on the
+                    West Coast, who began to make stronger demands that Chinese immigrants be
+                    prevented from entering the United States despite the provisions of the 1868
+                        <ref target="/milestones/1866-1898/burlingame-seward-treaty">Burlingame-Seward Treaty</ref>.</p>
+                <p>In 1880, Evarts sent a committee to negotiate with the Chinese Government in an
+                    effort to secure Chinese endorsement of restrictions on immigration. Chinese
+                    officials were unwilling to allow an outright ban, but were willing to agree to
+                    limits. Evarts also unsuccessfully attempted to negotiate peace between Chile,
+                    Peru and Bolivia during the War of the Pacific. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Barrows, Chester L. <hi rend="italic">William M. Evarts: Lawyer, Diplomat,
+                            Statesman.</hi> Chapel Hill: University of North Carolina Press,
+                        1941.</bibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Dyer, Brainerd. <hi rend="italic">The Public Career of William M.
+                            Evarts.</hi> New York: Da Capo Press, 1969.</bibl>
+                    <bibl>“William Maxwell Evarts,” in <hi rend="italic">Biographical Directory of
+                            the United States Congress.</hi> Accessed June 27, 2008. <ref target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262">http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262</ref>.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

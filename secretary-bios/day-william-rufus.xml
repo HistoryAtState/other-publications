@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: William Rufus Day</title>
+                <title type="short">William Rufus Day</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>William Rufus Day</persName> was appointed Secretary of State in
+                    President <persName>William McKinley</persName>’s Cabinet on April 26, 1898. He
+                    entered into duty on April 28, 1898, and served until September 16, 1898. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="day-william-rufus.jpg"/>
+                    <head>William Rufus Day, 36th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Day was born in Ravenna, Ohio in 1849 to a long line of distinguished jurists. He
+                    decided early in life to study the law. He attended preparatory school and
+                    graduated from the University of Michigan in 1870. He returned to his hometown
+                    of Ravenna the following year to read law in the office of a prominent local
+                    judge before completing a final year at Michigan.</p>
+                <p>Day was admitted to the Ohio bar in 1872 and began his practice that year in
+                    Canton. While there, he befriended the future president, William McKinley. A
+                    successful lawyer, Day was elected judge of the Court of Common Pleas in 1886.
+                    Three years later, he was appointed district judge for the northern district of
+                    Ohio, but poor health forced him to resign this position before he entered into
+                    duty.</p>
+                <p>Day continued his practice until President McKinley chose him to serve as
+                    Assistant Secretary of State under Secretary <ref target="/departmenthistory/people/sherman-john">John Sherman</ref> in 1897.
+                    As Secretary of State Sherman grew increasingly alienated from the McKinley
+                    administration, Day took over many of Sherman’s duties. When Sherman resigned in
+                    April 1898, Day succeeded him as Secretary of State. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Day assumed the position of Secretary of State just a few days after the start of
+                    the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American
+                        War</ref>. Although he was not known to be an especially skilled diplomat,
+                    Day worked tirelessly to secure the neutrality of Europe during the war. The
+                    Spanish-American War dominated his tenure, as well as the <ref target="/milestones/1866-1898/hawaii">annexation of Hawaii</ref>.</p>
+                <p>Day had agreed only to take the position of Secretary of State until the end of
+                    the war, and submitted his resignation shortly after the peace treaty with Spain
+                    was signed in 1898. As the U.S. representative to the peace conference in Paris,
+                    Day successfully negotiated with Spain the ceding of Cuba, Guam, the
+                    Philippines, and Puerto Rice to the United States for $20 million. </p>
+                <p>President McKinley’s foreign policy aims were largely carried out by Day with
+                    little conflict. Day's only objection in the Spanish-American War peace
+                    settlement was the annexation of the Philippines, yet he honored McKinley’s
+                    wishes.</p>
+                <p>After resigning as Secretary of State, he transferred his duties to <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref>. Shortly
+                    after, Day returned to the legal profession. President McKinley appointed Day
+                    judge to the Sixth Circuit Court of Appeals. He served there until 1903, when
+                    President Roosevelt nominated him Associate Justice of the U.S. Supreme Court.</p>
+                <p> Day enjoyed a long and distinguished career in the Supreme Court, serving nearly
+                    20 years. He resigned due to failing health in 1922. Justice Day died the
+                    following year. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

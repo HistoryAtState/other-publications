@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Philander Chase
+                    Knox</title>
+                <title type="short">Philander Chase Knox</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>President <persName>William Howard Taft</persName> appointed Pennsylvania Senator
+                        <persName>Philander Chase Knox</persName> as Secretary of State on March 6,
+                    1909. Following his unsuccessful bid for the Republican presidential nomination
+                    the previous year, Knox resigned his seat in the U.S. Senate and entered into
+                    duty that same day. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="knox-philander-chase.jpg"/>
+                    <head>Philander Chase Knox, 40th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Knox was born in Fayette County, Pennsylvania in 1853. The son of a respected
+                    banker, he entered Mount Union College in Ohio and received his Bachelor of Arts
+                    degree in 1872. Knox read law for three years in Pittsburgh before gaining
+                    admission to the Pennsylvania bar in 1875. The following year, he served as
+                    Assistant United States District Attorney for the western district of
+                    Pennsylvania.</p>
+                <p>Knox opened a lucrative private practice as a corporate attorney, and, in 1897, he
+                    served as President of the Pennsylvania Bar Association. As Counsel for the
+                    Carnegie Steel Company, he took a prominent part in organizing the United States
+                    Steel Corporation in 1901.</p>
+                <p>That same year, President William McKinley offered the position of Attorney
+                    General to Knox—an old friend from college. Knox served in the cabinets of
+                    President McKinley and his successor, President <persName>Theodore
+                        Roosevelt</persName>.</p>
+                <p>In 1904, Knox was appointed U.S. Senator from Pennsylvania to fill a vacancy.
+                    Following his unsuccessful bid for the Republican presidential nomination in
+                    1908, his former opponent, President Taft, appointed Knox Secretary of State.
+                </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p> As Secretary of State, Knox tightly controlled U.S. foreign policy. He
+                    reorganized the Department of State into regional divisions, maximizing
+                    expertise acquired by those in the Foreign Service. Knox extended the merit
+                    system of selection and promotion from the Consular Service to the Diplomatic
+                    Service.</p>
+                <p>Knox continued the <ref target="/milestones/1899-1913/hay-and-china">Open Door
+                        Policy</ref> of his predecessors and pursued an even more aggressive role in
+                    encouraging and protecting U.S. investments abroad.</p>
+                <p>His emphasis on trade to promote democracy and stability became known as <ref
+                        target="/milestones/1899-1913/dollar-diplo">"Dollar Diplomacy."</ref> The
+                    United States first initiated this policy in Asia, but it became the core of
+                    U.S. foreign policy in Latin America. Interventions in the Caribbean and Central
+                    America were based on the theory that democratic governments would lead to free
+                    markets and open trade.</p>
+                <p>Knox also successfully negotiated the Bering Sea controversy during his time as
+                    Secretary. The treaty, designed to put an end to the devastating slaughter of
+                    seals, was signed by the United States, Great Britain, Japan and Russia in
+                    1911.</p>
+                <p>After President Taft lost his second presidential bid in 1912, Knox resigned his
+                    position and returned to Pittsburgh. He continued to practice law until he
+                    returned to the U.S. Senate in 1916, where he led the fight against the <ref
+                        target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref> and
+                    the <ref target="/milestones/1914-1920/league">League of Nations</ref> after
+                    World War One.</p>
+                <p>Knox served in the Senate until his death in 1921. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped. </hi>New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell. </hi>Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

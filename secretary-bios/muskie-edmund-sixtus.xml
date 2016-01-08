@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Edmund Sixtus Muskie</title>
+                <title type="short">Edmund Sixtus Muskie</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="bio">
+                <head>Introduction</head>
+                <p>
+                    <persName>Edmund Sixtus Muskie</persName> served as President <persName>Jimmy
+                        Carter</persName>’s Secretary of State from May 8, 1980 until January 18,
+                    1981. A long-time U.S. Senator from Maine, Muskie was tapped to serve as
+                    Carter’s second Secretary of State after the resignation of Cyrus Vance following the
+                    failed rescue of the American hostages in Iran. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="muskie-edmund-sixtus.jpg"/>
+                    <head>Edmund Sixtus Muskie, 58th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born in Rumford, Maine, March 28, 1914, Muskie graduated from Bates College in
+                    1936 and Cornell University Law School in 1939. He was admitted to the
+                    Massachusetts bar in 1939 and the Maine bar in 1940, and began the private
+                    practice of law in Waterville, Maine, in 1940. Muskie enlisted in the U.S. Navy
+                    during the Second World War and served in the Atlantic and Asiatic-Pacific
+                    Theaters from 1942 to 1945.</p>
+                <p>After holding a series of local offices, Muskie was elected to the State House of
+                    Representatives in 1946, 1948, and 1950. Muskie was elected as Governor of Maine
+                    in 1955. In 1958 Muskie was elected to the U.S. Senate and was reelected in
+                    1964, 1970, and 1976. During his tenure in the Senate, Muskie served as the
+                    Chairman of the Budget Committee and as a member of the Senate Foreign Relations
+                    Committee.</p>
+                <p>Muskie achieved national notoriety as the unsuccessful Democratic candidate for
+                    Vice President of the United States in 1968 and lost the 1972 presidential
+                    nomination to fellow Senator <persName>George McGovern</persName>.</p>
+                <p>While serving as Secretary of State, President Carter awarded Muskie the
+                    Presidential Medal of Freedom on January 16, 1981. After leaving public office,
+                    Muskie returned to private practice in Washington D.C. and served as a member of
+                    the “Tower Commission,” which investigated the Iran-Contra Scandal. Muskie
+                    resided in Washington D.C. until his death on March 26, 1996.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Following the resignation of <ref target="/departmenthistory/people/vance-cyrus-roberts">Cyrus Vance</ref>,
+                    President Carter envisioned Muskie’s role as more of a senior statesman and
+                    spokesman for the Administration, while leaving the everyday management of the
+                    Department of State to Deputy Secretary <ref target="/departmenthistory/people/christopher-warren-minor">Warren
+                        Christopher</ref>.</p>
+                <p>In the nine months Muskie served as Secretary of State, he conducted the first
+                    high-level meeting with the Soviet government after its December 1979 invasion
+                    of Afghanistan. During these negotiations, Secretary Muskie unsuccessfully
+                    attempted to secure the withdrawal of Soviet forces from Afghanistan.</p>
+                <p>Muskie also assisted President Carter in the implementation of the “Carter
+                    Doctrine,” which aimed to limit Soviet expansion into the Middle East and
+                    Persian Gulf. Finally, under Muskie’s leadership, the State Department
+                    negotiated the release of the remaining American hostages held by Iran. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 4. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Brzezinski, Zbigniew. <hi rend="italic">Power and Principle: Memoirs of
+                            the National Security Advisor, 1977 – 1981.</hi> New York: Farrar, 1983.</bibl>
+                    <bibl>Carter, Jimmy. <hi rend="italic">Keeping Faith: Memoirs of a
+                        President.</hi> New York: Random House, 1982. </bibl>
+                    <bibl>“Edmund Sixtus Muskie, (1914–1996).” <ref target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001121">Biographical Directory of the United States Congress</ref>
+                    </bibl>
+                    <bibl>Landsford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        Conn.: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

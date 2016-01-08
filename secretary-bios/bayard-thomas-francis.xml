@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Thomas Francis Bayard</title>
+                <title type="short">Thomas Francis Bayard</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> President <persName>Grover Clevelan</persName>d appointed <persName>Thomas
+                        Francis Bayard</persName> as Secretary of State on March 6, 1885. Bayard
+                    served from March 7 to the end of Cleveland’s first term, leaving office on
+                        <date when="1889-03-04">March 4, 1889</date>. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="bayard-thomas-francis.jpg"/>
+                    <head>Thomas Francis Bayard, 30th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p> Bayard was born in <placeName>Wilmington, Delaware</placeName> on October 29,
+                    1828. He attended law school in Flushing, New York, passed the bar in 1851, and
+                    thereafter began practicing law.</p>
+                <p>Bayard was appointed U.S. District Attorney for Delaware in 1853, but resumed
+                    private practice in 1854. In 1869, Bayard was elected as U.S. Senator from
+                    Delaware, and served until March 6, 1885, when he became Secretary of State
+                    under President <persName>Grover Cleveland</persName>. While in the Senate,
+                    Bayard also served on the Hayes-Tilden Electoral Commission in 1877. Following
+                    his tenure as Secretary, Bayard served as U.S. Ambassador to Great Britain from
+                    1893 to 1897.</p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Dipolmacy</head>
+                <p>As Secretary of State, Bayard moved away from patronage appointments, choosing
+                    instead to appoint diplomats known for their skill and expertise rather than
+                    their political loyalty. However, controversy soon erupted when the Italian and
+                    Austro-Hungarian Governments rejected his appointment of Anthony M. Keiley as
+                    Minister. </p>
+                <p>In foreign affairs, Bayard intervened in the ongoing disputes over U.S. fishing
+                    rights in <placeName>Canada</placeName> and <placeName>Newfoundland</placeName>.
+                    Following the expiration of an 1871 agreement, the U.S. Government had attempted
+                    to negotiate a treaty with Canada and <placeName>Great Britain</placeName> in
+                    early 1888. However, the hunting of fur seals in the Bering Sea had become a
+                    contentious issue, and relations were further complicated by an unclear land and
+                    sea boundary division between <placeName>Alaska</placeName> and Canada. The U.S.
+                    Senate ultimately rejected the terms of the treaty. Bayard continued to pursue
+                    negotiations with the British Government, but the issue would not be resolved
+                    until a 1903 treaty. </p>
+                <p>In addition to addressing fishing rights, Bayard also focused on Pacific affairs.
+                    In 1887, he oversaw the Senate’s ratification of the renewal of a reciprocity
+                    treaty with <placeName>Hawaii</placeName>. That same year he hosted the
+                    inconclusive Washington Conference intended to de-escalate tensions between
+                    Germany, Great Britain, and the United States in competition for influence over
+                    Samoa. As Secretary, Bayard was also interested in increasing Japanese autonomy.
+                        <persName>Richard B. Hubbard</persName>, U.S. Minister to Japan, signed an
+                    agreement in 1889 with Japanese Minister of Foreign Affairs, <persName>Marquis
+                        Okuma Shigenobu</persName>, which provided for the gradual abolition of
+                    extraterritorial privileges for U.S. citizens living in Japan. However, Bayard
+                    acquiesced to British occupation of the Geomun-do Islands, despite Korean pleas
+                    for U.S. assistance under the terms of an 1883 treaty that had been negotiated by
+                    U.S. Envoy <persName>Robert W. Shufeldt</persName>. </p>
+                <p>After his tenure as Secretary of State, Bayard served as U.S. Ambassador to 
+                    the United Kingdom. As Ambassador, Bayard became involved in the Venezuela-Guyana boundary
+                    dispute. His public, pro-British pronouncements placed him at odds with then
+                        <ref target="/departmenthistory/people/olney-richard">Secretary of State,
+                        Richard Olney,</ref> and President Grover Cleveland. Bayard remained as
+                    Minister until the end of Cleveland’s second term in 1897. </p>
+                <p>Bayard retired, and died in Dedham, Massachusetts on September 28, 1898. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                        State and Their Diplomacy.</hi> Vol. 5. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                        Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                        Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

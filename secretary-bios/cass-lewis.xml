@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Lewis Cass</title>
+                <title type="short">Lewis Cass</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Lewis Cass</persName> was appointed Secretary of State by President
+                        <persName>James Buchanan</persName> on March 6, 1857, and assumed office the
+                    same day. He served until December 14, 1860. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="cass-lewis.jpg"/>
+                    <head>Lewis Cass, 22nd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Cass was born to a farming family in Exeter, New Hampshire. His father joined the
+                    Continental Army in the <ref target="/milestones/1776-1783/declaration">Revolutionary War</ref> and fought under General Washington at Bunker Hill,
+                    instilling in his son a deep sense of patriotism. Cass attended Phillips Exeter
+                    Academy. Upon completing his education in 1800, he left with his family for the
+                    Northwest Territory of Ohio.</p>
+                <p>In Ohio, he became a member of the bar, practicing
+                    in the town of Zanesville, Ohio. In 1806, Cass was elected to the Ohio House of
+                    Representatives. The following year, President <persName>Jefferson</persName> appointed him as
+                    U.S. Marshal for Ohio. After serving during the War of 1812, during which he was
+                    promoted to the rank of General, Cass was appointed Governor of the Michigan
+                    Territory. He served in this capacity from 1813 until 1831. That same year,
+                    President <persName>Jackson</persName> chose Cass to serve as his Secretary of War. At the
+                    conclusion of his term, Jackson appointed Cass U.S. Minister to France, a
+                    position he held for six years.</p>
+                <p>Cass failed to secure the Democratic
+                    presidential nomination in 1844 and in 1845 became a U.S. Senator from the state
+                    of Michigan. After serving in the Senate, Cass secured the presidential
+                    nomination in 1848 but lost the election. He returned to the Senate for eight
+                    more years and failed to receive the presidential nomination in 1852. President
+                    <persName>Buchanan</persName> appointed Cass as Secretary of State in 1857. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>President Buchanan appointed Cass Secretary of State with hopes he would unify
+                    the Democratic Party then riddled with sectional tensions. </p>
+                <p>An experienced diplomat and former Secretary of State, President Buchanan
+                    aggressively directed foreign policy. Two focal points of the Buchanan
+                    administration were Latin America and Great Britain. Internal dissension from
+                    antislavery proponents, sparked in part by the attempt to purchase Cuba from
+                    Spain, often thwarted Buchanan’s foreign policy plans. Attempts to purchase more
+                    territory from Mexico were also frustrated by an increasingly divided Congress
+                    and disinterest on the part of Mexican leaders. </p>
+                <p> Nonetheless, Cass successfully negotiated a final settlement of the <ref target="/milestones/1899-1913/panama-canal">Clayton-Bulwer Treaty</ref>
+                    with the British Government. The treaty limited both U.S. and British control
+                    throughout Latin America. The British also relinquished their claim to the right
+                    to search U.S. vessels under Cass’s tenure.</p>
+                <p>With the election of <persName>Abraham
+                    Lincoln</persName> and the rise of the new Republican Party, Cass began to voice his
+                    long-held disagreements with the Buchanan administration, specifically his
+                    protests related to sectional differences. Cass tendered his resignation in the
+                    last days of 1860. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                    <bibl>Smith, W. L. G. <hi rend="italic">Fifty Years of Public Life: The Life and Times of Lewis Cass.</hi>
+                        New York: Derby &amp; Jackson, 1856. </bibl>
+                    <bibl>Young, William T. <hi rend="italic">Sketch of the Life and Public Services of General Lewis Cass.
+                        </hi>Detroit: Markham &amp; Elwood, 1852. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

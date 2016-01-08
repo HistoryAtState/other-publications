@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Lawrence Sidney Eagleburger</title>
+                <title type="short">Lawrence Sidney Eagleburger</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Lawrence Eagleburger</persName> was appointed Secretary of State on
+                    December 8, 1992, and continued in that position until January 19, 1993.
+                    Eagleburger’s tenure as Secretary capped off a distinguished 27-year career with
+                    the Department of State.  </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="eagleburger-lawrence-sidney.jpg"/>
+                    <head>Lawrence Sidney Eagleburger, 62nd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born in Milwaukee, Wisconsin, on August 1, 1930, Eagleburger earned a bachelor’s
+                    degree from the University of Wisconsin in 1952, before serving as a First
+                    Lieutenant in the United States Army from 1952 to 1954. Following his army
+                    years, the future diplomat returned to his alma mater, where he earned a
+                    master’s degree in 1957. Upon graduation, Eagleburger joined the Foreign Service
+                    and served as a political analyst for Cuba before being sent to Yugoslavia,
+                    where he was assigned to the U.S. Embassy’s economic section from 1961 to 1965.
+                    He also worked as a National Security Council Staff member from 1966 to 1967,
+                    and as Special Assistant to the Under Secretary of State from 1967 to 1969.</p>
+                <p> During the Nixon administration, Eagleburger held a number of roles, including
+                    Executive Assistant to the President’s Assistant for National Security Affairs
+                    (1969), Political Adviser and Chief of the Political Section of the U.S. Mission
+                    to NATO (1969-1971), and Deputy Assistant Secretary of Defense (1971-1973). He was
+                    then named the Executive Secretary to the Secretary of State from 1975 to 1977,
+                    before President <persName>Jimmy Carter</persName> appointed him Ambassador to
+                    Yugoslavia from 1977 to 1981.</p>
+                <p>Eagleburger continued to rise within the ranks of the Department of State during
+                    the Reagan and Bush I administrations--serving as Undersecretary of State for
+                    Political Affairs under President <persName>Ronald Reagan</persName> and Deputy
+                    Secretary of State during President <persName>George H.W. Bush</persName>’s
+                    tenure. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>When James Baker left his post as Secretary of State in August of 1992 to lead
+                    President Bush’s reelection campaign, Eagleburger took over the Department of
+                    State as Acting Secretary of State until the President gave him a recess
+                    appointment as Secretary of State on December 8, 1992. Eagleburger’s career
+                    service over the years gave him invaluable experience and knowledge in many
+                    important areas of U.S. diplomacy.</p>
+                <p>Most notably, the time he spent in Yugoslavia led him to become President George
+                    H.W. Bush’s primary advisor during Yugoslavia’s disintegration following
+                    communism’s demise in Eastern Europe. Eagleburger’s role as an advisor on
+                    Yugoslavian affairs was not without controversy. He gained a reputation as a
+                    strong Serbian supporter and denied that there had been atrocities committed in
+                    Croatia. As the Department’s second-highest ranking official prior to taking
+                    over the Secretary’s position, Eagleburger also played a key role during the
+                        <ref target="/departmenthistory/short-history/firstgulf">First Persian Gulf
+                        War</ref>. </p>
+                <p>In his retirement, Eagleburger remained a strong voice on international and
+                    political issues. In 1998, he became chairman of the International Commission on
+                    Holocaust-Era Insurance Claims, which worked to resolve unpaid insurance
+                    claims for Holocaust survivors. He also contined to comment on
+                    U.S. policy toward the Middle East and served on the Iraq Study Group.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Baker, James Addison. <hi rend="italic">The Politics of Diplomacy:
+                            Revolution, War, and Peace, 1989-1992.</hi> New York: G.P. Putnam’s
+                        Sons, 1995.</bibl>
+                    <bibl>Diggins, John P. <hi rend="italic">Ronald Reagan: Fate, Freedom, and the
+                            Making of History.</hi> New York: W.W. Norton &amp; Co., 2007.</bibl>
+                    <bibl>Maynard, Christopher. <hi rend="italic">Out of the Shadow: George H.W.
+                            Bush and the End of the Cold War. </hi> College Station: Texas
+                        A&amp;M University Press, 2008.</bibl>
+                    <bibl>Ramet, Sabrina. <hi rend="italic">Thinking about Yugoslavia: Scholarly
+                            debates about the Yugoslav breakup and the wars in Bosnia and
+                        Kosovo.</hi> Cambridge, UK: Cambridge University Press, 2005.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

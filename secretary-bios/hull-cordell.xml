@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Cordell Hull</title>
+                <title type="short">Cordell Hull</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Cordell Hull</persName> was appointed Secretary of State by President
+                        <persName>Franklin D. Roosevelt</persName> on March 4, 1933, and served until
+                    November 20, 1944. Hull holds the distinction of being the longest-serving U.S.
+                    Secretary of State. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="hull-cordell.jpg"/>
+                    <head>Cordell Hull, 47th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p> Hull was born on October 2, 1871, near Byrdstown, Tennessee. Although Hull gained
+                    admission to the Tennessee bar in 1892 and was appointed a circuit judge in
+                    1903, his great passion was politics.</p>
+                <p>Following service on his county’s Democratic Party Executive Committee and in the
+                    Tennessee State legislature, Hull was elected to the U.S. House of
+                    Representatives in 1906. Hull’s career was nearly derailed when he lost his
+                    congressional seat during the Republican Party landslide of 1920. Nevertheless,
+                    Hull remained at the center of national politics by becoming Chairman of the
+                    Democratic National Committee in 1921 and returned to Congress after a two-year
+                    absence.</p>
+                <p>In 1928, Hull sought the Democratic Party’s Vice Presidential nomination.
+                    Although his bid was unsuccessful, he did secure the support of the Democratic
+                    nominee for the governorship of New York, <persName>Franklin Delano
+                    Roosevelt</persName>.</p>
+                <p>Four years later, as a U.S. Senator, Hull repaid the favor when Roosevelt sought
+                    the Presidential nomination. In return for his backing and in order to firm up
+                    his support amongst Southern Democrats, President Roosevelt appointed Hull as
+                    his Secretary of State. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Secretary of State, Hull’s role in U.S. foreign policymaking was greatly
+                    circumscribed by President Roosevelt. Hull nonetheless achieved prominence as an
+                    advocate of trade liberalization, closer relations with Latin America, and a
+                    postwar multinational institution to promote peace and security.</p>
+                <p>Although President Roosevelt typically represented the United States at the major
+                    conferences with Allied leaders during the Second World War, Hull took the lead
+                    in attempting to delay war with <placeName>Japan</placeName> following its
+                    invasion of <placeName>China</placeName>. He was also a strong supporter of
+                    President Roosevelt’s <ref target="/milestones/1921-1936/good-neighbor">“Good
+                        Neighbor”</ref> policy and became the first sitting Secretary of State to
+                    attend the International Conference of American States (precursor to the
+                    Organization of American States). At the December 1933 meeting in
+                        <placeName>Montevideo, Uruguay</placeName>, he announced that the U.S.
+                    Government would henceforth observe a policy of “non-intervention” in the
+                    affairs of its neighbors in the Western Hemisphere.</p>
+                <p>His greatest contribution to the postwar world came within the realm of
+                    international trade. As a firm believer in <persName>Woodrow Wilson</persName>’s
+                    vision of liberal internationalism, Hull believed that free trade promoted
+                    international peace and prosperity. He considered high tariff barriers a
+                    pressing issue that had contributed to the economic decline leading to the Great
+                    Depression and the rise of fascism.</p>
+                <p>In 1934, Hull helped secure the passage of the Reciprocal Trade Agreements Act
+                    (RTAA), which gave the President the authority to personally negotiate bilateral
+                    tariff reductions. </p>
+                <p>Hull also championed the creation of the United Nations. For his efforts in
+                    creating the United Nations, Hull was honored with the Nobel Peace Prize in
+                    1945.</p>
+                <p> Cordell Hull resigned as Secretary for health reasons on November 30, 1944, but
+                    served as a delegate to the United Nations Conference in San Francisco in 1945.
+                    He died in Washington, D.C., on July 23, 1955. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Aaronson, Susan. “How Cordell Hull and the Postwar Planners Designed a New
+                        Trade Policy.” <hi rend="italic">Business and Economic History</hi> 20
+                        (1991): 171-179.</bibl>
+                    <bibl>Dallek, Robert. <hi rend="italic">Franklin D. Roosevelt and American
+                            Foreign Policy, 1932-1945.</hi> New York: Oxford University Press, 1979.</bibl>
+                    <bibl>Dam, Kenneth W. “Cordell Hull, the Reciprocal Trade Act, and the WTO.”
+                            <hi rend="italic">University of Chicago Law &amp; Economics, Olin
+                            Working Paper No. 228</hi> (2004). </bibl>
+                    <bibl>Drummond, Donald F. “Cordell Hull.” In <hi rend="italic">An Uncertain Tradition: American Secretaries of State in
+                        the Twentieth Century,</hi> edited by Norman A. Graebner. New York: McGraw-Hill, 1961.</bibl>
+                    <bibl>Gellman, Irwin F. “Hull, Cordell.” In <hi rend="italic">American National
+                            Biography. </hi> New York: Oxford University Press, 1999.</bibl>
+                    <bibl>----. <hi rend="italic">Secret Affairs: Franklin Roosevelt, Cordell Hull,
+                            and Sumner Welles.</hi> Baltimore: Johns Hopkins University Press, 1995.</bibl>
+                    <bibl>O’Sullivan, Christopher D. <hi rend="italic">Sumner Welles, Postwar
+                            Planning, and the Quest for a New World Order, 1937–1943. </hi>New York:
+                        Columbia University Press, 2007. </bibl>
+                    <bibl>Pratt, Julius. “The Ordeal of Cordell Hull” In <hi rend="italic">Review
+                            of Politics</hi> 28 (1966), 76-98. </bibl>
+                    <bibl>Weil, Martin. <hi rend="italic">A Pretty Good Club: The Founding Fathers
+                            of the U.S. Foreign Service.</hi> New York: Norton, 1978.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

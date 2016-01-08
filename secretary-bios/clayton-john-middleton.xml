@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Middleton
+                    Clayton</title>
+                <title type="short">John Middleton Clayton</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>John Middleton Clayton</persName> was appointed Secretary of State by
+                    President <persName>Zachary Taylor</persName> on March 7, 1849, and entered duty
+                    the next day. He resigned the position on July 22, 1850, shortly after President
+                    Taylor died and <persName>Millard Fillmore</persName> assumed the Presidency.
+                    Clayton served during a difficult administration and suffered frequent criticism
+                    despite the fact that he wielded little influence under Taylor. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="clayton-john-middleton.jpg"/>
+                    <head>John Middleton Clayton, 18th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Clayton was born in Sussex County, Delaware. He attended multiple academies there
+                    before entering Yale College. He graduated in 1815 and apprenticed in the law
+                    office of his cousin, future U.S. Senator and Delaware Supreme Court Justice
+                    Thomas Clayton. After studying law at the Litchfield Law School, Clayton was
+                    admitted to the Delaware bar in 1819.</p>
+                <p>A successful lawyer, he entered politics in 1824 when he was elected to the state
+                    legislature. Clayton served two years in the House of Representatives before he
+                    was appointed Secretary of State for Delaware. He held the position until 1828
+                    when he was elected to the U.S. Senate.</p>
+                <p>Clayton served during the Nullification Crisis, when South Carolina’s attempt to
+                    nullify federal law threatened the Union and created one of many fissures
+                    leading to the Civil War, as well as during the Bank War, when President Jackson
+                    controversially vetoed the federal charter of the Second Bank of the United
+                    States.</p>
+                <p>Clayton left his Senate seat in 1837 to spend time with his family (his wife
+                    Sarah died following the birth of their second child and Clayton never
+                    remarried). During this time, he was appointed Chief Justice of the Delaware
+                    Supreme Court with the support of local Whig leaders.</p>
+                <p>He left the bench in 1839 to campaign for <persName>William Henry
+                        Harrison</persName> but failed to win a position in either the Harrison or
+                    Tyler cabinets. In 1849, President Taylor appointed Clayton U. S. Secretary of
+                    State on the recommendation of Kentucky Governor <persName>John J.
+                        Crittenden</persName>. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Clayton’s tenure as Secretary of State was marked by war scares with
+                        <placeName>France</placeName> and <placeName>Portugal</placeName>,
+                    opposition from both houses of Congress, and troubled diplomacy. Clayton pushed
+                    for a strict adherence to the <ref target="/milestones/1801-1829/monroe">Monroe
+                        Doctrine</ref>, and managed to keep British influence in abeyance.</p>
+                <p>They key achievement of the Taylor administration was the <ref target="/milestones/1899-1913/panama-canal">Clayton-Bulwer Treaty</ref> over
+                    building a proposed Anglo-American canal through the Central American Republic
+                    of <placeName>Nicaragua</placeName>. The canal never went beyond the planning
+                    stages, however, and was supplanted by the canal in Panama. Upon the death of
+                    President Taylor in July of 1850, Clayton immediately resigned his position.
+                </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “John Middleton Clayton.” <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy, </hi>edited by Samuel
+                        Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper
+                        Square Publishers, Inc.). </bibl>
+                    <bibl>DeConde, Alexander. <hi rend="italic">The American Secretaries of State:
+                            An Interpretation.</hi> New York: Praeger, 1962. </bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

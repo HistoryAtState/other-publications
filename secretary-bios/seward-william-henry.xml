@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: William Henry Seward</title>
+                <title type="short">William Henry Seward</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>William Henry Seward was appointed Secretary of State by <persName>Abraham
+                        Lincoln</persName> on <date when="1861-03-05">March 5, 1861</date>, and
+                    served until March 4, 1869. Seward carefully managed international affairs
+                    during the Civil War and also negotiated the 1867 purchase of Alaska.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="seward-william-henry.jpg"/>
+                    <head>William Henry Seward, 24th Secretary of State </head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Seward was born in Florida, New York on May 16, 1801. He graduated from Union
+                    College in Schenectady, New York in 1820.</p>
+                <p>He won a seat in the State Senate in 1830, and served as Governor from 1838 to
+                    1840. In 1849, Seward was elected to the U.S. Senate, where became a leading
+                    antislavery politician. Seward was the frontrunner for the Republican
+                    presidential nomination in 1860, but his antislavery speeches caused some party
+                    members to view him as too radical to win over swing voters in critical states.
+                    The party instead settled on the more moderate Abraham Lincoln, whose victory in
+                    the general election precipitated the secession of the South and formation of
+                    the Confederate States of America.</p>
+                <p> Seward became involved in negotiations between Northern and Southern political
+                    leaders to resolve the crisis, while also privately accepting Lincoln’s offer to
+                    be Secretary of State in the incoming administration on December 28, 1860.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Along with other political leaders, Seward unsuccessfully negotiated to resolve
+                    the secession crisis during the winter of 1861. Once in Lincoln’s Cabinet,
+                    Seward anticipated that he would wield a strong influence over foreign policy.
+                   However, he underestimated Lincoln’s interest in foreign affairs.</p>
+                <p>Although Seward was willing to consider war against European powers should they
+                    prove too friendly toward the Confederacy, Lincoln overruled Seward on this
+                    point. Seward thus focused most of his efforts on preventing foreign recognition
+                    of the Confederacy. </p>
+                <p>Seward sent U.S. agents to Europe to publicly lobby for the Union cause, but
+                    early in his tenure a diplomatic crisis arose when the U.S. Navy arrested
+                    Confederate envoys headed for Europe. Despite public support in favor of
+                    their detention, Seward agreed to release the envoys to avoid the threat of war
+                    with Great Britain.</p>
+                <p>Seward also faced difficulties in encouraging foreign governments to curtail the
+                    smuggling of goods and war materiel, as well as the construction of Confederate
+                    warships. Seward worked with the U.S. Minister in London, Charles Francis Adams,
+                    to put an end to the building of these ships. The British Government failed to
+                    prevent the launch of the CSS Alabama and CSS Florida, but the subsequent
+                    embarrassment caused officials to more strictly enforce British neutrality and
+                    prevented the building of further Confederate ships on British soil.</p>
+                <p>After the Civil War ended with a Union victory, Seward pursued negotiations to
+                    expand U.S. territory. He resumed discussions to purchase Russian Alaska,
+                    which resulted in the <ref target="/milestones/1866-1898/alaska-purchase">1867 Alaska
+                        Purchase</ref>. Seward also attempted, unsuccessfully, to acquire territory
+                    elsewhere, as negotiations to acquire the Virgin Islands, part of the Dominican
+                    Republic, as well as several other small islands in the Caribbean failed.
+                    However, the U.S. Navy occupied Midway Atoll in 1867.</p>
+                <p>Seward also
+                    involved the United States in Mexican affairs from 1865 to 1867, by supporting
+                    the anti-French forces in defeating Austrian archduke Maximilian, whom the French
+                    had installed as Emperor of Mexico in 1862.</p>
+                <p>Seward continued to serve as
+                    Secretary of State under Lincoln’s successor, <persName>Andrew Johnson</persName>. As as a
+                    Republican moderate, however, Seward found himself at odds with Johnson and other
+                    conservatives in the Cabinet, while radicals in Congress distrusted him for his
+                    continued loyalty to Johnson. Despite congressional hostility toward Seward,
+                    Congress still approved the purchase of Alaska. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Goodwin, Doris Kearns. <hi rend="italic">Team of Rivals: The Political
+                            Genius of Abraham Lincoln.</hi> New York: Simon &amp; Schuster,
+                        2005.</bibl>
+                    <bibl>Long, Everette Beach, and Barbara Long. <hi rend="italic">Civil War Day by
+                        Day: An Almanac, 1861–1865.</hi> Garden City, NY: Doubleday, 1971.</bibl>
+                    <bibl>Van Deusen, Glyndon G. <hi rend="italic">William Henry Seward.</hi> New
+                        York: Oxford University Press, 1967.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

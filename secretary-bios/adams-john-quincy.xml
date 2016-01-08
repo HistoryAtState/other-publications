@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Quincy
+                    Adams</title>
+                <title type="short">John Quincy Adams</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>John Quincy Adams was appointed Secretary of State by President <ref target="/departmenthistory/people/monroe-james">James Monroe</ref> on <date when="1817-03-05">March 5, 1817.</date> He served from September 22, 1817,
+                    until <date when="1825-03-03">March 3, 1825.</date> Adams enjoyed unique
+                    training in diplomacy and became one of the most influential diplomats in U.S.
+                    history. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="adams-john-quincy.jpg"/>
+                    <head>John Quincy Adams, Eighth Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>The son of President <persName>John Adams</persName>, John Quincy Adams, was born
+                    in Braintree (now Quincy) Massachusetts. In 1778 he traveled to France with his
+                    father, who was then U.S. commissioner to France. On this and subsequent visits
+                    to Europe, the young Adams studied at academies and universities.</p>
+                <p>At fourteen Adams became private secretary to Francis Dana, the U.S. Minister to
+                        <placeName>Russia</placeName>; Adams also served as secretary to his father
+                    during the negotiations of the <ref target="/milestones/1776-1783/treaty">Treaty
+                        of Paris</ref> that ended in 1783. In 1787 the twenty year-old Adams
+                    graduated from Harvard University. After studying law, he gained admission to
+                    the bar in 1790 and began practicing in Boston.</p>
+                <p>Almost five decades of public service began in 1802 when Adams gained election to
+                    the Massachusetts Senate. In addition to numerous diplomatic appointments, Adams
+                    went on to serve as U.S. Senator from Massachusetts from 1803 to 1808, U.S.
+                    President from 1825 to 1829, and U.S. Representative from Massachusetts from
+                    1831 to 1848. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Adams’ unsurpassed diplomatic career addressed the major foreign policy
+                    challenges of his time. President <persName>George Washington</persName>
+                    appointed him U.S. Minister Resident to the Netherlands in 1794. After serving
+                    three years in the Netherlands, Adams became U.S. Minister Resident to Prussia
+                    from 1797 to 1801, appointed this time by his father. </p>
+                <p>President <persName>James Madison</persName> appointed Adams U.S. Minister to
+                    Russia in 1809, and Adams served until 1814. He duly reported on Napoleon’s
+                    failed invasion, among other events. Adams headed the Commission that negotiated
+                    the Treaty of Ghent in 1814, which ended the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref> with Great
+                    Britain. His placement as U.S. Minister to Great Britain from 1815 to 1817
+                    insured that he would be central to the ongoing efforts to improve
+                    Anglo-American relations. He concluded the Commercial Convention of 1815, which
+                    included a mutual import non-discrimination measure that would serve as a model
+                    for future trade agreements.</p>
+                <p>Adams helped start negotiations to disarm the Great Lakes that culminated in the
+                        <ref target="/milestones/1801-1829/rush-bagot">Rush-Bagot Pact of
+                    1817</ref>. He also guided the progress of the Convention of 1818, which set the
+                    boundary between the United States and western British North America (later
+                    Canada) at the Rocky Mountains and stipulated joint occupation of the Oregon
+                    Country, among other issues.</p>
+                <p>As Secretary of State, Adams’ views about territorial expansion guided President
+                    Monroe’s policies. Adams’ brilliant diplomacy with Spain, which led to the <ref target="/milestones/1801-1829/florida"> Adams-Onís Treaty of 1819</ref>, was
+                    largely responsible for the Acquisition of Florida and the U.S. assumption of
+                    Spain’s claim to the Oregon Country. Adams worked to delay U.S. support of the
+                    new Latin American republics until the treaty was ratified.</p>
+                <p>By 1822, however, he supported President Monroe’s recognition of several new
+                    republics. The following year, Monroe announced the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>, which reflected
+                    many of Adams’ views, particularly his insistence that the proclamation be
+                    unilateral. Adams also achieved a favorable convention with Russia in 1824 that
+                    recognized the U.S. claim to the Oregon Country.</p>
+                <p>Foreign affairs were not central to Adams’ presidential term. As a Representative
+                    from Massachusetts, however, Adams ended his great drive to expand the territory
+                    of the United States. His disapproval of the expansion of slavery led him to
+                    oppose the annexation of Texas and the war with Mexico. Alternatively, Adams
+                    supported President <persName>James K. Polk’s</persName> efforts to annex the
+                    Oregon Country. Adams believed that slavery would not reach Oregon and that the
+                    coastal territory would benefit foreign trade. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, John Quincy. <hi rend="italic">The Diary of John Quincy Adams.</hi>
+                        Edited by David Grayson Allen, Robert J. Taylor, et al. 2 vols. to date.
+                        Cambridge: Belknap Press of Harvard University Press, 1981-. </bibl>
+                    <bibl>Bemis, Samuel Flagg. <hi rend="italic">John Quincy Adams and the
+                            Foundations of American Foreign Policy.</hi> New York: Alfred A. Knopf,
+                        1949. Reprint 1973 (Norton). </bibl>
+                    <bibl>DeConde, Alexander. <hi rend="italic">The American Secretary of State: An
+                            Interpretation.</hi> New York: Frederick A. Praeger, 1962. </bibl>
+                    <bibl>Ford, Worthington C., ed. <hi rend="italic">Writings of John Quincy
+                            Adams.</hi> 7 vols. New York: Macmillan, 1913-1917. </bibl>
+                    <bibl>McFadden, David W. “John Quincy Adams, American Commercial Diplomacy, and
+                        Russia, 1809-1825.” <hi rend="italic">New England Quarterly</hi> 66
+                        (December 1993): 613-629. </bibl>
+                    <bibl>Merli, Frank J. and Theodore A. Wilson, eds. <hi rend="italic">Makers of
+                            American Diplomacy: From Benjamin Franklin to Alfred Thayer
+                            Mahan.</hi> Vol 1. New York: Scribner, 1974. </bibl>
+                    <bibl>Nagle, Paul C. <hi rend="italic">John Quincy Adams: A Public Life, A
+                            Private Life.</hi> New York: Alfred A. Knopf, 1997. </bibl>
+                    <bibl>Nevins, Allan, ed. <hi rend="italic">The Diary of John Quincy Adams,
+                            1794-1845: American Diplomacy, and Political, Social, and Intellectual
+                            Life from Washington to Polk.</hi> New York: Longmans, Green, 1928. Reprint 1969 (Ungar).</bibl>
+                    <bibl>Parsons, Lynn Hudson, <hi rend="italic">John Quincy Adams.</hi> Madison:
+                        Madison House, 1998. </bibl>
+                    <bibl>Remini, Robert. <hi rend="italic">John Quincy Adams.</hi> New York: Times
+                        Books, 2002. </bibl>
+                    <bibl>Thompson, Robert R. “John Quincy Adams, Apostate: From ‘Outrageous
+                        Federalist’ to ‘Republican Exile,’ 1801-1809.” <hi rend="italic">Journal of
+                            the Early Republic</hi> 11 (Summer 1991): 161-183. </bibl>
+                    <bibl>Weeks, William Earl. <hi rend="italic">John Quincy Adams and American
+                            Global Empire.</hi> Lexington: University Press of Kentucky, 1992.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

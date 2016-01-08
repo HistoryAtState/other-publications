@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: James Francis
+                    Byrnes</title>
+                <title type="short">James Francis Byrnes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="bio">
+                <head>Introduction</head>
+                <p>
+                    <persName>James Francis Byrnes</persName> was appointed Secretary of State by
+                    President <persName>Harry S. Truman</persName> on July 3, 1945, and entered duty
+                    on the same day. He left office on January 21, 1947. Byrnes led the Department
+                    of State during the significant transition from World War II to the Cold War. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="byrnes-james-francis.jpg"/>
+                    <head>James Francis Byrnes, 49th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p> Byrnes was born in Charleston, South Carolina to an industrious mother who was
+                    widowed shortly before his birth. He left school after the seventh grade to work
+                    in a law office where he received excellent tutelage from several judges. Byrnes
+                    was admitted to the South Carolina bar in 1903 and practiced in Aiken. In 1908
+                    he was elected to his first public office as district prosecuting attorney. Two
+                    years later he was elected to the U.S. Congress, where he served from 1911 to
+                    1925.</p>
+                <p>Byrnes returned briefly to private practice before his election to the U.S.
+                    Senate in 1931. During his ten years in the Senate, he championed President
+                        <persName>Franklin D. Roosevelt</persName>’s New Deal. The President
+                    appointed Byrnes to the Supreme Court in 1941. It was a short-lived appointment
+                    for the restless judge who missed the political action of the legislative
+                    branch. He resigned the following year. </p>
+                <p>Following U.S. entry into World War II, Byrnes was chosen as Director of the
+                    Office of Economic Stabilization, and in 1943, Director of Economic
+                    Mobilization. He accompanied President Roosevelt to the <ref
+                        target="/milestones/1937-1945/yalta-conf">Yalta Conference</ref> in 1945.
+                    Following President Roosevelt’s death in April, Byrnes returned to South
+                    Carolina.</p>
+                <p>That summer, President Truman asked Byrnes to return to Washington as his
+                    Secretary of State. He was unanimously confirmed by the Senate without a
+                    hearing. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>A skilled policymaker, Byrnes spent much of his time outside of Washington
+                    meeting with foreign leaders. President Truman was uncertain of his own aptitude
+                    in matters of foreign policy and thus placed a great deal of confidence in
+                    Secretary Byrnes.</p>
+                <p>Within days of his appointment, Byrnes accompanied President Truman to the <ref
+                        target="/milestones/1937-1945/potsdam-conf">Potsdam Conference</ref>, a
+                    critical turning point in U.S.-Soviet relations. He continued to negotiate the
+                    rapidly fraying post-war alliance at conferences in London and Moscow.</p>
+                <p>Byrnes increasingly wielded less control over U.S. foreign policy as
+                    disagreements arose with President Truman over how forceful the country should
+                    be against the increasingly uncooperative <placeName>Soviet Union</placeName>. </p>
+                <p>The Secretary was a proponent of using the newly-developed atomic bomb against
+                        <placeName>Japan</placeName>, and under his advice, two <ref
+                        target="/milestones/1945-1952/atomic">atomic bombs</ref> were detonated over
+                    Japan in August of 1945. It was also during Byrnes’ tenure as Secretary of State
+                    that <ref target="/departmenthistory/people/kennan-george-frost">George
+                        Kennan</ref> authored his famous <ref
+                        target="/departmenthistory/short-history/kennan">1946 “Long Telegram,”</ref>
+                    advocating a change in policy towards the Soviets. President Truman and
+                    Secretary Byrnes implemented these changes swiftly, laying the foundations for
+                    the early Cold War. </p>
+                <p>Byrnes resigned his position on January 21, 1947, and continued to practice law.
+                    In 1951 he was elected Governor of South Carolina and served one term. James
+                    Byrnes died in 1972. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “James Francis Byrnes.” In <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy,</hi> edited by
+                        Samuel Flagg Bemis. Vol. 14. New York: Alfred A. Knopf, 1928. Reprint 1965
+                        (Cooper Square). </bibl>
+                    <bibl>Gaddis, John Lewis. <hi rend="italic">Strategies of Containment: A
+                            Critical Appraisal of American National Security Policy during the Cold
+                            War.</hi> New York: Oxford University Press, 2005. </bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

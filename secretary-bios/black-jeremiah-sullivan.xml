@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Jeremiah Sullivan Black</title>
+                <title type="short">Jeremiah Sullivan Black</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="bio">
+                <head>Introduction</head>
+                <p>
+                    <persName>Jeremiah Sullivan Black </persName>served as Attorney General in
+                    President <persName>James Buchanan</persName>’s Cabinet until December 17, 1860,
+                    when he was chosen to succeed <ref target="/departmenthistory/people/cass-lewis">Lewis Cass</ref> as Secretary of State after Cass’s sudden resignation. He
+                    entered into duty on December 19, 1860, and served for the duration of the
+                    Buchanan administration, leaving office on March 5, 1861. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="black-jeremiah-sullivan.jpg"/>
+                    <head>Jeremiah Sullivan Black, 23rd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Black was born in Somerset County, Pennsylvania in 1810. He attended public
+                    schools and studied law in the office of Chauncey Forward, a renowned lawyer in
+                    western Pennsylvania. Black was admitted to the bar in 1830 and briefly took
+                    over Forward’s practice when he left for Congress. In 1831, he was appointed
+                    Deputy Attorney General for Somerset County. </p>
+                <p>A staunch Democrat and supporter of <persName>Andrew Jackson</persName>, Black
+                    befriended fellow Democrat James Buchanan early in his career, a move that
+                    would result in his eventual appointment as Secretary of State. In 1842, Black
+                    accepted an appointment as President Judge of the 16th Judicial District. He
+                    remained there until 1851, when he was elected to the State Supreme Court. Black
+                    served the first three years as Chief Justice and was reelected in 1854. At the
+                    end of his second term, newly elected President Buchanan appointed Black as
+                    Attorney General. When Secretary of State <ref target="/departmenthistory/people/cass-lewis">Lewis Cass</ref> resigned in
+                    the eleventh hour of the Buchanan administration, Black was commissioned
+                    Secretary of State. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Dipolmacy</head>
+                <p>The most pressing issue for the Buchanan administration in late 1860 was the
+                    threat of secession by the Confederate States. That December, President Buchanan
+                    declared the act of secession unconstitutional, based partly on former Attorney
+                    General Black’s legal arguments.</p>
+                <p>The new Secretary of State stood vehemently
+                    against secession, but also felt it was unconstitutional for the Union to force
+                    a state to remain. Black’s role as trusted adviser to the President changed
+                    little with his new appointment. With domestic political affairs in crisis,
+                    little attention was paid to international affairs during Black’s three-month
+                    commission.</p>
+                <p>One of the last acts of Black’s short tenure as head of the Department of State
+                    was undoubtedly his most important. On February 28, 1861, he instructed U.S.
+                    diplomatic representatives abroad to caution their respective governments
+                    against recognition of the Confederacy.</p>
+                <p>When President Lincoln was inaugurated
+                    in March of 1861, Black left office at odds with his fellow Democrats. He was
+                    appointed Reporter to the U.S. Supreme Court in 1861, a respectable, albeit
+                    lower office than he had held previously. Following a long and distinguished
+                    career in public service, Black returned to his private law practice in his home
+                    state of Pennsylvania, where he remained until his death in 1883. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “Jeremiah S. Black.” In <hi rend="italic">The American Secretaries of State and Their Diplomacy.
+                    </hi>, edited by Samuel Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
+                        Publishers, Inc.). </bibl>
+                    <bibl>Brigance, William Norwood. <hi rend="italic">Jeremiah Sullivan Black.</hi>
+                        Philadelphia: University of Pennsylvania Press, 1934. </bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

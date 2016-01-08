@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John C. Calhoun</title>
+                <title type="short">John C. Calhoun</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>John Caldwell Calhoun was appointed Secretary of State by President
+                        <persName>John Tyler</persName> on <date when="1844-03-06">March 6,
+                    1844</date>. Calhoun entered duty on April 1, 1844, and left the position on
+                    March 10, 1845. A former U.S. Representative, U.S. Senator, Secretary of War
+                    and Vice President, Calhoun served as Secretary of State for less than one year
+                    before returning to his position in the U.S. Senate, where he served until his
+                    death in 1850. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="calhoun-john-caldwell.jpg"/>
+                    <head>John C. Calhoun, 16th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Calhoun was born in Abbeville County, South Carolina to a prosperous farming
+                    family. He entered Yale College in 1802 and graduated two years later. He
+                    continued his education at Litchfield Law School in Connecticut. He gained
+                    admission to the South Carolina bar in 1807 and practiced law in his native
+                    Abbeville. The following year, he was elected to the state legislature of South
+                    Carolina, where he served for two years preceding his election to the U.S. House
+                    of Representatives in 1810.</p>
+                <p>President Monroe appointed Calhoun as Secretary of War in 1817, and during his
+                    tenure he made substantial changes to the War Department. He served two terms as
+                    Vice President: in 1825 under <persName>John Quincy Adams</persName> and again
+                    in 1829 under <persName>Andrew Jackson</persName>. He resigned the position of
+                    Vice President in 1832 and returned to South Carolina as a Senator, a position
+                    he held for the following 11 years. In 1844, following the accidental death of
+                    Secretary <ref target="/departmenthistory/people/upshur-abel-parker">Abel P.
+                        Upshur</ref>, President Tyler appointed Calhoun as Secretary of State. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Calhoun entered office as Secretary of State not at the behest of President
+                    Tyler, but of <persName>Henry Wise</persName>, a mutual associate who had all
+                    but promised him the position. Tyler accepted the proposition and named Calhoun
+                    to his Cabinet with the assurance that its newest member would carry out the
+                    directives of his predecessor, namely the Annexation of Texas.</p>
+                <p>One of Calhoun’s first acts as Secretary of State was to submit a <ref target="/milestones/1830-1860/texas-annexation">treaty of annexation</ref> to
+                    the Senate. The 1844 treaty had been largely crafted by President Tyler and the
+                    former Secretary Upshur, but it was Calhoun’s vociferous and controversial
+                    support of slavery in Texas that was blamed for its defeat in Congress. He
+                    continued to press for annexation of a pro-slavery Texas, which deeply troubled
+                    President Tyler, the incumbent in that year’s election who hoped to downplay
+                    sectional differences and unite, rather than divide, the nation over the issue
+                    of annexation.</p>
+                <p>When President Polk was elected on a pro-expansionist platform, sitting President
+                    Tyler recommended annexation by a joint resolution of Congress, which passed days
+                    before he left office in 1845.</p>
+                <p>Calhoun also worked to resolve territorial disputes to the north, opening
+                    negotiations on a settlement with the British over the Oregon Territory. The
+                    U.S. also signed the <ref target="/milestones/1830-1860/china-1">Treaty of
+                        Wangxia</ref>, its first commercial treaty with China, during Calhoun’s
+                    tenure. President <persName>Polk</persName> chose not to retain Calhoun as
+                    Secretary of State, and the South Carolinian returned to the Senate, where he
+                    served until his death five years later. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “John Caldwell Calhoun.” In <hi rend="italic">The American Secretaries of State and Their
+                        Diplomacy,</hi> edited by Samuel Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963
+                        (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Capers, Gerald M. <hi rend="italic">John C. Calhoun—Opportunist: A
+                            Reappraisal.</hi> Gainesville: University of Florida Press, 1960. </bibl>
+                    <bibl>Current, Richard N. <hi rend="italic">John C. Calhoun.</hi> New York:
+                        Washington Square Press, 1966. </bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001.</bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

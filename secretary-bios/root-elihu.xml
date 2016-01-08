@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Elihu Root</title>
+                <title type="short">Elihu Root</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Elihu Root</persName> was appointed Secretary of State following the
+                    death of <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref>.
+                    He entered into duty on July 19, 1905, and served until January 27, 1909. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="root-elihu.jpg"/>
+                    <head>Elihu Root, 38th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Root was born in Clinton, New York in 1845 to a mathematics professor at Hamilton
+                    College, where Root also studied. The future Secretary of State received a
+                    bachelor of law degree in 1867. Root was admitted to the New York bar that same
+                    year and promptly formed his own practice. He excelled in his career as a lawyer
+                    and earned a significant fortune along the way. Root eventually became president
+                    of the U.S. Bar.</p>
+                <p>In 1883, he was selected as District Attorney to the United States in New York.
+                    Root became increasingly active in the Republican Party, and in 1899, President
+                        <persName>William McKinley</persName> asked him to serve as Secretary of
+                    War. He held this position until 1905, when President Theodore Roosevelt asked
+                    him to serve as Secretary of State after the death of John Hay. Root had worked
+                    closely with Hay in both administrations, and although he had no formal
+                    diplomatic training, he had a strong grasp of foreign policy issues. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>An isolationist, Root differed from President Roosevelt when it came to U.S.
+                    involvement in other nations’ crises. Root’s first notable act as Secretary of
+                    State was a goodwill tour through Latin America, where he worked to ease
+                    tensions in Cuba over the <ref target="/milestones/1899-1913/platt">Platt
+                        Amendment</ref> and in Colombia over the role the United States played in
+                    Panamanian independence at the outset of the construction of the Canal.</p>
+                <p>The most pressing diplomatic issue that faced the United States when Root entered
+                    into duty was a dispute between France and Germany over interests in Morocco,
+                    which was resolved in 1907. Despite his reluctance to involve the United States
+                    in issues in which it had limited interests, Root negotiated arbitration
+                    treaties with 24 nations. Root was awarded the Nobel Peace Prize in 1912
+                    (several years after he was Secretary of State) for his work on international
+                    arbitration.</p>
+                <p>Root also worked to reorganize the Department of State in unprecedented ways.
+                    Root sought to <ref target="/departmenthistory/short-history/professionalism"
+                        >professionalize</ref> the Foreign Service and Consular Service and created
+                    the first Foreign Service Exam. He instituted new methods of recordkeeping in
+                    the Department, devised a system of rotating members of the diplomatic service
+                    to give them greater experience, and organized the Department by geographic
+                    regions. These reforms would ultimately prove to be more enduring
+                    than Root’s contributions to foreign policy. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped. </hi>New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell. </hi>Westport, CT:
+                        Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

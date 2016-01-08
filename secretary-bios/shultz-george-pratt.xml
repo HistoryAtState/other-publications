@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: George Pratt Shultz</title>
+                <title type="short">George Pratt Shultz</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>George Shultz</persName> was named as Secretary of State by President
+                        <persName>Ronald Reagan</persName> on June 25, 1982. Following confirmation
+                    by the Senate, he assumed the office of Secretary on July 16, and he remained in
+                    that position until January 20, 1989. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="shultz-george-pratt.jpg"/>
+                    <head>George Pratt Shultz, 60th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born and raised in New York City, Shultz completed his undergraduate studies at
+                    Princeton University in 1942. After serving with the United States Marine Corps
+                    Reserves in the Pacific theater during World War II, he pursued a Ph.D. in
+                    industrial economics at the Massachusetts Institute of Technology, receiving his
+                    degree in 1949. From then until 1968, he taught economics at MIT and the
+                    University of Chicago.</p>
+                <p>His first experience in government came in 1969 when President <persName>Richard
+                        Nixon</persName> appointed him Secretary of Labor (1969–70), then Director
+                    of the Office of Management and Budget (1970–72), and then Secretary of the
+                    Treasury (1972–1974).</p>
+                <p>After returning to private life, Shultz took up a position teaching management
+                    and public policy at Stanford University, and also served as Executive Vice
+                    President and President of Bechtel Corporation, and President of Bechtel Group,
+                    Inc.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Secretary of State, Shultz played a crucial role in guiding U.S. diplomacy
+                    during his lengthy six and a half year tenure in office. Upon his confirmation,
+                    he inherited a number of foreign policy challenges, including war in
+                        <placeName>Lebanon</placeName>, delicate negotiations with the
+                        <placeName>People’s Republic of China</placeName> and the Government on
+                        <placeName>Taiwan</placeName>, and a ratcheting up of Cold War tensions with
+                    the <placeName>Soviet Union</placeName>. </p>
+                <p>Over the next several years, Shultz focused U.S. diplomatic efforts on resolving
+                    the conflict in the <placeName>Middle East</placeName>, defusing trade disputes
+                    with <placeName>Japan</placeName>, managing increasingly tense relationships
+                    with several Latin American nations, and crafting U.S. responses to the rise of
+                        <persName>Mikhail Gorbachev</persName> and the new Soviet policies of
+                    perestroika and opening to the West.</p>
+                <p>In part due to his collegial relationships with President Reagan and other
+                    members of the Administration, Shultz was able to exert considerable influence
+                    over U.S. foreign policy in regards to these issues. Although he was unable to
+                    forge a lasting resolution to the Middle East conflict, he negotiated an
+                    agreement between Israel and Lebanon and convinced Israel to begin withdrawing
+                    its troops in January 1985, in spite of Lebanon’s contravention of the
+                    settlement.</p>
+                <p>He completed the discussions between the United States and China, begun under
+                    Secretary of State <ref target="/departmenthistory/people/haig-alexander-meigs">Alexander Haig</ref>, which led to the joint communiqué of August 1982 that
+                    has provided stability for U.S.-Chinese relations ever since.</p>
+                <p>Shultz had not been able to halt the arms-for-hostages deals with Iran that
+                    provided funds for the Contras in Nicaragua, which he had opposed, but by 1988
+                    he had helped to broker agreements that eased the disputes of Nicaragua’s civil
+                    war.</p>
+                <p>He had other successes in Latin America, but his crowning achievements came in
+                    regards to U.S.-Soviet relations. Through positive responses to the overtures of
+                    Gorbachev and his Foreign Minister, <persName>Eduard Shevardnadze</persName>,
+                    and through his own initiatives, Shultz helped to draft and sign landmark arms
+                    control treaties and other agreements that helped to diminish U.S.-Soviet
+                    antagonism.</p>
+                <p>As a result, under Shultz’s leadership, U.S. diplomacy helped to pave the way for
+                    the ending of the Cold War during 1989.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bell, Coral. <hi rend="italic">The Reagan Paradox: American Foreign Policy
+                            in the 1980s. </hi> London: Edward Elgar Publishing Limited, 1989.</bibl>
+                    <bibl>Fischer, Beth. <hi rend="italic">The Reagan Reversal: Foreign Policy and
+                            the End of the Cold War. </hi> Columbia: University of Missouri Press,
+                        1997.</bibl>
+                    <bibl>Shultz, George P. <hi rend="italic">Turmoil and Triumph: My Years as
+                            Secretary of State. </hi> New York: Charles Scribner’s Sons, 1993.</bibl>
+                    <bibl>Schaller, Michael. <hi rend="italic">Reckoning with Reagan: America and
+                            Its President in the 1980s.</hi> New York: Oxford University Press,
+                        1992.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

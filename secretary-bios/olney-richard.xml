@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Richard
+                    Olney</title>
+                <title type="short">Richard Olney</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> President <persName>Grover Cleveland</persName> appointed <persName>Richard
+                        Olney</persName> as Secretary of State on June 8, 1895. Olney began duty on
+                    June 10, 1895, and served until March 5, 1897. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="olney-richard.jpg"/>
+                    <head>Richard Olney, 34th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Olney was born on September 15, 1835, in Oxford, Massachusetts. He graduated from
+                    Brown University in 1856 and from Harvard Law School in 1858. Olney practiced
+                    law and was intermittently active in politics and the Democratic Party, serving
+                    a term in the Massachusetts State legislature in 1874. President Grover
+                    Cleveland appointed Olney as Attorney General in 1893.</p>
+                <p>Upon the death of <ref target="/departmenthistory/people/gresham-walter-quintin"
+                        >Secretary of State Walter Gresham</ref> on May 28, 1895, Cleveland began a
+                    search for a replacement and settled on Olney, whom he appointed on June 8,
+                    1895.</p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p> Olney came to the Department of State at a time when a Cuban revolt against
+                    Spanish rule in <placeName>Cuba</placeName> was gaining strength. As the Spanish
+                    Government attempted to suppress the rebellion, Olney faced public pressure to
+                    intervene. The U.S. Government tried to halt shipments from Cuban sympathizers
+                    and exiles from Key West and other U.S. ports. Tensions over Cuba would
+                    eventually ignite the <ref target="/milestones/1866-1898/spanish-american-war">
+                        Spanish-American War</ref> the year after Olney left office in 1898. </p>
+                <p>Olney played a significant role in mediating the <ref
+                        target="/milestones/1866-1898/venezuela">boundary dispute</ref> between
+                        <placeName>Venezuela</placeName> and the British colony of
+                        <placeName>Guyana</placeName>. The dispute stemmed from the historically
+                    vague definition of the Venezuela-Guyana border, which had never been delineated
+                    during the colonial period.</p>
+                <p>In 1893, Venezuela publicly pressed its claims and hoped for arbitration. Hoping
+                    to secure assistance by invoking the <ref target="/milestones/1801-1829/monroe"
+                        >Monroe Doctrine</ref>, <persName>José Andrade</persName>, Venezuelan
+                    Minister to the United States, brought the issue to the U.S. Department of
+                    State, and President Cleveland mentioned the issue in his 1894 message to
+                    Congress.</p>
+                <p>In February of 1895, Congress passed a resolution favoring U.S. arbitration.
+                    Although his predecessor, Walter Gresham, was less interested in pursuing the
+                    issue, Olney believed it was important to enhance national prestige and to
+                    capitalize on U.S. popular resentment of British power. At issue was not British
+                    reluctance to arbitrate, but British refusal to accept Venezuelan border demands
+                    as a possible outcome of the arbitration. </p>
+                <p>The situation began to change when renewed Anglo-German tensions pushed the
+                    Venezuela boundary dispute off the front pages of British newspapers. British
+                    policymakers began to favor maintaining good relations with the other Great
+                    Powers as British diplomacy suffered increasing international isolation.</p>
+                <p>Lord Salisbury decided that conciliation would be expedient and authorized
+                    British Ambassador to the United States, <persName>Julian Pauncefote</persName>,
+                    to negotiate an arbitration treaty. Olney and Pauncefote signed a treaty on
+                    February 2, 1897, which subjected the Venezuela-Guyana border to U.S.
+                    arbitration, allowing full Venezuelan claims to be considered in the arbitration
+                    process. The resulting arbitration, decided in October of 1899, awarded
+                    territory to Venezuela. </p>
+                <p>Olney left office at the end of Cleveland’s second administration, and resumed
+                    practicing law, although he continued to write about international relations. In
+                    1904, Olney was a candidate for the Democratic nomination for President. He
+                    declined the Ambassadorship to Great Britain in 1914, citing his age. Olney died
+                    on April 8, 1917. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928. </bibl>
+                    <bibl>Eggert, Gerald G. <hi rend="italic">Richard Olney: Evolution of a
+                            Statesman.</hi> University Park, PA: Pennsylvania State University
+                        Press, 1974. </bibl>
+                    <bibl>LaFeber, Walter. “The Background of Cleveland's Venezuelan Policy: A
+                        Reinterpretation.” <hi rend="italic">American Historical Review</hi> 66
+                        (1961): 947-967. </bibl>
+                    <bibl>United States Department of Justice. <hi rend="italic">Attorneys General
+                            of the United States, 1789-1985. </hi> Washington, D.C.: U.S. Government
+                        Printing Office, 1985. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

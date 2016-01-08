@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: James Addison Baker III</title>
+                <title type="short">James Addison Baker III </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>James A. Baker</persName> was appointed Secretary of State on January
+                    22, 1989, and served until August 23, 1992. Baker brought almost two decades of
+                    experience in politics, both behind the scenes and in key administration
+                    positions with him to the State Department. As Secretary of State, Baker
+                    successfully oversaw United States foreign policy during the end of the Cold
+                    War, as well as during the First Persian Gulf War. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="baker-james-addison.jpg"/>
+                    <head>James Addison Baker III, 61st Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born in Texas on April 28, 1930, Baker attended prep school in Pennsylvania, and
+                    went on to graduate from Princeton University in 1952. Following a two-year active
+                    rotation in the United States Marine Corps from 1952 to 1954, Baker received his
+                    law degree from the University of Texas at Austin in 1957. He practiced law at
+                    the firm of Andrews and Kurth from 1957 to 1975, but it was not until the early
+                    1970s that he became involved in politics.</p>
+                <p>Through the influence of his first wife, Baker became involved in the Republican
+                    Party and began a long political relationship with <persName>George H.W.
+                    Bush</persName>. Baker chaired Bush’s unsuccessful Senate campaign in 1970. In
+                    1971 Baker became the Finance Chairman of the Republican Party and played a
+                    significant regional role in President Nixon’s reelection. During the Ford
+                    Administration he was appointed Under Secretary of Commerce.</p>
+                <p> Baker also managed President <persName>Gerald Ford</persName>’s election bid in
+                    1976. In 1981, following a short run as chairman for <persName>George H.W.
+                    Bush</persName>’s Republican presidential primary campaign Baker was named
+                    President <persName>Ronald Reagan</persName>’s White House Chief of Staff.</p>
+                <p> During the second Reagan Administration, Baker simultaneously served as
+                    Secretary of the Treasury and as Chairman of the President’s Economic Council.
+                    Baker served as Secretary of State in George H.W. Bush’s cabinet from January
+                    22, 1989 until August 23, 1992, when he was appointed Senior Counselor and White
+                    House Chief of Staff for President Bush. Baker continues to be active in
+                    politics and U.S. foreign policy.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Treasury Secretary during the second Reagan Administration, Baker was
+                    instrumental in passing the Plaza Accord of September 1985, a multilateral
+                    agreement, which devalued the dollar in order to reduce America’s account
+                    deficit and help the U.S. economy recover from a recession that had begun in the
+                    early 1980s. He also tried to implement the Baker Plan, which proposed using
+                    Japan’s trade surplus to relieve Third World debt. </p>
+                <p>Baker served as Secretary of State during a very interesting and important time
+                    period in U.S. foreign relations. He was influential in overseeing American
+                    foreign policy during the tumultuous and touchy times following communism’s
+                    downfall in Eastern Europe and the break-up of the former Soviet Union.</p>
+                <p>As the head of the State Department, Baker was also the driving force behind
+                    creating a coalition of nations to repel Saddam Hussein and Iraq from Kuwait
+                    during the <ref target="/departmenthistory/short-history/firstgulf">First
+                    Persian Gulf War</ref>.</p>
+                <p>Baker continues to play a role in U.S. diplomacy and
+                    international affairs. He served as a Personal Envoy of the United Nations
+                    Secretary-General for Western Sahara from 1997 to 2004. In 2006, the former
+                    Secretary of State served as the Republican co-chair of the Iraq Study Group,
+                    tasked with assessing America’s policy toward Iraq. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Baker, James Addison. <hi rend="italic">The Politics of Diplomacy:
+                            Revolution, War and Peace, 1989-1992.</hi> New York: G.P. Putnam’s Sons,
+                        1995.</bibl>
+                    <bibl>Barilleaux, Ryan J. <hi rend="italic">Power and Prudence: The Presidency
+                            of George H.W. Bush.</hi> College Station: Texas A&amp;M University
+                        Press, 2004.</bibl>
+                    <bibl>Diggins, John P. <hi rend="italic">Ronald Reagan: Fate, Freedom, and the
+                            Making of History.</hi> New York: W.W. Norton &amp; Co., 2007</bibl>
+                    <bibl>Maynard, Christopher. <hi rend="italic">Out of the Shadow: George H.W.
+                            Bush and the End of the Cold War.</hi> College Station: Texas
+                        A&amp;M University Press, 2008.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Walter Quintin
+                    Gresham</title>
+                <title type="short">Walter Quintin Gresham</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> President <persName>Grover Cleveland</persName> nominated <persName>Walter
+                        Quintin Gresham</persName> to be Secretary of State on March 6, 1893, and
+                    Gresham entered into duty on March 7. Gresham died in office on May 28, 1895. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="gresham-walter-quintin.jpg"/>
+                    <head>Walter Quintin Gresham, 33rd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Gresham was born in Harrison County, Indiana, on March 17, 1832. He attended
+                    Indiana State University, subsequently studied law, and was admitted to the bar
+                    in 1854. He entered politics and won a seat in the State legislature as a
+                    Republican in 1860.</p>
+                <p>During the Civil War, Gresham served as a lieutenant-colonel in the Union Army,
+                    and eventually rose to the rank of brevet major general. In 1866, after
+                    returning to civilian life, he served as an Indiana Agent of State, managing the
+                    state debt.</p>
+                <p>Gresham was defeated in races for the U.S. Congress in 1866 and 1868, but was
+                    appointed U.S. District Judge for Indiana by President <persName>Ulysses S.
+                        Grant</persName> in 1869. Gresham left his judgeship when he was appointed
+                    Postmaster-General by President Chester A. Arthur in 1883, and served in that
+                    capacity until 1884, when he became Secretary of the Treasury for the remainder
+                    of the Arthur administration.</p>
+                <p>Gresham ran as a candidate for the Republican Party presidential primaries in
+                    1884 and 1888. In 1893, President Grover Cleveland (a Democrat) in a bipartisan
+                    gesture asked Gresham to serve as Secretary of State. Gresham, dissatisfied with
+                    the direction of the Republican Party, accepted Cleveland’s offer.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As soon as he assumed his position as Secretary of State, Gresham began
+                    investigating the circumstances surrounding the failed U.S. attempt to annex
+                    Hawaii under his predecessor, <ref
+                        target="/departmenthistory/people/foster-john-watson">John W. Foster</ref>.
+                    Gresham’s investigation showed the direct involvement of U.S. diplomats in the
+                    overthrow of Queen Liliuokalani. On the advice of Attorney General
+                        <persName>Richard Olney</persName>, President Cleveland decided to withdraw
+                    the treaty of annexation before the Senate. Since the Queen’s overthrow was
+                    essentially a coup by pro-American sugar planters intent on eliminating Native
+                    Hawaiian political power, Cleveland hoped to restore Liliuokalni to power.
+                    However, the Senate declined to give Cleveland the authority to do so. </p>
+                <p>Gresham also worked to counter British influence in the Americas, citing the <ref
+                        target="/milestones/1801-1829/monroe">Monroe Doctrine</ref> as his guiding
+                    principle. He warned <persName>Julian Pauncefote</persName>, the British Ambassador
+                    to the United States, against British involvement in an 1895 royalist Brazilian
+                    coup attempt. However, when the Nicaraguan President <persName>José
+                        Zelaya</persName> attempted to exert a Nicaraguan claim to the Mosquito
+                    Coast in 1894, Gresham worked in concert with the British Government to ensure
+                    the continued commercial privileges of resident Americans in the region. The
+                    U.S. Government would later intervene to remove Zelaya from power in 1911. </p>
+                <p>In addition to his attention to Western Hemisphere concerns, Gresham encountered
+                    ongoing problems regarding the status and treatment of U.S. citizens in the
+                    Ottoman Empire. The Ottoman Government, at times, refused re-entry of emigrants
+                    who had become U.S. citizens. Gresham found that his attempts to secure rights
+                    for U.S. citizens, particularly during a time of Turkish-Armenian tensions, were
+                    rebuffed by <persName>Sultan Abdulhamid II</persName>. Gresham tried to walk a
+                    fine line between doing what was possible for U.S. citizens in the empire, while
+                    continuing a policy of non-intervention in European affairs, particularly those
+                    concerning the internal affairs of the Great Powers. This sensitive position led
+                    Gresham to reject calls by missionaries for a U.S. naval base in Smyrna. </p>
+                <p>Gresham’s tenure as Secretary of State was cut short by his unexpected death on
+                    May 28, 1895 in Washington, D.C. Owing to the suddenness of his death, President
+                    Cleveland did not appoint a replacement until June 8. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928. </bibl>
+                    <bibl>Calhoun, Charles W. <hi rend="italic">Gilded Age Cato: The Life of Walter
+                            Q. Gresham.</hi> Lexington: University Press of Kentucky, 1988. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

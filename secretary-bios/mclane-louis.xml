@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Louis McLane</title>
+                <title type="short">Louis McLane</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Louis McLane was appointed Secretary of State by President <persName>Andrew
+                        Jackson</persName> on <date when="1833-05-29">May 29, 1833.</date> McLane
+                    entered duty on the same day and left the position on <date when="1834-06-30">June 30, 1834.</date> He was an able administrator who eventually clashed
+                    with President Jackson over foreign policy. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="mclane-louis.jpg"/>
+                    <head>Louis McLane, 12th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>McLane was born in Smyrna, Delaware. As a young man he served as a midshipman in
+                    the Navy from 1798 to 1801 and then attended Newark College (now the University
+                    of Delaware).</p>
+                <p>After reading law, McLane gained admission to the Delaware bar in 1807. Embarking
+                    on a career in politics, he won election to the U.S. House of Representatives in
+                    1816. He served five terms until moving to the U.S. Senate in 1827.</p>
+                <p>Two years into his Senate term, President Jackson appointed McLane as Minister to
+                    Great Britain. McLane served in London from 1829 to 1831 before returning to
+                    Washington to join Jackson’s cabinet as Secretary of the Treasury from 1831 to
+                    1833.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on U.S. Diplomacy</head>
+                <p>While serving as Minister to Great Britain, McLane conducted the 1831
+                    negotiations over an important agreement that allowed U.S. trade with the
+                    British West Indies. This breakthrough resolved a dispute dating back to the
+                        <ref target="/milestones/1784-1800/jay-treaty">John Jay Treaty</ref>, which
+                    was ratified in 1795.</p>
+                <p>As Secretary of State, McLane’s central achievement was a successful
+                    reorganization of the Department of State’s staff into distinct bureaus. His
+                    main foreign policy success was an arrangement with the Spanish Government that
+                    settled U.S. claims for property seized by Spain during the <ref target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref>.</p>
+                <p>McLane quickly encountered the tough issues that had frustrated his predecessors
+                    Martin Van Buren and Edward Livingston. Namely, the northeast boundary dispute
+                    with Great Britain still proved to be intractable. The Mexican claims and
+                    boundary issues also remained unsettled. </p>
+                <p> Finally, McLane’s efforts to resolve the longstanding dispute with France over
+                    the damages inflicted upon U.S. foreign commerce during the Napoleonic Wars led
+                    to the end of his tenure as Secretary of State. A treaty had been signed in 1831,
+                    but the French Government refused to issue the payments stipulated therein.
+                    McLane supported a policy of reprisal against French exports. When President
+                    Jackson decided against reprisals, McLane opted to resign.</p>
+                <p>McLane eventually returned to diplomacy in 1845 when President <persName>James K.
+                        Polk</persName> appointed him  U.S. Minister to Great Britain. His hopes to
+                    negotiate the Oregon Territory boundary were disappointed when the talks instead
+                    commenced in Washington. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 4. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Benns, F. Lee. <hi rend="italic">The American Struggle for the British
+                            West India Carrying Trade, 1815-1830.</hi> Bloomington: Indiana
+                        University Studies, 1923. </bibl>
+                    <bibl>Munroe, John A. <hi rend="italic">Louis McLane: Federalist and
+                            Jacksonian.</hi> New Brunswick: Rutgers University Press, 1973. </bibl>
+                    <bibl>Remini, Robert V. <hi rend="italic">Andrew Jackson: The Course of
+                            American Democracy, 1833-1845.</hi> Vol. 3. New York: Harper and Row,
+                        1984. </bibl>
+                    <bibl>Willson, Beckle. <hi rend="italic">America's Ambassadors to England,
+                            1785-1928: A Narrative of Anglo-American Diplomatic Relations.</hi>
+                        New York: Frederick A. Stokes, 1929. Reprint 1969 (Books for Libraries Press). </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

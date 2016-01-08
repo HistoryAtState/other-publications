@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Christian Archibald
+                    Herter</title>
+                <title type="short">Christian Archibald Herter</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> Christian A. Herter was appointed Secretary of State on April 22, 1959, and
+                    remained in that position until the end of the Dwight D. Eisenhower
+                    administration on January 20, 1961. Whether working for the U.S. Government or
+                    in the private sector, Herter dedicated much of his adult life to serving his
+                    country and shaping its role in world affairs.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="herter-christian-archibald.jpg"/>
+                    <head>Christian Archibald Herter, 53rd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Herter was born in Paris, France, on March 28, 1895, and attended the École
+                    Alsatienne from 1901 to 1904, before moving to New York City and graduating from
+                    the Browning School in 1911. Upon receiving a bachelor’s degree from Harvard
+                    University in 1915, Herter served in the U.S. Embassy in Germany from 1916 to
+                    1917.</p>
+                <p>He held the position of Secretary of the U.S. Commission to Negotiate Peace
+                    (1918-1919) at the <ref target="/milestones/1914-1920/paris-peace">Paris Peace
+                        Conference</ref> following the First World War. After his initial tenure at
+                    the Department of State, Herter continued to advance his career in both the
+                    public and private arenas. He was the Personal Assistant to Secretary of
+                    Commerce Herbert Hoover from 1919 to 1924, during which time he also served as
+                    Executive Secretary of the European Relief Council between 1920 and 1921. </p>
+                <p>He subsequently worked as a newspaper editor and a lecturer at Harvard
+                    University. He served in the Massachusetts House of Representatives from 1931 to
+                    1943, where he became Speaker of the House in 1939. Herter then won a seat in
+                    the U. S. Congress as a Representative from Massachusetts, where he served until
+                    1953. Following his time in Congress, Herter was elected Governor of
+                    Massachusetts in 1953, a position he held until 1957, when he became Under
+                    Secretary of State in President Eisenhower’s second administration.</p>
+                <p>Due to the failing health of Secretary of State <ref
+                        target="/departmenthistory/people/dulles-john-foster">John Foster
+                        Dulles</ref>, Herter was appointed Secretary of State on April 22, 1959, and
+                    remained in that position until January 20, 1961. Herter passed away in
+                    Washington, D.C., on December 30, 1966.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Herter played an active role in U.S. diplomacy throughout his life, whether he
+                    was working for the Department of State or the U.S. House of Representatives.
+                    While in Congress, a report that was written in a committee he chaired initiated
+                    proposals that led to President <persName>Harry Truman</persName>’s <ref
+                        target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref>, in which
+                    the United States gave $13 billion in reconstruction aid to Europe following the
+                    Second World War.</p>
+                <p>Along with scholar George Camp Keiser, Herter founded the Middle East Institute
+                    in 1947, and he also served on the board of trustees of the World Peace
+                    Foundation. As Under Secretary of State and Secretary of State, Herter helped
+                    oversee U.S. diplomacy during the 1958 invasion of Lebanon, the <ref
+                        target="/milestones/1953-1960/taiwan-strait-crises">1958 Taiwan Strait
+                        Crisis</ref>, and the U-2 incident in 1960.</p>
+                <p> Herter’s role in the international arena did not end with the Eisenhower
+                    administration. He also served as a trade negotiator in the administrations of
+                    both <persName>John F. Kennedy</persName> and <persName>Lyndon B.
+                        Johnson</persName>. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Herter, Christian A. <hi rend="italic">Toward an Atlantic Community.</hi>
+                        New York: Harper &amp; Row, 1963.</bibl>
+                    <bibl>Hogan, Michael J. <hi rend="italic">The Marshall Plan: America, Britain,
+                            and the Reconstruction of Western Europe, 1947-1952.</hi> New York:
+                        Cambridge University Press, 1989.</bibl>
+                    <bibl>Noble, George Bernard. "Christian A. Herter." In <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy,</hi> edited by Samuel
+                        Flagg Bemis. New York: Cooper Square Publishers, 1970.</bibl>
+                    <bibl>Wicker, Tom. <hi rend="italic">Dwight D. Eisenhower. </hi> Waterville, ME:
+                        Thorndike Press, 2002.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

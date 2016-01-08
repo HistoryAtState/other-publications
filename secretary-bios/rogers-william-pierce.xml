@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: William Pierce
+                    Rogers</title>
+                <title type="short">William Pierce Rogers</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="bio">
+                <head>Introduction</head>
+                <p>
+                    <persName>William Pierce Rogers</persName> served as President <persName>Richard
+                        M. Nixon</persName>’s Secretary of State from January 22, 1969, until
+                    September 3, 1973. Although often overshadowed by the Assistant to the President
+                    for National Security Affairs and his own successor, <ref
+                        target="/departmenthistory/people/kissinger-henry-a">Henry Kissinger</ref>,
+                    Rogers proved to be an accomplished administrator and diplomat. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="rogers-william-pierce.jpg"/>
+                    <head>William Pierce Rogers, 55th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Rogers was born in Norfolk, New York, on June 23, 1913. He graduated from Colgate
+                    University in 1934 and earned a law degree from Cornell University in 1937. He
+                    was admitted to the New York bar in 1937 and to the Washington, D.C. bar in
+                    1950.</p>
+                <p>Rogers was an Assistant District Attorney of New York County from 1938 to 1942
+                    and then again from 1946 to 1947. After serving as a lieutenant commander in the
+                    U.S. Navy during World War Two, Rogers provided counsel to the U.S. Senate
+                    Special Committee to Investigate the National Defense Program between 1947 and
+                    1948. He then became Chief Counsel to the Senate Investigations Subcommittee of
+                    the Executive Expenditures Committee, a position he held until 1950.</p>
+                <p>He practiced law from 1950 to 1953 in New York City and Washington, D.C. before
+                    returning to public service in 1953 to become Deputy Attorney General in the
+                    Eisenhower administration. In 1957, he became Attorney General.</p>
+                <p>Between 1961 and 1968, Rogers returned to private practice but remained involved
+                    in public service as an alternate representative of the U.S. delegation to the
+                    20th Session of the U.N. General Assembly in 1965, on the U.N. Ad Hoc Committee
+                    for Southwest Africa in 1967, and as a member of the President's National
+                    Commission on Law Enforcement and Administration of Justice from 1965 to
+                    1967.</p>
+                <p>Following his tenure as Secretary of State, Rogers again returned to private law
+                    practice. He was awarded the Presidential Medal of Freedom on October 15, 1973.
+                    William Rogers died in 2001. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Secretary of State, Rogers promoted a cease-fire in the Middle East in 1970,
+                    which lasted until the 1973 war, dealt with problems of security and cooperation
+                    in Europe, signed the <ref target="/milestones/1969-1976/ending-vietnam">1973
+                        Vietnam peace agreement</ref>, and brought the State Department into the
+                    electronic age by ordering the installation of a computerized system to store
+                    diplomatic documents and information.</p>
+                <p>Rogers is best known for his efforts to broker a lasting peace settlement between
+                    Israel, its Arab neighbors, and the Palestinian refugees. In a December 9, 1969
+                    speech Rogers unveiled what would later become known as the “Rogers Plan,”
+                    calling for collective action on the part of the United States, the Soviet
+                    Union, the United Kingdom, and France to implement U.N. Resolution 242, which
+                    ended the Third Arab-Israeli War. Ultimately, none of the concerned parties were
+                    able to agree on a suitable framework for implementing Rogers’ initiative,
+                    thereby leading to the outbreak of the <ref
+                        target="/milestones/1969-1976/arab-israeli-war-1973">Fourth Arab-Israeli War
+                        in October 1973</ref>.</p>
+                <p>Rogers’ successor, Dr. Henry Kissinger, did, however, begin the process of
+                    securing a negotiated Israeli withdrawal from the Sinai in 1974 as a result of
+                    the <ref target="/milestones/1969-1976/shuttle-diplomacy">“shuttle diplomacy”
+                    </ref>that ended the October War.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Dallek, Robert. <hi rend="italic">Nixon and Kissinger: Partners in
+                            Power.</hi> New York: Harper Collins, 2007.</bibl>
+                    <bibl>Garthoff, Raymond. <hi rend="italic">Détente and Confrontation:
+                            American-Soviet Relations from Nixon to Reagan</hi>. 
+                        Washington, D.C.: Brookings, 1994.</bibl>
+                    <bibl>Hanhimäki, Jussi. <hi rend="italic">The Flawed Architect: Henry Kissinger
+                            and American Foreign Policy.</hi> Oxford: Oxford University Press, 2004.</bibl>
+                    <bibl>Hersh, Seymour M. <hi rend="italic">The Price of Power: Kissinger in
+                            the Nixon White House.</hi> London: Faber and Faber, 1983.</bibl>
+                    <bibl>Kissinger, Henry A. <hi rend="italic">White House Years.</hi> New York:
+                        Little Brown &amp; Company, 1979.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                    <bibl>Nixon, Richard M. <hi rend="italic">RN: The Memoirs of Richard Nixon.</hi>
+                        New York: Simon and Schuster, 1978.</bibl>
+                    <bibl>Quandt, William. <hi rend="italic">Peace Process: American Diplomacy and
+                            the Arab-Israeli Conflict since 1967</hi>. Washington D.C.:
+                        Brookings Institution Press, 2005.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

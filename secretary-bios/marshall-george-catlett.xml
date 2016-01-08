@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: George Catlett Marshall</title>
+                <title type="short">George Catlett Marshall</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>George Catlett Marshall</persName> was nominated as Secretary of State
+                    by President <persName>Harry S. Truman</persName> on January 8, 1947, and was
+                    confirmed unanimously by the Senate. Marshall entered on duty on January 21,
+                    1947, and served as Secretary of State until January 20, 1949. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="marshall-george-catlett.jpg"/>
+                    <head>George Catlett Marshall, 50th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Marshall was born in Uniontown, Pennsylvania. His family had strong roots in
+                    Virginia, where Marshall returned to attend the Virginia Military Institute.
+                    Following his graduation in 1901, he received his commission as Second
+                    Lieutenant in the U.S. Army. Marshall enjoyed an extremely successful military
+                    career, serving in both World Wars and rising to the rank of five-star general
+                    in 1944.</p>
+                <p>During World War II, Marshall distinguished himself as Army Chief of Staff, a
+                    position to which he was appointed by President <persName>Franklin D.
+                    Roosevelt</persName>. As Chief of Staff, Marshall earned a strong reputation as
+                    an administrator and successfully transformed a small peacetime army into a
+                    strong wartime force while also coordinating Allied operations.</p>
+                <p>Marshall also proved to be adept at negotiating with Congress and other members
+                    of the executive branch, a talent that would serve him well in his civilian
+                    career. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Following Marshall’s resignation as Chief of Staff, President Truman relied
+                    heavily on Marshall’s expertise to navigate postwar diplomacy. Marshall’s first
+                    assignment was to lead a special mission to China in late 1945 to mediate the
+                    conflict between the Nationalists and the Communists. Although this mission was
+                    ultimately unsuccessful, Marshall’s tenure as Secretary of State was marked by
+                    several notable achievements.</p>
+                <p> In 1947 and 1948, Marshall led the effort to formulate and secure congressional
+                    support for the massive aid package to Western Europe that would become known as
+                    the <ref target="/milestones/1945-1952/marshall-plan">Marshall Plan</ref>. The
+                    United States also negotiated the Inter-American Treaty of Reciprocal Assistance
+                    and the <ref target="/milestones/1945-1952/nato">North Atlantic Treaty
+                        Organization</ref> under Secretary Marshall. Although Marshall typically
+                    served President Truman without objection, he did strongly disagree with Truman
+                    on the recognition of the State of Israel. </p>
+                <p> Marshall resigned as Secretary of State in 1949 and became president of the
+                    American Red Cross. However, he returned to the Truman Cabinet as Secretary of
+                    Defense in 1950 and served briefly in that capacity until 1951. Marshall died in
+                    1959 after receiving the Nobel Peace Prize in 1953 for his work to restore
+                    Europe’s economy in the post-World War II period. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 14. New York: Alfred A. Knopf, 1928.
+                        Reprint 1965 (Cooper Square).</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

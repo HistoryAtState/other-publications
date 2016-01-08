@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Condoleezza Rice</title>
+                <title type="short">Condoleezza Rice</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Condoleezza Rice</persName> was nominated for Secretary of State by
+                        <persName>George W. Bush</persName> on <date when="2004-11-14">November 14,
+                        2004</date>, and assumed office on <date when="2005-01-26">January 26,
+                    2005</date>. She served for four years, leaving the position on <date when="2009-01-20">January 20, 2009</date>. She was the first
+                    African-American woman to serve as Secretary of State. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="rice-condoleezza.jpg"/>
+                    <head>Condoleezza Rice, 66th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Rice was born on November 14, 1954, in Birmingham, Alabama. She earned her
+                    bachelor of arts in political science in 1974 from the University of Denver, her
+                    master's degree in political science from the University of Notre Dame in 1975,
+                    and her doctorate in political science from the Graduate School of International
+                    Studies at the University of Denver in 1981.</p>
+                <p>After her graduation, Rice accepted a position at Stanford University as a
+                    professor of political science. In 1987 she served as an advisor to the Joint
+                    Chiefs of Staff, and in 1989 was appointed director of Soviet and East European
+                    Affairs on the National Security Council.</p>
+                <p> Rice returned to Stanford in 1991 and from 1993 until 1999 she served as
+                    Stanford's Provost.</p>
+                <p>In 2001 she was appointed National Security Advisor by President <persName>George
+                        W. Bush</persName>, and succeeded <ref target="/departmenthistory/people/powell-colin-luther">Colin Powell</ref> as
+                    Secretary of State in 2005.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on U.S. Diplomacy</head>
+                <p>As Secretary of State, Rice supported the expansion of democratic governments,
+                    and championed the idea of "Transformational Diplomacy," which sought to
+                    redistribute U.S. diplomats to areas of severe social and political trouble,
+                    address such issues as disease, drug smuggling and human trafficking, and
+                    reemphasize aid through the creation of the position of Director of Foreign
+                    Assistance.</p>
+                <p>Rice helped successfully negotiate several agreements in the Middle East,
+                    including Israeli withdrawal from and the opening of the Gaza border crossings
+                    in 2005 and the August 14, 2006 ceasefire between Israel and Hezbollah forces in
+                    Lebanon. Rice organized the Annapolis Conference of November 27, 2007, which
+                    focused on finding a two-state solution to the Israeli-Palestinian problem.</p>
+                <p>Rice also worked actively to improve human rights issues in Iran and supported
+                    the passage of a United Nations Security Council Resolution for sanctions
+                    against the country unless its uranium enrichment program was curtailed.</p>
+                <p>Another major concern for Rice was North Korea's nuclear program, and its
+                    subsequent testing of a nuclear weapon. Rice was firmly against holding
+                    bilateral talks with North Korea, although she welcomed their participation in
+                    the Six Party Talks between China, Japan, Russia, North Korea, South Korea, and
+                    the United States.</p>
+                <p>In October 2008, one of Rice's most successful negotiations came to fruition,
+                    with the signing of the U.S.-India Agreement for Cooperation Concerning Peaceful
+                    Uses of Nuclear Energy (123 Agreement), which would allow civil nuclear trade
+                    between the two countries.</p>
+                <p>Shortly after her term as Secretary of State ended in January 2009, she announced plans to write a book about
+                    her diplomatic career. Rice was succeeded as Secretary of State by former First
+                    Lady and New York Senator <ref target="/departmenthistory/people/clinton-hillary-rodham">Hillary Rodham
+                    Clinton</ref>.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl> Kessler, Glenn. <hi rend="italic">The Confidante: Condoleezza Rice and
+                            the Creation of the Bush Legacy</hi>. New York: St. Martin's Press,
+                        2007. </bibl>
+                    <bibl>Mabry, Marcus. <hi rend="italic">Twice as Good: Condoleezza Rice and Her
+                            Path to Power</hi>. New York: Modern Times, 2007.</bibl>
+                    <bibl>Richter, Paul. "Under Rice, Powell's Policies are Reborn." <hi rend="italic">Los Angeles Times</hi>, 11 October 2005. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

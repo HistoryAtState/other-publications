@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Charles Evans Hughes</title>
+                <title type="short">Charles Evans Hughes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Charles Evans Hughes</persName> served as Secretary of State from
+                    March 5, 1921, to March 5, 1925, during the administration of President
+                        <persName>Warren Harding</persName>. He continued as Secretary after
+                    Harding’s death in office, but resigned at the beginning of President
+                        <persName>Calvin Coolidge</persName>’s full term. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="hughes-charles-evans.jpg"/>
+                    <head>Charles Evans Hughes, 44th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p> Hughes was born in Glen Falls, New York in 1862. That same year his family moved to New
+                    York City, where he was raised and attended school. He graduated from Brown
+                    University at the age of nineteen, with the second highest honors.</p>
+                <p>Hughes was a prominent public figure long before becoming Secretary of State. He
+                    had been a noted anti-corruption attorney in New York before being elected
+                    Governor of that state in 1906. He was then appointed to the Supreme Court by
+                    President <persName>William Howard Taft</persName>, a position from which he
+                    resigned in the summer of 1916 to run for President against incumbent
+                        <persName>Woodrow Wilson</persName> as the candidate of the Republican
+                    Party.</p>
+                <p> After losing the 1916 presidential election, Hughes re-entered public life as
+                    President <persName>Warren G. Harding</persName>’s choice as Secretary of State.
+                    After Harding’s death and <persName>Calvin Coolidge</persName>’s election,
+                    Hughes resigned from the post in favor of <ref target="/departmenthistory/people/kellogg-frank-billings">Frank B.
+                    Kellogg</ref>, but continued to lead a productive public life. Among his other
+                    projects, he served on the Permanent Court of International Justice at The Hague
+                    from 1928 until 1930. Newly elected President <persName>Herbert Hoover</persName>
+                    reappointed Hughes to the Supreme Court in 1930 as Chief Justice. Hughes served
+                    on the Court until 1941. He died in 1948. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Hughes came to the office of Secretary of State at a moment of transition in
+                    U.S. politics. President Wilson’s internationalist ideas, grounded in his
+                    wartime <ref target="/milestones/1914-1920/fourteen-points">Fourteen Points</ref>
+                    and his advocacy of a new <ref target="/milestones/1914-1920/league">League of
+                        Nations</ref> designed to prevent future wars, had been discredited in the
+                    United States during the peace negotiations at the end of World War I. Although
+                    President Wilson had successfully negotiated the Treaty of Versailles, ending
+                    the war and establishing the League, the U.S. Senate had refused to ratify the
+                    treaty in 1920, and President Wilson had been unwilling to compromise in order
+                    to secure its passage.</p>
+                <p>President Harding was elected in part because of his call for a return to
+                    “normalcy,” and as a result Hughes implemented a foreign policy that pursued
+                    only the most limited connection to the League or the principles of collective
+                    security laid out during the Wilson administration. </p>
+                <p>Hughes increased U.S. prestige in Latin America by arbitrating disputes between
+                    countries in the Western Hemisphere, and during his tenure, the United States
+                    recognized the new government in <placeName>Mexico</placeName> and compensated
+                        <placeName>Colombia</placeName> for the 1903 Panamanian revolt, which the
+                    United States had supported. He also directed the <ref target="/milestones/1921-1936/naval-conference">Washington Naval Conference
+                        of 1921-22</ref>, which resulted in the Five-Power Treaty, setting the
+                    ratio of naval strength among the five largest naval powers.</p>
+                <p>At the same time, he signed several agreements with the Japanese limiting the
+                    deployments of Japanese and U.S. military forces in the Pacific Ocean. He also
+                    ended the state of war with Germany with the Treaty of Berlin.</p>
+                <p>As Secretary of State, Hughes also worked to improve morale and increase the level
+                    of talent in the Department of State by supporting the <ref target="/departmenthistory/short-history/rogers">1924 Foreign Service Act
+                        (“Rogers Act,”)</ref>, which would eventually result in a professional,
+                    highly-trained Foreign Service. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy. </hi>Vol. 5. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers). </bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

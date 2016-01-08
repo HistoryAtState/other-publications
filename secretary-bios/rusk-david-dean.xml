@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Dean David
+                    Rusk</title>
+                <title type="short">David Dean Rusk</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>David Dean Rusk</persName> served as Secretary of State under
+                    Presidents <persName>John F. Kennedy</persName> and <persName>Lyndon Baines
+                        Johnson</persName>. Rusk entered into duty as Secretary on January 21, 1961,
+                    and resigned on January 20, 1969. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="rusk-dean-david.jpg"/>
+                    <head>David Dean Rusk, 54th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Rusk was born in Cherokee County, Georgia, on February 9, 1909. Rusk earned an
+                    A.B. in political science from Davidson College in 1931 prior to entering St.
+                    John’s College, Oxford University, on a Rhodes Scholarship. At St. John’s, Rusk
+                    completed B.S. and M.A. degrees. Upon returning to the United States in 1934, he
+                    accepted a position as an associate professor at Mills College in Oakland,
+                    California. He later served as Dean of Faculty at Mills while studying law at
+                    the University of California-Berkeley.</p>
+                <p>In 1940, Rusk enlisted in the United States Army, initially as a Captain in the
+                    Military Intelligence Branch of the War Department. Rusk rose to become Deputy
+                    Chief of Staff in the Operations Division of the War Department’s General Staff.
+                    Following his discharge from the Army in 1946, Rusk served briefly as the
+                    Assistant Chief of the Division of International Security Affairs in the
+                    Department of State’s Office of Special Political Affairs before serving as
+                    Special Assistant to Secretary of War Robert Patterson.</p>
+                <p>Returning to the Department of State, Rusk served in several positions between
+                    1947 and 1951, including Director of the Office of Special Political Affairs,
+                    Assistant Secretary of State for International Organization Affairs, Deputy
+                    Under Secretary of State, and Assistant Secretary of State for East Asian and
+                    Pacific Affairs.</p>
+                <p>Leaving government service, Rusk headed the Rockefeller Foundation from 1952 to
+                    1961. Rusk returned to the Department of State in January 1961 as President
+                        <persName>John F. Kennedy</persName>’s Secretary of State.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Rusk asserted that the Secretary of State served at the pleasure of the
+                    President. As such, the Secretary’s role reflected that of an advisor who would
+                    preside over policy debates, offer informed views, and endorse the President’s
+                    decisions.</p>
+                <p>Rusk subverted his own misgivings about the failed 1961 <ref
+                        target="/milestones/1961-1968/cuban-missile-crisis">Cuban Bay of Pigs
+                        invasion</ref> and closed ranks around Kennedy. From his own perspective,
+                    Rusk perceived the world of the 1960s as caught up in “revolutionary
+                    changes”—notably the establishment of new nations—and believed that U.S. foreign
+                    policy should provide emerging nations with technical and humanitarian
+                    assistance to speed these nations along the path toward modernity and
+                    democracy.</p>
+                <p>Rusk also advocated a “dignified diplomacy,” emphasizing civility and
+                    communication between the United States and the Soviet Union. Rusk’s diplomatic
+                    orientation and his ability to evaluate and judge competing points of view
+                    defused tensions during the October 1962 <ref
+                        target="/milestones/1961-1968/cuban-missile-crisis">Cuban Missile
+                        Crisis</ref> and contributed toward the successful negotiation of the <ref
+                        target="/milestones/1961-1968/limited-ban">Limited Nuclear Test Ban
+                        Treaty</ref> in August 1963.</p>
+                <p>Although he favored a gradualist approach to U.S. involvement in Vietnam—in order
+                    to maintain the U.S. obligation to Vietnam under <ref
+                        target="/milestones/1953-1960/seato">SEATO</ref>—his support of President
+                    Lyndon Johnson’s war policy exposed him to public criticism.</p>
+                <p>Rusk ended his tenure as Secretary on January 20, 1969. He was appointed the
+                    Samuel H. Sibley Professor of International Law at the University of Georgia
+                    (1970–1984), established the Dean Rusk Center for International and Comparative
+                    Law, and completed a memoir, with the assistance of his son Richard Rusk,
+                    entitled <hi rend="italic">As I Saw It</hi>. Rusk died on December 20, 1994.
+                </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Cohen, Warren I. "Dean Rusk." In <hi rend="italic">The American
+                            Secretaries of State and Their Diplomacy</hi>, edited by Samuel Flagg
+                        Bemis. Vol. 19. Totowa, NJ: Cooper Square Publishers, 1980</bibl>
+                    <bibl>Rusk, Dean and Richard Rusk, <hi rend="italic">As I Saw It</hi>, edited by
+                        Daniel S. Papp. New York: W.W. Norton, 1990</bibl>
+                    <bibl>Schoenbaum, Thomas. <hi rend="italic">Waging Peace and War: Dean Rusk in
+                            the Truman, Kennedy &amp; Johnson Years.</hi> New York: Simon and
+                        Schuster, 1988</bibl>
+                    <bibl>Zeiler, Thomas W. <hi rend="italic">Dean Rusk: Defending the American
+                            Mission Abroad.</hi> Wilmington, DE: Scholarly Resources,
+                        2000</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

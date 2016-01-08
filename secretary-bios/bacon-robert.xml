@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Robert Bacon</title>
+                <title type="short">Robert Bacon</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Robert Bacon</persName> was appointed Secretary of State January 27,
+                    1909, and entered into duty the same day. Bacon had served as Assistant Secretary
+                    of State under <ref target="/departmenthistory/people/root-elihu">Elihu
+                        Root</ref> prior to his appointment. He served only 37 days as Secretary of
+                    State, until March 5, 1909, when President <persName>Theodore
+                        Roosevelt</persName> left office. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="bacon-robert.jpg"/>
+                    <head>Robert Bacon, 39th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Bacon was born in Jamaica Plain, Massachusetts in 1860 to a prominent merchant
+                    family. He attended Harvard, where he befriended future president Theodore
+                    Roosevelt. Bacon graduated in 1880 and went on to travel the world for one year
+                    before returning to Boston to begin a successful career in business. He took
+                    part in negotiations that formed major companies, including the Northern
+                    Securities Company and the United States Steel Corporation.</p>
+                <p>In 1905, Robert
+                    Bacon became Assistant Secretary of State at the behest of his friend President
+                    Roosevelt and Secretary of State Elihu Root. In 1909, after Root resigned his
+                    position, he was asked to serve as Secretary of State for the duration of the
+                    Roosevelt administration. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Bacon’s business savvy aided his diplomatic efforts as he worked diligently to
+                    ratify treaties between <placeName>Colombia</placeName>,
+                    <placeName>Panama</placeName> and the <placeName>United States</placeName>
+                    regarding the Panama Canal. Bacon’s appointment as Secretary of State for the
+                    remainder of Roosevelt’s term was mostly due to his friendship with the
+                    President. However, he used that month wisely, successfully passing the treaties
+                    through the Senate.</p>
+                <p>Bacon also convened an environmental conference between the
+                    North American states, to discuss conservation of natural resources on the
+                    continent. Bacon’s diplomatic skill was recognized by his successor, Secretary
+                    of State <ref target="/departmenthistory/people/knox-philander-chase">Philander
+                    Knox</ref>, who appointed Bacon as Ambassador to France.</p>
+                <p>Years later, Bacon
+                    served under General Pershing during World War One. His military service at an
+                    advanced age put a general strain on Bacon’s health, and he died in 1919,
+                    shortly after returning to the United States. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                        State and Their Diplomacy.</hi> Vol. 2. New York: Alfred A. Knopf, 1927. </bibl>
+                    <bibl> Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                        Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed.<hi rend="italic"> American Statesmen:
+                        Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Frank Billings
+                    Kellogg</title>
+                <title type="short">Frank Billings Kellogg</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Frank Billings Kellogg</persName> served as Secretary of State during
+                    the full term of President <persName>Calvin Coolidge</persName> from 1925 until
+                    1929, after serving as the U.S. Ambassador to the United Kingdom. He served from
+                    March 5, 1925, to March 28, 1929. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="kellogg-frank-billings.jpg"/>
+                    <head>Frank Billings Kellogg, 45th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Kellogg was born in Potsdam, New York on December 22, 1856, and moved with his
+                    family to Minnesota in 1865.</p>
+                <p>Kellogg began his career as an attorney in his home state of Minnesota, first
+                    representing large manufacturing concerns and then, as a trust-busting
+                    prosecutor during the administration of <persName>Theodore Roosevelt</persName>.
+                    He became president of the American Bar Association in 1912, and was
+                    subsequently elected to the U.S. Senate in 1916. He lost his reelection race in
+                    1922, but was named to a brief appointment as delegate to the Pan American
+                    Conference in 1923 and then was appointed Ambassador to the Court of St. James
+                    in London.</p>
+                <p> After his term as Secretary of State concluded, Kellogg was selected to fill the
+                    term of another former Secretary of State, <ref
+                        target="/departmenthistory/people/hughes-charles-evans">Charles Evans
+                        Hughes</ref>, on the Permanent Court of International Justice at The Hague.
+                    Kellogg retired from this position in 1936 because of declining health. He died
+                    in Minnesota in December of 1937. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Even before he became Secretary of State, Kellogg had great influence. As
+                    Ambassador to the <placeName>United Kingdom</placeName>, he influenced U.S.
+                    foreign policy, especially regarding the issue of German reparations to the
+                    Allies, as outlined in the Treaty of Versailles. Kellogg was one of several
+                    important negotiators of the <ref target="/milestones/1921-1936/dawes">1924
+                        Dawes Plan</ref>, a serious attempt to modify the burden of German
+                    reparations payments to <placeName>France</placeName>,
+                        <placeName>Belgium</placeName>, and the <placeName>United
+                        Kingdom</placeName>. </p>
+                <p> Once Secretary, he took part in the unsuccessful follow-up to the <ref
+                        target="/milestones/1921-1936/naval-conference">1921 Washington Naval
+                        Conference</ref>, the <ref target="/milestones/1921-1936/geneva">Geneva
+                        Conference of 1927</ref>. He also encountered anti-Americanism at the
+                    Western Hemisphere conference in 1928. However, he was successful in negotiating
+                    a settlement between Chile and Peru regarding the Tacna-Arica border dispute and
+                    negotiating a treaty of arbitration with the Republic of Mexico. He also
+                    negotiated or signed nearly 80 other treaties with European and Western
+                    Hemisphere states, breaking the record set by <ref
+                        target="/departmenthistory/people/bryan-william-jennings">William Jennings
+                        Bryan</ref>.</p>
+                <p> Kellogg’s most lasting achievement, for which he received the Nobel Peace Prize
+                    in 1929, was the negotiation of the <ref target="/milestones/1921-1936/kellogg"
+                        >Kellogg-Briand Pact</ref>. This multilateral pact negotiated between 1927
+                    and 1928 with Aristide Briand, the French Foreign Minister, began as a French
+                    proposal for a mutual security pact and evolved into a treaty renouncing war as
+                    an instrument of national policy. It was ratified overwhelmingly by the U.S.
+                    Senate in 1929, despite criticism that it could never be an effective deterrent
+                    to war. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 5. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers). </bibl>
+                    <bibl>Cohen, Warren I. <hi rend="italic">Empire Without Tears: America’s Foreign
+                            Relations, 1921-1933.</hi> Philadelphia: Temple University Press,
+                        1987.</bibl>
+                    <bibl>Ferrell, Robert H. "Frank B. Kellogg &amp; Henry L. Stimson." In <hi
+                            rend="italic">The American Secretaries of State and Their
+                            Diplomacy,</hi> edited by Samuel Flagg Bemis. Vol. 11. New York: Cooper
+                        Square, 1963.</bibl>
+                    <bibl>Louria, Margot. <hi rend="italic">Triumph and Downfall: America’s Pursuit
+                            of Peace and Prosperity, 1921-1933. </hi>Westport, CT: Greenwood
+                        Press, 2001.</bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

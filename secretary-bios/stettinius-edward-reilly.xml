@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Edward Reilly
+                    Stettinius, Jr.</title>
+                <title type="short">Edward Reilly Stettinius, Jr.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Edward Reilly Stettinius, Jr.</persName> served as Secretary of State
+                    from December 1, 1944, until June 27, 1945, under Presidents <persName>Franklin
+                        Delano Roosevelt</persName> and <persName>Harry S. Truman</persName>. As
+                    Secretary of State, he oversaw the end of the Second World War in Europe and the
+                    creation of the United Nations. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="stettinius-edward-reilly.jpg"/>
+                    <head>Edward Reilly Stettinius, Jr., 48th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Stettinius was born in Chicago on October 22, 1900. Stettinius graduated from the
+                    Pomfret School in 1920 before beginning his coursework at the University of
+                    Virginia. He left Virginia in 1924 without receiving a degree and two years
+                    later became the assistant to General Motors’ Vice-President <persName>John Lee
+                        Pratt</persName>.</p>
+                <p>Stettinius took over Pratt’s position in 1931 and came to know <persName>Franklin
+                        Delano Roosevelt</persName> through his work developing unemployment relief
+                    programs. After leaving General Motors in 1934, he worked for the United States
+                    Steel Corporation until 1940, becoming Chairman of the board of directors in
+                    1938.</p>
+                <p> Stettinius began his government career in 1939 as Chairman of the War Resources
+                    Board, which was followed by membership on the Advisory Committee to the Council
+                    of National Defense (1940) and by positions as Chairman of the Priorities Board
+                    and Director of the Priorities Division of the Office of Production Management
+                    (1941).</p>
+                <p>He undertook the crucial roles of Director of Lend-Lease aid and Special
+                    Assistant to the President in 1941, positions which he held until becoming Under
+                    Secretary of State in 1943.</p>
+                <p>Following Secretary of State <ref target="/departmenthistory/people/hull-cordell"
+                        >Cordell Hull</ref>’s retirement due to health issues, Stettinius became
+                    Secretary on December 1, 1944, and served in that position until June 27, 1945.
+                    After his government career concluded, he became the Rector of the University of
+                    Virginia, a position he held until his death on October 31, 1949.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Stettinius came to the position of Secretary of State with a great deal of
+                    foreign policy experience. His roles in war production and national defense and
+                    his work as chief Lend-Lease administrator and Special Assistant to the
+                    President had prepared him for the challenges of being chief diplomat.</p>
+                <p>As Secretary of State, Stettinius accompanied President Roosevelt to the <ref
+                        target="/milestones/1937-1945/yalta-conf">Yalta Conference</ref> in February
+                    of 1945, where they met with British Prime Minister <persName>Winston
+                        Churchill</persName> and Soviet Premier <persName>Joseph Stalin</persName>
+                    to discuss issues such as the Pacific War with Japan, the future political
+                    status of Eastern Europe, and what should be done with Germany following its
+                    surrender.</p>
+                <p>Stettinius also chaired the United States delegation to the <ref
+                        target="/milestones/1937-1945/un">United Nations Conference</ref>, held in
+                    San Francisco from April 25 to June 26, 1945, which brought together delegates
+                    from 50 Allied nations to create the United Nations.</p>
+                <p>He resigned his position as Secretary of State on June 27, 1945, to become the
+                    first U.S. Ambassador to the United Nations, a post which he held until
+                    resigning in June 1946 over what he saw as President Truman’s refusal to use the
+                    United Nations forum to resolve growing Soviet-American tensions.</p>
+                <p>Stettinius continued his interest in international issues after his resignation
+                    as U.S. Ambassador to the United Nations by heading the Liberia Company, which
+                    partnered U.S. financiers with the Liberian Government to provide funds for
+                    Liberia’s development. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Stettinius, Edward R. <hi rend="italic">The Diaries of Edward R.
+                            Stettinius, Jr., 1943-1946.</hi> Edited by Thomas M. Campbell and George
+                        C. Herring. New York: New Viewpoints, 1975.</bibl>
+                    <bibl>Walker, Richard Louis. "E.R. Stettinius, Jr.” In <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy,.</hi> Edited by Samuel
+                        Flagg Bemis. Vol. 14. New York: Cooper Square, 1965.</bibl>
+                    <bibl>Dallek, Robert. <hi rend="italic">Franklin D. Roosevelt and American
+                            Foreign Policy, 1932-1945.</hi> New York: Oxford University Press,
+                        1995.</bibl>
+                    <bibl>O’Sullivan, Christopher D. <hi rend="italic">The United Nations: A Concise
+                            History.</hi> Huntington, NY: Krieger, 2005.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

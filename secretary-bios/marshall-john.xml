@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Marshall</title>
+                <title type="short">John Marshall</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>President <persName>John Adams</persName> nominated <persName>John
+                    Marshall</persName> to be Secretary of State on <date when="1800-05-12">May 12,
+                        1800,</date> the same day that Adams dismissed <ref target="/departmenthistory/people/pickering-timothy">Timothy
+                    Pickering.</ref> The U.S. Senate confirmed Marshall as Secretary of State the
+                    next day. He served as Secretary of State from <date when="1800-06-06">June 6,
+                        1800</date>, until <date when="1801-02-04">February 4, 1801</date>, and then as
+                    <hi rend="italic">ad interim</hi> Secretary of State until March 4, 1801. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="marshall-john.jpg"/>
+                    <head>John Marshall, Fourth Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Marshall was raised on the Virginia frontier. He fought in the Revolutionary War,
+                    serving as a Captain in the Continental Army. He studied law at the College of
+                    William &amp; Mary and gained admission to the bar in 1780. A lifetime of public
+                    service commenced with his first electoral victory as a delegate to the Virginia
+                    General Assembly in 1782. Marshall served as a member of the Assembly until 1791
+                    and again from 1795 to 1797. He gained a seat on the State Executive Council
+                    from 1782 to 1784 and was an influential member of the Virginia Convention of
+                    1788, which ratified the <ref target="/milestones/1784-1800/convention-and-ratification">U.S.
+                    Constitution</ref>.</p>
+                <p>Marshall emerged as the Federalist Party leader in Virginia and gained election
+                    as a U.S. Representative in 1798. While serving as Secretary of State near the
+                    end of Adams’ presidential term, Marshall received a nomination to serve as
+                    Chief Justice of the Supreme Court. He served as Chief Justice until 1835. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Marshall began his diplomatic career as one of the three envoys appointed by
+                    President Adams to negotiate with French Foreign Minister Talleyrand in 1797.
+                    The mission failed, resulting in the <ref target="/milestones/1784-1800/xyz">XYZ
+                        Affair</ref> and the Quasi-War with France. Nonetheless, Marshall’s conduct
+                    and reporting about the scandal turned a diplomatic failure into a personal
+                    triumph as his reputation soared at home.</p>
+                <p>As Secretary of State, Marshall was
+                    less partisan and more loyal to President Adams than Pickering had been. Adams
+                    entrusted Marshall with considerable authority over foreign affairs,
+                    particularly so after Adams departed the newly established national capital at
+                    Washington for an eight-month stay in Massachusetts. Marshall’s deference to
+                    Adams further defined the position of the Secretary of State as a political
+                    subordinate of the President rather than the independent office that Pickering
+                    had imagined.</p>
+                <p>Secretary Marshall reasserted a policy of nonalignment regarding
+                    the European powers during a critical period. He split with other Federalists,
+                    such as <persName>Alexander Hamilton</persName>, and supported ongoing efforts to negotiate with
+                    France following the humiliating XYZ Affair. He backed the Convention of 1800
+                    between the United States and France, which finally ended the undeclared naval
+                    war between the two countries. In dealing with Britain, Marshall protested the
+                    British Navy’s unlawful seizure of U.S. shipping and impressment of U.S. seaman
+                    as well as the British courts’ tolerance of piracy against U.S. merchant
+                    vessels. Recognizing the limitations of U.S. naval power, Marshall begrudgingly
+                    approved ongoing payments to the Barbary pirates who continued to raid U.S.
+                    merchant vessels. He also experienced frustration when negotiating with the
+                    Spanish who disregarded U.S. neutrality rights and protested against U.S.
+                    support for anti-colonial uprisings in Spanish America.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Baker, Leonard. <hi rend="italic">John Marshall: A Life in Law.</hi> New
+                        York: Macmillan, 1974.</bibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 2. New York: Alfred A. Knopf, 1927. </bibl>
+                    <bibl>Beveridge, Albert J. <hi rend="italic">The Life of John Marshall</hi> 4
+                        vols. Boston: Houghton Mifflin, 1916-1919. </bibl>
+                    <bibl>Johnson, Herbert A., with Charles T. Cullen, Nancy G. Harris, et al., eds.
+                            <hi rend="italic">The Papers of John Marshall.</hi> 10 vols. to date.
+                        Chapel Hill: University of North Carolina Press, 1974-. </bibl>
+                    <bibl>Smith, Jean Edward. <hi rend="italic">John Marshall: Definer of a
+                        Nation.</hi> New York: Henry Holt, 1996.</bibl>
+                    <bibl>Stites, Francis N., <hi rend="italic">John Marshall: Defender of the
+                            Constitution.</hi> Boston: Little, Brown, 1981. </bibl>
+                    <bibl>Rudko, Frances Howell. <hi rend="italic">John Marshall and International
+                            Law: Statesman and Chief Justice.</hi> New York: Greenwood Press, 1991.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

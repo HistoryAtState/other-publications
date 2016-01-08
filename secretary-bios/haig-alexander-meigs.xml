@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Alexander Meigs Haig, Jr.</title>
+                <title type="short">Alexander Meigs Haig, Jr.</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Alexander Meigs Haig, Jr.</persName> was appointed Secretary of State
+                    by President <persName>Ronald Reagan</persName> and assumed the office on
+                    January 22, 1981. He served a relatively short time in office, facing many
+                    challenging situations before stepping down on July 5, 1982. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="haig-alexander-meigs.jpg"/>
+                    <head>Alexander Meigs Haig, Jr., 59th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p> Born and raised in Philadelphia, Haig attended the University of Notre Dame
+                    before transferring to the United States Military Academy at West Point. After
+                    graduating from the Academy in 1947, he embarked on a long and successful career
+                    in the military, serving with distinction in both <placeName>Korea</placeName>
+                    and in <placeName>Vietnam</placeName>.</p>
+                <p>Upon completing graduate studies at Georgetown University in 1962, he worked at
+                    the Pentagon under both Secretary of the Army <ref target="/departmenthistory/people/vance-cyrus-roberts">Cyrus Vance</ref> and
+                    Secretary of Defense <persName>Robert McNamara</persName>. In 1969 he became
+                    military adviser to <ref target="/departmenthistory/people/kissinger-henry-a">Henry Kissinger</ref>, and then Deputy Assistant to the President for
+                    National Security in 1971. He served as Chief of Staff for Presidents
+                    <persName>Richard Nixon</persName> and <persName>Gerald Ford</persName> in
+                    1973-74, and then became Supreme Allied Commander in Europe in 1974, a position
+                    that he held until he resigned on January 3, 1979. After two years in the
+                    private sector, he returned to government service when President Reagan selected
+                    him to be Secretary of State.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Secretary of State, Haig had hoped to restore the Department of State to the
+                    dominant position in foreign policy-making that it had lost during previous
+                    administrations. However, the United States faced many challenges during the
+                    time that Haig served as Secretary of State, including the Soviet presence in
+                    Afghanistan, the Solidarity movement in Poland, disputes with the People’s
+                    Republic of China over trade and Taiwan, escalating tensions between the United
+                    Kingdom and Argentina, and a new round of conflict between Israel, Lebanon, and
+                    Syria. He also had to deal with the intra-government turmoil that followed in
+                    the wake of the attempted assassination of President Reagan.</p>
+                <p>Haig did have some diplomatic successes, particularly in regards to relations
+                    with China, where he forged a balance that both stabilized relations with the
+                    PRC and allowed for the continuation of arms sales to the government on Taiwan.</p>
+                <p> He also strengthened the <ref target="/milestones/1945-1952/nato">NATO</ref>
+                    alliance and helped to re-orient the focus of U.S. foreign policy back toward
+                    the Soviet Union, both of which reflected the overall foreign policy priorities
+                    of the Reagan Administration.</p>
+                <p>Nevertheless, his efforts to broker diplomatic
+                    resolutions to the disputes over the Falkland Islands and in the Middle East did
+                    not succeed. Throughout his tenure as Secretary, Haig was overshadowed in
+                    foreign policy matters by other members of the Administration and was thus
+                    unable to fully control the Administration’s diplomatic process. He resigned
+                    from office after only 18 months.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bell, Coral. <hi rend="italic">The Reagan Paradox: American Foreign Policy
+                        in the 1980s.</hi> London: Edward Elgar Publishing Limited, 1989.</bibl>
+                    <bibl>Fischer, Beth. <hi rend="italic">The Reagan Reversal: Foreign Policy and
+                        the End of the Cold War.</hi> Columbia: University of Missouri Press,
+                        1997.</bibl>
+                    <bibl>Haig, Alexander M. Jr., with Charles McCarry <hi rend="italic">Inner
+                        Circles: How America Changed the World, A Memoir.</hi> New York: Warner
+                        Books, 1992.</bibl>
+                    <bibl>Haig, Alexander M., Jr. <hi rend="italic">Caveat: Realism, Reagan, and
+                        Foreign Policy. </hi> New York: Macmillan Publishing Company, 1984.</bibl>
+                    <bibl>Morris, Roger. <hi rend="italic">Haig, the General’s Progress.</hi> New
+                        York: Playboy Press, 1982.</bibl>
+                    <bibl>Schaller, Michael. <hi rend="italic">Reckoning with Reagan: America and
+                        Its President in the 1980s.</hi> New York: Oxford University Press,
+                        1992.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

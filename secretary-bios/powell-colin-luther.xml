@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Colin L. Powell</title>
+                <title type="short">Colin L. Powell</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Colin L. Powell</persName> was appointed Secretary of State by George
+                    W. Bush on <date when="2001-01-20">January 20, 2001</date>, after being
+                    unanimously confirmed by the U.S. Senate. He served for four years, leaving the
+                    position on <date when="2005-01-26">January 26, 2005</date>. He was the first
+                    African-American to serve as Secretary of State.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="powell-colin-luther.jpg"/>
+                    <head>Colin Luther Powell, 65th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Powell was born on April 5, 1937, in the New York City neighborhood of Harlem.
+                    The son of two Jamaican immigrants, he was raised in the South Bronx. He
+                    attended City College of New York, and it was there that he began his military
+                    service, joining the Reserve Officer Training Corps (ROTC). After his graduation
+                    in 1958, Powell was commissioned a second lieutenant in the U.S. Army. During
+                    his 35 years in the Army he served two tours in Vietnam, was stationed in West
+                    Germany and South Korea, and acted as President <persName>Ronald
+                        Reagan</persName>'s National Security Advisor from 1987 until 1989. In 1989
+                    he was promoted to the rank of general, and was appointed by President
+                        <persName>George H.W. Bush</persName> to the position of Chairman of the
+                    Joint Chiefs of Staff. In the four years Powell served in that capacity, he
+                    oversaw 28 crises, including Operation Desert Storm in 1991. After his
+                    retirement in 1993, he founded America's Promise, an organization which helps
+                    at-risk children. He was nominated for Secretary of State by President
+                        <persName>George W. Bush</persName> on <date when="2000-12-16">December 16,
+                        2000</date>.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on U.S. Diplomacy</head>
+                <p>At the beginning of his term, Powell placed an emphasis on reaffirming diplomatic
+                    alliances throughout the world, supporting a national missile defense system,
+                    working towards peace in the Middle East, and prioritizing sanctions instead of
+                    force in potential hot spots such as <placeName>Iraq</placeName>. He also
+                    focused on reinvigorating U.S. diplomacy through reforms in the Department of
+                    State’s organizational culture and an infusion of resources for personnel,
+                    information technology, security, and facilities.</p>
+                <p>Powell's term, however, was soon dominated by the challenges the Bush
+                    Administration faced after the September 11, 2001, terrorist attacks. Powell was
+                    one of the foremost supporters of taking swift military action against al-Qaeda
+                    and demanded immediate cooperation from <placeName>Afghanistan</placeName> and
+                        <placeName>Pakistan</placeName> in the U.S. search for those who were
+                    complicit in the attacks. </p>
+                <p>When the Administration's attention shifted to Iraq and the possibility that
+                        <persName>Saddam Hussein</persName> was manufacturing weapons of mass
+                    destruction (WMD), Powell pressed to have UN inspectors investigate. In February
+                    2003, Powell presented intelligence to the UN that supported the claim that
+                    Iraq had weapons of mass destruction and could produce more.
+                    Subsequently, the Administration moved quickly toward preemptive military action
+                    against Iraq, despite Powell’s advice that war should not begin until a large
+                    coalition of allies and a long-term occupation plan were in place. In 2004, some of 
+                    the intelligence that Powell had brought before the UN in 2003 was found to be 
+                    erroneous.</p>
+                <p>Although Afghanistan and Iraq demanded a great deal of Powell’s attention during
+                    his tenure, he pursued other important U.S. foreign policy initiatives and
+                    grappled with various crises that arose between 2001 and 2005. After initially
+                    difficult Administration interactions with Russia and China, Powell worked to
+                    improve both bilateral relationships. Prominent among these efforts were
+                    management of U.S. withdrawal from the U.S.-Russian Anti-Ballistic Missile
+                    treaty and the signing of the Moscow Treaty on Strategic Offensive Reductions in
+                    May 2002. </p>
+                <p>In the area of foreign aid, Powell pushed the Administration to increase its
+                    commitment to the international fight against AIDS, and oversaw a doubling of
+                    development assistance funding. He also pressed for international cooperation to
+                    halt the nuclear weapons programs of North Korea and Iran, and the
+                    Administration achieved an important nonproliferation success when Libya agreed
+                    to give up its weapons programs in 2003. </p>
+                <p>Powell confronted a variety of international crises as well, including a near war
+                    between nuclear powers <placeName>India</placeName> and
+                        <placeName>Pakistan</placeName> in 2001-2002, domestic turmoil in
+                        <placeName>Liberia</placeName> (2003) and <placeName>Haiti</placeName>
+                    (2004), and the Indian Ocean tsunami in 2004. His continued belief that Middle
+                    East stability required a resolution of the Israeli-Palestinian conflict led him
+                    to advocate the 2002 “Road Map” that aimed at creating an independent
+                    Palestinian state at peace with Israel. Although President Bush endorsed the
+                    plan, Powell was not able to persuade the Administration to make a strong
+                    commitment to its implementation.</p>
+                <p>On <date when="2004-11-16">November 15, 2004</date>, Powell announced his
+                    resignation. After stepping down as Secretary of State, he returned to a busy
+                    life in the private sector continuing his work with America's Promise Alliance.
+                    He serves on the Boards of Directors of the Council on Foreign Relations, the 
+                    Eisenhower Fellowship Program, and the Powell Center at the City College of New 
+                    York.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl> Allen, Mike. "Powell Announces His Resignation." <hi rend="italic">Washington Post</hi>, 16 November 2004. A1. </bibl>
+                    <bibl>Deyoung, Karen. <hi rend="italic">Soldier: The Life of Colin Powell</hi>.
+                        New York: Alfred A. Knopf, 2006.</bibl>
+                    <bibl>Powell, Colin, and Joseph Persico. <hi rend="italic">My American
+                            Journey</hi>. New York: Ballantine Books, 1995.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

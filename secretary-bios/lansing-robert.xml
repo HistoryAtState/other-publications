@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Robert
+                    Lansing</title>
+                <title type="short">Robert Lansing</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Robert Lansing</persName> served as Secretary of State from June 24,
+                    1915, until February 13, 1920. Lansing’s background in international law
+                    afforded him a wealth of foreign relations experience, which influenced his
+                    tenure at the Department of State. His most important achievements included his
+                    oversight of U.S. foreign policy during the First World War and his negotiation
+                    of a major agreement between the United States and Japan. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="lansing-robert.jpg"/>
+                    <head>Robert Lansing, 42rd Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born in Watertown, New York, on October 17, 1864, Lansing graduated from Amherst
+                    College in 1886 and began practicing law in 1889. In 1890 he married Eleanor
+                    Foster, Secretary of State John Watson Foster’s daughter. Lansing was uncle to
+                    both Secretary of State John Foster Dulles and Director of the Central
+                    Intelligence Agency Allen Welsh Dulles.</p>
+                <p>He worked for the Lansing &amp; Lansing law firm in Watertown until 1907. During
+                    his tenure there, he became an authority on international law and represented
+                    the United States Government in many international hearings.</p>
+                <p>He served as Associate Counsel for the United States in the Bering Sea
+                    Arbitration (1892-1893), Counsel for the United States Bering Sea Claims
+                    Commission (1896-97), Solicitor for the U.S. Government before the Alaskan
+                    Boundary Tribunal (1903), Counsel for the North Atlantic Fisheries in the
+                    Arbitration at The Hague (1909-10), and as Agent of the United States in the
+                    American and British Claims Arbitration (1912).</p>
+                <p>Lansing was also instrumental in founding the American Society of International
+                    Law in 1906, and in establishing the <hi rend="italic">American Journal of
+                        International Law</hi> in 1907.</p>
+                <p>He became Counselor of the Department of State in 1914 and served as <hi
+                        rend="italic">ad interim</hi> Secretary of State in the Woodrow Wilson
+                    administration from June 9, 1915, until his appointment as Secretary of State on
+                    June 24, 1915.</p>
+                <p>After leaving the Department of State, Lansing continued working in the field of
+                    international law in the Washington, D.C. area until his death on October 30,
+                    1928.</p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Lansing’s influence on U.S. diplomacy extended beyond his tenure as Secretary of
+                    State due to the important role he played in helping to settle a number of
+                    high-profile international disputes. This influence only grew once Lansing
+                    became Secretary.</p>
+                <p>While Secretary he was faced with the significant foreign policy challenges
+                    related to the U.S. position in the First World War. Initially, Lansing
+                    advocated benevolent neutrality in the European conflict and strongly protested
+                    British blockades and contraband practices, while advocating for the principles
+                    of the freedom of the seas and the rights of neutral nations. Lansing eventually
+                    came to favor U.S. participation in the war and accompanied President
+                        <persName>Woodrow Wilson</persName> to Europe as one of the lead U.S.
+                    negotiators at the <ref target="/milestones/1914-1920/paris-peace">Paris Peace
+                        Conference</ref> in 1919.</p>
+                <p>As Secretary of State, Lansing also signed the Treaty of 1916 for the purchase of
+                    the Danish West Indies and the Lansing-Ishii Agreement of 1917 with Japan--a
+                    pledge between the United States and Japan to uphold the <ref
+                        target="/milestones/1899-1913/hay-and-china">Open Door Policy</ref> in
+                    China, while recognizing that Japan had special interests in China.</p>
+                <p>Lansing is also credited with establishing the Diplomatic Security Service,
+                    having hired the Department of State’s first special agents, who were assigned
+                    to observe Central Power activities in the United States before and during the
+                        <ref target="/milestones/1914-1920/wwi">First World War</ref>. Due to
+                    disagreements over the League of Nations and President Wilson’s inability to
+                    perform his presidential duties following a stroke, Lansing resigned on February
+                    13, 1920.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Clements, Kendrick A. <hi rend="italic">The Presidency of Woodrow
+                            Wilson.</hi> Lawrence: University Press of Kansas, 1992.</bibl>
+                    <bibl>Lansing, Robert. <hi rend="italic">The Big Four and Others of the Peace
+                            Conference.</hi> Boston: Houghton Mifflin, 1921.</bibl>
+                    <bibl>____________. <hi rend="italic">The Peace Negotiations: A Personal
+                            Narrative.</hi> Boston: Houghton Mifflin, 1921.</bibl>
+                    <bibl>Smith, Daniel Malloy. <hi rend="italic">Robert Lansing and American
+                            Neutrality, 1914-1917.</hi> New York: Da Capo, 1958.</bibl>
+                    <bibl>United States Department of State. <hi rend="italic">The Lansing Papers,
+                            1914-1920.</hi> Washington, D.C.: United States Government Printing
+                        Office, 1939-1940.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

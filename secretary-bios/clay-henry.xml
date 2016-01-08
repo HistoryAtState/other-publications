@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Henry Clay</title>
+                <title type="short">Henry Clay</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Henry Clay was appointed Secretary of State by President <persName>John Quincy
+                        Adams</persName> on <date when="1825-03-07">March 7, 1825</date>. Clay
+                    entered his duties on the same day and served until <date when="1829-03-03">March 3, 1829.</date> Famous as the “Great Pacificator” for his
+                    contributions to domestic policy, he emphasized economic development in his
+                    diplomacy. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="clay-henry.jpg"/>
+                    <head>Henry Clay, Nineth Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Clay was born in Hanover County, Virginia. After a minimal formal education, Clay
+                    read law and gained admission to the bar in both Virginia and Kentucky in 1797.
+                    He became a leading real estate and business lawyer in Frankfort, Kentucky and
+                    soon embarked on a career in politics.</p>
+                <p>Clay was elected to the Kentucky House of Representatives in 1803 and served to
+                    1806. Next, he served as Senator from Kentucky, from 1806 to 1807, and then
+                    returned to the State House of Representatives, from 1807 to 1809. In 1810 Clay
+                    returned to the Senate and served until 1811.</p>
+                <p>He became a leader of an anti-British group of Congressmen known as the War Hawks
+                    while a U.S. Representative and Speaker of the House from 1811 to 1814. Clay
+                    went on to serve as a U.S. Representative from 1815 to 1821 and from 1823 to
+                    1825, and again as Speaker of the House from 1815 to 1820 and from 1823 to 1825.</p>
+                <p>After his tenure as Secretary of State, Clay returned to the U.S. Senate from
+                    1831 to 1842 and from 1849 to 1852. Clay’s fame as a compromiser stemmed from
+                    his involvement with the Missouri Compromise, the Comprise Tariff of 1833, and
+                    the Compromise of 1850. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Clay’s appointment as Secretary of State stirred controversy. His bid for the
+                    Presidency in the election of 1824 ended with no clear majority for any
+                    candidate. Clay lent his support to <persName>John Quincy Adams</persName>
+                    instead of <persName>Andrew Jackson,</persName> thereby violating the
+                    instructions of the Kentucky legislature. Adams was then selected as President
+                    by the House of Representatives.</p>
+                <p>Due to the informal precedent that the Secretary of State would eventually assume
+                    the presidency, Jackson supporters portrayed Clay’s subsequent appointment as
+                    Secretary of State as a “corrupt bargain.” Nonetheless, Clay had diplomatic
+                    experience and an agenda to pursue as Secretary of State.</p>
+                <p>He had served on the Peace Commission following the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref> that negotiated
+                    the Treaty of Ghent with Great Britain in 1814. As a Commissioner, Clay pressed
+                    to prevent the British from gaining free navigation on the Mississippi River.
+                    Clay based his foreign policy plan on the so-called “American System,”
+                    emphasizing federal support of national economic development. To this end, Clay
+                    achieved a number of important successes as Secretary of State.</p>
+                <p>Clay oversaw the settlement of twelve commercial treaties, more than all earlier
+                    administrations, and developed economic ties with the newly independent Latin
+                    American republics. The British Government agreed to pay an indemnity for slaves
+                    freed during the War of 1812.</p>
+                <p>Clay’s political negotiations, however, produced ample frustration. The
+                    Government of Mexico opted to expel Clay’s minister, <persName>Joel
+                    Poinsett</persName>, after Poinsett offered to purchase Texas. Furthermore, U.S.
+                    delegates arrived too late to attend an important diplomatic event in Latin
+                    America, the Inter-American Congress at Panama in 1826.</p>
+                <p>Another disappointment came when Clay failed to settle continuing boundary
+                    disputes with Great Britain. In 1827 the United States and Great Britain merely
+                    agreed to the joint occupation of Oregon. Despite such setbacks and the
+                    remaining bitterness over Clay’s appointment as Secretary of State, Clay's emphasis
+                    upon U.S. economic expansionism would prove to be a harbinger of modern U.S.
+                    diplomacy.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 4. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Hopkins, James F., with Mary W.M. Hargreaves, eds. <hi rend="italic">The
+                            Papers of Henry Clay.</hi> 10 vols and Supplement. Lexington: University
+                        Press of Kentucky, 1959-1992. </bibl>
+                    <bibl>Hoskins, H.L. “The Hispanic American Policy of Henry Clay, 1816-1828.” <hi rend="italic">Hispanic American Historical Review</hi> 7 (November
+                        1927): 460-78. </bibl>
+                    <bibl>Remini, Robert V. <hi rend="italic">Henry Clay: Statesman for the
+                        Union.</hi> New York: W.W. Norton, 1991. </bibl>
+                    <bibl>Van Deusen, Glyndon G., <hi rend="italic">The Life of Henry Clay.</hi>
+                        Boston: Little, Brown, and Company, 1937. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

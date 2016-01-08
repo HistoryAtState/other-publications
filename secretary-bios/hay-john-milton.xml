@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Hay</title>
+                <title type="short">John Hay</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>John Milton Hay</persName> was appointed Secretary of State in
+                    President <persName>William McKinley</persName>’s Cabinet on September 30, 1898,
+                    and entered into duty the same day. He continued in office under President
+                        <persName>Theodore Roosevelt</persName> following McKinley’s assassination
+                    in 1901 and served until his death in office on July 1, 1905. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="hay-john-milton.jpg"/>
+                    <head>John Milton Hay, 37th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Hay was born in Salem, Indiana in 1838 to a physician who had moved westward from
+                    Virginia, living for a time in Kentucky and eventually settling in Indiana.
+                    Educated first at home and then at a private academy, Hay attended Illinois
+                    State College in 1852. Three years later, he enrolled in Brown University and
+                    graduated in 1858. Hay studied law in the office of his uncle and was admitted
+                    to the Illinois bar in 1861. During this time, he met <persName>Abraham
+                    Lincoln</persName> and played a small part in his presidential campaign. After
+                    Lincoln’s election, the new President selected Hay as his private secretary.</p>
+                <p>Following the U.S. Civil War, Hay served in multiple diplomatic posts, including those
+                    of Paris, Vienna, and Madrid. In 1870, he left the diplomatic service to write.
+                    He would eventually publish a ten-volume study of Lincoln, co-written with John
+                    Nicolay.</p>
+                <p>Hay returned to public service in 1896 when newly elected President McKinley
+                    appointed him Ambassador to Great Britain. He was offered the position as
+                    Secretary of State while the United States negotiated the peace treaty with Spain after
+                    winning the Spanish-American War. He accepted the offer and entered into duty in
+                    September of 1898. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Hay had a significant influence on the direction of U.S. foreign policy while
+                    serving in President McKinley’s Cabinet. He faced the aftermath of the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American
+                    War</ref> and the annexation of the <ref target="/milestones/1899-1913/war">Philippine Islands</ref>, which amplified U.S. interest in Asia.</p>
+                <p>As Secretary of State, Hay was a proponent of increased trade through the <ref target="/milestones/1899-1913/hay-and-china">"Open Door"</ref> policy. He
+                    worked to encourage stability in China and to counteract the rising nationalism
+                    that threatened foreign interests in China, which included the challenge of the
+                    Boxer Rebellion of 1900.</p>
+                <p>As Secretary, Hay also secured the settlement of the Alaska-Canada boundary
+                    controversy. When President McKinley was assassinated, Hay stayed on as
+                    Secretary of State to serve under President Theodore Roosevelt. Roosevelt and
+                    Hay had few policy differences, although the new President wielded greater
+                    influence over foreign policy than his predecessor.</p>
+                <p>Hay helped secure, by treaty, the right for the United States to construct and
+                    defend the <ref target="/milestones/1899-1913/panama-canal">Panama Canal</ref> in
+                    1903.</p>
+                <p>Although he suffered from deteriorating health, Hay played an active role in the
+                    Roosevelt administration during the last two years of his tenure. He died in
+                    office in 1905. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped. </hi>New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell. </hi>Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: William Jennings Bryan</title>
+                <title type="short">William Jennings Bryan</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p> President <persName>Woodrow Wilson</persName> appointed <persName>William
+                        Jennings Bryan</persName> Secretary of State on March 5, 1913. He entered
+                    into duty the same day and served as Secretary until his resignation on
+                    June 9, 1915. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="bryan-william-jennings.jpg"/>
+                    <head>William Jennings Bryan, 41st Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Bryan was born in Salem, Illinois on March 19, 1860. He graduated from Illinois
+                    College in 1881 (A.M. 1884), and from the Union College of Law in 1883. He was
+                    admitted to the Illinois State Bar in 1883 and practiced law in Jacksonville,
+                    Illinois prior to moving to Lincoln, Nebraska in 1887.</p>
+                <p>Bryan won election to the U.S. House of Representatives in 1890 and served until
+                    1895, championing Populist causes such as the free coinage of silver, national
+                    income tax, and direct election of Senators. After mounting an unsuccessful bid
+                    for the U.S. Senate in 1894, Bryan returned to Nebraska and edited the <hi rend="italic">Omaha World-Herald</hi>. Although not a declared candidate for
+                    the 1896 presidential race, Bryan secured the Democratic nomination following
+                    the delivery of his “Cross of Gold” speech but lost the election to Republican
+                    candidate <persName>William McKinley</persName>. </p>
+                <p>The Democratic Party nominated Bryan again as its candidate for President in 1900
+                    and 1908, although he lost both elections. President Woodrow Wilson selected
+                    Bryan, one of the elder statesmen of the Democratic Party, as his Secretary of
+                    State following the 1912 presidential election. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Bryan’s major accomplishment as Secretary was his negotiation of peace treaties
+                    that pledged the 30 signatories to refrain from hostilities during arbitration
+                    of disputes. He also negotiated the Bryan–Chamorro Treaty in 1914 (ratified by
+                    the Senate in 1916), which permitted the United States the latitude to construct
+                    an isthmian canal across Nicaragua and secured rights to build naval bases at the Gulf
+                    of Fonseca and on the Corn Islands. </p>
+                <p>Bryan’s position on the rights of neutrals during wartime placed him at odds with
+                    President Wilson. Declaring U.S. neutrality following the outbreak of <ref target="/milestones/1914-1920/foreword">World War I</ref> in August 1914,
+                    Wilson adhered to traditional concepts governing the recognition of blockades,
+                    neutral transport of contraband goods, and travel of civilians to belligerent
+                    nations on combatant ships. Bryan asserted that technological innovations such
+                    as submarines had altered the nature of international law and made it impossible
+                    to protect U.S. citizens traveling into a war zone, and he attempted to persuade
+                    Wilson to prohibit such travel.</p>
+                <p>The German practice of unrestricted submarine warfare, which Wilson perceived as
+                    a violation of the rights of neutrals, resulted in the sinking of the British
+                    passenger liner <ref target="/milestones/1914-1920/wwi">Lusitania</ref> in May
+                    1915 and the deaths of 128 U.S. citizens. Wilson responded by sending the German
+                    Government a strongly worded protest note affirming the right of neutrals to
+                    transit on the high seas. Bryan insisted that Wilson send a similar protest to
+                    Britain for its violations of neutral rights, an act the president rejected.
+                    Wilson’s dispatch of a second note demanding an end to German submarine warfare
+                    prompted Bryan to resign on June 9, 1915. </p>
+                <p>Following his resignation, Bryan continued to write and lecture and opposed
+                    Clarence Darrow as counsel in the Scopes trial. Bryan died on July 26, 1925.</p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Clements, Kendrick A. <hi rend="italic">William Jennings Bryan: Missionary
+                            Isolationist.</hi> Knoxville: University of Tennessee Press, 1983.</bibl>
+                    <bibl>Coletta, Paolo E. <hi rend="italic">William Jennings Bryan.</hi> 3 vols.
+                        Lincoln: University of Nebraska Press, 1964–1969.</bibl>
+                    <bibl>Findling, John E. <hi rend="italic">Dictionary of American Diplomatic
+                            History.</hi> Westport, CT: Greenwood Press, 1980.</bibl>
+                    <bibl>Kazin, Michael. <hi rend="italic"> A Godly Hero: The Life of William
+                            Jennings Bryan.</hi> New York: Knopf, 2006.</bibl>
+                    <bibl>Link, Arthur S. <hi rend="italic">Wilson.</hi> 5 vols. Princeton:
+                        Princeton University Press, 1947–1965.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Dean Gooderham
+                    Acheson</title>
+                <title type="short">Dean Gooderham Acheson</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>United States Department of State Publication </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>Dean Gooderham Acheson</persName> served as Secretary of State from
+                    January 21, 1949, through January 20, 1953, and exerted significant influence on
+                    U.S. foreign policy during his tenure. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="acheson-dean-gooderham.jpg"/>
+                    <head>Dean Gooderham Acheson, 51st Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Born on April 11, 1893, Acheson grew up in Middletown, Connecticut, and attended
+                    the Groton School, followed by Yale University and then Harvard Law School,
+                    where he was elected to the Harvard Law Review.</p>
+                <p>In his early career, Acheson clerked for Supreme Court Justice <persName>Louis
+                        Brandeis</persName> and then joined the law firm Covington and Burling prior
+                    to entering the <persName>Franklin D. Roosevelt</persName> administration as
+                    Under Secretary of the Treasury. </p>
+                <p>In 1941, Acheson began his career at the Department of State as Assistant
+                    Secretary of State for Economic Affairs, a position that gave him a front-row
+                    seat to the increasing tensions between the United States and Japan that led to
+                    war. In this capacity, Acheson oversaw the U.S. oil embargo of Japan. </p>
+                <p>After World War II, Acheson remained in the Truman administration as Under
+                    Secretary of State for Secretary of State <ref
+                        target="/departmenthistory/people/byrnes-james-francis">James F.
+                        Byrnes</ref>. In the 1940s, Acheson also represented the United States in
+                    negotiations that led to the creation of the United Nations Relief and
+                    Rehabilitation Administration, the Food and Agriculture Organization, and the
+                    International Monetary Fund. Acheson was appointed Secretary of State by
+                    President <persName>Harry S. Truman</persName> on January 21, 1949. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p> As Secretary of State, Acheson played an important role in shaping U.S. policy
+                    during the early Cold War. Acheson enjoyed a good working relationship with
+                    President Harry S. Truman, who often allowed Acheson to be the first official to
+                    speak on record about U.S. foreign policy decisions. </p>
+                <p> Although Acheson supported the containment of communism and the tenets of the
+                        <ref target="/departmenthistory/short-history/truman"> Truman
+                    Doctrine</ref>, he was also a realist who recognized that the Soviet Union was
+                    not only an ideological opponent, but also a viable global power that had to be
+                    viewed as a serious geopolitical challenge to U.S. interests. This belief shaped
+                    Acheson’s approach to the many foreign policy challenges that faced the United
+                    States during his tenure.</p>
+                <p>Chief among these was the question of what to do with Germany and how to prevent
+                    future Soviet influence there. To this end, Acheson supported the formation of
+                    the <ref target="/milestones/1945-1952/nato">North Atlantic Treaty Organization
+                        (NATO)</ref> in 1949, a defensive alliance geared to counter the Soviet
+                    threat to Europe while ensuring that the western part of Germany was tied firmly
+                    to the West.</p>
+                <p>Although Europe was Acheson’s primary focus, he also faced questions related to
+                    international control of atomic weapons; the fall of mainland China to the
+                    Communist forces of Mao Zedong and the retreat of the U.S.-backed Nationalists
+                    to Taiwan; the rebuilding of Japan as a cornerstone of U.S. policy in East Asia;
+                    the Korean War; and Soviet designs on Yugoslavia, the Middle East, and Asia.</p>
+                <p>Senator Joseph McCarthy ultimately singled Acheson out for “losing” China to the
+                    communists.</p>
+                <p>Acheson continued to have influence on U.S. foreign policy after leaving the
+                    Department of State. During the Kennedy administration, Acheson sat on the
+                    Executive Committee created to address the <ref
+                        target="/departmenthistory/short-history/cubanmissile">Cuban Missile
+                        Crisis</ref>.</p>
+                <p>Later in the decade, Acheson served as an advisor to the <persName>Lyndon B.
+                        Johnson</persName> administration for how to disengage from the war in
+                    Vietnam. Acheson died at the age of 78 in 1971. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Beisner, Robert L. <hi rend="italic">Dean Acheson: A Life in the Cold
+                            War.</hi> New York: Oxford University Press, 2006.</bibl>
+                    <bibl>Mihalkanin, Edward S. <hi rend="italic">American Statesmen: Secretaries of
+                            State from John Jay to Colin Powell</hi>. Westport, CT: Greenwood Press,
+                        2004. </bibl>
+                    <bibl>Smith, Gaddis. "Dean Acheson."<hi rend="italic">The American Secretaries
+                            of State and Their Diplomacy</hi>, edited by Samuel Flagg Bemis. Vol.
+                        16. New York: Cooper Square, 1972.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: James Monroe</title>
+                <title type="short">James Monroe</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>
+                    <persName>James Monroe</persName> was appointed by President <ref target="/departmenthistory/people/madison-james">James Madison</ref> as
+                    Secretary of State on <date when="1811-04-02">April 2, 1811.</date> Monroe
+                    assumed duty on April 6, 1811, and served until <date when="1817-03-03">March 3,
+                        1817,</date> with a brief period from October 1, 1814, to February 28, 1815,
+                    as <hi rend="italic">ad interim</hi> Secretary of State. Monroe had a
+                    prestigious military career before embarking upon a distinguished career in
+                    public service. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="monroe-james.jpg"/>
+                    <head>James Monroe, Seventh Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Monroe was born to a plantation family in Westmoreland County, Virginia. He began
+                    attending Campbell Academy when he was eleven years old and entered the College
+                    of William and Mary at sixteen. In 1775 he enlisted in the Third Virginia
+                    Infantry and then fought under <persName>George Washington’s</persName> command
+                    during the Revolutionary War. Monroe was wounded during the Battle of Trenton,
+                    and eventually reached the rank of Lieutenant Colonel.</p>
+                <p>Following the war, he returned to the College of William &amp; Mary to study law
+                    at the suggestion of <persName>Thomas Jefferson.</persName> Monroe’s election to
+                    the Virginia House of Delegates in 1782 began a long series of public
+                    appointments. Among many other positions including Secretary of State, Monroe
+                    served as a member of the Congress of the Confederation from 1783 until 1786, a
+                    U.S. Senator from 1790 until 1794, Governor of Virginia from 1799 until 1802 and
+                    in 1811, and U.S. President from 1817 until 1824.</p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Monroe conducted numerous diplomatic missions addressing the most critical
+                    international threats facing his generation. President <persName>George
+                        Washington</persName> appointed Monroe Minister to
+                        <placeName>France</placeName> in 1794. <ref target="/milestones/1784-1800/jay-treaty">Jay’s Treaty</ref> frustrated
+                    Monroe’s efforts to retain cordial relations with the French Government and he
+                    was recalled in 1796.</p>
+                <p>Monroe returned to France in 1803 on a successful mission to assist
+                        <persName>Robert Livingston</persName> with the <ref target="/milestones/1801-1829/louisiana-purchase">Louisiana Purchase</ref>
+                    negotiations. Monroe also served as Minister to Britain from 1803 until 1807, a
+                    period complicated by disputes over U.S. neutrality rights. In 1805 Monroe
+                    traveled to Spain, intending to win recognition of the U.S. possession of West
+                    Florida. The United States claimed the territory as part of the Louisiana
+                    Purchase, but Monroe could not gain the consent of the Spanish Government.</p>
+                <p> Monroe joined with Special Commissioner <persName>William Pinkney </persName>in
+                    1806 in the effort to halt British impressment of U.S. sailors and to secure
+                    neutral trading rights. The proposed Monroe-Pinkney Treaty, however, failed to
+                    address impressments, and President Jefferson therefore declined to forward the
+                    treaty to the Senate.</p>
+                <p>While serving as Secretary of State in 1811, Monroe became convinced that a
+                    declaration of war against Great Britain was the best option to change offensive
+                    British policies. Along with Madison, Monroe encouraged Congress to issue a war
+                    declaration, which came on June 17, 1812. Monroe skillfully managed the
+                    expansion of the U.S. military occupation of Florida and served as acting
+                    Secretary of War during the <ref target="/milestones/1801-1829/war-of-1812">War of
+                        1812</ref>. </p>
+                <p>Although there would be no clear victor, the United States emerged from the war
+                    with enhanced international prestige. As President, Monroe’s main diplomatic
+                    challenges stemmed from the recession of the Spanish Empire in the Americas and
+                    Russian Tsar Alexander’s hopes to populate the Oregon Coast. Monroe responded
+                    effectively. In 1819 he skillfully managed the total <ref target="/milestones/1801-1829/florida">Acquisition of Florida</ref>.</p>
+                <p> Along with his influential Secretary of State <ref target="/departmenthistory/people/adams-john-quincy">John Quincy
+                        Adams,</ref> Monroe issued the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>, which forewarned the imperial European powers
+                    against interfering in the affairs of the newly independent Latin American
+                    states or potential U.S. territories in the Western hemisphere. Adhering to the
+                    intellectual underpinnings of the doctrine, Monroe granted diplomatic
+                    recognition to newly-independent Latin American republics. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Ammon, Henry. <hi rend="italic">James Monroe: A Bibliography.</hi>
+                        Westport, CT: Meckler, 1991.</bibl>
+                    <bibl>_______. <hi rend="italic">James Monroe: The Quest for National
+                            Identity.</hi> New York: McGraw-Hill, 1971. Reprint 1990 (University of
+                        Virginia Press). </bibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 3. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Cunningham, Noble E. <hi rend="italic">The Presidency of James
+                            Monroe.</hi> Lawrence: University Press of Kansas, 1996. </bibl>
+                    <bibl>Hamilton, Stanislaus Murray, ed. <hi rend="italic">The Writings of James
+                            Monroe, Including a Collection of His Public and Private Papers and
+                            Correspondence Now for the First Time Printed.</hi> 7 vols. New York:
+                        G.P. Putnam’s Sons, 1898-1903. </bibl>
+                    <bibl>May, Ernest R. <hi rend="italic">The Making of the Monroe Doctrine.</hi>
+                        Cambridge: Harvard University Press, 1975. </bibl>
+                    <bibl>Preston, Daniel and Marlena C. DeLong, eds. <hi rend="italic">The Papers
+                            of James Monroe: A Documental History of the Presidential Tours of James
+                            Monroe, 1817, 1818, 1819.</hi> Vol. 1. Westport, CT: Greenwood Press,
+                        2003.</bibl>
+                    <bibl>Perkins, Dexter. <hi rend="italic">A History of the Monroe Doctrine.</hi>
+                        Boston: Little, Brown, 1963.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

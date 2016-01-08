@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Robert Smith</title>
+                <title type="short">Robert Smith</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Robert Smith served as Secretary of State under President <ref target="/departmenthistory/people/madison-james">James Madison</ref> from
+                        <date when="1809-03-06">March 6, 1809</date>, until <date when="1811-04-01">April 1, 1811.</date> Smith’s controversial appointment and clashes with
+                    Madison influenced his service as Secretary of State. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="smith-robert.jpg"/>
+                    <head>Robert Smith, Sixth Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Smith was born in Lancaster, Pennsylvania. His family relocated to Baltimore,
+                    Maryland, where his father became a leading merchant. Smith graduated from the
+                    College of New Jersey (now Princeton University) in 1781. After serving briefly
+                    as a Private in the Continental Army, Smith studied law, joined the Maryland
+                    bar, and headed a leading admiralty practice in Baltimore.</p>
+                <p>Smith served as a presidential elector of Maryland in 1789. He became a member of
+                    the Maryland Senate in 1793 and then the Maryland House of Delegates in 1796,
+                    where he served until 1800. In 1798 he was also elected to the Baltimore City
+                    Council. Recognizing Smith’s knowledge of maritime law, President <ref target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    appointed him Secretary of the Navy in 1801, a position he occupied until he
+                    became Secretary of State in 1809. </p>
+            </div>
+            <div type="section" xml:id="influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Smith’s difficult relationship with President <persName>James Madison</persName>
+                    began upon his appointment as Secretary of State. Madison’s first choice for the
+                    position was <persName>Albert Gallatin,</persName> Secretary of the Treasury.
+                    However, Smith’s supporters in the Senate, including his brother Samuel Smith,
+                    balked at the selection of foreign-born Gallatin and advanced Robert Smith.</p>
+                <p>When Smith assumed the position of Secretary of State, Madison and Gallatin were
+                    poised to undermine his authority and seek his ouster. By remaining close to
+                    Madison’s rivals in the Senate, Smith ensured a continuing climate of disfavor.
+                    Madison, who had served as Secretary of State for eight years, did not trust
+                    Smith’s competence in the position and redrafted many of Smith’s diplomatic
+                    notes.</p>
+                <p> Smith’s major diplomatic mission to improve relations with Great Britain proved
+                    a failure. Advised by Madison, Smith entered negotiations with David M. Erskine,
+                    the British Minister at Washington. The two intended to stabilize relations
+                    between the United States and Britain by restoring neutral trading rights during
+                    the <ref target="/milestones/1801-1829/napoleonic-wars">Napoleonic War</ref>.</p>
+                <p> Unfortunately, Erskine overstretched his authority, offered too many
+                    concessions, and failed to convey British Foreign Minister George Canning’s
+                    central requirement for an agreement: that the United States agree not to trade
+                    with the French for the duration of Britain’s war with France. This omission
+                    doomed the 1809 Smith-Erskine Agreement, which stipulated a cancellation of the
+                    British Orders in Council respecting the United States and the opening of U.S.
+                    trade with Britain. Canning informed the House of Commons that Erskine had
+                    violated his instructions and that the agreement would not be upheld. When
+                    Madison and Smith finally read Canning’s instructions to Erskine, they concluded
+                    that Canning had never intended to reach a settlement. Frustration over the
+                    agreement’s failure helped propel the two countries into the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>.</p>
+                <p>In March 1811 Gallatin asked Madison to dismiss Smith from the Cabinet and
+                    threatened to otherwise resign. Madison consented and offered Smith the post of
+                    Minister to Russia, hoping to quash Smith’s future chances at high office.</p>
+                <p>Smith refused the mission and retaliated in a published address, hoping to topple
+                    the Madison Administration. However, like Edmund Randolph who had criticized
+                    President <persName>George Washington</persName>, Smith was unable to tarnish
+                    the public prestige of the Presidency. He resigned on April 1, 1811, and did not
+                    return to government service. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Armstrong, Thom M. <hi rend="italic">Politics, Diplomacy and Intrigue in
+                            the Early Republic: The Cabinet Career of Robert Smith, 1801-1811.</hi>
+                        Dubuque: Kendall/Hunt, 1991. </bibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 3. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>DeConde, Alexander. <hi rend="italic">The American Secretary of State: An
+                            Interpretation.</hi> New York: Frederick A. Praeger, 1962. </bibl>
+                    <bibl>Perkins, Bradford. “George Canning, Great Britain, and the United States,
+                        1807-1809,” <hi rend="italic">The American Historical Review</hi> 63 (October
+                        1957): 1-22. </bibl>
+                    <bibl>Varg, Paul A. <hi rend="italic">Foreign Policies of the Founding
+                            Fathers.</hi> East Lansing: Michigan State University Press, 1963.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

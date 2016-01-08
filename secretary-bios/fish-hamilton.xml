@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Hamilton Fish</title>
+                <title type="short">Hamilton Fish</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Hamilton Fish was appointed Secretary of State by President <persName>Ulysses S.
+                        Grant</persName> on March 11, 1869, and began his duties on March 16. Fish
+                    served until March 11, 1877. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="fish-hamilton.jpg"/>
+                    <head>Hamilton Fish, 26th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>
+                    <persName>Fish</persName> was born in New York, New York, on August 3,
+                    1808, and graduated from Columbia University in 1827. He became a lawyer and
+                    also managed his extensive family holdings. Subsequently, Fish entered politics,
+                    running unsuccessfully for the New York State Senate in 1833. Thereafter, he
+                    ran intermittently for various offices, winning a term in U.S. Congress in 1842,
+                    and was elected Lieutenant Governor of New York in 1847 after an unsuccessful
+                    campaign the previous year.</p>
+                <p>Fish was elected Governor of New York in 1848, and then to a term in the U.S.
+                    Senate in 1851. When the Whig Party disintegrated, he joined the newly formed
+                    Republican Party, partly because he saw Democratic policies toward Cuba as
+                    unethical and unwise.</p>
+                <p>During the Secession Crisis, Fish was involved in attempts to resupply Fort
+                    Sumter. During the Civil War, he served as chair of the Union Defense Committee
+                    of New York as well as on a commission to watch over the condition of
+                    Union prisoners of war and prisoner exchanges.</p>
+                <p>As a result of Senate objections over Grant’s initial Cabinet choices in 1869,
+                    James F. Wilson, the original nominee for Secretary of State, withdrew, and
+                    Grant asked Hamilton Fish to serve in his place.</p>
+                <p>Fish was surprised by the offer and initially declined, but
+                    ultimately accepted after Grant sent his nomination to the Senate without waiting
+                    for Fish’s reply. After completing his service as Secretary of State in 1877,
+                    he retired from politics.</p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Upon becoming Secretary of State, Fish first faced the challenges related to the
+                    unpopular Johnson-Clarendon Convention, an agreement made to resolve Civil War
+                    disputes over issues such as the British-built Confederate warship Alabama. On
+                    April 13, 1869, the Senate overwhelmingly rejected the Convention.</p>
+                <p>U.S. attempts to continue to press claims stemming from British recognition of
+                    the Confederacy’s belligerent status were hampered by the possibility that the
+                    United States had considered granting the same status to anti-Spanish rebels in
+                    Cuba.</p>
+                <p>The Americas were central to Fish’s foreign policy. Working with President Grant,
+                  he tried unsuccessfully to acquire new territory in the Dominican Republic, as
+                    well as the lands controlled by Hudson’s Bay Company, which the British
+                    Government instead sold to Canada in 1870.</p>
+                <p>In 1868, a revolt against Spanish rule began in Cuba that became known as the Ten
+                    Years’ War. In the United States, Spanish attempts to crush the insurgency aroused strong public
+                    sympathy for Cubans. Fish worked closely with Senator
+                        <persName>Charles Sumner</persName> to formulate a policy on the Cuban
+                    situation. They recommended and finally convinced Grant not to recognize Cuban
+                    rebels as belligerents in an effort to protect American commerce and maintain
+                    peace with Spain.</p>
+                <p>Over the next several years, incidents involving Spanish attempts to suppress the
+                    rebellion in Cuba led to diplomatic tensions. Fish eventually began to pressure
+                    Spanish officials to consider granting Cuban independence and ending slavery on
+                    the island. The Spanish Government did neither during Fish’s tenure.</p>
+                <p>Eventually, on February 4, 1877, U.S. Minister <persName>Caleb Cushing</persName>
+                    signed a protocol with Spanish Foreign Minister <persName>Fernando
+                    Calderón</persName>, in which Spain agreed to greater due process for U.S. citizens
+                    in Cuba.</p>
+                <p>Later in Fish’s tenure as Secretary of State, he faced Indian raids and poor law
+                    enforcement along the border with Mexico, an issue which would escalate under
+                    Fish’s successor <ref target="/departmenthistory/people/evarts-william-maxwell">William Evarts</ref>. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
+                    <bibl>Gluek, Alvin. “The Riel Rebellion and Canadian-American Relations.” <hi rend="italic">Canadian Historical Review</hi> 36(1955): 199-221.</bibl>
+                    <bibl>Nevins, Allan. <hi rend="italic">Hamilton Fish: The Inner History of the
+                            Grant Administration.</hi> New York: Dodd, Mead &amp; Co.,
+                    1937.</bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

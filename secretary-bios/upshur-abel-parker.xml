@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Abel P.
+                    Upshur</title>
+                <title type="short">Abel P. Upshur</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Abel Parker Upshur was appointed <hi rend="italic">ad interim</hi> Secretary of
+                    State by President <persName>John Tyler</persName> on June 24, 1843. On July 24,
+                    1843, Tyler appointed Upshur Secretary of State, and he entered duty on the same
+                    day. His term ended on February 28, 1844, the day he died. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="upshur-abel-parker.jpg"/>
+                    <head>Abel Upshur, 15th Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="rise">
+                <head>Rise to Prominence</head>
+                <p>Upshur was born the son of a planter family in Northampton County, Virginia. He
+                    attended Yale College and the College of New Jersey (now Princeton University)
+                    for one year before returning to Virginia to study the law. Upshur gained
+                    admission to the Virginia bar in 1810 and practiced in Richmond.</p>
+                <p>He began his political career shortly after, serving as a member of the Virginia
+                    House of Delegates from 1812 to 1813, with a second stint from 1825 to 1827. He
+                    was appointed as a justice to the Virginia General Court in 1826, and continued
+                    to serve in this capacity until 1841.</p>
+                <p>In 1829, Upshur served as a delegate to the Virginia Constitutional Convention.
+                    President Tyler appointed Upshur as Secretary of the Navy in 1841. He served as
+                    head of the Department of the Navy until June of 1843 when he was appointed <hi rend="italic">ad interim</hi> Secretary of State one month before becoming
+                    Secretary of State. Although appointed in June, the Senate did not confirm
+                    Upshur until January of the following year.</p>
+                <p>Upshur served briefly as Secretary of State until his untimely death in February
+                    of 1844. Aboard the battleship, <hi rend="italic">Princeton</hi>, on the Potomac
+                    River in Washington, DC, he was killed by the firing and accidental explosion of
+                    one of the ship’s guns. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>As Secretary of the Navy, Upshur believed in the vital role the Department played
+                    in securing the nation’s interests. He worked to expand the Navy, outfit it with
+                    modernized warships and reform its administration. His tenure there provided him
+                    the necessary foreign policy experience to make the transition to the Department
+                    of State in 1843 at the request of President Tyler, a lifelong friend.</p>
+                <p>Tyler implored a hesitant Upshur to take the position, appealing to his interest
+                    in expanding the nation westward. As Secretary of State, Upshur’s diplomacy set
+                    in motion territorial expansion that did not come to fruition until after his
+                    death.</p>
+                <p>He single-mindedly pursued this goal and reopened negotiations for the eventual
+                        <ref target="/milestones/1830-1860/texas-annexation">Annexation of
+                        Texas</ref> in 1845. Pro-slavery and wary of British influence in the
+                    Southwest, like President Tyler, Upshur believed it was in the United States’
+                    best interest to annex Texas as a slave-holding state.</p>
+                <p>He also worked to settle a prolonged border dispute with Great Britain over the
+                    Oregon Territory, resulting in the Oregon Treaty of 1846. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Randolph G. “Abel Parker Upshur.” In <hi rend="italic">The American
+                            Secretaries of State and Their Diplomacy,</hi> edited by Samuel Flagg
+                        Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
+                        Publishers, Inc.).</bibl>
+                    <bibl>Hall, Claude H. <hi rend="italic">Abel Parker Upshur: Conservative
+                            Virginian 1790-1844.</hi> Madison: The State Historical Society of
+                        Wisconsin, 1964.</bibl>
+                    <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
+                            Secretaries of State and the World They Shaped.</hi> New York:
+                        Encyclopedia Society, 2001. </bibl>
+                    <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                        CT: Greenwood Press, 2004. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

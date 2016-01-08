@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: James
+                    Madison</title>
+                <title type="short">James Madison</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Office of the Historian, United States Department of State Publication</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>James Madison was appointed Secretary of State by President <ref target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson</ref>
+                    on <date when="1801-03-05">March 5, 1801.</date> He entered duty on May 2, 1801,
+                    and served until <date when="1809-03-03">March 3, 1809.</date> He had already
+                    made invaluable contributions to the establishment of the federal government
+                    before starting a long career in diplomacy. </p>
+                <figure rend="smallfloatinline">
+                    <graphic url="madison-james.jpg"/>
+                    <head>James Madison, Fifth Secretary of State</head>
+                </figure>
+            </div>
+            <div type="section" xml:id="Rise">
+                <head>Rise to Prominence</head>
+                <p>Madison was born in Port Conway, Virginia and raised on the Virginia frontier
+                    in Orange County. He graduated from the College of New Jersey (now Princeton
+                    University) in 1771. By 1776 he was elected to the State Assembly and the
+                    Virginia Convention that declared independence from Great Britain. From 1778 to
+                    1779 Madison sat on the State Executive Council. He was a member of the Second
+                        <ref target="/milestones/1776-1783/continental-congress">Continental
+                        Congress</ref> and the Congress of the Confederation. He served in the
+                    Virginia House of Delegates from 1784 to 1786, the Annapolis Convention of 1786,
+                    and the Federal Convention of 1787, where his "Virginia Plan" proposing the
+                    general outline of the U.S. federal government formed the basis of debate.
+                    During these debates, Madison, along with <persName>Alexander
+                        Hamilton</persName> and <persName>John Jay,</persName> penned the <hi rend="italic">Federalist Papers</hi> hoping to secure the passage of the
+                    federal constitution. Madison was also a member of the Virginia Convention of
+                    1788 that ratified the U.S. Constitution.</p>
+                <p>While serving as a member of the U.S. House of Representatives from 1789 to 1797,
+                    Madison sponsored the Bill of Rights. After growing disenchanted with Hamilton’s
+                    pro-British sentiments, Madison aligned with <persName>Thomas
+                        Jefferson</persName> to form the Democratic-Republican Party. After
+                    Jefferson won the 1800 presidential election, he appointed Madison Secretary of
+                    State. Madison would be the first Secretary of State to go on to serve two
+                    presidential terms. He began the first of his two presidential terms in 1809. </p>
+            </div>
+            <div type="section" xml:id="Influence">
+                <head>Influence on American Diplomacy</head>
+                <p>Madison’s foreign policies were guided by his republican ideals and his faith in
+                    the strength of the expanding U.S. economy. As Secretary of State, he cooperated
+                    closely with President Jefferson who kept close control over key decisions.
+                    Together they organized the negotiations with France that led to the 1803 <ref target="/milestones/1801-1829/louisiana-purchase">Louisiana Purchase</ref>.
+                    Despite concerted effort, however, they could not convince the Spanish to sell
+                    West Florida.</p>
+                <p>As President, Madison annexed West Florida through intrigue and force in 1810.
+                    Madison also supported Jefferson’s decision to fight a naval war against the
+                    Barbary Pirates. The <ref target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref> presented a dire foreign policy challenge when both
+                    France and Britain began violating U.S. neutrality rights. Particularly
+                    disturbed by the British impressment of U.S. sailors, Jefferson and Madison
+                    sought to conclude a new treaty with Britain that would protect U.S. trading
+                    rights and ban impressment. Unable to achieve these concessions, they adopted a
+                    policy to pressure the European powers through economic restrictions.</p>
+                <p> A series of acts aimed to display foreign dependence on the U.S. economy
+                    followed, including the Embargo Act of 1807 and the Non-Intercourse Act of 1809.
+                    The restrictions spurred smuggling by U.S. merchants, failed to sway European
+                    policies, and disrupted U.S. trade, especially when European powers reciprocated
+                    with trade limitations. Madison’s struggle to stop British violations of U.S.
+                    neutrality culminated after his election to the Presidency when the two nations
+                    entered the <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>.
+                    Madison’s hopes to gain Canadian territory through military victories were never
+                    realized due to the political stalemate that followed major losses on the
+                    battlefield. </p>
+            </div>
+        </body>
+        <back>
+            <div type="appendix">
+                <head>Bibliography</head>
+                <listBibl>
+                    <bibl>Adams, Henry. <hi rend="italic">History of the United States during the
+                            Administration of Jefferson and Madison.</hi> 9 vols. New York:
+                        Scribner’s, 1889-1891.</bibl>
+                    <bibl>Banning, Lance. <hi rend="italic">The Sacred Fire of Liberty: James
+                            Madison and the Founding of the Federal Republic.</hi> Ithaca: Cornell
+                        University Press, 1995.</bibl>
+                    <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
+                            State and Their Diplomacy.</hi> Vol. 3. New York: Alfred A. Knopf, 1928.
+                        Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Brugger, Robert J., et al., eds., <hi rend="italic">The Papers of James
+                            Madison: Secretary of State Series.</hi> 5 vols. to date.
+                        Charlottesville: University Press of Virginia, 1986-. </bibl>
+                    <bibl>Graebner, Norman A. <hi rend="italic">Foundations of American Foreign
+                            Policy: A Realist Appraisal from Franklin to McKinley: Essays.</hi>
+                        Wilmington: Scholarly Resources, 1985. </bibl>
+                    <bibl>Hutchinson, William T., William M.E. Rachal, and Robert A. Rutland,
+                        eds. <hi rend="italic">The Papers of James Madison: Congressional
+                            Series.</hi> 17 Vols. Chicago and Charlottesville: University of Chicago
+                        Press (vols. 1-10); University Press of Virginia (vols. 11-17),
+                        1962-1989. </bibl>
+                    <bibl>Kaplan, Lawrence S., <hi rend="italic">Entangling Alliances with None:
+                            American Foreign Policy in the Age of Jefferson.</hi> Kent: Kent State
+                        University Press, 1987. </bibl>
+                    <bibl>Ketcham, Ralph L. <hi rend="italic">James Madison: A Biography.</hi> New
+                        York: Macmillan, 1971. </bibl>
+                    <bibl>McCoy, Drew R. <hi rend="italic">The Last of the Fathers: James Madison
+                            and the Republican Legacy.</hi> New York: Cambridge University Press,
+                        1989. </bibl>
+                    <bibl>Merli, Frank J., and Theodore A. Wilson, eds., <hi rend="italic">Makers of
+                            American Diplomacy. Vol. 1: From Benjamin Franklin to Alfred Thayer
+                            Mahan.</hi> New York: Scribner, 1974. </bibl>
+                    <bibl>Rutland, Robert A. <hi rend="italic">The Presidency of James Madison.</hi>
+                        Lawrence: University Press of Kansas, 1990.</bibl>
+                    <bibl>Rutland, Robert A., et al., eds., <hi rend="italic">The Papers of James
+                        Madison: Presidential Series.</hi> 4 vols. to date. Charlottesville:
+                        University Press of Virginia, 1984-.</bibl>
+                    <bibl>Stagg., J.C.A. <hi rend="italic">Mr. Madison’s War: Politics, Diplomacy,
+                            and Warfare in the Early American Republic, 1783-1830.</hi> Princeton:
+                        Princeton University Press, 1983. </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>
