@@ -28,7 +28,6 @@ declare function local:mkcol($collection, $path) {
 };
 
 
+(: store the collection configuration :)
 local:mkcol("/db/system/config", $target),
-
-(: store the replication configuration :)
-xmldb:store-files-from-pattern("/db/system/config" || $target,  $dir, "replication.xconf")
+xdb:store-files-from-pattern(concat("/db/system/config", $target), $dir, "*.xconf")
