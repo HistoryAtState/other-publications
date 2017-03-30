@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Cyrus Roberts Vance</title>
+                <title type="complete">Biographies of the Secretaries of State: Cyrus Roberts
+                    Vance</title>
                 <title type="short">Cyrus Roberts Vance</title>
             </titleStmt>
             <publicationStmt>
@@ -35,12 +36,12 @@
                     next decade and then entered government service in the late 1950s.</p>
                 <p>During the 1960s, Vance rose through the ranks of the Department of Defense. He
                     served as Secretary of the Army under President <persName>John F.
-                        Kennedy</persName>, gaining his first experience with human rights issues when
-                    the army was used to enforce the integration of the University of Mississippi in
-                    1962. In 1964, President <persName>Lyndon B. Johnson</persName> made Vance the
-                    Deputy Secretary of Defense. Although an early supporter of U.S. action in the
-                    Vietnam War, Vance later came to oppose it, urging President Johnson to withdraw
-                    U.S. troops from Vietnam.</p>
+                        Kennedy</persName>, gaining his first experience with human rights issues
+                    when the army was used to enforce the integration of the University of
+                    Mississippi in 1962. In 1964, President <persName>Lyndon B. Johnson</persName>
+                    made Vance the Deputy Secretary of Defense. Although an early supporter of U.S.
+                    action in the Vietnam War, Vance later came to oppose it, urging President
+                    Johnson to withdraw U.S. troops from Vietnam.</p>
                 <p>In 1968, Johnson appointed Vance as a delegate to the Paris peace talks and in
                     January 1969, Vance received the Presidential Medal of Freedom. During the early
                     1970s, he returned to practicing law while also becoming a member of the
@@ -69,7 +70,8 @@
                     including how to handle the political crisis in Iran that led to the Shah’s
                     ouster and the creation of the Islamic Republic of Iran. During this political
                     turmoil, Iranian student militants seized the American Embassy and took its
-                    staff <ref target="/departmenthistory/short-history/iraniancrises">hostage</ref>. After President Carter ordered a rescue attempt to free the
+                    staff <ref target="/departmenthistory/short-history/iraniancrises"
+                    >hostage</ref>. After President Carter ordered a rescue attempt to free the
                     hostages in the spring of 1980, an attempt that ultimately failed, Vance decided
                     to resign because he believed a military operation would be in vain and would
                     damage the negotiations he had been working on to win the release of the
@@ -85,15 +87,15 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Landsford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
-                        Secretaries of State and the World They Shaped.</hi> New York:
+                            Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>McLellan, David S. <hi rend="italic">Cyrus Vance.</hi> Totowa, NJ: Rowman
                         and Allenheld, 1985.</bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                        Secretaries of State from John Jay to Colin Powell.</hi> Westport,
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
                         Conn.: Greenwood Press, 2004. </bibl>
                     <bibl>Vance, Cyrus. <hi rend="italic">Hard Choices: Critical Years in American
-                        Foreign Policy. </hi> New York: Simon and Schuster, 1983.</bibl>
+                            Foreign Policy. </hi> New York: Simon and Schuster, 1983.</bibl>
                 </listBibl>
             </div>
         </back>

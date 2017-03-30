@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: James Gillespie Blaine</title>
+                <title type="complete">Biographies of the Secretaries of State: James Gillespie
+                    Blaine</title>
                 <title type="short">James Gillespie Blaine</title>
             </titleStmt>
             <publicationStmt>
@@ -22,8 +23,7 @@
                     was first appointed by U.S. President <persName>James A. Garfield</persName>,
                     serving from March 7, 1881, until December 18, 1881, and was again appointed by
                     U.S. President <persName>Benjamin Harrison</persName>, serving from March 5,
-                    1889, until his resignation on June 4, 1892.
-                    </p>
+                    1889, until his resignation on June 4, 1892. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="blaine-james-gillespie.jpg"/>
                     <head>James Gillespie Blaine, 28th &amp; 31st Secretary of State</head>
@@ -39,8 +39,8 @@
                 <p>Blaine entered politics as a Republican, was elected to Congress in 1862, and
                     served as Speaker of the House from 1869 to 1875. In 1876, Blaine was an
                     unsuccessful candidate for the Republican nomination for President, but did win
-                    a Senate seat from Maine. In 1880, Blaine was again an unsuccessful
-                    candidate for the Republican nomination for the Presidency.</p>
+                    a Senate seat from Maine. In 1880, Blaine was again an unsuccessful candidate
+                    for the Republican nomination for the Presidency.</p>
                 <p>However, President-elect <persName>James A. Garfield</persName> offered Blaine
                     the position of Secretary of State. After his first tenure as Secretary of
                     State, Blaine was the Republican candidate for President in 1884, but lost to
@@ -59,26 +59,28 @@
                 <p>Blaine unsuccessfully attempted to negotiate peace between Peru, Bolivia and
                     Chile, all engaged in the War of the Pacific from 1879 to 1883. He also
                     attempted to arbitrate a border dispute between Mexico and Guatemala. Blaine’s
-                    overtures were cut short on September 19, 1881, by the death of President Garfield, who had been shot two months before on July 2. Blaine remained in office
-                    through December 18 while <persName>Chester A. Arthur</persName>, the new
+                    overtures were cut short on September 19, 1881, by the death of President
+                    Garfield, who had been shot two months before on July 2. Blaine remained in
+                    office through December 18 while <persName>Chester A. Arthur</persName>, the new
                     president, selected a replacement for him.</p>
                 <p> Under President Harrison, Blaine’s first challenge was to counter German
                     expansion in Samoa, where the United States competed for influence. The
-                    agreement reached in 1889 between the United States, Germany and the United Kingdom
-                    did not resolve the tensions between those countries, but further eroded Samoan
-                    sovereignty. During this term, Blaine attempted to negotiate a disagreement over
-                    Canadian fur seal hunting rights in the Bering Sea. He also faced controversies
-                    over the lynching of Italian citizens in New Orleans in 1891 and an attack on
-                    U.S. sailors in Valparaiso, Chile.</p>
+                    agreement reached in 1889 between the United States, Germany and the United
+                    Kingdom did not resolve the tensions between those countries, but further eroded
+                    Samoan sovereignty. During this term, Blaine attempted to negotiate a
+                    disagreement over Canadian fur seal hunting rights in the Bering Sea. He also
+                    faced controversies over the lynching of Italian citizens in New Orleans in 1891
+                    and an attack on U.S. sailors in Valparaiso, Chile.</p>
                 <p>Blaine oversaw the Pan-American Conference, which had been organized by his
-                    predecessor, <ref target="/departmenthistory/people/bayard-thomas-francis">Thomas Francis Bayard</ref>. The conference covered trade, communication
+                    predecessor, <ref target="/departmenthistory/people/bayard-thomas-francis"
+                        >Thomas Francis Bayard</ref>. The conference covered trade, communication
                     and legal issues, and eventually led to the establishment of the Pan-American
                     Union.</p>
-                <p>Blaine resigned from his post on June 4, 1892. His resignation caught
-                    everyone, including President Harrison, by surprise. Although Blaine was a
-                    candidate for the 1892 Republican nomination, his poor health meant that he was
-                    not considered seriously. Blaine’s health declined sharply after his resignation, and
-                    he died not long afterward on January 27, 1893.</p>
+                <p>Blaine resigned from his post on June 4, 1892. His resignation caught everyone,
+                    including President Harrison, by surprise. Although Blaine was a candidate for
+                    the 1892 Republican nomination, his poor health meant that he was not considered
+                    seriously. Blaine’s health declined sharply after his resignation, and he died
+                    not long afterward on January 27, 1893.</p>
             </div>
         </body>
         <back>
@@ -87,12 +89,12 @@
                 <listBibl>
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
                             State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
-                    <bibl>Crapol, Edward P.  <hi rend="italic">James G. Blaine: Architect of
-                        Empire.</hi> Wilmington, DE: Scholarly Resources, 2000.</bibl>
+                    <bibl>Crapol, Edward P. <hi rend="italic">James G. Blaine: Architect of
+                            Empire.</hi> Wilmington, DE: Scholarly Resources, 2000.</bibl>
                     <bibl>Muzzey, David Saville. <hi rend="italic">James G. Blaine: A Political Idol
                             of Other Days.</hi> Port Washington: Kennikat Press, 1962.</bibl>
                     <bibl>Tyler, Alice Felt. <hi rend="italic">The Foreign Policy of James G.
-                        Blaine.</hi> Hamden, CT: Archon Books, 1965.</bibl>
+                            Blaine.</hi> Hamden, CT: Archon Books, 1965.</bibl>
                 </listBibl>
             </div>
         </back>

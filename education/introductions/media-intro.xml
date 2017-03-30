@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,10 +23,10 @@
         <body>
             <div type="section" xml:id="intro">
                 <head>Introduction</head>
-                <p><hi rend="italic">Today in Washington: The Media and Diplomacy</hi> is an instructional package that
-                    explores the interaction between diplomats and reporters throughout our history,
-                    and examines the ways that both have used the media to deliver messages about
-                    international affairs.</p>
+                <p><hi rend="italic">Today in Washington: The Media and Diplomacy</hi> is an
+                    instructional package that explores the interaction between diplomats and
+                    reporters throughout our history, and examines the ways that both have used the
+                    media to deliver messages about international affairs.</p>
                 <p>DVD segments include “Portraits and Pamphlets: Franklin in Paris;” “Cartoons and
                     Caricature: Diplomacy, Politics, and News;” “‘Remember the Maine!’ Moving
                     Pictures and the Yellow Press;” “The Truth will Set Them Free: Cold War

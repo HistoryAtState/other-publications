@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -38,7 +38,8 @@
                     <head>Origins of a Diplomatic Tradition</head>
                     <p>Despite their status as colonial subjects of the King, some 18th century
                         Americans already had a great deal of experience negotiating with ministers
-                        at the highest levels of the British Government. <figure rend="smallfloatinline">
+                        at the highest levels of the British Government. <figure
+                            rend="smallfloatinline">
                             <graphic url="sh-bfranklin.jpg"/>
                             <head>Benjamin Franklin</head>
                         </figure> In 1757, <ref target="/milestones/1776-1783/b-franklin">Benjamin
@@ -59,7 +60,8 @@
                         of Britain’s enemies, France and Spain. <figure rend="smallfloatinline">
                             <graphic url="sh-dean-silas.jpg"/>
                             <head>Silas Deane</head>
-                        </figure> In November 1775, Congress established the <ref target="/milestones/1776-1783/secret-committee">Committee of Secret
+                        </figure> In November 1775, Congress established the <ref
+                            target="/milestones/1776-1783/secret-committee">Committee of Secret
                             Correspondence</ref> to “correspond with friends” and prospective
                         supporters abroad and to send commissioners to other key countries.
                             <persName>Silas Deane</persName> was sent to France in March 1776, and
@@ -82,9 +84,9 @@
                         patient diplomacy combined with the American victory at the
                             <placeName>Battle of Saratoga</placeName> resulted in a Treaty of
                         Alliance with France in February 1778. <persName>Benjamin
-                        Franklin</persName> officially became the first American Minister to serve
-                        overseas when, on March 23, 1779, he presented his credentials to King Louis
-                        XVI of France.</p>
+                            Franklin</persName> officially became the first American Minister to
+                        serve overseas when, on March 23, 1779, he presented his credentials to King
+                        Louis XVI of France.</p>
                     <p>In June 1781, Congress named a Peace Commission, including Franklin, John
                         Adams, and John Jay to negotiate an end to the war. The commissioners
                         reached agreement with the British on November 30, 1782. </p>
@@ -92,16 +94,20 @@
                 <div type="subchapter" xml:id="articles">
                     <head>Diplomacy under the Articles of Confederation</head>
                     <p>While negotiations in Paris were underway, legislators in the United States
-                        created a new government—the <ref target="/milestones/1776-1783/articles">Articles of Confederation</ref>. <figure rend="smallfloatinline">
+                        created a new government—the <ref target="/milestones/1776-1783/articles"
+                            >Articles of Confederation</ref>. <figure rend="smallfloatinline">
                             <graphic url="sh-livingston-robert.jpg"/>
                             <head>Robert R. Livingston, First Secretary for Foreign Affairs </head>
-                        </figure> Today’s Department of State began on <date when="1781-01-10">January 10, 1781</date>, as the "Department of Foreign Affairs.”
-                        Shortly after approval of the resolution, Congress selected <ref target="/milestones/1776-1783/secret-committee">Robert R.
-                        Livingston</ref> of New York as the first Secretary for Foreign Affairs.
-                        Many of America’s leading public figures served as envoys under the <ref target="/milestones/1776-1783/articles">Articles of Confederation</ref>,
+                        </figure> Today’s Department of State began on <date when="1781-01-10"
+                            >January 10, 1781</date>, as the "Department of Foreign Affairs.”
+                        Shortly after approval of the resolution, Congress selected <ref
+                            target="/milestones/1776-1783/secret-committee">Robert R.
+                            Livingston</ref> of New York as the first Secretary for Foreign Affairs.
+                        Many of America’s leading public figures served as envoys under the <ref
+                            target="/milestones/1776-1783/articles">Articles of Confederation</ref>,
                         among them <persName>John Adams</persName> in the Netherlands,
                             <persName>John Jay</persName> in Spain, and <persName>Thomas
-                        Jefferson</persName> in France.</p>
+                            Jefferson</persName> in France.</p>
                     <p>Robert Livingston’s 19 months in office were filled with frustration since
                         the weak and inefficient Articles of Confederation diffused foreign policy
                         making authority. After Livingston complained, Congress further restricted
@@ -115,12 +121,12 @@
                             <head>John Jay, Envoy to Spain and Second Secretary for Foreign Affairs
                                 under the Articles of Confederation</head>
                         </figure>
-                        <quote>“They may make war, but are not empowered to raise men or
-                            money to carry it on. They may make peace, but are without power to see
-                            the terms of it imposed. . . . They may make alliances, but [are]
-                            without ability to comply with the stipulations on their part. They may
-                            enter into treaties of commerce, but [are] without power to enforce them
-                            at home or abroad.”</quote>
+                        <quote>“They may make war, but are not empowered to raise men or money to
+                            carry it on. They may make peace, but are without power to see the terms
+                            of it imposed. . . . They may make alliances, but [are] without ability
+                            to comply with the stipulations on their part. They may enter into
+                            treaties of commerce, but [are] without power to enforce them at home or
+                            abroad.”</quote>
                     </p>
                     <p>While “ministers” handled the country’s official business, other officials,
                         known as “consuls” handled business matters for Americans overseas. Although
@@ -138,7 +144,8 @@
                 </div>
                 <div type="subchapter" xml:id="framework">
                     <head>A New Framework for Foreign Affairs</head>
-                    <p>The new <ref target="/milestones/1784-1800/convention-and-ratification">Constitution of 1789</ref> was designed to redress the shortcomings of
+                    <p>The new <ref target="/milestones/1784-1800/convention-and-ratification"
+                            >Constitution of 1789</ref> was designed to redress the shortcomings of
                         the Articles of Confederation, and it allotted significantly more
                         responsibility for foreign affairs to the Federal Government. Article II,
                         Section 2 of the Constitution gave the President the power to make treaties
@@ -155,20 +162,20 @@
                         precedent. <persName>Thomas Jefferson</persName> insisted, <quote>“…the
                             President is the only channel of communication between this country and
                             foreign nations, and it is from him alone that foreign nations or their
-                            agents are to learn what is or has been the will of the
-                            nation.”</quote>
+                            agents are to learn what is or has been the will of the nation.”</quote>
                         <figure rend="smallfloatinline">
                             <graphic url="sh-tjefferson.jpg"/>
                             <head>First Secretary of State under the Constitution, Thomas
-                            Jefferson</head>
+                                Jefferson</head>
                         </figure>
                     </p>
-                    <p>But the President could not manage foreign policy alone. On <date when="1788-05-19">May 19, 1789</date>, <persName>James
-                        Madison</persName> proposed the creation of a Department of Foreign Affairs
-                        under the leadership of a Secretary of State for Foreign Affairs. But, since
-                        there wasn’t thought to be enough work for a Department of “Home Affairs,”
-                        Congress also assigned domestic duties to the new Department of State.
-                            <persName>John Jay,</persName> originally appointed as Secretary of
+                    <p>But the President could not manage foreign policy alone. On <date
+                            when="1788-05-19">May 19, 1789</date>, <persName>James
+                            Madison</persName> proposed the creation of a Department of Foreign
+                        Affairs under the leadership of a Secretary of State for Foreign Affairs.
+                        But, since there wasn’t thought to be enough work for a Department of “Home
+                        Affairs,” Congress also assigned domestic duties to the new Department of
+                        State. <persName>John Jay,</persName> originally appointed as Secretary of
                         Foreign Affairs under the Articles of Confederation, continued at this post
                         until 1790. As President, <persName>George Washington</persName> immediately
                         appointed <ref target="/departmenthistory/people/jefferson-thomas">Thomas
@@ -185,9 +192,9 @@
                 <div type="subchapter" xml:id="diplomatictradition">
                     <head>A Diplomatic Tradition</head>
                     <p>As Secretary of State, Jefferson abhorred the intrigues and ostentation of
-                        European courts, but as an experienced American diplomat, he
-                        realized that if the United States was to be taken seriously, the United
-                        States had to adopt some European diplomatic practices. <figure rend="smallfloatinline">
+                        European courts, but as an experienced American diplomat, he realized that
+                        if the United States was to be taken seriously, the United States had to
+                        adopt some European diplomatic practices. <figure rend="smallfloatinline">
                             <graphic url="sh-gwashington.jpg"/>
                             <head>President George Washington</head>
                         </figure>
@@ -205,7 +212,8 @@
                             <placeName>Portugal</placeName>.</p>
                     <p>Ministers concentrated on two important responsibilities: reporting on
                         significant activities in their countries of residence and executing formal
-                        diplomatic instructions transmitted to them from the Department of State.</p>
+                        diplomatic instructions transmitted to them from the Department of
+                        State.</p>
                     <p>By 1792, 16 consulates had been created, most of them in Europe. Jefferson
                         saw the consulates as a valuable source of intelligence, and he sent a
                         circular letter to consuls asking them to report to him regularly
@@ -220,7 +228,8 @@
                         uncertain, consuls often served for many years in the same location and paid
                         little attention to their official duties. One consul in <placeName>La
                             Guaira, Venezuela</placeName>, was dismissed because <quote>“not a
-                            single communication”</quote> had been received from him in seven years.</p>
+                            single communication”</quote> had been received from him in seven
+                        years.</p>
                     <p>The precarious nature of U.S. consuls overseas was a concern to Jefferson. He
                         feared that the few Americans overseas who were eligible to serve as consuls
                         might be in debt or <quote>“…young, ephemeral characters in commerce without
@@ -232,19 +241,22 @@
                 </div>
                 <div type="subchapter" xml:id="style">
                     <head>American Diplomatic Style</head>
-                    <p>Following the early practice of <ref target="/milestones/1776-1783/b-franklin">Benjamin Franklin</ref>, representatives of the United States
-                        traditionally wore unpretentious clothing and adopted simple manners, a
-                        departure from the ostentatious practice at European courts. Americans
-                        considered this policy appropriate for emissaries of a young republic that
-                        had repudiated monarchy. <ref target="/departmenthistory/people/jefferson-thomas">Thomas
-                        Jefferson</ref> particularly was opposed to undue ceremony and rigid
+                    <p>Following the early practice of <ref
+                            target="/milestones/1776-1783/b-franklin">Benjamin Franklin</ref>,
+                        representatives of the United States traditionally wore unpretentious
+                        clothing and adopted simple manners, a departure from the ostentatious
+                        practice at European courts. Americans considered this policy appropriate
+                        for emissaries of a young republic that had repudiated monarchy. <ref
+                            target="/departmenthistory/people/jefferson-thomas">Thomas
+                            Jefferson</ref> particularly was opposed to undue ceremony and rigid
                         protocol. Later, he refused to recognize formal social distinctions at
                         dinners held in the <placeName>White House</placeName> during his
                         presidency, especially the order of precedence—i.e., seating by rank—a
                         practice that greatly annoyed the foreign diplomatic corps.</p>
                     <p>Even if the new nation’s democratic ideology had not mandated republican
                         simplicity, the meager salaries paid to American ministers would have
-                        produced the same effect. In 1817, President <ref target="/departmenthistory/people/monroe-james">James Monroe</ref>, a
+                        produced the same effect. In 1817, President <ref
+                            target="/departmenthistory/people/monroe-james">James Monroe</ref>, a
                         former Minister to France and a former Secretary of State, complained to a
                         congressional committee about the nation's failure to provide sufficient
                         salaries and allowances for members of the Diplomatic Service. Monroe
@@ -267,7 +279,8 @@
                 <div type="subchapter" xml:id="staffing">
                     <head>Staffing and Administration</head>
                     <p>Jefferson's initial staff consisted of: <list>
-                            <item>a chief clerk—who physically wrote all diplomatic correspondence—,</item>
+                            <item>a chief clerk—who physically wrote all diplomatic
+                                correspondence—,</item>
                             <item>three other clerks,</item>
                             <item>one translator, and</item>
                             <item> a messenger</item>
@@ -289,7 +302,8 @@
                             <figure rend="smallfloatinline">
                             <graphic url="sh-jqadams.jpg"/>
                             <head>Secretary of State John Quincy Adams</head>
-                        </figure> In 1817, <ref target="/departmenthistory/people/adams-john-quincy">John Quincy Adams</ref> complained of excessive responsibilities
+                        </figure> In 1817, <ref target="/departmenthistory/people/adams-john-quincy"
+                            >John Quincy Adams</ref> complained of excessive responsibilities
                         shortly after assuming his duties. <quote>“Business crowds upon me from day
                             to day requiring instantaneous attention,” he wrote to his wife Louisa.
                             “Unless everything is disposed of just as it occurs, it escapes from the
@@ -363,7 +377,8 @@
                             <ref target="/milestones/1801-1829/rush-bagot">Rush-Bagot Agreement of
                             1817</ref> and the Convention of 1818, which settled disputes with Great
                         Britain over the Great Lakes and the border with Canada westward along the
-                        49th parallel to the Rocky Mountains, and the <ref target="/milestones/1801-1829/florida">Adams-Onis (or Transcontinental)
+                        49th parallel to the Rocky Mountains, and the <ref
+                            target="/milestones/1801-1829/florida">Adams-Onis (or Transcontinental)
                             Treaty</ref> with Spain (1819), which added Florida to the national
                         domain and settled the boundary with Mexico on advantageous terms. </p>
                     <figure rend="smallfloatinline">
@@ -408,8 +423,10 @@
                         <figure rend="smallfloatinline">
                             <graphic url="sh-map.jpg"/>
                             <head>Early Map of U.S.</head>
-                        </figure> From the birth of the <ref target="/milestones/1899-1913/roosevelt-and-monroe-doctrine">Monroe
-                            Doctrine</ref> in 1823 to the purchase of <ref target="/milestones/1866-1898/alaska-purchase">Alaska</ref> in 1867,
+                        </figure> From the birth of the <ref
+                            target="/milestones/1899-1913/roosevelt-and-monroe-doctrine">Monroe
+                            Doctrine</ref> in 1823 to the purchase of <ref
+                            target="/milestones/1866-1898/alaska-purchase">Alaska</ref> in 1867,
                         Americans devoted their national energies to extending their borders from
                         Atlantic to Pacific and to building a diversified economy. American
                         diplomats played an integral part in that process despite a lack of funding,
@@ -418,8 +435,8 @@
                 <div type="subchapter" xml:id="world">
                     <head>The World in the Early-19th Century</head>
                     <p>A rare set of international circumstances gave the <placeName>United
-                        States</placeName> the luxury to concentrate on domestic expansion during
-                        the middle of the 19th century, because the country faced no serious
+                            States</placeName> the luxury to concentrate on domestic expansion
+                        during the middle of the 19th century, because the country faced no serious
                         external threats until the <ref target="/milestones/1861-1865">Civil War
                             (1861-1865)</ref>. <figure rend="smallfloatinline">
                             <graphic url="sh-surrender-napoleon.jpg"/>
@@ -469,9 +486,10 @@
                         <head>Secretary of State Edward Livingston</head>
                     </figure>
                     <p>The low priority attached to foreign relations resulted in the open
-                        denigration of diplomacy and its practitioners. Secretary of State <ref target="/departmenthistory/people/livingston-edward">Edward
-                        Livingston</ref> himself summarized this widespread attitude, when he wrote
-                        that Americans thought of their ministers as privileged characters
+                        denigration of diplomacy and its practitioners. Secretary of State <ref
+                            target="/departmenthistory/people/livingston-edward">Edward
+                            Livingston</ref> himself summarized this widespread attitude, when he
+                        wrote that Americans thought of their ministers as privileged characters
                             <quote>“selected to enjoy the pleasures of foreign travel at the expense
                             of the people; their places as sinecures; and their residence abroad as
                             a continued scene of luxurious enjoyment.”</quote> Congress often
@@ -482,7 +500,7 @@
                         In 1859 Representative <persName>Benjamin W. Stanton</persName> of Ohio said
                         that he knew of <quote>“no area of the public service that is more
                             emphatically useless than the diplomatic service—none in the
-                        world.”</quote>
+                            world.”</quote>
                     </p>
                     <p>The practice of the “spoils system,” the award of government appointments in
                         return for political support, reinforced the idea that the Department of
@@ -498,13 +516,13 @@
                     <p>Some ministers still gained appointment because of their experience and
                         talent. For example, two distinguished historians headed diplomatic
                         missions: <persName>George Bancroft</persName> (<placeName>United
-                        Kingdom</placeName>, 1846-49) and <persName>John Lothrop Motley</persName>
-                        (Austria, 1861-67). More often, however, personal wealth, political
-                        services, or social position, were the only requirements. Many lacked
-                        qualifications—even the most elementary knowledge of diplomatic etiquette. A
-                        tale is often told, most likely apocryphal, that in 1830 <persName>John
-                            Randolph</persName> of Virginia actually addressed the Russian Tsar,
-                            <quote>“Howya, Emperor? And how’s the madam?”</quote>
+                            Kingdom</placeName>, 1846-49) and <persName>John Lothrop
+                            Motley</persName> (Austria, 1861-67). More often, however, personal
+                        wealth, political services, or social position, were the only requirements.
+                        Many lacked qualifications—even the most elementary knowledge of diplomatic
+                        etiquette. A tale is often told, most likely apocryphal, that in 1830
+                            <persName>John Randolph</persName> of Virginia actually addressed the
+                        Russian Tsar, <quote>“Howya, Emperor? And how’s the madam?”</quote>
                     </p>
                     <figure rend="smallfloatinline">
                         <graphic url="sh-bancroft.jpg"/>
@@ -519,12 +537,12 @@
                             without fear or partiality. Those who have served the country faithfully
                             and well ought to be encouraged and transferred from one court to
                             another, which is the only advancement that our system permits
-                        of.”</quote>
+                            of.”</quote>
                     </p>
                     <p>The strains of office, including domestic political criticism, imposed great
                         burdens on most Secretaries of State. One of them, <persName>John
-                        Clayton</persName> of Delaware who served President <persName>Zachary
-                        Taylor</persName> in <date when="1849">1849-1850</date>, noted the
+                            Clayton</persName> of Delaware who served President <persName>Zachary
+                            Taylor</persName> in <date when="1849">1849-1850</date>, noted the
                         consequences: <quote>“The situation I have filled,” he wrote, “was . . .
                             more difficult, more thorny and more liable to misrepresentation and
                             calumny than any other in the world, as I verily believe.”</quote>
@@ -533,7 +551,8 @@
                 <div type="subchapter" xml:id="reorganized">
                     <head>The Department Reorganized—Again</head>
                     <p>The difficulties of those who conducted the nation’s foreign relations led
-                        two of President Jackson's Secretaries of State, <ref target="/departmenthistory/people/mclane-louis">Louis McLane</ref> and
+                        two of President Jackson's Secretaries of State, <ref
+                            target="/departmenthistory/people/mclane-louis">Louis McLane</ref> and
                             <ref target="/departmenthistory/people/forsyth-john">John Forsyth</ref>,
                         to undertake another full-scale reorganization of the Department from 1833
                         to 1836. They instituted a bureau system, under the direct supervision of
@@ -553,7 +572,8 @@
                         matters, including archives, laws, and commissions; b) domestic
                         correspondence, Presidential pardons, remissions, and copyrights; and c)
                         disbursing and superintending. </p>
-                    <p>As early as 1846, Secretary of State <ref target="/departmenthistory/people/buchanan-james">James Buchanan</ref>
+                    <p>As early as 1846, Secretary of State <ref
+                            target="/departmenthistory/people/buchanan-james">James Buchanan</ref>
                         saw a flaw in the new system and asked Congress to create the position of
                         Assistant Secretary of State, to be filled by an eminent individual with
                         diplomatic expertise. Unfortunately, Congress chose not to authorize the new
@@ -613,7 +633,7 @@
                             advice” but that “abroad, an officer is entrusted with the most
                             important function, out of the reach of control or advice, and is left
                             with, comparatively speaking, no written rules for his
-                        guidance.”</quote>
+                            guidance.”</quote>
                     </p>
                 </div>
                 <div type="subchapter" xml:id="congress">
@@ -654,27 +674,31 @@
                         </figure> Perhaps the most striking achievement was the successful
                         resolution of many outstanding difficulties with Great Britain, the one
                         nation able to threaten the security of the United States. After the
-                        unfortunate <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>,
-                        Anglo-American controversies were all peacefully resolved: the <ref target="/milestones/1830-1860/webster-treaty">Webster-Ashburton treaty of
-                            1842</ref> settled the boundary between northeastern Maine and Canada,
-                        the <ref target="/milestones/1830-1860/oregon-territory">Oregon treaty of
-                            1846</ref> extended the U.S.-Canadian border to the West coast, and the
-                        Clayton-Bulwer treaty of 1850 provided an understanding on the construction
-                        of any future canal across Central America. </p>
+                        unfortunate <ref target="/milestones/1801-1829/war-of-1812">War of
+                            1812</ref>, Anglo-American controversies were all peacefully resolved:
+                        the <ref target="/milestones/1830-1860/webster-treaty">Webster-Ashburton
+                            treaty of 1842</ref> settled the boundary between northeastern Maine and
+                        Canada, the <ref target="/milestones/1830-1860/oregon-territory">Oregon
+                            treaty of 1846</ref> extended the U.S.-Canadian border to the West
+                        coast, and the Clayton-Bulwer treaty of 1850 provided an understanding on
+                        the construction of any future canal across Central America. </p>
                     <p>Of equal importance were successful negotiations that furthered American
-                        domination of the continent. The <ref target="/milestones/1830-1860/texas-annexation">Treaty of Guadalupe
+                        domination of the continent. The <ref
+                            target="/milestones/1830-1860/texas-annexation">Treaty of Guadalupe
                             Hidalgo (1848)</ref> was of key importance because it ended the Mexican
                         War and annexed a tremendous amount of territory north and west of the Rio
-                        Grande to California. The <ref target="/milestones/1866-1898/alaska-purchase">purchase of Alaska</ref> from Russia in 1867 was also a significant
-                        triumph for diplomacy. Despite the generally amateurish nature of diplomacy
-                        at this time, no serious setbacks marred the nation's foreign affairs
-                        between 1823 and 1867.</p>
+                        Grande to California. The <ref
+                            target="/milestones/1866-1898/alaska-purchase">purchase of Alaska</ref>
+                        from Russia in 1867 was also a significant triumph for diplomacy. Despite
+                        the generally amateurish nature of diplomacy at this time, no serious
+                        setbacks marred the nation's foreign affairs between 1823 and 1867.</p>
                 </div>
                 <div type="subchapter" xml:id="seward">
                     <head>Secretary of State William Seward</head>
                     <p>One outstanding diplomat did serve the United States under <persName>Abraham
                             Lincoln</persName> during the most serious 19th century challenge to the
-                        nation’s security—Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William Henry
+                        nation’s security—Secretary of State <ref
+                            target="/departmenthistory/people/seward-william-henry">William Henry
                             Seward</ref>.</p>
                     <figure rend="smallfloatinline">
                         <graphic url="sh-wseward.jpg"/>
@@ -708,20 +732,21 @@
                         Secretary Seward was stabbed in the face and throat, and his son was wounded
                         more seriously. Both recovered, however, and continued to serve another four
                         years under Lincoln’s successor, President <persName>Andrew
-                        Johnson</persName>. Seward is the only U.S. Secretary of State in history to
-                        be the target of a would-be assassin. </p>
+                            Johnson</persName>. Seward is the only U.S. Secretary of State in
+                        history to be the target of a would-be assassin. </p>
                     <p>Seward had two major postwar diplomatic achievements: the removal of French
-                        troops from Mexico and the <ref target="/milestones/1866-1898/alaska-purchase">purchase of Alaska</ref>
+                        troops from Mexico and the <ref
+                            target="/milestones/1866-1898/alaska-purchase">purchase of Alaska</ref>
                         from Russia. During the Civil War, French troops had moved into Mexico,
                         ostensibly to collect debts from the bankrupt Mexican Government. Supported
                         by these troops—and in violation of the Monroe
-                        Doctrine—<persName>Napoleon</persName> III of France installed the Archduke
-                            <persName>Maximilian of Austria</persName> as Emperor of Mexico in 1864.
-                        As long as the Civil War continued, Seward could only protest. After the
-                        war, Seward skillfully escalated his diplomatic protests, while resisting
-                        American domestic pressures for a military expedition into Mexico. In 1867,
-                        Napoleon finally acquiesced to Seward’s careful diplomacy and withdrew the
-                        French troops.</p>
+                            Doctrine—<persName>Napoleon</persName> III of France installed the
+                        Archduke <persName>Maximilian of Austria</persName> as Emperor of Mexico in
+                        1864. As long as the Civil War continued, Seward could only protest. After
+                        the war, Seward skillfully escalated his diplomatic protests, while
+                        resisting American domestic pressures for a military expedition into Mexico.
+                        In 1867, Napoleon finally acquiesced to Seward’s careful diplomacy and
+                        withdrew the French troops.</p>
                     <p>Seward’s interest in buying Alaska derived from his geopolitical vision. Like
                         many 19th century American political figures, he envisioned an expanding
                         American empire increasingly involved in foreign commerce, including the
@@ -753,7 +778,8 @@
                             <head>1900 U.S. Campaign Poster </head>
                         </figure> Historians have characterized the 31 years after the Civil War as
                         the least active period in American foreign relations, but it was to be the
-                        last such period in U.S. history. The <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War
+                        last such period in U.S. history. The <ref
+                            target="/milestones/1866-1898/spanish-american-war">Spanish-American War
                             of 1898</ref> brought enormous change in its wake, and American
                         diplomats were forced to adapt an antiquated foreign affairs establishment
                         to the exercise of world leadership.</p>
@@ -764,10 +790,12 @@
                         balance of power to continue the dynamic process of westward expansion and
                         building a strong and powerful economy. There were few changes in nation’s
                         basic foreign policies; the overarching principles of isolation and
-                        neutrality generally remained firmly entrenched. <figure rend="smallfloatinline">
+                        neutrality generally remained firmly entrenched. <figure
+                            rend="smallfloatinline">
                             <graphic url="sh-wgresham.jpg"/>
                             <head>Secretary of State Walter Gresham </head>
-                        </figure> In 1894, Secretary of State <ref target="/departmenthistory/people/gresham-walter-quinton">
+                        </figure> In 1894, Secretary of State <ref
+                            target="/departmenthistory/people/gresham-walter-quinton">
                             <persName>Walter Q. Gresham</persName>
                         </ref> of Illinois reaffirmed Washington’s “great rule of conduct” in
                         commenting on what he deemed a questionable departure from the policy of “no
@@ -785,7 +813,8 @@
                         this was logical, because diplomatic work was carried out overseas, where it
                         could not be observed.</p>
                     <p>For most of the period, diplomacy remained mired in the past. The biographer
-                        of Secretary of State <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref> later
+                        of Secretary of State <ref
+                            target="/departmenthistory/people/hay-john-milton">John Hay</ref> later
                         described the Department in 1898 when Hay became Secretary as <quote>“an
                             antiquated feeble organization, enslaved by precedents and routine
                             inherited from another century, remote from the public gaze and
@@ -801,20 +830,22 @@
                             <graphic url="sh-ugrant.jpg"/>
                             <head>President Ulysses S. Grant</head>
                         </figure> In 1885, for example, Senator <persName>William E.
-                        Robinson</persName> of New York insisted <quote>“…this diplomatic service is
-                            working our ruin by creating a desire for foreign customs and foreign
-                            follies. The disease is imported by our returning diplomats and by the
-                            foreign ambassadors sent here by monarchs and despots to corrupt and
-                            destroy our American ideals.”</quote> The Senator's solution was to
+                            Robinson</persName> of New York insisted <quote>“…this diplomatic
+                            service is working our ruin by creating a desire for foreign customs and
+                            foreign follies. The disease is imported by our returning diplomats and
+                            by the foreign ambassadors sent here by monarchs and despots to corrupt
+                            and destroy our American ideals.”</quote> The Senator's solution was to
                         quarantine entering diplomats “as we quarantine foreign rags through fear of
                         cholera.” </p>
                     <p>Another familiar pattern transcended the Civil War—meddlesome political
                         interference with the Department of State and a tendency to see its overseas
                         posts as rewards for loyalty not talent. In 1869, for example, President
-                            <persName>Ulysses S. Grant</persName> made <ref target="/departmenthistory/people/washburne-elihu-benjamin">Elihu B.
+                            <persName>Ulysses S. Grant</persName> made <ref
+                            target="/departmenthistory/people/washburne-elihu-benjamin">Elihu B.
                             Washburne</ref>, a friend from Galena, Illinois, the Secretary of State
                         for 12 days so that he could enjoy the prestige of the position when he took
-                        up his responsibilities as Minister to France. Washburne's successor, <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref> of
+                        up his responsibilities as Minister to France. Washburne's successor, <ref
+                            target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref> of
                         New York, found that he could not resist political pressure and administer
                         the Department efficiently without strong presidential support. When General
                             <persName>Orville Babcock</persName>, another of Grant's friends, tried
@@ -833,14 +864,14 @@
                         and supporters. Even artists and writers, such as <persName>James Fennimore
                             Cooper</persName>, <persName>Nathaniel Hawthorne</persName>,
                             <persName>William Dean Howells</persName>, <persName>Bret
-                        Harte</persName>, and <persName>Thomas Nast</persName> used their political
-                        connections to secure lucrative overseas posts. Some hoped for an
+                            Harte</persName>, and <persName>Thomas Nast</persName> used their
+                        political connections to secure lucrative overseas posts. Some hoped for an
                         improvement in their finances, while others were attracted by free time to
                         pursue their writing or a desire for adventure.</p>
                     <p>Despite strenuous efforts to correct them, abuses in the Consular Service
                         persisted into the late 19th century. In 1872, <persName>DeB. Randolph
-                        Keim</persName>, a representative of the Department of the Treasury, headed
-                        an extensive investigation of the Consular Service. He uncovered many
+                            Keim</persName>, a representative of the Department of the Treasury,
+                        headed an extensive investigation of the Consular Service. He uncovered many
                         irregularities, among them collection of illegal fees, improper exercise of
                         judicial powers, fraudulent accounting, faulty administration of estates
                         left by Americans who died abroad, and issuance of illegal passports. Keim
@@ -867,14 +898,16 @@
                             <persName>William W. Rockhill</persName> in East Asia—began careers that
                         extended well into the 20th century.</p>
                     <p>Despite the general lethargy characterizing foreign policy during this
-                        period, several Secretaries of State were proactive. <ref target="/departmenthistory/people/blaine-james-gillespie">James G.
+                        period, several Secretaries of State were proactive. <ref
+                            target="/departmenthistory/people/blaine-james-gillespie">James G.
                             Blaine</ref> of Maine, for example, had long been interested in the
                         development of more cordial relations and the expansion of trade with the
                         American republics. In 1889, he inaugurated the modern Pan American movement
                         with the convocation of an inter-American conference in Washington.</p>
                     <p>Perhaps the most notable development was the elevation of the Monroe Doctrine
                         into an unquestioned article of faith in American foreign policy. In 1895,
-                        Secretary of State <ref target="/departmenthistory/people/olney-richard">Richard Olney</ref> asserted that as a result of the Monroe Doctrine,
+                        Secretary of State <ref target="/departmenthistory/people/olney-richard"
+                            >Richard Olney</ref> asserted that as a result of the Monroe Doctrine,
                             <quote>“To-day the United States is practically sovereign on this
                             continent, and its fiat is law upon the subjects to which it confines
                             its interposition.” Why was this so? Because, Olney stated, in addition
@@ -899,7 +932,8 @@
                         <graphic url="sh-hfish.jpg"/>
                         <head>Secretary of State Hamilton Fish</head>
                     </figure>
-                    <p>In the early 1870s, Secretary of State <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>
+                    <p>In the early 1870s, Secretary of State <ref
+                            target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>
                         reorganized the Department, expanding the existing “bureau” system, in place
                         since the 1830s. To cope with the growth in overseas missions and
                         consulates, Fish established two diplomatic bureaus and two consular bureaus
@@ -914,7 +948,8 @@
                         that authorized a Third Assistant Secretary as well as a private secretary
                         to the Secretary of State. There would be no further reorganization until
                         1909.</p>
-                    <p>In 1875 the Department of State moved into an imposing new home—the <ref target="/departmenthistory/buildings/section27">State, War, and Navy
+                    <p>In 1875 the Department of State moved into an imposing new home—the <ref
+                            target="/departmenthistory/buildings/section27">State, War, and Navy
                             Building</ref> located at 17th Street and Pennsylvania Avenue, N.W.,
                         adjacent to the White House.</p>
                 </div>
@@ -929,7 +964,7 @@
                         representatives in Washington. The elevation of ministers to ambassadors and
                         legations to embassies was a gradual process and continued until the late
                         1960s when all U.S. chiefs of mission finally held the rank of
-                    ambassador.</p>
+                        ambassador.</p>
                 </div>
                 <div type="subchapter" xml:id="superpower">
                     <head>
@@ -944,7 +979,8 @@
                         far-reaching consequences. The 1898 Treaty of Paris ending the war gave Cuba
                         its independence and also ceded important Spanish possessions to the United
                         States—notably Puerto Rico, the Philippines, and the small island of Guam.
-                        The United States was suddenly a colonial power with overseas dependencies.</p>
+                        The United States was suddenly a colonial power with overseas
+                        dependencies.</p>
                     <figure rend="smallfloatinline">
                         <graphic url="sh-puerto-rico.jpg"/>
                         <head>Photograph of American Soliders in Puerto Rico during the
@@ -987,8 +1023,10 @@
                         <graphic url="sh-troosevelt.jpg"/>
                         <head>President Theodore Roosevelt</head>
                     </figure>
-                    <p>In 1904, President <persName>Theodore Roosevelt</persName>changed the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref> through his
-                            <ref target="/milestones/1899-1913/roosevelt-and-monroe-doctrine">“Roosevelt Corollary.”</ref> Roosevelt and other prominent Americans
+                    <p>In 1904, President <persName>Theodore Roosevelt</persName>changed the <ref
+                            target="/milestones/1801-1829/monroe">Monroe Doctrine</ref> through his
+                            <ref target="/milestones/1899-1913/roosevelt-and-monroe-doctrine"
+                            >“Roosevelt Corollary.”</ref> Roosevelt and other prominent Americans
                         were concerned that European creditor nations would use the unpaid debt of
                         the Latin American states to gain political control over them. Roosevelt
                         said that no Latin American nation adhering to “acceptable international
@@ -1006,7 +1044,8 @@
                         development of a new American policy for East Asia. As American businessmen
                         eyed the vast potential of the Chinese market, European incursions in
                             <placeName>China</placeName> threatened to cut off American access. In
-                        1899, Secretary of State <ref target="/departmenthistory/people/hay-john-milton">John Hay</ref>
+                        1899, Secretary of State <ref
+                            target="/departmenthistory/people/hay-john-milton">John Hay</ref>
                         proposed that nations interested in China should “enjoy perfect equality of
                         treatment for navigation,” that is, maintain the principle of free trade, or
                         the <ref target="/milestones/1899-1913/hay-and-china">“open door.”</ref> In
@@ -1173,7 +1212,7 @@
                         disequilibrium that would characterize most of the 20th century, generating
                         political turbulence and organized violence on a hitherto unimaginable
                         scale. The Department of State would struggle to meet the new
-                    challenges.</p>
+                        challenges.</p>
                 </div>
                 <div type="subchapter" xml:id="worldin1914">
                     <head>The World in 1914</head>
@@ -1220,7 +1259,8 @@
                     <p>The President's plan for the future, outlined in the “Fourteen Points”
                         (January 1918) and augmented by later pronouncements, envisioned restoration
                         of a stable, equitable, and enduring international balance through a new
-                        collective security organization, the <ref target="/milestones/1914-1920/league">League of Nations</ref>, based on
+                        collective security organization, the <ref
+                            target="/milestones/1914-1920/league">League of Nations</ref>, based on
                         a consensus of the great powers. Due in large part to Wilson's vision, the
                         United States had changed course from isolation toward engagement.</p>
                 </div>
@@ -1295,13 +1335,14 @@
                         1915 law permitted reassignment by administrative transfer.</p>
                     <p>But even after the war, the public believed that the modernization of
                         American diplomatic practice was still far from complete. In January 1920,
-                        Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert Lansing</ref>, writing to a sympathetic Congressman, John Jacob
+                        Secretary of State <ref target="/departmenthistory/people/lansing-robert"
+                            >Robert Lansing</ref>, writing to a sympathetic Congressman, John Jacob
                         Rogers of Massachusetts, described the problem: <quote>“The machinery of
                             government provided for dealing with our foreign relations is in need of
                             complete repair and reorganization. As adequate as it may have been when
                             the old order prevailed and the affairs of the world were free from the
                             present perplexities it has ceased to be responsive to present
-                        needs.”</quote> Three categories of reform were required to enable the
+                            needs.”</quote> Three categories of reform were required to enable the
                         Department to function effectively under the changed conditions of the
                         postwar period: <list>
                             <item>(I) The foreign services had to be fully professionalized and
@@ -1369,9 +1410,10 @@
                         namely, a reasonable, adequate provision in the way of pay and allowances
                         for the men who served the United States in a diplomatic or consular
                         capacity in foreign countries.”</p>
-                    <p>Unfortunately many of these gains proved temporary. During the <ref target="/milestones/great-depression">Great Depression</ref>,
-                        economies in government led to the suspension of promotions, a 15 per cent
-                        reduction in salaries, abolition of representational and living allowances,
+                    <p>Unfortunately many of these gains proved temporary. During the <ref
+                            target="/milestones/great-depression">Great Depression</ref>, economies
+                        in government led to the suspension of promotions, a 15 per cent reduction
+                        in salaries, abolition of representational and living allowances,
                         elimination of paid home leaves, and suspension of recruiting for four
                         years. The result was a 10 percent reduction in the size of the Foreign
                         Service between July 1932 and December 1934.</p>
@@ -1407,7 +1449,8 @@
                     <head>A Return to Isolationism</head>
                     <p>But the changes weren’t enough. The failure to fully modernize the Department
                         of State reflected the country’s lack of commitment to an energetic foreign
-                        policy after the Senate repudiated the <ref target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref>.
+                        policy after the Senate repudiated the <ref
+                            target="/milestones/1914-1920/paris-peace">Treaty of Versailles</ref>.
                             <figure rend="smallfloatinline">
                             <graphic url="sh-hughes.jpg"/>
                             <head>Secretary of State Charles Evans Hughes</head>
@@ -1416,10 +1459,13 @@
                         responsibilities commensurate with its power.</p>
                     <p>During the 1920s, the United States strongly resisted binding international
                         commitments and focused instead on preventing the outbreak of war. Secretary
-                        of State Charles Evans Hughes played a key role in the <ref target="/milestones/1921-1936/naval-conference">Washington Naval
+                        of State Charles Evans Hughes played a key role in the <ref
+                            target="/milestones/1921-1936/naval-conference">Washington Naval
                             Disarmament Conference (1921-22)</ref>, and Secretary of State Frank
-                        Kellogg was instrumental in the creation of the <ref target="/milestones/1921-1936/kellogg">Paris Peace Pact (1928)</ref>, a
-                        multilateral agreement outlawing offensive warfare. <figure rend="smallfloatinline">
+                        Kellogg was instrumental in the creation of the <ref
+                            target="/milestones/1921-1936/kellogg">Paris Peace Pact (1928)</ref>, a
+                        multilateral agreement outlawing offensive warfare. <figure
+                            rend="smallfloatinline">
                             <graphic url="sh-kellogg.jpg"/>
                             <head>Secretary of State Frank Kellogg</head>
                         </figure> Although clear dangers emerged during the Great Depression of the
@@ -1449,7 +1495,7 @@
                     <figure rend="smallfloatinline">
                         <graphic url="sh-fdr-lend.jpg"/>
                         <head>President Franklin D. Roosevelt signing the Lend-Lease Act of
-                        1941</head>
+                            1941</head>
                     </figure>
                     <p>As the Nazis began the systematic persecution of Jews first in Germany and
                         then later in occupied Europe, the United States faced a major crisis in
@@ -1476,7 +1522,8 @@
                         <figure rend="smallfloatinline">
                             <graphic url="../secretaries/hull-cordell.jpg"/>
                             <head>Secretary of State Cordell Hull</head>
-                        </figure> The United States entered the war when the Japanese attacked <ref target="/milestones/1937-1945/PearlHarbor">Pearl Harbor</ref> on
+                        </figure> The United States entered the war when the Japanese attacked <ref
+                            target="/milestones/1937-1945/PearlHarbor">Pearl Harbor</ref> on
                         December 7, 1941. The Department faced immediate new burdens and
                         responsibilities from evacuating Americans from combat zones, representing
                         the interests of belligerents in enemy countries, and assisting
@@ -1501,7 +1548,8 @@
                         General George C. Marshall, Under Secretary of State Sumner Welles, and
                         Secretary of the Treasury Henry Morgenthau, Jr.—and largely ignored the
                         advice of the Secretary of State.</p>
-                    <p>Although Secretary <ref target="/departmenthistory/people/hull-cordell">Cordell Hull</ref> was usually informed of important decisions, he
+                    <p>Although Secretary <ref target="/departmenthistory/people/hull-cordell"
+                            >Cordell Hull</ref> was usually informed of important decisions, he
                         rarely participated in the major wartime conferences at which the leaders of
                         the alliance forged the victory of 1945. His inability to gain the
                         President's full confidence kept the Department from a paramount role in
@@ -1516,9 +1564,10 @@
                         postwar international organization. In 1942, Hull established an Advisory
                         Committee on Postwar Foreign Policy to avoid the partisan fighting that
                         characterized the period after World War I. In 1944, representatives of 44
-                        nations met at <ref target="/milestones/bretton-woods">Bretton
-                            Woods</ref> to agree on plans for post-war economic policy, to stabilize
-                        currency, and to establish a World Bank. Later that year at the <ref target="/milestones/1937-1945/war-time-conferences">Dumbarton Oaks
+                        nations met at <ref target="/milestones/bretton-woods">Bretton Woods</ref>
+                        to agree on plans for post-war economic policy, to stabilize currency, and
+                        to establish a World Bank. Later that year at the <ref
+                            target="/milestones/1937-1945/war-time-conferences">Dumbarton Oaks
                             conference</ref>, world leaders hammered out a draft charter for a new
                         international organization—the United Nations. </p>
                 </div>
@@ -1544,7 +1593,8 @@
                         planning. In December 1944, shortly after Stettinius succeeded Hull as
                         Secretary of State, he issued Department Order 1301, which concentrated
                         similar functions in the same office and related offices under a senior
-                        official, either the Under Secretary or one of six Assistant Secretaries.</p>
+                        official, either the Under Secretary or one of six Assistant
+                        Secretaries.</p>
                     <p>To coordinate the work of the Department, ensure follow-through, and conduct
                         long-range planning, Order 1301 created several new entities. A Staff
                         Committee including the Secretary and his principal subordinates became the
@@ -1597,10 +1647,13 @@
                         powers, increasingly in conflict with each other. By 1947, efforts to
                         maintain cooperation between Washington and Moscow had broken down
                         completely. President Truman, working closely with two assertive Secretaries
-                        of State—<ref target="/departmenthistory/people/marshall-george-catlett">George C. Marshall</ref> (1947-1949) and <ref target="/departmenthistory/people/acheson-dean-gooderham">Dean G.
+                        of State—<ref target="/departmenthistory/people/marshall-george-catlett"
+                            >George C. Marshall</ref> (1947-1949) and <ref
+                            target="/departmenthistory/people/acheson-dean-gooderham">Dean G.
                             Acheson</ref> (1949-1953)—took decisive steps to contain Soviet
                         expansion in regions in which the United States had vital interests. The
-                        United States was about to enter a new kind of war: the <ref target="/milestones/1945-1952/foreword">“Cold War.”</ref>
+                        United States was about to enter a new kind of war: the <ref
+                            target="/milestones/1945-1952/foreword">“Cold War.”</ref>
                     </p>
                 </div>
                 <div type="subchapter" xml:id="kennan">
@@ -1618,7 +1671,7 @@
                         Department—the now-famous “long telegram”—on the aggressive nature of
                         Stalin’s foreign policy. Kennan, writing as “Mr. X,” published an outline of
                         his philosophy in the prestigious journal <hi rend="italic">Foreign
-                        Affairs</hi> in 1947. His conclusion was that “the main element of any
+                            Affairs</hi> in 1947. His conclusion was that “the main element of any
                         United States policy toward the Soviet Union must be that of a long-term
                         patient but firm and vigilant containment of Russian expansive tendencies.”
                             <ref target="/milestones/1945-1952/kennan">Containment </ref>provided a
@@ -1627,20 +1680,23 @@
                 </div>
                 <div type="subchapter" xml:id="truman">
                     <head>The Truman Doctrine and the Marshall Plan</head>
-                    <p>The first step was the <ref target="/milestones/1945-1952/truman-doctrine">“Truman Doctrine”</ref> of March 1947, which reflected the
+                    <p>The first step was the <ref target="/milestones/1945-1952/truman-doctrine"
+                            >“Truman Doctrine”</ref> of March 1947, which reflected the
                         combativeness of President Harry Truman. Truman wanted to “scare the hell”
                         out of Congress. Arguing that Greece and Turkey could fall victim to
                         subversion without support from friendly nations, Truman asked Congress to
                         authorize $400-million in emergency assistance. To justify this course, he
                         said: “I believe we must assist free peoples to work out their destinies in
                         their own way.” The key to preventing the overthrow of free nations was to
-                        attack the conditions of “misery and want” that nurtured totalitarianism.</p>
+                        attack the conditions of “misery and want” that nurtured
+                        totalitarianism.</p>
                     <figure rend="smallfloatinline">
                         <graphic url="sh-truman.jpg"/>
                         <head>President Harry S. Truman</head>
                     </figure>
                     <p>Soon this general principle was applied to Western Europe as a whole. In June
-                        1947, Secretary <ref target="/departmenthistory/people/marshall-george-catlett">George C.
+                        1947, Secretary <ref
+                            target="/departmenthistory/people/marshall-george-catlett">George C.
                             Marshall</ref> proposed the extension of massive economic assistance to
                         the devastated nations of Europe, saying that the policy of the United
                         States was not directed “against any country or doctrine but against hunger,
@@ -1653,9 +1709,9 @@
                         best defense against communism in Western Europe. Congress responded to
                         Marshall’s proposal by authorizing the European Recovery Program, better
                         known as the <ref target="/milestones/1945-1952/marshall-plan">Marshall
-                        Plan</ref>. An investment of about $13 billion in Europe during the next few
-                        years resulted in the extraordinarily rapid and durable reconstruction of a
-                        democratic Western Europe.</p>
+                            Plan</ref>. An investment of about $13 billion in Europe during the next
+                        few years resulted in the extraordinarily rapid and durable reconstruction
+                        of a democratic Western Europe.</p>
                 </div>
                 <div type="subchapter" xml:id="containment">
                     <head>Containment and Collective Defense</head>
@@ -1740,7 +1796,8 @@
                     <p>Under the terms of the legislation, the NSC would consist of a small staff
                         headed by an Executive Secretary appointed by the President. There was no
                         legislative provision for the post of “national security adviser,” and the
-                        small NSC staff had no role in the formulation or implementation of policy.</p>
+                        small NSC staff had no role in the formulation or implementation of
+                        policy.</p>
                     <p>Truman did not take well to the idea that his foreign policy advisers would
                         be mandated by Congressional legislation, and he rarely attended the initial
                         meetings of the National Security Council. The Secretary of State was named
@@ -1779,7 +1836,8 @@
                         ordered a complete review of American strategic and military policy, and, in
                         April 1950, the Department sent a paper calling for a broad-based and
                         reinvigorated containment policy toward the Soviet Union, directly to the
-                        President. The paper later became known as <ref target="/milestones/1945-1952/NSC68">NSC-68</ref>. After the outbreak of
+                        President. The paper later became known as <ref
+                            target="/milestones/1945-1952/NSC68">NSC-68</ref>. After the outbreak of
                         fighting on the Korean peninsula, NSC-68 was accepted throughout the
                         government as the foundation of American foreign policy.</p>
                     <figure rend="smallfloatinline">
@@ -1824,8 +1882,9 @@
                         State. Dulles also believed that some issues, such as covert operations,
                         were too sensitive to be discussed by the full NSC. Because of his close
                         ties to the President and his even closer relationship with his brother, CIA
-                        Director Allen Dulles, <ref target="/departmenthistory/people/dulles-john-foster">John Foster
-                        Dulles</ref> was second in importance only to the President at any NSC
+                        Director Allen Dulles, <ref
+                            target="/departmenthistory/people/dulles-john-foster">John Foster
+                            Dulles</ref> was second in importance only to the President at any NSC
                         meeting. President Eisenhower often dominated the discussions, but Dulles
                         remained his most influential foreign policy adviser. </p>
                     <p>Dulles was a staunch anti-communist. For this Secretary of State there was no
@@ -1852,10 +1911,11 @@
                         multilateral treaties designed to encircle the Soviet Union and its allies,
                         including the People’s Republic of China (PRC). Among these arrangements
                         were the <ref target="/milestones/1953-1960/cento">Central Treaty
-                            Organization (CENTO)</ref>; the <ref target="/milestones/1953-1960/seato">Southeast Asia Treaty Organization
+                            Organization (CENTO)</ref>; the <ref
+                            target="/milestones/1953-1960/seato">Southeast Asia Treaty Organization
                             (SEATO)</ref>; and bilateral defense or security treaties with Japan,
                             <placeName>South Korea</placeName>, the <placeName>Republic of
-                        China</placeName>, and the <placeName>Philippines</placeName>. Secretary
+                            China</placeName>, and the <placeName>Philippines</placeName>. Secretary
                         Dulles was the most prominent advocate of global containment and he traveled
                         the world tirelessly to ensure its success. In 1954, the United States took
                         a strong stand in favor of the Chinese Nationalists when the PRC bombarded
@@ -1963,7 +2023,8 @@
                 <div type="subchapter" xml:id="quarters">
                     <head>New Secretary; New Quarters</head>
                     <p>John Foster Dulles resigned in April 1959 because of ill health and died of
-                        cancer soon afterward. Secretary of State <ref target="/departmenthistory/people/herter-christian-archibald">Christian
+                        cancer soon afterward. Secretary of State <ref
+                            target="/departmenthistory/people/herter-christian-archibald">Christian
                             A. Herter</ref>, who served mostly from a wheelchair because of his
                         severe arthritis, replaced him. With the death of Dulles and the approaching
                         end of Eisenhower’s second term, U.S. foreign policy initiatives became less
@@ -1979,7 +2040,8 @@
                         <graphic url="../secretaries/herter-christian-archibald.jpg"/>
                         <head>Secretary of State Christian Herter</head>
                     </figure>
-                    <p>In early January 1961, the Department of State moved into its new <ref target="/departmenthistory/buildings/section28">headquarters</ref>,
+                    <p>In early January 1961, the Department of State moved into its new <ref
+                            target="/departmenthistory/buildings/section28">headquarters</ref>,
                         which it continues to occupy today. Secretary Dulles and President
                         Eisenhower had laid the cornerstone of the new building in September 1957;
                         using the same trowel that George Washington had used to lay the cornerstone
@@ -2063,21 +2125,23 @@
                         order to assure the survival and the success of liberty.” In fact, his
                         foreign policy was marred by a string of failures. </p>
                     <p>First, Kennedy gave the green light to an Eisenhower-initiated invasion of
-                        the <ref target="/milestones/1961-1968/cuban-missile-crisis">Bay of Pigs</ref> in
-                        Cuba in 1961. Based on faulty intelligence, the military action, which was
-                        carried out by Cuban exiles without crucial air support was a fiasco. Then
-                        in June 1961 at the Vienna Summit with Soviet Premier <persName>Nikita
-                            Khrushchev</persName>, Kennedy was unprepared and seemed to be a
-                        lightweight playboy. Next, Kennedy’s tough talk about the Soviet Union in
-                        Berlin did not improve the situation—instead, the Soviets built the <ref target="/milestones/1945-1952/berlin-airlift">Berlin Wall</ref>. Finally,
-                        his decision not to draw the line against communism in Laos, as the
-                        Eisenhower Administration had urged, left South Vietnam as the place to
-                        fight communism in Asia. </p>
+                        the <ref target="/milestones/1961-1968/cuban-missile-crisis">Bay of
+                            Pigs</ref> in Cuba in 1961. Based on faulty intelligence, the military
+                        action, which was carried out by Cuban exiles without crucial air support
+                        was a fiasco. Then in June 1961 at the Vienna Summit with Soviet Premier
+                            <persName>Nikita Khrushchev</persName>, Kennedy was unprepared and
+                        seemed to be a lightweight playboy. Next, Kennedy’s tough talk about the
+                        Soviet Union in Berlin did not improve the situation—instead, the Soviets
+                        built the <ref target="/milestones/1945-1952/berlin-airlift">Berlin
+                            Wall</ref>. Finally, his decision not to draw the line against communism
+                        in Laos, as the Eisenhower Administration had urged, left South Vietnam as
+                        the place to fight communism in Asia. </p>
                     <p>Kennedy’s overall record was a mixed bag of success and failure. At the
                         President’s urging, Congress established the U.S. Arms Control and
                         Disarmament Agency (ACDA) in 1961 as a separate entity under Department of
                         State auspices. The Administration built on Eisenhower’s extensive
-                        negotiations with the Soviet Union, but the <ref target="/milestones/1961-1968/limited-ban">Limited Test Ban Treaty</ref>
+                        negotiations with the Soviet Union, but the <ref
+                            target="/milestones/1961-1968/limited-ban">Limited Test Ban Treaty</ref>
                         signed by Kennedy only outlawed atmospheric but not underground nuclear
                         testing. In Vietnam, the Kennedy Administration approved the overthrow of
                         President Diem, believing that any successor government would have to be an
@@ -2091,7 +2155,7 @@
                         policy crisis. <figure rend="smallfloatinline">
                             <graphic url="sh-cubancrisis.jpg"/>
                             <head>President Kennedy with his cabinet during the Cuban Missile
-                            Crisis</head>
+                                Crisis</head>
                         </figure> Soviet Premier <persName>Nikita Khrushchev</persName> saw an
                         opportunity to strengthen the relationship between the Soviet Union and
                             <persName>Fidel Castro</persName>’s Cuba and make good its promise to
@@ -2108,7 +2172,8 @@
                 <div type="subchapter" xml:id="jfk-state">
                     <head>Kennedy and the Department of State</head>
                     <p>
-                        <persName>John F. Kennedy</persName> chose <ref target="/departmenthistory/people/rusk-david-dean">Dean Rusk</ref> to be
+                        <persName>John F. Kennedy</persName> chose <ref
+                            target="/departmenthistory/people/rusk-david-dean">Dean Rusk</ref> to be
                         his Secretary of State, convinced that Rusk would not challenge presidential
                         control of foreign policy. A former Rhodes Scholar, professor of government,
                         college dean, senior Department official under Secretaries Marshall and
@@ -2209,13 +2274,15 @@
                         conflict. After an extensive re-examination, President Johnson decided to
                         disengage from a struggle lacking U.S. domestic support. He desperately
                         tried to initiate formal peace negotiations in Paris before the 1968
-                        presidential election, but the peace talks commenced only as he left office.</p>
+                        presidential election, but the peace talks commenced only as he left
+                        office.</p>
                     <p>Johnson was also concerned about Latin American policy, which was another of
                         his special interests. He chose Eisenhower official <persName>Thomas C.
-                        Mann</persName> to be Assistant Secretary of State for Inter-American
+                            Mann</persName> to be Assistant Secretary of State for Inter-American
                         Affairs. Mann let it be known that he would judge Western Hemisphere
                         neighbors by their commitment to anti-communism rather than their commitment
-                        to democracy. The <ref target="/milestones/1961-1968/alliance-for-progress ">Alliance for Progress</ref>, begun with such fanfare under Kennedy, was
+                        to democracy. The <ref target="/milestones/1961-1968/alliance-for-progress "
+                            >Alliance for Progress</ref>, begun with such fanfare under Kennedy, was
                         allowed to wither as a result of neglect and its own internal problems.
                         Johnson’s policy toward Latin America became increasingly interventionist,
                         culminating with the deployment of U.S. soldiers to Santo Domingo to prevent
@@ -2235,12 +2302,13 @@
                         chaired by the Under Secretary of State, to do just that. Several
                         Interdepartmental Regional Groups were created to support the work of the
                         SIG, chaired by Assistant Secretaries of State. On paper at least, the
-                        Department of State was in charge of the <ref target="/milestones/1945-1952/national-security-act">NSC policy
-                        process</ref>. In reality, the system did not work as planned and did not
-                        survive beyond the Johnson Administration. At least for Vietnam and a few
-                        other high-profile issues, Johnson still relied on Rusk, the Secretary of
-                        Defense, and his National Security Adviser, meeting through the mechanism of
-                        the “Tuesday lunch,” an extremely restricted version of the National
+                        Department of State was in charge of the <ref
+                            target="/milestones/1945-1952/national-security-act">NSC policy
+                            process</ref>. In reality, the system did not work as planned and did
+                        not survive beyond the Johnson Administration. At least for Vietnam and a
+                        few other high-profile issues, Johnson still relied on Rusk, the Secretary
+                        of Defense, and his National Security Adviser, meeting through the mechanism
+                        of the “Tuesday lunch,” an extremely restricted version of the National
                         Security Council. </p>
                 </div>
                 <div type="subchapter" xml:id="inequality">
@@ -2288,11 +2356,14 @@
                         for the Department of State. Foreign policy had been Nixon’s specialty in
                         Congress and as Vice President under Eisenhower. As President, he fully
                         intended to control foreign policy and make the major decisions himself. He
-                        created an activist <ref target="/milestones/1945-1952/national-security-act">NSC</ref> staff under Harvard Professor <ref target="/departmenthistory/people/kissinger-henry-a">Henry A.
-                        Kissinger</ref>, whom he named as his National Security Adviser. Kissinger
-                        and the NSC staff acted as a buffer between the President and his cabinet
-                        departments and agencies, analyzing their recommendations and making sure
-                        that the President’s interests were protected. Kissinger’s NSC staff
+                        created an activist <ref
+                            target="/milestones/1945-1952/national-security-act">NSC</ref> staff
+                        under Harvard Professor <ref
+                            target="/departmenthistory/people/kissinger-henry-a">Henry A.
+                            Kissinger</ref>, whom he named as his National Security Adviser.
+                        Kissinger and the NSC staff acted as a buffer between the President and his
+                        cabinet departments and agencies, analyzing their recommendations and making
+                        sure that the President’s interests were protected. Kissinger’s NSC staff
                         analyzed all foreign policy memoranda, which were then approved by Kissinger
                         himself before they went to the President.</p>
                     <figure rend="smallfloatinline">
@@ -2318,14 +2389,16 @@
                     <p>President Nixon pursued two important policies that both culminated in 1972.
                         In February he visited Beijing, setting in motion normalization of relations
                         with the People's Republic of China. In May, he traveled to the Soviet Union
-                        and signed agreements that contained the results of the first <ref target="/milestones/1969-1976/salt">Strategic Arms Limitation Treaty
+                        and signed agreements that contained the results of the first <ref
+                            target="/milestones/1969-1976/salt">Strategic Arms Limitation Treaty
                             talks (SALT I)</ref>, and new negotiations were begun to extend further
                         arms control and disarmament measures.</p>
                     <figure rend="smallfloatinline">
                         <graphic url="sh-nixon-china.jpg"/>
                         <head>Nixon's Visit to China</head>
                     </figure>
-                    <p>These developments marked the beginning of a period of <ref target="/milestones/1969-1976/detente">“détente”</ref> in line with a
+                    <p>These developments marked the beginning of a period of <ref
+                            target="/milestones/1969-1976/detente">“détente”</ref> in line with a
                         general tendency among Americans to favor a lower profile in world affairs
                         after the <ref target="/milestones/1969-1976/foreword">Vietnam War</ref>,
                         which finally ended in 1975 with the last withdrawal of U.S. personnel.
@@ -2345,7 +2418,8 @@
                         Commissioner, <persName>Dixie Lee Ray</persName>, took the job. However, she
                         resigned six months later claiming that OES was not playing a significant
                         policy role.</p>
-                    <p>Although Secretary <ref target="/departmenthistory/people/rogers-william-pierce">Rogers</ref>
+                    <p>Although Secretary <ref
+                            target="/departmenthistory/people/rogers-william-pierce">Rogers</ref>
                         still had broad responsibility for foreign policy, including Europe, the
                         Middle East, Africa, Latin America, and international organizations, the
                         Department of State resented its exclusion from key policy decisions, and
@@ -2501,7 +2575,7 @@
                         <head>U.S. hostage being paraded in front of the public</head>
                     </figure>
                     <p>The Administration’s vitality was sapped, and the <placeName>Soviet
-                        Union</placeName> took advantage of America’s weakness to win strategic
+                            Union</placeName> took advantage of America’s weakness to win strategic
                         advantage for itself. In 1979, Soviet-supported Marxist rebels made strong
                         gains in <placeName>Ethiopia</placeName>, <placeName>Angola</placeName>, and
                             <placeName>Mozambique</placeName>. <placeName>Vietnam</placeName> fought
@@ -2511,7 +2585,8 @@
                         government. </p>
                     <p>In light of these challenges to global stability, President Carter
                         significantly altered his view of both the Soviet Union and the advice of
-                        his own advisers. Carter initially favored Secretary <ref target="/departmenthistory/people/vance-cyrus-roberts">Vance</ref>’s
+                        his own advisers. Carter initially favored Secretary <ref
+                            target="/departmenthistory/people/vance-cyrus-roberts">Vance</ref>’s
                         policy of negotiation, but by 1980 was more receptive National Security
                         Adviser <persName>Zbigniew Brzezinski</persName>’s more confrontational
                         stance. Once again the National Security Council and the Department of State
@@ -2520,7 +2595,8 @@
                         Vance had been correct—the 1980 mission was a debacle. But Vance was
                         frustrated and he resigned in protest in April 1980. Cyrus Vance was the
                         first Secretary of State clearly and publicly to tie his resignation to a
-                        difference of opinion over policy since <ref target="/departmenthistory/people/bryan-william-jennings">William
+                        difference of opinion over policy since <ref
+                            target="/departmenthistory/people/bryan-william-jennings">William
                             Jennings Bryan</ref> in 1915. Carter chose Senator Edmund Muskie as his
                         new Secretary.</p>
                 </div>
@@ -2529,7 +2605,8 @@
                     <p>In 1980, Congress passed the landmark Foreign Service Act, the first new
                         legislation on the service since 1946, designed to address problems both at
                         home and overseas. The act was the culmination of reform initiated by Vance
-                        and Deputy Secretary of State <ref target="/departmenthistory/people/christopher-warren-minor">Warren M.
+                        and Deputy Secretary of State <ref
+                            target="/departmenthistory/people/christopher-warren-minor">Warren M.
                             Christopher</ref> and implemented by Under Secretary of State for
                         Management Benjamin Read. </p>
                     <p>The act created a Senior Foreign Service (SFS) to address a real
@@ -2693,7 +2770,8 @@
                         Secretary of Defense Casper Weinberger over major issues of foreign policy,
                         Shultz forged an effective partnership with President Reagan by the end of
                         the President's first term. Shultz deferred to Reagan on major foreign
-                        policy decisions, while Reagan delegated to Shultz the details of diplomacy.</p>
+                        policy decisions, while Reagan delegated to Shultz the details of
+                        diplomacy.</p>
                     <figure rend="smallfloatinline">
                         <graphic url="../secretaries/shultz-george-pratt.jpg"/>
                         <head>Secretary of State George Shultz</head>
@@ -2781,7 +2859,7 @@
                     <figure rend="smallfloatinline">
                         <graphic url="sh-reagan-gorbachev.jpg"/>
                         <head>President Ronald Reagan and Soviet Leader Mikhail Gorbachev in
-                        Russia.</head>
+                            Russia.</head>
                     </figure>
                     <p>Their personal relationship produced its most practical result in December
                         1987, when the two leaders signed the Intermediate Range Nuclear Forces
@@ -2914,7 +2992,8 @@
                         which had reached extremes during the “Iran-Contra affair.” Bush wanted
                         ambassadors to have a larger advisory role, while a reduced NSC staff would
                         be less intrusive. Choosing his cabinet from among people he already knew,
-                        Bush selected one of his closest friends, <ref target="/departmenthistory/people/baker-james-addison">James A. Baker
+                        Bush selected one of his closest friends, <ref
+                            target="/departmenthistory/people/baker-james-addison">James A. Baker
                             III</ref>, as Secretary of State. Baker had served as White House Chief
                         of Staff and Secretary of the Treasury under Reagan. Bush characterized
                         Baker as a “gimmie,” and announced his appointment less than 24 hours after
@@ -3008,7 +3087,8 @@
                         assistance.</p>
                     <p>The two former Cold War adversaries lifted restrictions on the numbers and
                         movement of diplomatic, consular, and official personnel. They also agreed
-                        to continue the <ref target="/milestones/1989-1992/strategic-arms-reduction">Strategic Arms Reduction Treaty negotiations (START)</ref>, begun
+                        to continue the <ref target="/milestones/1989-1992/strategic-arms-reduction"
+                            >Strategic Arms Reduction Treaty negotiations (START)</ref>, begun
                         before the collapse of the Soviet Union, which set a goal of reducing their
                         strategic nuclear arsenals from approximately 12,000 warheads to 3,000-3,500
                         warheads by 2003. In January 1993, three weeks before leaving office, Bush
@@ -3024,7 +3104,7 @@
                         Media coverage of the suppression made a powerful impression, as nations
                         around the world realized that China was not prepared to follow the
                             <placeName>Soviet Union</placeName> and <placeName>Eastern
-                        Europe</placeName> and allow its people more freedom. The United States
+                            Europe</placeName> and allow its people more freedom. The United States
                         joined the protest of many other nations by imposing economic sanctions and
                         condemning the suppression and killing of the pro-democracy demonstrators. </p>
                     <figure rend="smallfloatinline">
@@ -3033,7 +3113,8 @@
                             protest.</head>
                     </figure>
                     <p>In an effort to improve U.S. relations with China, Bush sent Deputy Secretary
-                        of State <ref target="/departmenthistory/people/eagleburger-lawrence-sidney">Lawrence Eagleburger</ref> and National Security Adviser Brent
+                        of State <ref target="/departmenthistory/people/eagleburger-lawrence-sidney"
+                            >Lawrence Eagleburger</ref> and National Security Adviser Brent
                         Scowcroft on a secret trip to China in July 1989. When word of their visit
                         became public several months later, the President was criticized for
                         pursuing “constructive engagement” with the Chinese Communist government so
@@ -3075,7 +3156,7 @@
                     <figure rend="smallfloatinline">
                         <graphic url="sh-gulf-war.jpg"/>
                         <head>President G. H.W. Bush visiting the Troops during the First Gulf
-                        War</head>
+                            War</head>
                     </figure>
                     <p>When Saddam Hussein invaded his small, oil-rich neighbor in the summer of
                         1990, the Department faced its first full-scale post-Cold War international
@@ -3118,10 +3199,11 @@
                         region, helped bring about the first face-to-face talks between Israel and
                         all of its Arab neighbors in Madrid, beginning in October 1991. Secretary
                         Baker’s <ref target="/milestones/1969-1976/arab-israeli-war-1973">“shuttle
-                            diplomacy”</ref> rivaled <ref target="/departmenthistory/people/kissinger-henry-a">Henry
-                        Kissinger</ref>’s in 1974. From the beginning of Baker’s tenure until August
-                        23, 1992, when he resigned to become White House Chief of Staff, he made 217
-                        trips abroad.</p>
+                            diplomacy”</ref> rivaled <ref
+                            target="/departmenthistory/people/kissinger-henry-a">Henry
+                            Kissinger</ref>’s in 1974. From the beginning of Baker’s tenure until
+                        August 23, 1992, when he resigned to become White House Chief of Staff, he
+                        made 217 trips abroad.</p>
                     <p>
                         <ref target="/departmenthistory/people/eagleburger-lawrence-sidney">Lawrence
                             Eagleburger</ref>, who succeeded Baker, became the first Foreign Service

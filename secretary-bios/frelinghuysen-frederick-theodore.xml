@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Frederick Theodore Frelinghuysen</title>
+                <title type="complete">Biographies of the Secretaries of State: Frederick Theodore
+                    Frelinghuysen</title>
                 <title type="short">Frederick Theodore Frelinghuysen</title>
             </titleStmt>
             <publicationStmt>
@@ -44,15 +45,16 @@
             <div type="section" xml:id="influence">
                 <head>Influence on American Diplomacy</head>
                 <p>As Secretary of State, Frelinghuysen inherited a number of diplomatic issues from
-                    his predecessor, <ref target="/departmenthistory/people/blaine-james-gillespie">James G. Blaine</ref>. He continued Blaine’s unsuccessful attempts to
+                    his predecessor, <ref target="/departmenthistory/people/blaine-james-gillespie"
+                        >James G. Blaine</ref>. He continued Blaine’s unsuccessful attempts to
                     mediate peace negotiations between <placeName>Peru</placeName>,
                         <placeName>Bolivia</placeName>, and <placeName>Chile</placeName>.
                     Frelinghuysen appointed <persName>Cornelius A. Logan</persName> as Minister to
                         <placeName>Chile</placeName>. Logan mediated the 1883 peace agreement
                     between Chile and Peru, terminating the War of the Pacific with the Treaty of
                     Ancón on October 23, 1883. Despite the achievement of peace, diplomatic blunders
-                    in Chile and Peru and Bolivia’s territorial losses remained an ongoing source
-                    of tension between the United States and South America. </p>
+                    in Chile and Peru and Bolivia’s territorial losses remained an ongoing source of
+                    tension between the United States and South America. </p>
                 <p> Against President Arthur’s wishes, Frelinghuysen canceled the Pan-American
                     Conference that Blaine had organized before his departure. Arthur brought the
                     issue before Congress, which took no action, and the invitations for the
@@ -63,7 +65,8 @@
                     refuse to arbitrate in the emerging boundary dispute between Venezuela and
                     Britain over Guyana’s western border.</p>
                 <p> Concerned about European construction in the Panama Canal, Frelinghuysen
-                    unsuccessfully attempted to renegotiate the 1850 <ref target="/milestones/1899-1913/panama-canal">Clayton-Bulwer Treaty</ref> with
+                    unsuccessfully attempted to renegotiate the 1850 <ref
+                        target="/milestones/1899-1913/panama-canal">Clayton-Bulwer Treaty</ref> with
                     Great Britain. He negotiated an 1884 treaty with Nicaragua granting the United
                     States exclusive rights to construct and control a transoceanic canal—terms
                     which directly contradicted the Clayton-Bulwer Treaty. The U.S. Senate failed to
@@ -83,14 +86,16 @@
                     <bibl>Bemis, Samuel Flagg Bemis, ed. <hi rend="italic">The American Secretaries
                             of State and Their Diplomacy. </hi>Vol. 5. New York: Alfred A. Knopf,
                         1928. Reprint 1963 (Cooper Square Publishers, Inc.). </bibl>
-                    <bibl>“Frederick Theodore Frelinghuysen,” in <ref target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000369">Biographical Directory of the United States Congress. </ref> Last
+                    <bibl>“Frederick Theodore Frelinghuysen,” in <ref
+                            target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000369"
+                            >Biographical Directory of the United States Congress. </ref> Last
                         accessed July 28, 2008. </bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

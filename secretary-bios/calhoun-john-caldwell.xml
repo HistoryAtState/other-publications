@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: John C. Calhoun</title>
+                <title type="complete">Biographies of the Secretaries of State: John C.
+                    Calhoun</title>
                 <title type="short">John C. Calhoun</title>
             </titleStmt>
             <publicationStmt>
@@ -20,9 +21,9 @@
                 <head>Introduction</head>
                 <p>John Caldwell Calhoun was appointed Secretary of State by President
                         <persName>John Tyler</persName> on <date when="1844-03-06">March 6,
-                    1844</date>. Calhoun entered duty on April 1, 1844, and left the position on
-                    March 10, 1845. A former U.S. Representative, U.S. Senator, Secretary of War
-                    and Vice President, Calhoun served as Secretary of State for less than one year
+                        1844</date>. Calhoun entered duty on April 1, 1844, and left the position on
+                    March 10, 1845. A former U.S. Representative, U.S. Senator, Secretary of War and
+                    Vice President, Calhoun served as Secretary of State for less than one year
                     before returning to his position in the U.S. Senate, where he served until his
                     death in 1850. </p>
                 <figure rend="smallfloatinline">
@@ -55,17 +56,18 @@
                     but promised him the position. Tyler accepted the proposition and named Calhoun
                     to his Cabinet with the assurance that its newest member would carry out the
                     directives of his predecessor, namely the Annexation of Texas.</p>
-                <p>One of Calhoun’s first acts as Secretary of State was to submit a <ref target="/milestones/1830-1860/texas-annexation">treaty of annexation</ref> to
-                    the Senate. The 1844 treaty had been largely crafted by President Tyler and the
-                    former Secretary Upshur, but it was Calhoun’s vociferous and controversial
+                <p>One of Calhoun’s first acts as Secretary of State was to submit a <ref
+                        target="/milestones/1830-1860/texas-annexation">treaty of annexation</ref>
+                    to the Senate. The 1844 treaty had been largely crafted by President Tyler and
+                    the former Secretary Upshur, but it was Calhoun’s vociferous and controversial
                     support of slavery in Texas that was blamed for its defeat in Congress. He
                     continued to press for annexation of a pro-slavery Texas, which deeply troubled
                     President Tyler, the incumbent in that year’s election who hoped to downplay
                     sectional differences and unite, rather than divide, the nation over the issue
                     of annexation.</p>
                 <p>When President Polk was elected on a pro-expansionist platform, sitting President
-                    Tyler recommended annexation by a joint resolution of Congress, which passed days
-                    before he left office in 1845.</p>
+                    Tyler recommended annexation by a joint resolution of Congress, which passed
+                    days before he left office in 1845.</p>
                 <p>Calhoun also worked to resolve territorial disputes to the north, opening
                     negotiations on a settlement with the British over the Oregon Territory. The
                     U.S. also signed the <ref target="/milestones/1830-1860/china-1">Treaty of
@@ -79,9 +81,10 @@
             <div type="appendix">
                 <head>Bibliography</head>
                 <listBibl>
-                    <bibl>Adams, Randolph G. “John Caldwell Calhoun.” In <hi rend="italic">The American Secretaries of State and Their
-                        Diplomacy,</hi> edited by Samuel Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963
-                        (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Adams, Randolph G. “John Caldwell Calhoun.” In <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy,</hi> edited by Samuel
+                        Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper
+                        Square Publishers, Inc.).</bibl>
                     <bibl>Capers, Gerald M. <hi rend="italic">John C. Calhoun—Opportunist: A
                             Reappraisal.</hi> Gainesville: University of Florida Press, 1960. </bibl>
                     <bibl>Current, Richard N. <hi rend="italic">John C. Calhoun.</hi> New York:
@@ -90,8 +93,8 @@
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001.</bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

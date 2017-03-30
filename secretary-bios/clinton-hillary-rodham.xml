@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Hillary Rodham Clinton</title>
+                <title type="complete">Biographies of the Secretaries of State: Hillary Rodham
+                    Clinton</title>
                 <title type="short">Hillary Rodham Clinton</title>
             </titleStmt>
             <publicationStmt>
@@ -74,9 +75,10 @@
                     historic campaign for President. In 2008, she campaigned for the election of
                     Barack Obama and Joe Biden, and in November, she was nominated by
                     President-elect Obama to be Secretary of State.</p>
-                <p>Secretary Clinton is the author of best-selling books, including her memoir,
-                    <hi rend="italic">Living History</hi>, and her groundbreaking book on children, <hi rend="italic">It Takes A Village</hi>. She
-                    and President Clinton reside in New York.</p>
+                <p>Secretary Clinton is the author of best-selling books, including her memoir, <hi
+                        rend="italic">Living History</hi>, and her groundbreaking book on children,
+                        <hi rend="italic">It Takes A Village</hi>. She and President Clinton reside
+                    in New York.</p>
             </div>
         </body>
     </text>

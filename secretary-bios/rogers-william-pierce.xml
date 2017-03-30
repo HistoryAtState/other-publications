@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -88,25 +88,26 @@
                     <bibl>Dallek, Robert. <hi rend="italic">Nixon and Kissinger: Partners in
                             Power.</hi> New York: Harper Collins, 2007.</bibl>
                     <bibl>Garthoff, Raymond. <hi rend="italic">Détente and Confrontation:
-                            American-Soviet Relations from Nixon to Reagan</hi>. 
-                        Washington, D.C.: Brookings, 1994.</bibl>
+                            American-Soviet Relations from Nixon to Reagan</hi>. Washington, D.C.:
+                        Brookings, 1994.</bibl>
                     <bibl>Hanhimäki, Jussi. <hi rend="italic">The Flawed Architect: Henry Kissinger
-                            and American Foreign Policy.</hi> Oxford: Oxford University Press, 2004.</bibl>
-                    <bibl>Hersh, Seymour M. <hi rend="italic">The Price of Power: Kissinger in
-                            the Nixon White House.</hi> London: Faber and Faber, 1983.</bibl>
+                            and American Foreign Policy.</hi> Oxford: Oxford University Press,
+                        2004.</bibl>
+                    <bibl>Hersh, Seymour M. <hi rend="italic">The Price of Power: Kissinger in the
+                            Nixon White House.</hi> London: Faber and Faber, 1983.</bibl>
                     <bibl>Kissinger, Henry A. <hi rend="italic">White House Years.</hi> New York:
                         Little Brown &amp; Company, 1979.</bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                     <bibl>Nixon, Richard M. <hi rend="italic">RN: The Memoirs of Richard Nixon.</hi>
                         New York: Simon and Schuster, 1978.</bibl>
                     <bibl>Quandt, William. <hi rend="italic">Peace Process: American Diplomacy and
-                            the Arab-Israeli Conflict since 1967</hi>. Washington D.C.:
-                        Brookings Institution Press, 2005.</bibl>
+                            the Arab-Israeli Conflict since 1967</hi>. Washington D.C.: Brookings
+                        Institution Press, 2005.</bibl>
                 </listBibl>
             </div>
         </back>

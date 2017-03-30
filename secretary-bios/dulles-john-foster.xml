@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: John Foster Dulles</title>
+                <title type="complete">Biographies of the Secretaries of State: John Foster
+                    Dulles</title>
                 <title type="short">John Foster Dulles</title>
             </titleStmt>
             <publicationStmt>
@@ -20,9 +21,9 @@
                 <p>
                     <persName>John Foster Dulles</persName> was appointed Secretary of State by
                     President <persName>Dwight Eisenhower</persName> on January 21, 1953. Dulles
-                    served for much of the decade, leaving an indelible mark upon U.S.
-                    foreign policy that included close cooperation between the Department of State
-                    and the Central Intelligence Agency as well as a focus upon international mutual
+                    served for much of the decade, leaving an indelible mark upon U.S. foreign
+                    policy that included close cooperation between the Department of State and the
+                    Central Intelligence Agency as well as a focus upon international mutual
                     security agreements designed to contain communism. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="dulles-john-foster.jpg"/>
@@ -32,13 +33,15 @@
             <div type="section" xml:id="rise">
                 <head>Rise to Prominence</head>
                 <p>Dulles was born in Washington, D.C. on February 25, 1888. A grandson of former
-                    Secretary of State <ref target="/departmenthistory/people/foster-john-watson">John Watson Foster</ref> and the nephew of Woodrow Wilson’s Secretary of
+                    Secretary of State <ref target="/departmenthistory/people/foster-john-watson"
+                        >John Watson Foster</ref> and the nephew of Woodrow Wilson’s Secretary of
                     State <ref target="/departmenthistory/people/lansing-robert">Robert
-                    Lansing</ref>. Dulles was surrounded by members of the foreign
-                    affairs community from an early age.</p>
+                        Lansing</ref>. Dulles was surrounded by members of the foreign affairs
+                    community from an early age.</p>
                 <p>During his adolescence, he spent a year in Paris before attending Princeton
-                    University. Dulles returned to Paris in 1919 to attend the <ref target="/milestones/1914-1920/paris-peace">Paris Peace Conference of
-                    1919</ref> as part of Bernard Baruch’s Reparations Commission and Economic
+                    University. Dulles returned to Paris in 1919 to attend the <ref
+                        target="/milestones/1914-1920/paris-peace">Paris Peace Conference of
+                        1919</ref> as part of Bernard Baruch’s Reparations Commission and Economic
                     Council. During this time, Dulles formed strong opinions about the danger of
                     holding Germany responsible for war reparations and—from the failure of
                     President <persName>Woodrow Wilson</persName> to gain U.S. support for the
@@ -56,18 +59,20 @@
                     forged a strong friendship that granted the Secretary of State direct and
                     unprecedented access to the President. Furthermore, Dulles’s time as Secretary
                     was marked by a general consensus in U.S. policy that peace could be maintained
-                    through the <ref target="/departmenthistory/short-history/containment">containment of communism</ref>. This consensus allowed Dulles and
+                    through the <ref target="/departmenthistory/short-history/containment"
+                        >containment of communism</ref>. This consensus allowed Dulles and
                     Eisenhower to secure international mutual security agreements while at the same
                     time reducing the number of troops in the U.S. military and the production of
                     conventional weapons. Dulles also enjoyed the close cooperation of the Central
                     Intelligence Agency, which was run by his brother, <persName>Allen
-                    Dulles</persName>. </p>
+                        Dulles</persName>. </p>
                 <p> Dulles confronted many foreign policy challenges during his tenure including the
                     integration of Europe, escalation of the crisis in Indochina, U.S. response to
                     the Hungarian Revolution, and the <ref target="/milestones/1953-1960/suez">Suez
                         Canal crisis of 1956</ref>. Despite being diagnosed with advanced stage
                     cancer in the immediate aftermath of the Suez Crisis, Dulles returned to work in
-                    Foggy Bottom. One of his last directives was the formulation of the <ref target="/milestones/1953-1960/eisenhower-doctrine">Eisenhower Doctrine</ref>
+                    Foggy Bottom. One of his last directives was the formulation of the <ref
+                        target="/milestones/1953-1960/eisenhower-doctrine">Eisenhower Doctrine</ref>
                     in response to the Suez Crisis. (The Eisenhower Doctrine was an expression of
                     the key tenets of Dulles’s foreign policy views: containment and international
                     mutual security agreements reinforced by economic aid.) </p>
@@ -84,14 +89,14 @@
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
                             State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
                     <bibl>Immerman, Richard H. <hi rend="italic">John Foster Dulles and the
-                            Diplomacy of the Cold War.</hi> Princeton: Princeton University
-                        Press, 1989.</bibl>
+                            Diplomacy of the Cold War.</hi> Princeton: Princeton University Press,
+                        1989.</bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

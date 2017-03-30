@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,9 +19,9 @@
                 <head>Introduction</head>
                 <p>
                     <persName>Cordell Hull</persName> was appointed Secretary of State by President
-                        <persName>Franklin D. Roosevelt</persName> on March 4, 1933, and served until
-                    November 20, 1944. Hull holds the distinction of being the longest-serving U.S.
-                    Secretary of State. </p>
+                        <persName>Franklin D. Roosevelt</persName> on March 4, 1933, and served
+                    until November 20, 1944. Hull holds the distinction of being the longest-serving
+                    U.S. Secretary of State. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="hull-cordell.jpg"/>
                     <head>Cordell Hull, 47th Secretary of State</head>
@@ -29,9 +29,9 @@
             </div>
             <div type="section" xml:id="rise">
                 <head>Rise to Prominence</head>
-                <p> Hull was born on October 2, 1871, near Byrdstown, Tennessee. Although Hull gained
-                    admission to the Tennessee bar in 1892 and was appointed a circuit judge in
-                    1903, his great passion was politics.</p>
+                <p> Hull was born on October 2, 1871, near Byrdstown, Tennessee. Although Hull
+                    gained admission to the Tennessee bar in 1892 and was appointed a circuit judge
+                    in 1903, his great passion was politics.</p>
                 <p>Following service on his county’s Democratic Party Executive Committee and in the
                     Tennessee State legislature, Hull was elected to the U.S. House of
                     Representatives in 1906. Hull’s career was nearly derailed when he lost his
@@ -42,7 +42,7 @@
                 <p>In 1928, Hull sought the Democratic Party’s Vice Presidential nomination.
                     Although his bid was unsuccessful, he did secure the support of the Democratic
                     nominee for the governorship of New York, <persName>Franklin Delano
-                    Roosevelt</persName>.</p>
+                        Roosevelt</persName>.</p>
                 <p>Four years later, as a U.S. Senator, Hull repaid the favor when Roosevelt sought
                     the Presidential nomination. In return for his backing and in order to firm up
                     his support amongst Southern Democrats, President Roosevelt appointed Hull as
@@ -90,21 +90,24 @@
                         Trade Policy.” <hi rend="italic">Business and Economic History</hi> 20
                         (1991): 171-179.</bibl>
                     <bibl>Dallek, Robert. <hi rend="italic">Franklin D. Roosevelt and American
-                            Foreign Policy, 1932-1945.</hi> New York: Oxford University Press, 1979.</bibl>
-                    <bibl>Dam, Kenneth W. “Cordell Hull, the Reciprocal Trade Act, and the WTO.”
-                            <hi rend="italic">University of Chicago Law &amp; Economics, Olin
-                            Working Paper No. 228</hi> (2004). </bibl>
-                    <bibl>Drummond, Donald F. “Cordell Hull.” In <hi rend="italic">An Uncertain Tradition: American Secretaries of State in
-                        the Twentieth Century,</hi> edited by Norman A. Graebner. New York: McGraw-Hill, 1961.</bibl>
+                            Foreign Policy, 1932-1945.</hi> New York: Oxford University Press,
+                        1979.</bibl>
+                    <bibl>Dam, Kenneth W. “Cordell Hull, the Reciprocal Trade Act, and the WTO.” <hi
+                            rend="italic">University of Chicago Law &amp; Economics, Olin Working
+                            Paper No. 228</hi> (2004). </bibl>
+                    <bibl>Drummond, Donald F. “Cordell Hull.” In <hi rend="italic">An Uncertain
+                            Tradition: American Secretaries of State in the Twentieth Century,</hi>
+                        edited by Norman A. Graebner. New York: McGraw-Hill, 1961.</bibl>
                     <bibl>Gellman, Irwin F. “Hull, Cordell.” In <hi rend="italic">American National
                             Biography. </hi> New York: Oxford University Press, 1999.</bibl>
                     <bibl>----. <hi rend="italic">Secret Affairs: Franklin Roosevelt, Cordell Hull,
-                            and Sumner Welles.</hi> Baltimore: Johns Hopkins University Press, 1995.</bibl>
+                            and Sumner Welles.</hi> Baltimore: Johns Hopkins University Press,
+                        1995.</bibl>
                     <bibl>O’Sullivan, Christopher D. <hi rend="italic">Sumner Welles, Postwar
                             Planning, and the Quest for a New World Order, 1937–1943. </hi>New York:
                         Columbia University Press, 2007. </bibl>
-                    <bibl>Pratt, Julius. “The Ordeal of Cordell Hull” In <hi rend="italic">Review
-                            of Politics</hi> 28 (1966), 76-98. </bibl>
+                    <bibl>Pratt, Julius. “The Ordeal of Cordell Hull” In <hi rend="italic">Review of
+                            Politics</hi> 28 (1966), 76-98. </bibl>
                     <bibl>Weil, Martin. <hi rend="italic">A Pretty Good Club: The Founding Fathers
                             of the U.S. Foreign Service.</hi> New York: Norton, 1978.</bibl>
                 </listBibl>

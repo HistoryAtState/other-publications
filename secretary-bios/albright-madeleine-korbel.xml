@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Madeleine Korbel Albright</title>
+                <title type="complete">Biographies of the Secretaries of State: Madeleine Korbel
+                    Albright</title>
                 <title type="short">Madeleine Korbel Albright</title>
             </titleStmt>
             <publicationStmt>
@@ -20,9 +21,9 @@
                 <p>
                     <persName>Madeleine Korbel Albright</persName> was nominated to be the first
                     woman Secretary of State by President <persName>William Jefferson
-                    Clinton</persName> on December 5, 1996, confirmed by the U.S. Senate on January
-                    22, 1997, and sworn in the next day. She served in the position for four years
-                    and ended her service on January 20, 2001. </p>
+                        Clinton</persName> on December 5, 1996, confirmed by the U.S. Senate on
+                    January 22, 1997, and sworn in the next day. She served in the position for four
+                    years and ended her service on January 20, 2001. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="albright-madeleine-korbel.jpg"/>
                     <head>Madeleine Korbel Albright, 64th Secretary of State</head>
@@ -42,7 +43,7 @@
                     from 1976 to 1978. From 1978 to 1981, she served as a staff member in the White
                     House under President <persName>Jimmy Carter</persName> and on the National
                     Security Council under National Security Adviser <persName>Zbigniew
-                    Brzezinski</persName>. </p>
+                        Brzezinski</persName>. </p>
                 <p>In 1982 she was appointed Research Professor of International Affairs at
                     Georgetown University’s School of Foreign Service and Director of its Women in
                     Foreign Service Program. In 1993 she was appointed Ambassador to the United
@@ -65,8 +66,8 @@
             <div type="appendix">
                 <head>Bibliography</head>
                 <listBibl>
-                    <bibl>Albright, Madeleine. <hi rend="italic">Madame Secretary: A Memoir.</hi> New
-                        York: Hyperion, 2003.</bibl>
+                    <bibl>Albright, Madeleine. <hi rend="italic">Madame Secretary: A Memoir.</hi>
+                        New York: Hyperion, 2003.</bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
                             Secretaries of State from John Jay to Colin Powell.</hi> Westport,
                         Conn.: Greenwood Press, 2004. </bibl>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,7 +19,8 @@
                 <head>Introduction</head>
                 <p>
                     <hi rend="italic">Homes of the Department of State, 1774-1976</hi> originally
-                    appeared in monthly installments in the Department of State <hi rend="italic">Newsletter</hi> from October 1975 to July 1976 and was published as a
+                    appeared in monthly installments in the Department of State <hi rend="italic"
+                        >Newsletter</hi> from October 1975 to July 1976 and was published as a
                     consolidated booklet in 1985. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="1-homes-cover.jpg"/>
@@ -42,7 +43,8 @@
                 <p>Homer L. Calkin, Chief of the Special Studies Branch, Historical Studies
                     Division, directed this revision. Edwin S. Costrell, Chief of the Historical
                     Studies Division, supervised the overall project. Dana J. Johnson, Catherine M.
-                    Desseau, and Kathleen Fitzpatrick typed the manuscript. Installments in the <hi rend="italic">Newsletter</hi> benefited from the editorial assistance of
+                    Desseau, and Kathleen Fitzpatrick typed the manuscript. Installments in the <hi
+                        rend="italic">Newsletter</hi> benefited from the editorial assistance of
                     Catherine F. George and the proofreading of Karen J. Corso and Alyce Fay Hawley.
                     Mary Kay Fleck and Phyllis Young of the Offiсе of Media Services, provided
                     helpful technical assistance in adapting the <hi rend="italic">Newsletter</hi>
@@ -57,11 +59,13 @@
                     <date when="1774-09">Sept. 1774</date>—<date when="1781-10">Oct. 1781</date>
                 </dateline>
                 <p>The Department of State came into existence through a process of gradual
-                    evolution which began in <date when="1774">1774</date>. Initially, the <ref target="/milestones/1776-1783/continental-congress">Continental
+                    evolution which began in <date when="1774">1774</date>. Initially, the <ref
+                        target="/milestones/1776-1783/continental-congress">Continental
                         Congress</ref> exercised control over American foreign relations. Under its
                     auspices committees of Congress managed foreign affairs from November 1775 to
                     October 1781.</p>
-                <p>The first such committee was the Committee of Secret Correspondence,<note n="1">By resolution of April 17, 1777, the name of the committee was changed to
+                <p>The first such committee was the Committee of Secret Correspondence,<note n="1"
+                        >By resolution of April 17, 1777, the name of the committee was changed to
                         the "<ref target="/milestones/1776-1783/secret-committee">Committee for
                             Foreign Affairs</ref>," <hi rend="italic">Journals of the Continental
                             Congress, 1774-1789</hi> (Washington, 1904-1937), VII, 274. [Hereafter
@@ -80,7 +84,8 @@
                     Committee of Secret Correspondence and its successor, the Committee for Foreign
                     Affairs. For instance, the Congress "prepared in the minutest detail the
                     instructions to Franklin when he was elected commissioner on September 27, 1777,
-                    to negotiate a treaty with France."<note n="3">Graham H. Stuart, <hi rend="italic">The Department of State</hi> (New York, 1949), p.
+                    to negotiate a treaty with France."<note n="3">Graham H. Stuart, <hi
+                            rend="italic">The Department of State</hi> (New York, 1949), p.
                         1.</note> James Lovell, a member of the Committee for Foreign Affairs, wrote
                     on August 6, 1779, that <quote>"there is really no Such Thing as a Comtee of
                         foreign affairs existing, no Secretary or Clerk, further than I persevere to
@@ -94,7 +99,8 @@
                 <p>Thus, from 1774 to 1781, the buildings in which foreign relations were managed
                     were the buildings occupied by the Continental Congress.<note n="5">The twelve
                         buildings in which the Continental Congress met during its lifetime are
-                        identified and discussed in a work by Robert Fortenbaugh entitled <hi rend="italic">The Nine Capitols of the United States</hi> (York, Pa.,
+                        identified and discussed in a work by Robert Fortenbaugh entitled <hi
+                            rend="italic">The Nine Capitols of the United States</hi> (York, Pa.,
                         1948).</note> Congress met in Carpenters' Hall, Philadelphia, for its first
                     session, commencing on September 5, 1774. The subsequent sessions in
                     Philadelphia were held in the Pennsylvania State House, now known as
@@ -130,11 +136,13 @@
                         Tavern, and walked to the Carpenters' Hall, where they took a view of the
                         room, and of the chamber where is an excellent library… The general cry was,
                         that this was a good room, and the question was put, whether we were
-                        satisfied with this room? and it passed in the affirmative."<note n="7">Charles Francis Adams, ed., <hi rend="italic">The Works of John
+                        satisfied with this room? and it passed in the affirmative."<note n="7"
+                            >Charles Francis Adams, ed., <hi rend="italic">The Works of John
                                 Adams</hi> (Boston, 1850), vol. II, 365.</note>
                     </q>
                 </p>
-                <p>The <hi rend="italic">Journal</hi> entry briefly records that on Monday, <date when="1774-09-05">September 5, 1774</date>, <q rend="blockquote">"A number
+                <p>The <hi rend="italic">Journal</hi> entry briefly records that on Monday, <date
+                        when="1774-09-05">September 5, 1774</date>, <q rend="blockquote">"A number
                         of the Delegates chosen and appointed by the Several Colonies and Provinces
                         in North America to meet and hold a Congress at Philadelphia assembled at
                         the Carpenters' Hall...."<note n="8">
@@ -144,8 +152,10 @@
                 <p>Carpenters' Hall was built in <date when="1770">1770</date> for the Carpenters'
                     Company of Philadelphia—a society of master craftsmen patterned after the guilds
                     of England. The two-story structure was located at the end of an alley, south
-                    from Chestnut Street, between Third and Fourth Streets. <q rend="blockquote">"The lower floor, consisting of one large room was occupied by the
-                        Congress, and the rooms in the second story by committees."<note n="9">Gaillard Hunt, <hi rend="italic">The Department of State of the United
+                    from Chestnut Street, between Third and Fourth Streets. <q rend="blockquote"
+                        >"The lower floor, consisting of one large room was occupied by the
+                        Congress, and the rooms in the second story by committees."<note n="9"
+                            >Gaillard Hunt, <hi rend="italic">The Department of State of the United
                                 States; Its History and Functions</hi> (New Haven, 1914), p.
                             427.</note>
                     </q>
@@ -161,9 +171,12 @@
                     that time."<note n="10">
                         <hi rend="italic">Journals,</hi> I, 102.</note>
                 </p>
-                <p>Carpenters' Hall was used for various purposes after Congress moved elsewhere.<note n="11">The primary source for this paragraph was a pamphlet by the
-                        U.S. Department of the Interior National Park Service, entitled <hi rend="italic">Carpenters' Hall, Independence National Historical
-                            Park</hi> (Washington, 1967).</note> During the Revolutionary <pb n="2"/>War, the lower floor was used as a hospital. Arms and equipment were stored in
+                <p>Carpenters' Hall was used for various purposes after Congress moved
+                        elsewhere.<note n="11">The primary source for this paragraph was a pamphlet
+                        by the U.S. Department of the Interior National Park Service, entitled <hi
+                            rend="italic">Carpenters' Hall, Independence National Historical
+                            Park</hi> (Washington, 1967).</note> During the Revolutionary <pb n="2"
+                    />War, the lower floor was used as a hospital. Arms and equipment were stored in
                     the basement. In 1790 the Secretary of War, <persName>Henry Knox,</persName>
                     rented the ground floor. In 1791 it was used as the first Bank of the United
                     States. Subsequently, it was rented by many organizations until 1856 when the
@@ -179,11 +192,13 @@
             <div type="section" xml:id="section3">
                 <head>Pennsylvania State House (Independence Hall),
                         <placeName>Philadelphia</placeName>
-                    <lb/> Intermittingly from <date when="1775-05-10">May 10, 1775</date> to <date when="1781-03-01">March 1, 1781</date>
+                    <lb/> Intermittingly from <date when="1775-05-10">May 10, 1775</date> to <date
+                        when="1781-03-01">March 1, 1781</date>
                 </head>
                 <p>The Second Continental Congress convened in Philadelphia on May 10, 1775. This
                     time it met in the Pennsylvania State House, or Independence Hall, as it is now
-                    called. It was in this building that the Declaration of Independence was signed. <figure rend="smallfloatinline">
+                    called. It was in this building that the Declaration of Independence was signed.
+                        <figure rend="smallfloatinline">
                         <graphic url="3-pa-state-house.jpg"/>
                         <head>Pennsylvania State House</head>
                     </figure> The Committee of Secret Correspondence met here from its establishment
@@ -206,7 +221,8 @@
                         elegantly furnished. Chairs, tables, curtains, screens, and other items
                         purchased for the building were never unduly expensive .... The building
                         appears to have been heated originally by open fireplaces for which stoves
-                        were later substituted."<note n="13">Edward M. Riley, <hi rend="italic">Independence National Historical Park, Philadelphia, Pa.,</hi>
+                        were later substituted."<note n="13">Edward M. Riley, <hi rend="italic"
+                                >Independence National Historical Park, Philadelphia, Pa.,</hi>
                             National Park Service Historical Handbook Series No. 17 (Washington,
                             1954, revised 1956), pp. 4-5.</note>
                     </q>
@@ -251,7 +267,8 @@
                 <p>The old Court House was offered to the Congress as a meeting place, but according
                     to the diary of John Adams, it chose to meet "in the last house at the west end
                     of Market Street, on the south side of the street; long chamber with two
-                    fireplaces, two large closets and two doors."<note n="15">Fortenbaugh, <hi rend="italic">op. cit.,</hi> p. 22.</note>
+                    fireplaces, two large closets and two doors."<note n="15">Fortenbaugh, <hi
+                            rend="italic">op. cit.,</hi> p. 22.</note>
                 </p>
                 <p> The house belonged to <persName>Henry Fite,</persName> who rented it to the
                     Congress for three months for 60 pounds. It was described as follows:</p>
@@ -293,9 +310,10 @@
                         <placeName>Philadelphia</placeName> and threatening the safety, of the
                     Congress. On September 14 the Congress resolved that if it "shall be obliged to
                     remove from Philadelphia, Lancaster shall be the place at which they shall
-                    meet."<note n="20">
+                        meet."<note n="20">
                         <hi rend="italic">Journals,</hi> VIII, 742.</note> Further pressure by the
-                    British finally forced the Congress to leave Philadelphia on September 18.<note n="21">
+                    British finally forced the Congress to leave Philadelphia on September 18.<note
+                        n="21">
                         <hi rend="italic">Ibid.,</hi> p. 754.</note> Tо avoid the enemy, the
                     delegates took a round-about way to Lancaster, generally arriving there
                     September 26.<note n="22">Fortenbaugh, <hi rend="italic">op. cit.,</hi> p.
@@ -306,7 +324,7 @@
                     </figure>
                 </p>
                 <p>Congress held only one session in Lancaster, on September 27, 1777, in the Court
-                    House.<note n="23">Most authorities assert that the meeting place was at the
+                        House.<note n="23">Most authorities assert that the meeting place was at the
                         Court House; however, the documentary evidence is not conclusive on this
                         point.</note> The record of this session indicates that all of the business
                     conducted on that day in Lancaster related to military matters.<note n="24">
@@ -336,9 +354,9 @@
                     <q rend="blockquote">"On the top of the Court House is a kind of cupola. We
                         ascended a ladder and got into it. From hence we had a complete view of the
                         whole town, and the country several miles round, and likewise of part of the
-                        Susquehanna river at twelve miles distance."<note n="26">"Marshe's
-                            Journal," in William Henry Egle, ed., <hi rend="italic">Notes and
-                                Queries,</hi> 3d series, vol. I (Harrisburg, Pa., 1895), 277.</note>
+                        Susquehanna river at twelve miles distance."<note n="26">"Marshe's Journal,"
+                            in William Henry Egle, ed., <hi rend="italic">Notes and Queries,</hi> 3d
+                            series, vol. I (Harrisburg, Pa., 1895), 277.</note>
                     </q>
                 </p>
                 <p>The Court House was destroyed by fire in June 1784. A new Court House was
@@ -381,28 +399,28 @@
                 <p>Congress received word that the British army had evacuated Philadelphia on June
                     18, 1778. On June 24 it resolved that Congress adjourn on next Saturday, June
                     27, "from this place to meet at Philadelphia, on Thursday, the 2 day of July
-                    next."<note n="28">
+                        next."<note n="28">
                         <hi rend="italic">Journals,</hi> XI, 641.</note>
                 </p>
                 <p>When the members of Congress returned to Philadelphia, they found that the
                     British had left the State House and many other buildings in a disgraceful
                     condition, and there was mention of the Congress "shuffling from Meeting House
                     to College Hall."<note n="29">"Letter from Henry Laurens to the President of
-                        South Carolina (Rawlins' Lowndes)," July 15, 1778, in Edmund C. Burnett, <hi rend="italic">Letters of Members of the Continental Congress,</hi> vol.
+                        South Carolina (Rawlins' Lowndes)," July 15, 1778, in Edmund C. Burnett, <hi
+                            rend="italic">Letters of Members of the Continental Congress,</hi> vol.
                         III (Washington, 1926), 333.</note> Josiah Bartlett, a delegate from New
                     Hampshire, in a letter dated July 13, 1778, wrote:</p>
                 <p>
                     <q rend="blockquote">"The Congress meets in the College Hall, as the State House
                         was left by the enemy in a most filthy and sordid situation, as were many of
                         the public and private Buildings in the City. Some of the genteel Houses
-                        were used for Stables and Holes cut in the Parlor floors &amp; their
-                        dung shoveled into the Cellars. The country Northward of the City for
-                        several Miles is one common waste. The Houses burnt, the Fruit Trees
-                        &amp; others cut down and carried off, fences carried away, Gardens and
-                        Orchard..."<note n="30">Quoted in Fortenbaugh, op. cit., p. 48. A shortened
-                            version of the letter is in Burnett, <hi rend="italic">Letters of
-                                Members of the Continental Congress,</hi> op. cit., pp.
-                            328-329.</note>
+                        were used for Stables and Holes cut in the Parlor floors &amp; their dung
+                        shoveled into the Cellars. The country Northward of the City for several
+                        Miles is one common waste. The Houses burnt, the Fruit Trees &amp; others
+                        cut down and carried off, fences carried away, Gardens and Orchard..."<note
+                            n="30">Quoted in Fortenbaugh, op. cit., p. 48. A shortened version of
+                            the letter is in Burnett, <hi rend="italic">Letters of Members of the
+                                Continental Congress,</hi> op. cit., pp. 328-329.</note>
                     </q>
                 </p>
                 <p>Because of the conditions at Philadelphia, Congress had some difficulty
@@ -421,7 +439,8 @@
                     <date when="1781-10">October 1781</date>-<date when="1783-06">June 1783</date>
                 </head>
                 <p>About eight years before the Department of State was set up under the
-                    Constitution, the <ref target="/departmenthistory/short-history/framework">Department of Foreign Affairs</ref>, directed by a Secretary for Foreign
+                    Constitution, the <ref target="/departmenthistory/short-history/framework"
+                        >Department of Foreign Affairs</ref>, directed by a Secretary for Foreign
                     Affairs, was established by a resolution passed by the Continental Congress on
                     January 10. 1781.<note n="1">
                         <hi rend="italic">Journals,</hi> XIX, 43.</note> This new Department was
@@ -436,7 +455,8 @@
                         <head>13 South Sixth Street, Philadelphia</head>
                     </figure>
                 </p>
-                <p>The new Secretary for Foreign Affairs was <ref target="/departmenthistory/people/livingston-robert-r">Robert R.
+                <p>The new Secretary for Foreign Affairs was <ref
+                        target="/departmenthistory/people/livingston-robert-r">Robert R.
                         Livingston</ref>,<note n="3">On February 22, 1782, Congress adopted new
                         regulations for the Department of Foreign Affairs, and therein the full
                         title of the Secretary was "Secretary to the United States of America, for
@@ -467,25 +487,28 @@
                         article).</note> A room on the second floor overlooking the street served as
                     Livingston's office. Various "great personages" of the time "frequently
                     clambered up the dark and narrow winding stairs" to transact business with the
-                    Secretary.<note n="7">This description of the Department is based on an account
-                        given by John Fannin Watson, who visited the building in the late 1820's and
-                        talked with its then owner, the same Pierre Etienne DuPonceau who had served
-                        as Livingston's second Under Secretary nearly fifty years before; John F.
-                        Watson, <hi rend="italic">Annals of Philadelphia, Being a Collection of
-                            Memoirs, Annecdotes, and Incidents of the City and Its Inhabitants</hi>
-                        (Philadelphia and New York, 1830), pp. 365. 366.</note>
+                        Secretary.<note n="7">This description of the Department is based on an
+                        account given by John Fannin Watson, who visited the building in the late
+                        1820's and talked with its then owner, the same Pierre Etienne DuPonceau who
+                        had served as Livingston's second Under Secretary nearly fifty years before;
+                        John F. Watson, <hi rend="italic">Annals of Philadelphia, Being a Collection
+                            of Memoirs, Annecdotes, and Incidents of the City and Its
+                            Inhabitants</hi> (Philadelphia and New York, 1830), pp. 365. 366.</note>
                 </p>
                 <p>The new Department was very small in those early days. Livingston estimated the
                     Department's total contingent expenses for 1783 for messenger, stationery,
-                    office hire, wood, and candles to be the relatively modest sum of $1,200.<note n="8">MS. Department of State, Continental Congress Papers, No. 144, p. 49,
+                    office hire, wood, and candles to be the relatively modest sum of $1,200.<note
+                        n="8">MS. Department of State, Continental Congress Papers, No. 144, p. 49,
                         June 23. 1782.</note> Livingston's staff, when it was fully organized,
                     consisted of two Under Secretaries, Lewis Richard Мorris and Pierre Etienne
-                    DuPonceau;<note n="9">For biographical sketches, see <hi rend="italic">Dictionary of American Biography</hi> (New York 1928—), XIII, 215-216;
+                        DuPonceau;<note n="9">For biographical sketches, see <hi rend="italic"
+                            >Dictionary of American Biography</hi> (New York 1928—), XIII, 215-216;
                         V, 525-526.</note> a clerk and translater of French, the Reverend John P.
                     Tetard; and clerk, Walter Stone.<note n="10">MS. Department of State,
                         Continental Congress Papers, No. 79, III, 113, February 26, 1783.</note> The
                     two Under Secretaries shared the back room of the second floor, and the
-                    translator and the clerk occupied the ground <pb n="7"/>floor.<note n="11">Watson, <hi rend="italic">op. cit., </hi> pp. 365-366.</note> This staff
+                    translator and the clerk occupied the ground <pb n="7"/>floor.<note n="11"
+                        >Watson, <hi rend="italic">op. cit., </hi> pp. 365-366.</note> This staff
                     dealt with an American diplomatic corps which consisted at the time of
                     Livingston's resignation on June 4, 1783, of five Ministers Plenipotentiary, all
                     of whom, except Jefferson, were engaged in negotiating peace in Paris.
@@ -493,11 +516,13 @@
                         <persName>John Adams</persName> had been accredited to the Hague and
                         <persName>John Jay</persName> to Madrid, and <persName>Henry
                         Laurens</persName> and <persName>Thomas Jefferson,</persName> with the same
-                    rank as their colleagues, were Commissioners for the negotiation of peace.<note n="12">The peace treaty was signed before Jefferson left for Paris.</note>
+                    rank as their colleagues, were Commissioners for the negotiation of peace.<note
+                        n="12">The peace treaty was signed before Jefferson left for Paris.</note>
                 </p>
                 <p>The building at 13 South Sixth Street ceased to be the home of the Department of
                     Foreign Affairs after Livingston resigned. A succession of tenants then occupied
-                    it, using it at different times as a residence, a shop, and a boarding house.<note n="13">It was valued under the act of Congress approved July 9,
+                    it, using it at different times as a residence, a shop, and a boarding
+                        house.<note n="13">It was valued under the act of Congress approved July 9,
                         1798,"for the valuation of Lands and Dwelling Houses" (I Stat. 580), at the
                         sum of $1,000; MS. National Archives, Record Group 58, Book A, "List of the
                         Taxes Assessed on each dwelling house which with the outhouse Appurtenant
@@ -518,7 +543,8 @@
                         Supervisory Interpretive Specialist, Independence National Historical Park,
                         Philadelphia, to Edwin S. Costrell, Chief, Historical Studies Division,
                         March 27, 1975.</note> The entire city block where the house at 13 South
-                    Sixth Street formerly stood now forms part of Independence Mаll.<note n="15">MS. Department of State, file 102.5/7-953. Also, see Martin I. Yoelson,
+                    Sixth Street formerly stood now forms part of Independence Mаll.<note n="15">MS.
+                        Department of State, file 102.5/7-953. Also, see Martin I. Yoelson,
                         Supervisory Interpretive Specialist, Independence National Historical Park,
                         Philadelphia, to Edwin S. Costrell, Chief, Historical Studies Division,
                         March 27, 1975.</note>
@@ -533,10 +559,11 @@
                     receive the papers into my care, and as I am determined to have nothing to do
                     with the business of the office, I must beg the favor of you to order all the
                     papers packed up, sealed with your seal, and then sent to my office, where they
-                    shall lie until Congress shall otherwise dispose of them."<note n="17">Wharton, <hi rend="italic">op. cit.,</hi> VI, 475.</note> The Department's
-                    papers were turned over to Thomson, apparently on June 6.<note n="18">"The
-                        Papers of Charles Thomson," in <hi rend="italic">Collections оf, the New
-                            York Historical Society for the Year 1878 </hi> (New York, 1879), pp.
+                    shall lie until Congress shall otherwise dispose of them."<note n="17">Wharton,
+                            <hi rend="italic">op. cit.,</hi> VI, 475.</note> The Department's papers
+                    were turned over to Thomson, apparently on June 6.<note n="18">"The Papers of
+                        Charles Thomson," in <hi rend="italic">Collections оf, the New York
+                            Historical Society for the Year 1878 </hi> (New York, 1879), pp.
                         170-171.</note>
                 </p>
             </div>
@@ -548,36 +575,40 @@
                 </head>
                 <p>Following <persName>Robert Livingston's</persName> resignation as Secretary for
                     Foreign Affairs in June 1783, the President of Congress acted as Secretary for
-                    Foreign Affairs ad interim until March 1784.<note n="1">Burnett, <hi rend="italic">Letters,</hi> VII, 192. According to Gaillard Hunt, "Lewis
+                    Foreign Affairs ad interim until March 1784.<note n="1">Burnett, <hi
+                            rend="italic">Letters,</hi> VII, 192. According to Gaillard Hunt, "Lewis
                         R. Morris, the first Under-Secretary of the Department, had been left by
                         Livingston in charge of the Department's business, but Congress gave him no
                         authority to act, so he soon left the office." (Hunt, <hi rend="italic">op.
                             cit.,</hi> p. 40.)</note> During this time, the papers of the Department
                     of Foreign Affairs remained locked, sealed, and inaccessible, and foreign
-                    relations were managed wholly by Congress, upon reports of special committees.<note n="2">Burnett, 
-                        <hi rend="italic">op. cit.,</hi> pp. 269-270, 461; <hi rend="italic">Journal,</hi> XXVI, 49-50, 64-65, 104-105.</note> The
-                    buildings used by Congress during this period were, therefore, the buildings in
-                    which foreign policy was managed. <figure rend="smallfloatinline">
+                    relations were managed wholly by Congress, upon reports of special
+                        committees.<note n="2">Burnett, <hi rend="italic">op. cit.,</hi> pp.
+                        269-270, 461; <hi rend="italic">Journal,</hi> XXVI, 49-50, 64-65,
+                        104-105.</note> The buildings used by Congress during this period were,
+                    therefore, the buildings in which foreign policy was managed. <figure
+                        rend="smallfloatinline">
                         <graphic url="8-nassau-hall.jpg"/>
                         <head>A northwest prospect of Nassau Hall, in New Jersey</head>
                     </figure>
                 </p>
                 <p>From June 30 to November 4, 1783, Congress met in Nassau Hall in Princeton, New
-                    Jersey.<note n="3">There is evidence to suggest that of its first three
+                        Jersey.<note n="3">There is evidence to suggest that of its first three
                         sessions (June 30, July 1 am 2), Congress met at a house owned by Colonel
-                        George Morgan, called "Prospect," See Varnum Lansing Collins, <hi rend="italic">The Continents Congress At Princeton</hi> (Princeton,
+                        George Morgan, called "Prospect," See Varnum Lansing Collins, <hi
+                            rend="italic">The Continents Congress At Princeton</hi> (Princeton,
                         1908) pp. 43, 57-58.</note> Congress moved there to flee from mutinous
-                    troops.<note n="4">Burnett, <hi rend="italic">The Continental Congress</hi> pp.
-                        576-580. A primary source for information about the Congress in Princeton
-                        was Gary B. Nash, "... <hi rend="italic">and Distinguished Guests"- The
-                            Continental Congress at Princeton, 1783</hi> (Princeton, 1962).</note>
-                    Since October 1781 when Cornwallis had surrendered his army at Yorktown,
-                    Americans had been waiting impatiently for the signing of a peace treaty with
-                    Great Britain. As the months passed and the peace negotiations dragged on, the
-                    army became increasingly restless, weary of the long war, and impatient with the
-                    unfulfillеd promises of Congress for back pаy. On June 20 troops surrounded the
-                    Statehouse in Philadelphia, where Congress was meeting in an attempt to satisfy
-                    their grievances.</p>
+                        troops.<note n="4">Burnett, <hi rend="italic">The Continental Congress</hi>
+                        pp. 576-580. A primary source for information about the Congress in
+                        Princeton was Gary B. Nash, "... <hi rend="italic">and Distinguished
+                            Guests"- The Continental Congress at Princeton, 1783</hi> (Princeton,
+                        1962).</note> Since October 1781 when Cornwallis had surrendered his army at
+                    Yorktown, Americans had been waiting impatiently for the signing of a peace
+                    treaty with Great Britain. As the months passed and the peace negotiations
+                    dragged on, the army became increasingly restless, weary of the long war, and
+                    impatient with the unfulfillеd promises of Congress for back pаy. On June 20
+                    troops surrounded the Statehouse in Philadelphia, where Congress was meeting in
+                    an attempt to satisfy their grievances.</p>
                 <p>Although there were no violent incidents, and the mutiny quickly subsided,
                     Congress felt insulted by the event and unsupported by the government of
                     Pennsylvania, which was apparently unwilling or unable to provide protection. A
@@ -595,14 +626,18 @@
                 <p>Princeton may have been chosen by President Boudinot because he was a native of
                     Princeton, his wife was from a prominent Princeton family, Princeton was located
                     approximately midway between New York and Philadelphia, and Boudinot was a
-                    Trustee of the College of New Jersey (now Princeton University).<note n="7">Nash, <hi rend="italic">op. cit.,</hi> p. 7.</note> Princeton may also have
+                    Trustee of the College of New Jersey (now Princeton University).<note n="7"
+                        >Nash, <hi rend="italic">op. cit.,</hi> p. 7.</note> Princeton may also have
                     been chosen because it had a building large enough in which the Congress could
                     meet.</p>
                 <p>Nassau Hall, the principle building of the College, had been erected in 1754-756.
                     It was the largest academic building in the colonies. The following is a
                     description of Nassau Hall based upon the earliest known illustration, which was
-                    printed in the <hi rend="italic">New American Magazine</hi> in 1760:<note n="8">Paul Norton and Robert C. Smith, "Nassau Hall—Architecture", in <hi rend="italic">Nassau Hall, 1756-1956---Bicentennial Convocation,
-                            September 23, 1956</hi> (condensation of Henry L. Savage, ed., <hi rend="italic">Nassau Halls, 1756-1956,</hi> published by Princeton
+                    printed in the <hi rend="italic">New American Magazine</hi> in 1760:<note n="8"
+                        >Paul Norton and Robert C. Smith, "Nassau Hall—Architecture", in <hi
+                            rend="italic">Nassau Hall, 1756-1956---Bicentennial Convocation,
+                            September 23, 1956</hi> (condensation of Henry L. Savage, ed., <hi
+                            rend="italic">Nassau Halls, 1756-1956,</hi> published by Princeton
                         University, September 22, 1956, and reprinted from <hi rend="italic">The
                             Princeton Alumni Weekly </hi> of September 12, 1956).</note>
                 </p>
@@ -635,9 +670,8 @@
                     Berckel presented his credentials to Congress as the minister representing the
                     Netherlands. Congress was at first embarrassed, as reflected in a letter from
                     Madison, because of having to receive him <quote>"in an obscure village... and
-                    without a Minister of F[oreign] A[ffairs]."</quote>
-                    <note n="9">Burnett, 
-                        <hi rend="italic">The Continental Congress, op. cit.,</hi>
+                        without a Minister of F[oreign] A[ffairs]."</quote>
+                    <note n="9">Burnett, <hi rend="italic">The Continental Congress, op. cit.,</hi>
                         p. 587.</note> After extensive preparations, however, the event was a
                     success, facilitated perhaps by information provided just prior to the ceremony
                     that the treaty between the United States and Great Britain had been signed on
@@ -646,7 +680,7 @@
                     4 to meet at Annapolis on November 26. Its stay in Princeton had been brief and
                     very little of great importance had been decided while it was there. Attendance
                     in Congress was often very low, "much of the time no more than six states
-                    represented."<note n="10">
+                        represented."<note n="10">
                         <hi rend="italic">Ibid., p. 580.</hi>
                     </note>
                 </p>
@@ -666,7 +700,8 @@
                 <p>In 1783 Congress moved the seat of government from Princeton to Annapolis, where
                     it remained until August 19, 1784.<note n="1">
                         <hi rend="italic">Journals,</hi> XXV, 809; XXVII, 632, 636-638, 710.</note>
-                    Although the Congress had resolved to meet at Annapolis on November 26, 1783,<note n="2">
+                    Although the Congress had resolved to meet at Annapolis on November 26,
+                        1783,<note n="2">
                         <hi rend="italic">Ibid., XXV, 807.</hi>
                     </note> there was not a sufficient number of members in attendance "to proceed
                     to business" until December 13, 1783.<note n="3">
@@ -677,8 +712,9 @@
                     </figure>
                 </p>
                 <p>The papers of the Department of Foreign Affairs remained locked, sealed, and
-                    inaccessible,<note n="4">
-                        <hi rend="italic">Ibid.,</hi> XXVI, 49-50, 64-65, 104-105; Burnett, <hi rend="italic">Letters,</hi> VII, 269-70, 461.</note> and the President
+                        inaccessible,<note n="4">
+                        <hi rend="italic">Ibid.,</hi> XXVI, 49-50, 64-65, 104-105; Burnett, <hi
+                            rend="italic">Letters,</hi> VII, 269-70, 461.</note> and the President
                     of Congress acted as Secretary for Foreign Affairs <hi rend="italic">ad
                         interim</hi>
                     <note n="5">
@@ -691,10 +727,10 @@
                     as Secretary for Foreign Affairs in December 1784.<note n="7">
                         <hi rend="italic">Ibid.,</hi> XXVIII, 150-151.</note>
                 </p>
-                <p>In Annapolis, Congress met in the Senate chamber of the State Capitol,<note n="8">Fortenbaugh, <hi rend="italic">op. cit.,</hi> p. 62</note> and while
-                    no specific record has been found as to where Remsen had his office in
-                    Annapolis, its most probable location was with Congress in the State
-                    Capitol.</p>
+                <p>In Annapolis, Congress met in the Senate chamber of the State Capitol,<note n="8"
+                        >Fortenbaugh, <hi rend="italic">op. cit.,</hi> p. 62</note> and while no
+                    specific record has been found as to where Remsen had his office in Annapolis,
+                    its most probable location was with Congress in the State Capitol.</p>
                 <p>Several reasons could be suggested for this conclusion: <list type="simple">
                         <item>1) Remsen was functioning as Under Secretary in Annapolis while the
                             seat of government was there;<note n="9">MS. Department of State,
@@ -706,20 +742,21 @@
                         </item>
                         <item>(3) it would have been convenient;</item>
                         <item>(4) the building was spacious, and contained many committee rooms and
-                            other office space apart from the Senate chamber where Congress met;<note n="11">William R. Staples, <hi rend="italic">Rhode Island in
-                                    the Continental Congress</hi> (Providence, 1870), p. 463, David
-                                Howell to William Greene, Governor of Rhode Island; Elihu S. Riley,
-                                "The Ancient City." <hi rend="italic">A History of Annapolis, in
-                                    Maryland, 1649-1887</hi> (Annapolis, 1887), p. 201.</note>
+                            other office space apart from the Senate chamber where Congress
+                                met;<note n="11">William R. Staples, <hi rend="italic">Rhode Island
+                                    in the Continental Congress</hi> (Providence, 1870), p. 463,
+                                David Howell to William Greene, Governor of Rhode Island; Elihu S.
+                                Riley, "The Ancient City." <hi rend="italic">A History of Annapolis,
+                                    in Maryland, 1649-1887</hi> (Annapolis, 1887), p. 201.</note>
                         </item>
                         <item>(5) when the Maryland General Assembly tendered Congress the use of
                             the State House, it specifically excluded the other public buildings
                             that stood on the public circle, and, in fact, the State Government
                             abandoned the State House altogether during the period that Congress met
-                            there;<note n="12">MS. Department of State, file 114.115- 2653, Morris
-                                L. Radoff, Archivist, Hall of Records, Annapolis, to G. Bernard
-                                Noble, Chief, Division of Historical Policy Research, May 26,
-                                1953.</note> and</item>
+                                there;<note n="12">MS. Department of State, file 114.115- 2653,
+                                Morris L. Radoff, Archivist, Hall of Records, Annapolis, to G.
+                                Bernard Noble, Chief, Division of Historical Policy Research, May
+                                26, 1953.</note> and</item>
                         <item>(6) the offer of Annapolis as a temporary seat of government, as
                             conveyed by the Governor of Maryland to Congress in August 1783, stated
                             that the Governor's house and the State House would be made available
@@ -733,9 +770,11 @@
                     purposes only, finding residences for themselves elsewhere.</p>
                 <p>The Maryland State Capitol, or State House, in which the Continental Congress met
                     in 1783-1784, is still standing-although altered and enlarged since that time-on
-                    an elevated area called "State Circle" in the center of Annapolis.<note n="14">The following sources were consulted it describing the State Capitol
+                    an elevated area called "State Circle" in the center of Annapolis.<note n="14"
+                        >The following sources were consulted it describing the State Capitol
                         building in Annapolis: <hi rend="italic">The Columbian Magazine</hi>
-                        (Philadelphia, 1787-1792), III 80-82, February 1789; David Ridgely, <hi rend="italic">Annals of Annapolis</hi> (Baltimore, 1841), pp. 145-147,
+                        (Philadelphia, 1787-1792), III 80-82, February 1789; David Ridgely, <hi
+                            rend="italic">Annals of Annapolis</hi> (Baltimore, 1841), pp. 145-147,
                         208-215, 232-236; Riley, op. cit. , pp. 161-164, 200- 207, 224; and Morris
                         L. Radoff, <hi rend="italic">Buildings of the State of Maryland at
                             Annapolis</hi> (Annapolis 1953, Publications of the Hall of Record,
@@ -778,22 +817,23 @@
                 <p>From Annapolis Congress moved to Trenton, New Jersey, where it was in session
                     from November 1 to December 24, 1784. In Trenton Congress met in a building then
                     known as the "French Arms Tavern," which was located on the southwest corner of
-                    King (now Warren) and Second (now State) Streets. <figure rend="smallfloatinline">
+                    King (now Warren) and Second (now State) Streets. <figure
+                        rend="smallfloatinline">
                         <graphic url="10-french-arms-tavern.jpg"/>
                         <head>The French Arms Tavern, Trenton</head>
                     </figure>
                 </p>
                 <p>For nearly the entire time Congress was at Trenton, the papers of the Department
                     of Foreign Affairs were under the control of the Under Secretary, Henry Remsen,
-                    Jr.<note n="1">
+                        Jr.<note n="1">
                         <hi rend="italic">Journals,</hi> XXVI, 122; XXVIII, 150-151.</note> A new
                     Secretary for Foreign Affairs, <persName>John Jay,</persName> had been appointed
                     in May 1784 to succeed <persName>Robert Livingston,</persName> who had resigned
                     11 months before, but he did not enter upon his duties until December 21,
                     1784.</p>
                 <p>Although no specific record has been found as to where in Trenton Remsen had his
-                    office,<note n="2">No record of where the office was located is known to exist
-                        in Trenton; see MS. Department of State, file 102.516-1753, Roger H.
+                        office,<note n="2">No record of where the office was located is known to
+                        exist in Trenton; see MS. Department of State, file 102.516-1753, Roger H.
                         McDonough, Director, Division of the State Library, Archives and History,
                         Department of Education, Trenton, New Jersey, to G. Bernard Noble, Chief,
                         Division of Historical Policy Research, June 17, 1953, and
@@ -802,9 +842,11 @@
                     Congress and the office of its Secretary, but the Department of Foreign Affairs
                     as well.</p>
                 <p>The building known in 1784 as the "French Arms Tavern" had been erected as a
-                    residence by <persName>John Dagworthy</persName> in the early 1730's.<note n="3">The description of the French Arms Tavern is based on the following
+                    residence by <persName>John Dagworthy</persName> in the early 1730's.<note n="3"
+                        >The description of the French Arms Tavern is based on the following
                         sources: Carlos E. Godfrey, <hi rend="italic">The Mechanics Bank, 1834-1919,
-                            Trenton in New Jersey; a History</hi> (Trenton, 1919), pp. 7-53, <hi rend="italic">passim;</hi> Harry J. Podmore, <hi rend="italic">Trenton,
+                            Trenton in New Jersey; a History</hi> (Trenton, 1919), pp. 7-53, <hi
+                            rend="italic">passim;</hi> Harry J. Podmore, <hi rend="italic">Trenton,
                             Old and New</hi> (Trenton, 1927), pp. 59-64; Trenton Historical Society,
                             <hi rend="italic">A History of Trenton,</hi> 1679-1929 (Princeton,
                         1929), I, 186-187, 191-192, 210, 216, 319, II, 566- 569.</note> In its day
@@ -857,10 +899,10 @@
                     tavern under the name of the "Blazing Star" until 1789, when Henry Drake took
                     possession and renamed it the "City Tavern." Drake was followed by a succession
                     of proprietors who continued the tavern under the last-mentioned name until
-                    1837. In 1836 the property was sold to the Mechanics &amp; Manufacturers
-                    Bank, which razed the old tavern building the following year to make way for a
-                    bank building. The site is now occupied by the New Jersey Bank.<note n="7">This
-                        bank operates under the original charter granted to the Mechanics &amp;
+                    1837. In 1836 the property was sold to the Mechanics &amp; Manufacturers Bank,
+                    which razed the old tavern building the following year to make way for a bank
+                    building. The site is now occupied by the New Jersey Bank.<note n="7">This bank
+                        operates under the original charter granted to the Mechanics &amp;
                         Manufacturers Bank in 1834; telephone conversation with John Cole,
                         Historian, New Jersey National Bank, February 5, 1975.</note>
                 </p>
@@ -874,7 +916,8 @@
                 </head>
                 <p>Sometime between December 24, 1784, when Congress adjourned its session in
                     Trenton, and January 11, 1785, the seat of government was moved to New York
-                    City. The first meeting place for Congress in New York was the City Hall. <figure rend="smallfloatinline">
+                    City. The first meeting place for Congress in New York was the City Hall.
+                        <figure rend="smallfloatinline">
                         <graphic url="11-fraunces-tavern-nyc.jpg"/>
                         <head>Fraunces Tavern, New York, restored in 1906-1907</head>
                     </figure>
@@ -890,12 +933,15 @@
                 </p>
                 <p>The location of the Department from January 11, 1785, to April 30, 1788, was in a
                     building known as "Fraunces Tavern," which was owned by Samuel Fraunces, a noted
-                    innkeeper.<note n="2">For a biographical sketch, see <hi rend="italic">Dictionary of American Biography,</hi> VII, 1.</note> Fraunces Travern
+                        innkeeper.<note n="2">For a biographical sketch, see <hi rend="italic"
+                            >Dictionary of American Biography,</hi> VII, 1.</note> Fraunces Travern
                     was situated on the southeast corner of Great Dock (now Pearl) and Broad
-                    Streets.<note n="3">The Department opened for business on January 28, 1785; MS.
-                        Department of State, Continental Congress Papers, No. 120, I, 5-6.</note>
+                        Streets.<note n="3">The Department opened for business on January 28, 1785;
+                        MS. Department of State, Continental Congress Papers, No. 120, I,
+                        5-6.</note>
                 </p>
-                <p>The Department of Foreign Affairs shared Fraunces Tavern with the War Office,<note n="4">
+                <p>The Department of Foreign Affairs shared Fraunces Tavern with the War
+                        Office,<note n="4">
                         <hi rend="italic">Journals,</hi> XXVIII, 207-208, March 28, 1785; David C.
                         Franks, <hi rend="italic">The New York Directory </hi> (New York, 1787),
                         under "Knox, Henry" (the only known copy of this New York city directory,
@@ -910,10 +956,10 @@
                         Accounts Records, Cash Book, 1785-1795, under the dates mentioned).</note>
                 </p>
                 <p>Charles Thomson, on behalf of Congress, leased the tavern for two years,
-                    commencing May 1, 1785.<note n="6">The indenture was dated April 6, 1785,
-                        though endorsed as executed the following day (MS. Department of State,
-                        Continental Congress Papers, No. 59, I, 218-220).</note> He was acting under
-                    authority of a resolution passed by Congress on April 4, 1785:</p>
+                    commencing May 1, 1785.<note n="6">The indenture was dated April 6, 1785, though
+                        endorsed as executed the following day (MS. Department of State, Continental
+                        Congress Papers, No. 59, I, 218-220).</note> He was acting under authority
+                    of a resolution passed by Congress on April 4, 1785:</p>
                 <p>
                     <q rend="blockquote">
                         <hi rend="italic">"Resolved,</hi> by nine states, That the Secretary of
@@ -934,13 +980,14 @@
                         State, Continental Congress Papers, No. 127, II, 46, 47.</note> Accordingly,
                     the Department of Foreign Affairs, and the War Department as well, remained in
                     Fraunces Tavern for another year, from May 1, 1787 to April 30, 1788. (Certain
-                    offices of the Treasury Department were also located there during this period.)<note n="9">Rent for the building was paid to George Powers, Fraunces'
-                        successor as owner, through Powers' agent, George Stanton (MS. Library of
-                        Congress, Statements of the Financial Affairs of the Late Confederated
-                        Government of the United States from February 1781 to September 1789, p. 43;
-                        MS National Archives, Record Group 53, Waste Book F and Journal D, from the
-                        Register's Office in New York, August 31, 1785-July 14, 1789, II. 1506,
-                        1609, 1644, 1686. These two records of accounts seem not wholly
+                    offices of the Treasury Department were also located there during this
+                        period.)<note n="9">Rent for the building was paid to George Powers,
+                        Fraunces' successor as owner, through Powers' agent, George Stanton (MS.
+                        Library of Congress, Statements of the Financial Affairs of the Late
+                        Confederated Government of the United States from February 1781 to September
+                        1789, p. 43; MS National Archives, Record Group 53, Waste Book F and Journal
+                        D, from the Register's Office in New York, August 31, 1785-July 14, 1789,
+                        II. 1506, 1609, 1644, 1686. These two records of accounts seem not wholly
                         reconcilable.)</note>
                 </p>
                 <p>The building known as "Fraunces Tavern"<note n="10">Except as otherwise
@@ -960,7 +1007,8 @@
                     front and of yellow Dutch brick on the Broad Street side. It consisted of three
                     stories plus cellar and attic, with a French roof covered with tile and lead. On
                     the second floor was a room called the "Long Room," which was well adapted to
-                    public entertainment. Offering the property for sale in the New York <hi rend="italic">Royal Gazette</hi> of March 17, 1781, Fraunces described it as
+                    public entertainment. Offering the property for sale in the New York <hi
+                        rend="italic">Royal Gazette</hi> of March 17, 1781, Fraunces described it as
                     follows:</p>
                 <p>
                     <q rend="blockquote">"AN elegant Three Story and a Half Brick Dwelling House,
@@ -1007,7 +1055,8 @@
                 <p>By the beginning of the twentieth century, as a result of wear and tear through
                     the years, of damage by fire, and of reconstruction and remodeling, the building
                     had lost all its characteristics of colonial architecture. In 1904 it was
-                    purchased by the Sons of the Revolution, who restored it in 1906-1907.<note n="13">On January 24, 1975, a lunch-time bombing of an annex of the Fraunces
+                    purchased by the Sons of the Revolution, who restored it in 1906-1907.<note
+                        n="13">On January 24, 1975, a lunch-time bombing of an annex of the Fraunces
                         Tavern by a group calling themselves the Armed Forces of Puerto Rican
                         National Liberation (FALN) killed 4 persons and injured 53. There was only
                         minor damage to the main tavern building. See <hi rend="italic">The New York
@@ -1037,7 +1086,8 @@
                     appoint an interpreter so that in the future all papers written in a foreign
                     language which might be communicated to Congress from the Department of Foreign
                     Affairs would be accompanied with a translation into English.<note n="17">MS.
-                        Continental Congress, 25, II, folio 413; quoted from Hunt, <hi rend="italic">op. cit.,</hi> pp. 44-45</note>
+                        Continental Congress, 25, II, folio 413; quoted from Hunt, <hi rend="italic"
+                            >op. cit.,</hi> pp. 44-45</note>
                 </p>
                 <p>Although Jay's Department remained somewhat dependent on Congress in conducting
                     foreign relations, it was gaining a degree of independence which would serve as
@@ -1066,20 +1116,25 @@
                         <head>The first location of the Department of Foreign Affairs on Broadway
                             was in the general area shown here.</head>
                     </figure>The exact location of the house is not known. According to Gaillard
-                    Hunt, however, it was on the west side of Broadway near the Battery.<note n="4">Hunt, <hi rend="italic">op. cit.,</hi> p. 428.</note> It is clear that
+                    Hunt, however, it was on the west side of Broadway near the Battery.<note n="4"
+                        >Hunt, <hi rend="italic">op. cit.,</hi> p. 428.</note> It is clear that
                     Jay's residence was located in this area,<note n="5">In 1786 Jay lived at 8
                         Broadway (Franks, <hi rend="italic">New York Directory,</hi> 1786, p. 55);
-                        in 1787 he was at 99 Broadway (<hi rend="italic">ibid.,</hi> 1787, under <hi rend="italic">Jay, John</hi>); and in 1789 he was at 133 Broadway (<hi rend="italic">ibid.,</hi> 1789, p. 47)</note> which may indicate that
+                        in 1787 he was at 99 Broadway (<hi rend="italic">ibid.,</hi> 1787, under <hi
+                            rend="italic">Jay, John</hi>); and in 1789 he was at 133 Broadway (<hi
+                            rend="italic">ibid.,</hi> 1789, p. 47)</note> which may indicate that
                     his office was nearby. Whatever its exact location may have been, it long ago
                     was destroyed to make way for the commercial development of that street.</p>
                 <p>The house was owned by Walter Livingston,<note n="6">See Footnote #3 above.
                             <persName>Gaillard Hunt</persName> (<hi rend="italic">op. crit.,</hi> p.
                         428) stated that the house was owned by one <persName>Philip
                             Livingston.</persName>
-                    </note> a first cousin of Jay's wife.<note n="7">Edwin B. Livingston, <hi rend="italic">The Livingstons of Livingston Manor</hi> (New York, 1910),
+                    </note> a first cousin of Jay's wife.<note n="7">Edwin B. Livingston, <hi
+                            rend="italic">The Livingstons of Livingston Manor</hi> (New York, 1910),
                         p. 229.</note> Livingston had been a Member of the Continental Congress in
                     1784 and 1785, and he was one of three Commissioners of the United States
-                    Treasury from 1785 to 1789.<note n="8">For a biographical sketch, see <hi rend="italic">Biographical Directory of the American Congress,
+                    Treasury from 1785 to 1789.<note n="8">For a biographical sketch, see <hi
+                            rend="italic">Biographical Directory of the American Congress,
                             1774-1949</hi> (Washington, 1950), p. 1468. Walter Livington was a son
                         of Robert Livingston (1708-1790), and not a son of Philip Livingston
                         (1716-1778), as therein stated.</note>
@@ -1088,8 +1143,8 @@
                     himself and the Reception of such Persons as may have Business with him, and the
                     other for his Deputy and [two] Clerks."<note n="9">
                         <hi rend="italic">Journals,</hi> XXXIV, 426.</note> Rent for the house was
-                    paid by the Government at the rate of $625 (f250) a year, plus taxes of $4485.<note n="10">
-                        MS. National Archives, Record Group 53, Waste Book F and
+                    paid by the Government at the rate of $625 (f250) a year, plus taxes of
+                        $4485.<note n="10"> MS. National Archives, Record Group 53, Waste Book F and
                         Journal D, from the Register's Office in New York, August 31, 1785-July 14,
                         1789, II, 1876.</note>
                 </p>
@@ -1097,8 +1152,10 @@
                     move in October 1788 because the Congress had decided to use Jay's office as its
                     own meeting place.<note n="11">
                         <hi rend="italic">Journals,</hi> XXXIV, 577; Burnett, <hi rend="italic">The
-                            Continental Congress,</hi> p. 720; Burnett, <hi rend="italic">Letters,</hi> VIII, 802.</note> The War Office and "other Offices" of
-                    the Government remained in the building at least until April 30, 1789.<note n="12">MS. National Archives, Record Group 53, Waste Book F and Journal D,
+                            Continental Congress,</hi> p. 720; Burnett, <hi rend="italic"
+                            >Letters,</hi> VIII, 802.</note> The War Office and "other Offices" of
+                    the Government remained in the building at least until April 30, 1789.<note
+                        n="12">MS. National Archives, Record Group 53, Waste Book F and Journal D,
                         from the Register's Office in New York, August 31, 1785-July 14, 1789, II,
                         1876.</note>
                 </p>
@@ -1115,7 +1172,7 @@
                         1785-1795, under dates Oсtober 3, 1788, June 18, 1789, and October 5,
                         1790.</note> Again, the exact location is not known for certain. According
                     to Hunt, however, this building was a house located on the east side of the
-                    street.<note n="2">Hunt, <hi rend="italic">Department of State,</hi> p.
+                        street.<note n="2">Hunt, <hi rend="italic">Department of State,</hi> p.
                         428.</note>
                     <figure rend="smallfloatinline">
                         <graphic url="14-trinity-church-nyc.jpg"/>
@@ -1127,16 +1184,18 @@
                 <p>There is evidence that corroborates Hunt's statement regarding the location of
                     this building. It is recorded that the Department, while occupying this second
                     house on Broadway, paid office rent to one Elias "Nexen"<note n="3">Elias
-                        "Nixsen" was a grocer whose address at the time was Burling Slip (<hi rend="italic">New-York Directory,</hi> 1789, p. 66).</note> (the name is
+                        "Nixsen" was a grocer whose address at the time was Burling Slip (<hi
+                            rend="italic">New-York Directory,</hi> 1789, p. 66).</note> (the name is
                     variously spelled) for the period from October 2, 1788, to May 1, 1789, in the
                     sum of L 40 New York currency.<note n="4">MS. Department of State, Accounts
                         Records, Cash Book, 1785-1795, under date June 18, 1789.</note> From
                     February 1, 1787, or earlier, until April 30, 1788, he and Isaac Stoutenburgh,
                     acting as attorneys for John Johnson, had collected rent from the Government for
-                    a house which was occupied as an office by the Board of Treasury.<note n="5">MS. National Archives, Record Group 53, Waste Book F and Journal D, from
-                        the Register's Office in New York, August 31, 1785-July 14, 1789, 1, 1458;
-                        II, 1502, 1703.</note> On May 1, 1788, the Board of Treasury moved to other
-                    quarters,<note n="6">
+                    a house which was occupied as an office by the Board of Treasury.<note n="5">MS.
+                        National Archives, Record Group 53, Waste Book F and Journal D, from the
+                        Register's Office in New York, August 31, 1785-July 14, 1789, 1, 1458; II,
+                        1502, 1703.</note> On May 1, 1788, the Board of Treasury moved to other
+                        quarters,<note n="6">
                         <hi rend="italic">lbid.,</hi> p. 1728.</note> and on the same date the New
                     York <hi rend="italic">Journal</hi>
                     <note n="7">This newspaper was then titled - "The New-York Journal, and Daily
@@ -1181,7 +1240,8 @@
                     well as those pertaining to foreign affairs already prescribed.<note n="10">1
                         Stat. 68.</note>
                 </p>
-                <p>The first Secretary of State under the Constitution was <ref target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson.</ref>
+                <p>The first Secretary of State under the Constitution was <ref
+                        target="/departmenthistory/people/jefferson-thomas">Thomas Jefferson.</ref>
                     Although he was commissioned on September 26, 1789, he was still in France at
                     the time, and Jay continued to perform the essential duties of the office until
                     Jefferson entered upon his duties on March 22, 1790.</p>
@@ -1200,7 +1260,8 @@
                 <pb n="18"/>
                 <p>Also during this early period, some of the country's greatest diplomats had
                     served and had achieved notable diplomatic successes. Among these great
-                    diplomats were Adams, Franklin, Jay, and Jefferson. The <ref target="/milestones/1776-1783/treaty">Treaty of 1783</ref> had been
+                    diplomats were Adams, Franklin, Jay, and Jefferson. The <ref
+                        target="/milestones/1776-1783/treaty">Treaty of 1783</ref> had been
                     negotiated, and the beginnings of relations with other countries were becoming
                     firmly established.</p>
                 <p>When Jefferson took over, the Department was still in the building on Broadway.
@@ -1210,10 +1271,11 @@
                         Accounts Records, Cash Book, 1785-1795, under date Oсtober 5, 1790.</note>
                 </p>
                 <p>In June 1790 Jefferson's staff consisted of two principal clerks, three clerks,
-                    one part-time translator of French, and two office keeper messengers.<note n="13">MS. Department of State, Continental Congress Papers, No. 120, IV,
+                    one part-time translator of French, and two office keeper messengers.<note
+                        n="13">MS. Department of State, Continental Congress Papers, No. 120, IV,
                         167-168.</note> One of the principal clerks, Roger Alden, resigned on July
-                    25, 1790.<note n="14">Stuart, <hi rend="italic">The Department of State,</hi>
-                        p. 17.</note>
+                    25, 1790.<note n="14">Stuart, <hi rend="italic">The Department of State,</hi> p.
+                        17.</note>
                 </p>
                 <figure rend="smallfloatinline">
                     <graphic url="15-head-shot.jpg"/>
@@ -1278,17 +1340,19 @@
                         Thomas Scharf and Thompson Westcott, <hi rend="italic">History of
                             Philadelphia, 1609-1884</hi> (New York, 1895-1898), I, 396; Ellis P.
                         Oberholtzer, <hi rend="italic">Philadelphia, a History of the City and Its
-                            People</hi> (Philadelphia, etc., 1912) I, 342; and <hi rend="italic">Philadelphia</hi> (Harrisburg, 1931-1933), III, 788.</note> It was
+                            People</hi> (Philadelphia, etc., 1912) I, 342; and <hi rend="italic"
+                            >Philadelphia</hi> (Harrisburg, 1931-1933), III, 788.</note> It was
                     "directly opposite" the house Jefferson had chosen for his residence. The
-                    building was "three stories high with a garret, kitchen and stable,"<note n="5"> Jefferson Papers (Boyd, ed.), XVII, 596; also see pp. 385-386.</note> and
+                    building was "three stories high with a garret, kitchen and stable,"<note n="5">
+                        Jefferson Papers (Boyd, ed.), XVII, 596; also see pp. 385-386.</note> and
                     its windows were fitted with venetian blinds.<note n="6">MS. Department of
                         State, Accounts Records, cash Book, 1785-1795, under date May 20,
                         1791.</note> Rent for the the building was $186.67 a year.<note n="7">
                         <hi rend="italic">Ibid.,</hi> under date April 6, 1793; also see MS.
                         Department of State, 5, Domestic Letters, p. 14.</note>
                 </p>
-                <p>Department remained in this building until April 1793.<note n="8">Under an act
-                        of congress of July 9, 1798, the building was valued at $2,000 (MS. National
+                <p>Department remained in this building until April 1793.<note n="8">Under an act of
+                        congress of July 9, 1798, the building was valued at $2,000 (MS. National
                         Archives, Record Group 58, Book A, "List of the Taxes Assessed....," October
                         1, 1798, p. 97). The site of this building is now occupied by a part of the
                         department store of Strawbridge &amp; Clothier (letter from Yoelson to
@@ -1337,14 +1401,15 @@
                     </figure>
                 </p>
                 <p>Except for the mention of blinds on the third-story windows, and of walls and
-                    ceilings of the rooms that were whitewashed,<note n="4">MS. Department of
-                        State, Accounts Records, Cash Book, 1755-1795, under dates March 30 and
-                        November 23, 1793.</note> no description or picture of this building has
-                    been found. The property was owned by John Dunwoody, an "innkeeper" living next
-                    door at 285 Market Street,<note n="5">
+                    ceilings of the rooms that were whitewashed,<note n="4">MS. Department of State,
+                        Accounts Records, Cash Book, 1755-1795, under dates March 30 and November
+                        23, 1793.</note> no description or picture of this building has been found.
+                    The property was owned by John Dunwoody, an "innkeeper" living next door at 285
+                    Market Street,<note n="5">
                         <hi rend="italic">Ibid.,</hi> under date July 3, 1793.</note> to whom the
                     Department paid rent at the rate of $266.67 a year from April 1, 1793, to April
-                    15, 1794, and at the rate of $400 a year from April 16 to May 15, 1794.<note n="6">
+                    15, 1794, and at the rate of $400 a year from April 16 to May 15, 1794.<note
+                        n="6">
                         <hi rend="italic">Ibid.,</hi> under dates July 3 and October 3, 1793, and
                         January 3 and May 15, 1794.</note> Under a July 9, 1798, act of Congress,
                     the property was valued at $2,800.<note n="7">MS. National Archives, Record
@@ -1378,14 +1443,16 @@
                 <p>In the middle of May 1794, the Department of State moved from the building at 287
                     Market Street to another building in Philadelphia, located on the southeast
                     corner of Sixth and Arch Streets.<note n="1">MS. Department of State, Accounts
-                        Records, Cash Book, 1785-1795, under dates August 8 and 15, 1784; <hi rend="italic">Stephen's Philadelphia Directory, for 1796</hi>
+                        Records, Cash Book, 1785-1795, under dates August 8 and 15, 1784; <hi
+                            rend="italic">Stephen's Philadelphia Directory, for 1796</hi>
                         (Philadelphia, 1796), p. 213; Hunt, <hi rend="italic">op. cit.,</hi> p.
                         428.</note> Notices of the move appeared in the Philadelphia newspapers for
                     many days. The Philadelphia Gazette of the United States stated that "THE OFFICE
                     of the Secretary is moved from High [Market] Street, to the New Buildings, the
-                    corner of Sixth &amp; Mulberry [Arch] Streets."<note n="2">May 15, 1794,
-                        and in each subsequent issue of this newspaper (daily except Sunday) to and
-                        including that of May 31, 1794.</note> The Philadelphia <hi rend="italic">General Advertiser </hi> indicated, under the heading "Secretary of State's
+                    corner of Sixth &amp; Mulberry [Arch] Streets."<note n="2">May 15, 1794, and in
+                        each subsequent issue of this newspaper (daily except Sunday) to and
+                        including that of May 31, 1794.</note> The Philadelphia <hi rend="italic"
+                        >General Advertiser </hi> indicated, under the heading "Secretary of State's
                     Office," that "The Office of the Secretary of State is removed to the house next
                     to the corner of Sixth in Arch Street."<note n="3">May 17, 1794, and in each
                         subsequent issue of that newspaper (daily except Sunday) to and including
@@ -1397,12 +1464,14 @@
                 </p>
                 <p>The Department remained in this building until about October 29, 1796. During
                     this time, it paid a quarterly rent of $108.335 to Nathan Sheppard, a "lumber
-                    merchant."<note n="6">Hardie, <hi rend="italic">Philadelphia Directory,</hi>
+                        merchant."<note n="6">Hardie, <hi rend="italic">Philadelphia Directory,</hi>
                         1794, p. 138; <hi rend="italic">Stephen's Philadelphia Directory, for
                             1796</hi> p. 165.</note>
                 </p>
-                <p>On August 20, 1795, while the Department was at this location, <ref target="/departmenthistory/people/pickering-timothy">Timothy Pickering</ref>
-                    reluctantly succeeded <ref target="/departmenthistory/people/randolph-edmund-jennings">Edmund
+                <p>On August 20, 1795, while the Department was at this location, <ref
+                        target="/departmenthistory/people/pickering-timothy">Timothy Pickering</ref>
+                    reluctantly succeeded <ref
+                        target="/departmenthistory/people/randolph-edmund-jennings">Edmund
                         Randolph,</ref> who had been forced to resign, as Secretary of State. In a
                     letter to a Mr. Higginson dated September 22, 1795, Pickering declared:
                         <quote>"...you will believe the President not so unwise as to have tendered
@@ -1415,8 +1484,9 @@
                 <p>The Department never had more than eight or nine employees while Pickering was
                     Secretary, and he did much of the clerical work himself.<note n="8">
                         <hi rend="italic">Ibid.,</hi> p. 33</note> On February 10, 1796, Pickering's
-                    staff consisted of the Chief Clerk, three clerks, a translator, and a messenger.<note n="9">MS. Department of State, Miscellaneous Letters, January—April
-                        1796.</note>
+                    staff consisted of the Chief Clerk, three clerks, a translator, and a
+                        messenger.<note n="9">MS. Department of State, Miscellaneous Letters,
+                        January—April 1796.</note>
                 </p>
             </div>
             <pb n="22"/>
@@ -1440,8 +1510,8 @@
                         States</hi> mentioned the move as follows: "THE office of the secretary of
                     state of the United States, is removed to the north side of North alley, between
                     Market and Arch, and between Fifth and Sixth streets, third door above Fifth
-                    street."<note n="2"> October 29, 1796; also see October 31, 1796, and November
-                        1, 1796.</note>
+                        street."<note n="2"> October 29, 1796; also see October 31, 1796, and
+                        November 1, 1796.</note>
                 </p>
                 <p>No description or picture of this building has been found, and it does not seem
                     possible now to determine just where on the north side of North Street in 1796
@@ -1450,8 +1520,9 @@
                     vicinity ranged in valuation in 1798 between $400 and $1,600.<note n="3">MS.
                         National Archives, Record Group 58, Book A, "List of the Taxes Assessed...,"
                         October 1, 1798, pp. 105, 107, 114, 119, 121, 124.</note> All of the
-                    buildings now on the north side of this street are of more recent construction.<note n="4">MS. Department of State, file 102.517-953, Riley to Noble. July
-                        9, 1953; Yoelson to Costrell, March 27, 1975.</note>
+                    buildings now on the north side of this street are of more recent
+                        construction.<note n="4">MS. Department of State, file 102.517-953, Riley to
+                        Noble. July 9, 1953; Yoelson to Costrell, March 27, 1975.</note>
                 </p>
                 <p>The Department remained in this location until <date when="1797-08-31">August 31,
                         1797,</date> when, because of a yellow fever epidemic in Philadelphia, it
@@ -1467,13 +1538,15 @@
                     <date when="1797-08">August</date>—<date when="1799-11">November 1797, 1798,
                         1799</date>
                 </head>
-                <p>From August to November in 1797, 1798, and 1799, Secretary of State <ref target="/departmenthistory/people/pickering-timothy">Timothy Pickering</ref>
+                <p>From August to November in 1797, 1798, and 1799, Secretary of State <ref
+                        target="/departmenthistory/people/pickering-timothy">Timothy Pickering</ref>
                     moved the Department of State to Trenton, New Jersey, because of recurring
                     epidemics of yellow fever in Philadelphia. In 1797 the Department moved from
                     Philadelphia to Trenton between August 31 and September 5 and returned to
                     Philadelphia between November 2 and 8. In 1798 it moved to Trenton between
                     August 13 and 18 and returned between November 10 and 16. In 1799 it was in
-                    Trenton from about August 29 to about November 1. <figure rend="smallfloatinline">
+                    Trenton from about August 29 to about November 1. <figure
+                        rend="smallfloatinline">
                         <graphic url="19-state-house-trenton-pickering.jpg"/>
                         <head>Timothy Pickering</head>
                     </figure>
@@ -1495,7 +1568,9 @@
                     consisted of two stories and an attic, with a gable roof and a cupola or belfry
                     in the center of the roof. Over the years, extensive additions and improvements
                     have been made until the original building, although embodied in the present
-                    structure, is no longer recognizable.<note n="2">Podmore, <hi rend="italic">Trenton, Old and New,</hi> pp. 75-81; Trenton Historical Society, <hi rend="italic">History of Trenton,</hi> I. 206-208; II, 991-992.</note>
+                    structure, is no longer recognizable.<note n="2">Podmore, <hi rend="italic"
+                            >Trenton, Old and New,</hi> pp. 75-81; Trenton Historical Society, <hi
+                            rend="italic">History of Trenton,</hi> I. 206-208; II, 991-992.</note>
                 </p>
             </div>
             <pb n="24"/>
@@ -1507,27 +1582,31 @@
                 </head>
                 <p>When the Department of State returned to Philadelphia in November 1797, it moved
                     into a building at 13 South Fifth Street on the east side of the street between
-                    Market and Chestnut Streets. A notice of the move, ordered by the Department,<note n="1">MS Department of State, Accounts Records, Contingent Expenses,
-                        Day Book, 1798- 1820, p. 72.</note> appeared in the Philadelphia <hi rend="italic">Gazette of the United States</hi> on November 10, 11, 13, 14,
-                    and 16, 1797. It stated that "The Office of Secretary of State OF THE UNITED
+                    Market and Chestnut Streets. A notice of the move, ordered by the
+                        Department,<note n="1">MS Department of State, Accounts Records, Contingent
+                        Expenses, Day Book, 1798- 1820, p. 72.</note> appeared in the Philadelphia
+                        <hi rend="italic">Gazette of the United States</hi> on November 10, 11, 13,
+                    14, and 16, 1797. It stated that "The Office of Secretary of State OF THE UNITED
                     STATES IS removed to No. 13, South Fifth street, near Chestnut street."</p>
                 <p>No picture of this building is known to exist, but it is described as a three
                     story brick house measuring 21 by 35 feet on a lot measuring 21 by 56 feet, and
-                    its valuation is given as $2,700.<note n="2">MS. National Archives, Record
-                        Group 58, Book A, "List of the Taxes Assessed...," October 1, 1798, pp 141,
-                        155; <hi rend="italic">ibid.,</hi> Book B, No. 4, "Particular List or
+                    its valuation is given as $2,700.<note n="2">MS. National Archives, Record Group
+                        58, Book A, "List of the Taxes Assessed...," October 1, 1798, pp 141, 155;
+                            <hi rend="italic">ibid.,</hi> Book B, No. 4, "Particular List or
                         Description of all Lands, Lots, Buildings, and Wharves, owned, possessed, or
                         occupied, on the 1st Day of October, 1798, in Middle Ward being within the
                         City of Philadelphia in the State of Pennsylvania, excepting only such
                         Dwelling-houses, as, with the Out-houses appurtenant thereto, and the Lots
                         on which they are erect, not exceeding two Acres in any Case, are above the
                         Value of One Hundred Dollars," items 109, 128.</note> In that part of the
-                    house which was occupied by the Department of State the chimneys had 16 flues.<note n="3"> MS. Department of State, Accounts Records, Contingent Expenses,
-                        Day Book, 1798- 1820, p. 38.</note> The walls and ceilings of the rooms were
-                    whitewashed, and there were venetian blinds at the windows.<note n="4">
+                    house which was occupied by the Department of State the chimneys had 16
+                        flues.<note n="3"> MS. Department of State, Accounts Records, Contingent
+                        Expenses, Day Book, 1798- 1820, p. 38.</note> The walls and ceilings of the
+                    rooms were whitewashed, and there were venetian blinds at the windows.<note
+                        n="4">
                         <hi rend="italic">Ibid.,</hi> pp. 8, 19, 51, 53.</note> The premises
                     included a kitchen with a fireplace, a cellar, and a yard in which there was a
-                    pump.<note n="5">
+                        pump.<note n="5">
                         <hi rend="italic">Ibid.,</hi> pp. 24, 39, 46.</note>
                 </p>
                 <p>The Department shared this building with the office of the Postmaster General.
@@ -1540,9 +1619,11 @@
                         register section, p. 12; <hi rend="italic">ibid., 1800,</hi> register
                         section, p. 18.</note> When the Department left the building in 1800, it had
                     to pay the owner an extra $100 for damage done to the house during its
-                    occupancy, and an additional $25 because the house was left uncleaned.<note n="7">MS. Department of State, Accounts Records, Contingent Expenses, Day
+                    occupancy, and an additional $25 because the house was left uncleaned.<note
+                        n="7">MS. Department of State, Accounts Records, Contingent Expenses, Day
                         book 1798-1820, p. 78.</note> The site of this house is now occupied by the
-                    Lafayette Building, a ten-story office building erected in the 1920's.<note n="8">Letter from Yoelson to Costrell, Arch 27, 1975.</note>
+                    Lafayette Building, a ten-story office building erected in the 1920's.<note
+                        n="8">Letter from Yoelson to Costrell, Arch 27, 1975.</note>
                 </p>
                 <p>The Department of State remained in the building at 13 South Fifth Street until
                     May 1800, when it moved with the seat of government to Washington, D.C. In this
@@ -1553,8 +1634,8 @@
                     suggestion that he resign, Adams wrote to him as follows: "Divers causes and
                     considerations essential to the administration of the government, in my
                     judgment, requiring a change in the Department of State, you are hereby
-                    discharged from any further service as Secretary of State."<note n="9">Quoted
-                        in Stuart, <hi rend="italic">op. cit.,</hi> p. 33.</note>
+                    discharged from any further service as Secretary of State."<note n="9">Quoted in
+                        Stuart, <hi rend="italic">op. cit.,</hi> p. 33.</note>
                 </p>
             </div>
             <pb n="25"/>
@@ -1584,10 +1665,10 @@
                 <p>On May 15, 1800, just one day after Congress had adjourned in Philadelphia,
                     President <persName>John Adams</persName> directed the department heads to move
                     their offices and staffs to Washington as soon as it was convenient so that the
-                    public offices would be opened for business by June 15.<note n="4">George
-                        Gibbs, ed., <hi rend="italic">Memoirs of the Administrations of Washington
-                            and John Adams, Edited from the Papers of Oliver Wolcot, Secretary of
-                            the Treasury</hi> (New York, 1846), II, 362.</note> All the executive
+                    public offices would be opened for business by June 15.<note n="4">George Gibbs,
+                        ed., <hi rend="italic">Memoirs of the Administrations of Washington and John
+                            Adams, Edited from the Papers of Oliver Wolcot, Secretary of the
+                            Treasury</hi> (New York, 1846), II, 362.</note> All the executive
                     departments made this move between May 15 and June 15 as the President had
                     instructed. "The removal was not a stupendous task; ... the Government personnel
                     consisted of only 126 persons."<note n="5">Federal Writers' Project, Works
@@ -1606,10 +1687,12 @@
                         </note>
                     </q>
                 </p>
-                <p>On May 27 <persName>Charles Lee</persName>, Secretary of State <hi rend="italic">ad interim,</hi> wrote from Philadelphia that the books and papers of the
+                <p>On May 27 <persName>Charles Lee</persName>, Secretary of State <hi rend="italic"
+                        >ad interim,</hi> wrote from Philadelphia that the books and papers of the
                     Department were packed for removal to Washington and that he would proceed there
                     the following day.<note n="7">MS. Department of State, 5 Instructions, U.S.
-                        Ministers, p. 341.</note> Certain Philadelphia newspapers of May 28, 1800,<note n="8">For example, Philadelphia <hi rend="italic">Gazette &amp;
+                        Ministers, p. 341.</note> Certain Philadelphia newspapers of May 28,
+                        1800,<note n="8">For example, Philadelphia <hi rend="italic">Gazette &amp;
                             Universal Daily Advertiser,</hi> and <hi rend="italic">Claypole's
                             American Daily Advertiser.</hi>
                     </note> carried the following notice:</p>
@@ -1624,7 +1707,8 @@
                 </p>
                 <p>Lee left Philadelphia on the morning of May 28<note n="9">
                         <hi rend="italic">Ibid.,</hi> May 29, 1800.</note> and arrived in Washington
-                    by May 31.<note n="10">"Diary of Mrs. William Thornton, 1800- 1863," in <hi rend="italic">Records of the Columbia Historical Society , Washington,
+                    by May 31.<note n="10">"Diary of Mrs. William Thornton, 1800- 1863," in <hi
+                            rend="italic">Records of the Columbia Historical Society , Washington,
                             D.C.</hi> (Washington, 1895—), X, 149.</note> By June 7 the Department
                     of State was beginning to function in Washington,<note n="11">MS. Department of
                         State, 5 Instructions, U.S. Ministers, p. 342.</note>
@@ -1633,7 +1717,8 @@
                     Department Building" which was shared with other government offices. It was
                     located to the east of the White House, about where the center wing of the
                     present Treasury Department Building stands.<note n="12">"Diary of Mrs. William
-                        Thornton, Capture of Washington by the British," in <hi rend="italic">Records of the Columbia Historical Society', XIX, 176, </hi> footnote
+                        Thornton, Capture of Washington by the British," in <hi rend="italic"
+                            >Records of the Columbia Historical Society', XIX, 176, </hi> footnote
                         6. Contemporary maps of Washington and various other sources verify this
                         statement.</note> It remained in this building only about three months.</p>
                 <p>The Department stored some supplies not needed for current use in a building
@@ -1641,11 +1726,12 @@
                         Records, Contingent Expenses, Day Book, 1798- 1820, pp. 81, 82, 83.</note>—a
                     large stone warehouse which had been erected by Colonel Tobias Lear, formerly
                     President Washington's private secretary. Fronting on the Potomac, it was in the
-                    square bounded by Twenty-sixth, Twenty-seventh, F, and G Streets Northwest.<note n="14">Wilhelmus B. Bryan and Samuel C. Busey, <hi rend="italic">The
-                            Removal of the Seat of Government to the District of Columbia</hi>
-                        (Washington, 1900; Senate Document No. 62, 56th Cong., 1st Sess.), p. 14.
-                        Christian Hines, <hi rend="italic">Early Recollections of Washington
-                            City</hi> (Washington, 1866), p. 23.</note>
+                    square bounded by Twenty-sixth, Twenty-seventh, F, and G Streets Northwest.<note
+                        n="14">Wilhelmus B. Bryan and Samuel C. Busey, <hi rend="italic">The Removal
+                            of the Seat of Government to the District of Columbia</hi> (Washington,
+                        1900; Senate Document No. 62, 56th Cong., 1st Sess.), p. 14. Christian
+                        Hines, <hi rend="italic">Early Recollections of Washington City</hi>
+                        (Washington, 1866), p. 23.</note>
                 </p>
                 <p>The Treasury Department Building was one of two structures which were at this
                     time intended to house the executive offices of the government. The other
@@ -1681,7 +1767,8 @@
                         to be of plain ashlar free stone—soles of windows, sills of doors, and
                         string course of free-stone.—The house to be covered with cypress
                         shingles—the rooms in general to be 16 feet by 20—finished in a plain neat
-                        manner, of the best materials—six small rooms to be groined.—"<note n="17">MS. National Archives, Record Group 42, Proceedings of the
+                        manner, of the best materials—six small rooms to be groined.—"<note n="17"
+                            >MS. National Archives, Record Group 42, Proceedings of the
                             Commissioners of Public Buildings and Grounds of the City of Washington
                             and District of Columbia, IV, 126-127.</note>
                     </q>
@@ -1689,7 +1776,8 @@
                 <p>Of the various proposals submitted to the Commissioners in response to this
                     advertisement, that of Leonard Harbaugh of Washington was accepted. On June 23,
                     1798, a contract was signed with Harbaugh for the erection of the building east
-                    of the White House at a cost of $39,511 and for its completion by July 1, 1800.<note n="18">
+                    of the White House at a cost of $39,511 and for its completion by July 1,
+                        1800.<note n="18">
                         <hi rend="italic">Ibid.,</hi> pp. 158, 162-164.</note>
                 </p>
                 <p>During the course of the construction, a number of agreed changes were made from
@@ -1713,7 +1801,8 @@
                     fireproof rooms of 10 by 12 feet.<note n="21">
                         <hi rend="italic">Ibid.,</hi> Letters of the Commissioners of Public
                         Buildings and Grounds of the City of Washington and District of Columbia, V,
-                        422, the Commissioners to Charles Lee, May 20, 1800. <hi rend="italic">Ibid.,</hi> Public Buildings and Grounds, Proposals and Estimates, 1795
+                        422, the Commissioners to Charles Lee, May 20, 1800. <hi rend="italic"
+                            >Ibid.,</hi> Public Buildings and Grounds, Proposals and Estimates, 1795
                         -1816, James Hoban to the Commissioners, December 15, 1800. </note>
                 </p>
                 <p>
@@ -1733,17 +1822,21 @@
                 <p>After approximately three months in the overcrowded Treasury Department Building,
                     the Department of State moved into one of a block of houses known as the "Six
                     Buildings " located on the north side of Pennsylvania Avenue between
-                    Twenty-first and Twenty-second Streets Northwest.<note n="1">Hines, <hi rend="italic">Recollections of Washington,</hi> p. 26. Bryan, <hi rend="italic">National Capital,</hi> p. 233, note.</note>
+                    Twenty-first and Twenty-second Streets Northwest.<note n="1">Hines, <hi
+                            rend="italic">Recollections of Washington,</hi> p. 26. Bryan, <hi
+                            rend="italic">National Capital,</hi> p. 233, note.</note>
                     <figure rend="smallfloatinline">
                         <graphic url="21-one-of-six-bldgs-washington.jpg"/>
                         <head>Section of the row of the "Six Buildings" on Pennsylvania
                             Avene.</head>
                     </figure> The exact building is not a matter of record. At the same time the
                     Navy Department occupied another one of the Six Buildings;<note n="2">
-                        <hi rend="italic">Ibid.,</hi> I, 351. Federal Writers' Project, <hi rend="italic">Washington, City and Capital,</hi> p. 642.</note>
+                        <hi rend="italic">Ibid.,</hi> I, 351. Federal Writers' Project, <hi
+                            rend="italic">Washington, City and Capital,</hi> p. 642.</note>
                     according to a biographer of the then Secretary of the Navy, this was building
                     numbered 2107.<note n="3">Harriot Stoddert Turner, "Memoirs of Benjamin
-                        Stoddert, First Secretary of the United States Navy," in <hi rend="italic">Records of the Columbia Historical Society,</hi> ХХ , 163.</note> The
+                        Stoddert, First Secretary of the United States Navy," in <hi rend="italic"
+                            >Records of the Columbia Historical Society,</hi> ХХ , 163.</note> The
                     War Department occupied a three story house on the south side of Pennsylvania
                     Avenue nearly opposite the Six Buildings until November 8, 1800, when the
                     building, together with all the books and papers of the office of the Secretary
@@ -1755,16 +1848,19 @@
                     one of the so-called "Seven Buildings" rather than one of the Six Buildings. The
                     Seven Buildings were a block of brick houses on the north side of Pennsylvania
                     Avenue commencing at the corner of Nineteenth Street Northwest and extending
-                    westward.<note n="5">Caemmerer, <hi rend="italic">Washington, the National
-                            Capital,</hi> pp. 371, 372. Federal Writers' Project, Washington, <hi rend="italic">City and Capital,</hi> p. 641.</note> This assertion is
+                        westward.<note n="5">Caemmerer, <hi rend="italic">Washington, the National
+                            Capital,</hi> pp. 371, 372. Federal Writers' Project, Washington, <hi
+                            rend="italic">City and Capital,</hi> p. 641.</note> This assertion is
                     erroneous since contemporary records of the Department of State refer
                     specifically and repeatedly to its occupancy of one of the houses among the Six
-                    Buildings.<note n="6">МS. Department of State, Accounts- Records, Contingent
+                        Buildings.<note n="6">МS. Department of State, Accounts- Records, Contingent
                         Expenses, Day Book, 1798- 1820, pp. 82, 84, 85, 93, 108, 111.</note>
                 </p>
-                <p>The Six Buildings were erected sometime prior to May 15, 1800.<note n="7">American State Papers, Miscellaneous, I, 256 (square 74).</note>
+                <p>The Six Buildings were erected sometime prior to May 15, 1800.<note n="7"
+                        >American State Papers, Miscellaneous, I, 256 (square 74).</note>
                     Construction was begun by James Greenleaf, a speculator in Washington real
-                    estate, and was completed by Isaac Polock, to whom the property had been sold.<note n="8">Bryan, <hi rend="italic">National Capital,</hi> I, 233,
+                    estate, and was completed by Isaac Polock, to whom the property had been
+                        sold.<note n="8">Bryan, <hi rend="italic">National Capital,</hi> I, 233,
                         note.</note>
                 </p>
                 <p>Old photographs of the Six Buildings<note n="9">Reproduced, e.g., in Hans P.
@@ -1786,7 +1882,8 @@
                         <head>The area of the "Six Buildings" as it was in 1977, showing the only
                             remaining original building at center.</head>
                     </figure>them, were 2105, 2107, 2109, 2111, 2113, 2115 and 2117. The Six
-                    Buildings were 2107 to 2117.<note n="10">Federal Writers' Project, <hi rend="italic">Washington, City and Capital,</hi> p. 642.</note> The
+                    Buildings were 2107 to 2117.<note n="10">Federal Writers' Project, <hi
+                            rend="italic">Washington, City and Capital,</hi> p. 642.</note> The
                     building numbered 2109 is still standing and is readily recognizable as the
                     house shown in the old photographs of the Six Buildings. This building is now
                     occupied by a "publick house" called Tammany Hall. The site of the houses
@@ -1806,9 +1903,10 @@
                     set of bookshelves "for a library in the Secretary's room" and another set for
                     the third story of the house, and had four large iron grates installed,
                     evidently so coal could be burned in the fireplaces. On November 6, 1800, the
-                    Department paid the firm of Thompson &amp; Veetch, of Alexandria, Va., $450
-                    for nine months' rent for this house which included a kitchen and a coach house
-                    on the premises used by the Department as a stable and for coal storage.<note n="11">MS. Department of State, Accounts Records, Contingent Expenses, Day
+                    Department paid the firm of Thompson &amp; Veetch, of Alexandria, Va., $450 for
+                    nine months' rent for this house which included a kitchen and a coach house on
+                    the premises used by the Department as a stable and for coal storage.<note
+                        n="11">MS. Department of State, Accounts Records, Contingent Expenses, Day
                         Book, 1798- 1820, pp. 81- 84, 88, 90, 93, 96, 118.</note>
                 </p>
                 <p>In this house, <persName>John Marshall</persName> completed his service as
@@ -1823,13 +1921,15 @@
                     commissioned on March 5, 1801, but his father had died in February and he was
                     needed at home to attend to personal matters.</p>
                 <p>The Department was still quite small at this time. When Marshall resigned, there
-                    were only ten people on the staff, and the salaries totaled only $11,500<note n="12">Hunt, <hi rend="italic">op. cit.,</hi> p. 191.</note> The office of
+                    were only ten people on the staff, and the salaries totaled only $11,500<note
+                        n="12">Hunt, <hi rend="italic">op. cit.,</hi> p. 191.</note> The office of
                     Chief Clerk had become quite important because he acted for the Secretary in his
                     absence. The other employees recorded and copied the correspondence, collated
                     the laws, recorded land patents, made out exequaturs for consuls, issued
                     passports, issued patents, granted copyrights, and performed any other function
                     given to the Department. The diplomatic service was also very small at this
-                    time, there being only five envoys who had the rank of minister.<note n="13">Stuart, <hi rend="italic">op. cit.,</hi> p. 36.</note>
+                    time, there being only five envoys who had the rank of minister.<note n="13"
+                        >Stuart, <hi rend="italic">op. cit.,</hi> p. 36.</note>
                 </p>
             </div>
             <pb n="29"/>
@@ -1838,8 +1938,10 @@
                     <lb/>
                     <date when="1801-05">May 1801</date> - <date when="1814-08">August 1814</date>
                 </head>
-                <p>Approximately three days after <ref target="/departmenthistory/people/madison-james">James Madison</ref> entered
-                    upon his duties as Secretary of State, succeeding <ref target="/departmenthistory/people/marshall-john">John Marshall</ref> on
+                <p>Approximately three days after <ref
+                        target="/departmenthistory/people/madison-james">James Madison</ref> entered
+                    upon his duties as Secretary of State, succeeding <ref
+                        target="/departmenthistory/people/marshall-john">John Marshall</ref> on
                         <date when="1801-05-02">May 2, 1801,</date> the Department of State began to
                     move from one of the Six Buildings on <placeName>Pennsylvania Avenue</placeName>
                     to a newly constructed building west of the White House. The move was completed
@@ -1849,7 +1951,8 @@
                         Records, Contingent Expenses, Day Book, 1798- 1820, p. 93.</note>
                     <figure rend="smallfloatinline">
                         <graphic url="23-public-bldg-west-white-house.jpg"/>
-                        <head>Included in this highly imaginative view of the <ref target="/milestones/1801-1829/war-of-1812">British invasion of
+                        <head>Included in this highly imaginative view of the <ref
+                                target="/milestones/1801-1829/war-of-1812">British invasion of
                                 Washington</ref>, August 24-25, 1814, is the Public Building West of
                             the White House (marked I).</head>
                     </figure>
@@ -1868,27 +1971,27 @@
                     Building was still under construction, the Commissioners for the District of
                     Columbia had sought proposals for the erection of a second executive office
                     building, to be located on the west side of the White House. This building was
-                    to be like the Treasury Department Building—"of similar Dimensions &amp;
-                    form in every respect"—except that "the Foundation will be laid ten feet deeper
-                    from the Surface of the Ground."<note n="4">MS. Nation Archives, Record Group
-                        42, Letters of the Commissioners, V, 271-272, the Commissioners to Harbaugh
-                        and others.</note> It was "sunk to the eaves in a hollow prepared for it, so
-                    that it might be on a level with the Treasury,"<note n="5">John B. Osborne,
-                        "The Removal of the Government to Washington," in <hi rend="italic">Records
-                            of the Columbia Historical Society,</hi> III, 149. Winslow M. Watson,
-                        ed., <hi rend="italic">In Memoriam: Benjamin Ogle Tayloe</hi> (Washington
-                        and Philadelphia, 1880), p. 150.</note> and from this fact it was commonly
-                    said to have been "built in a hole in the ground."<note n="6">Lurton D.
-                        Ingersoll, <hi rend="italic">A History of the War Department of the United
+                    to be like the Treasury Department Building—"of similar Dimensions &amp; form in
+                    every respect"—except that "the Foundation will be laid ten feet deeper from the
+                    Surface of the Ground."<note n="4">MS. Nation Archives, Record Group 42, Letters
+                        of the Commissioners, V, 271-272, the Commissioners to Harbaugh and
+                        others.</note> It was "sunk to the eaves in a hollow prepared for it, so
+                    that it might be on a level with the Treasury,"<note n="5">John B. Osborne, "The
+                        Removal of the Government to Washington," in <hi rend="italic">Records of
+                            the Columbia Historical Society,</hi> III, 149. Winslow M. Watson, ed.,
+                            <hi rend="italic">In Memoriam: Benjamin Ogle Tayloe</hi> (Washington and
+                        Philadelphia, 1880), p. 150.</note> and from this fact it was commonly said
+                    to have been "built in a hole in the ground."<note n="6">Lurton D. Ingersoll,
+                            <hi rend="italic">A History of the War Department of the United
                             States</hi> (Washington and Philadelphia, 1880), p. 110.</note>
                 </p>
                 <p>On August 6, 1799, the Commissioners entered into a contract for the construction
                     of this building with Leonard Harbaugh, the builder of the Treasury Department
                     Building. The price was $39,511, exactly the same amount as for the Treasury
                     Department Building. Construction was to begin within six weeks and was to be
-                    finished by November 1, 1800.<note n="7">MS. National Archives, Record Group
-                        42, Proceedings of the Commissioners, V. 175-177.</note> The building was
-                    not completed, however, until about April 30, 1801.<note n="8">
+                    finished by November 1, 1800.<note n="7">MS. National Archives, Record Group 42,
+                        Proceedings of the Commissioners, V. 175-177.</note> The building was not
+                    completed, however, until about April 30, 1801.<note n="8">
                         <hi rend="italic">Ibid.,</hi> Letters of the Commissioners, VI, 74-75, the
                         Commissioners to the Secretary of War and to Harbaugh, April 16,
                         1801.</note>
@@ -1899,24 +2002,27 @@
                     freestone foundation, with a basement and a dormer-windowed attic. About 149
                     feet in length, east and west, and 57 ½ feet in breadth, it stood with its west
                     end near the east side of Seventeenth Street just above F Street. On each floor
-                    a corridor ran the length of the building, with rooms on each side.<note n="9">Edward D. Ingraham, <hi rend="italic">A Sketch of the Events Which Preceded
+                    a corridor ran the length of the building, with rooms on each side.<note n="9"
+                        >Edward D. Ingraham, <hi rend="italic">A Sketch of the Events Which Preceded
                             the Capture of Washington by the British, on the Twenty-fourth of
                             August, 1814</hi> (Philadelphia, 1849), p. 48.</note> There were
                     fourteen rooms on the first floor, fourteen on the second floor, and eight in
                     the attic. Twenty-four of the rooms were 17 by 20 feet, eight were of nearly the
-                    same dimensions, and four were fireproof rooms of 10 by 12 feet.<note n="10">MS. National Archives, Record Group 42, Letters of the Commissioners, V,
-                        422, the Commissioners to Charles Lee, May 20, 1800. <hi rend="italic">Ibid.,</hi> Public Buildings and Grounds, Proposals and Estimates,
+                    same dimensions, and four were fireproof rooms of 10 by 12 feet.<note n="10">MS.
+                        National Archives, Record Group 42, Letters of the Commissioners, V, 422,
+                        the Commissioners to Charles Lee, May 20, 1800. <hi rend="italic"
+                            >Ibid.,</hi> Public Buildings and Grounds, Proposals and Estimates,
                         1795-1816, James Hoban to the Commissioners, December 15, 1800.</note> The
                     roof was of shingle; the window sills were of stone; there were numerous
                     fireplaces; the rooms and corridors were plastered and whitewashed; and the
                     windows were fitted with venetian blinds.<note n="11">MS. Department of State,
                         Accounts Records, Contingent Expenses, Day Book, 1798- 1820, pp. 118-119,
                         143, 149, 157, 163, 179, 205, 213, 266, 294, 300, 304.</note> A well
-                    supplied water for the building.<note n="12">MS. National Archives, Record
-                        Group 42, Letters of the Commissioners, V, 280, the Commissioners to
-                        Harbaugh, August 8, 1799.</note> Bookshelves from the Six Buildings were set
-                    up in the attic of the new building, as well as 675 feet of new shelving. A set
-                    of bookcases in six parts was purchased for the Secretary's room, and at least
+                    supplied water for the building.<note n="12">MS. National Archives, Record Group
+                        42, Letters of the Commissioners, V, 280, the Commissioners to Harbaugh,
+                        August 8, 1799.</note> Bookshelves from the Six Buildings were set up in the
+                    attic of the new building, as well as 675 feet of new shelving. A set of
+                    bookcases in six parts was purchased for the Secretary's room, and at least
                     three of the four iron grates that the Department had installed in the house
                     among the Six Buildings were set up in the new building.<note n="13">MS.
                         Department of State, Accounts Records, Contingent Expenses, Day Book, 1798-
@@ -1925,8 +2031,9 @@
                 <p>A contemporary British diplomat seemed unimpressed with the Department's new
                     home. He wrote that in this building "the Secretary of State received Foreign
                     Ministers in a very indifferent little room into which they were ushered by his
-                    clerk."<note n="14">Margaret B. Tinkcom, "Caviar Along the Potomac: Sir
-                        Augustus John Foster's 'Notes on the United States,' 1804-1812," in <hi rend="italic">William and Mary Quarterly; a Magazine of Early American
+                        clerk."<note n="14">Margaret B. Tinkcom, "Caviar Along the Potomac: Sir
+                        Augustus John Foster's 'Notes on the United States,' 1804-1812," in <hi
+                            rend="italic">William and Mary Quarterly; a Magazine of Early American
                             History, Institutions and Culture</hi> (Williamsburg, Va., etc., 1892—),
                         3d ser., VIII, January 1951, 74.</note> For a time the new building housed
                     not only the Department of State, in-<pb n="30"/>[Image: Included in this highly
@@ -1952,9 +2059,12 @@
                     fronting on <placeName>E Street.</placeName> It was erected in 1793-1795 by
                         <persName>Samuel Blodget,</persName> a speculator in Washington real estate,
                     but it had remained unfinished and unoccupied until its purchase by the
-                    government under authority of an act of Congress, approved April 28, 1810.<note n="16">2 Stat. 589, 691. <hi rend="italic">American State Papers,
+                    government under authority of an act of Congress, approved April 28, 1810.<note
+                        n="16">2 Stat. 589, 691. <hi rend="italic">American State Papers,
                             Miscellaneous, 11, 188.</hi> George Watterston, <hi rend="italic">New
-                            Guide to Washington</hi> (Washington, 1847-1848), pp. 63-64. Bryan, <hi rend="italic">National Capital,</hi> I, 260, 528, 553-554; II, 247. <hi rend="italic">Journal of the Patent Office Society</hi> (Washington,
+                            Guide to Washington</hi> (Washington, 1847-1848), pp. 63-64. Bryan, <hi
+                            rend="italic">National Capital,</hi> I, 260, 528, 553-554; II, 247. <hi
+                            rend="italic">Journal of the Patent Office Society</hi> (Washington,
                         1918—), XVIII, July 1936, 124, 126. For a biographical sketch of Samuel
                         Blodget, see <hi rend="italic">Dictionary of American Biography,</hi> II,
                         380-381.</note> The following description of the building was published in
@@ -1987,12 +2097,16 @@
                 </p>
                 <p>The Departments of State, War and Navy remained in the building west of the White
                     House until August 1814. It was in this building that <persName>Robert
-                        Smith</persName> succeeded Madison as Secretary of State on <date when="1809-03-06">March 6, 1809</date> (Madison had succeeded Jefferson as
-                    President on March 4, 1809), and was in turn succeeded by <ref target="/departmenthistory/people/monroe-james">James Monroe</ref> on <date when="1811-04-06">April 6, 1811</date>. The Department of State remained
+                        Smith</persName> succeeded Madison as Secretary of State on <date
+                        when="1809-03-06">March 6, 1809</date> (Madison had succeeded Jefferson as
+                    President on March 4, 1809), and was in turn succeeded by <ref
+                        target="/departmenthistory/people/monroe-james">James Monroe</ref> on <date
+                        when="1811-04-06">April 6, 1811</date>. The Department of State remained
                     virtually unchanged during this period. In a report made on January 1, 1807,
                     Secretary Madison listed the personnel of the Department, gave a brief
                     description of their duties, and listed their salaries. The Secretary's salary
-                    was still $5,000 and the total for the other eight employees was $7,812.<note n="19">Hunt, <hi rend="italic">op. cit.,</hi> pp. 191-193.</note>
+                    was still $5,000 and the total for the other eight employees was $7,812.<note
+                        n="19">Hunt, <hi rend="italic">op. cit.,</hi> pp. 191-193.</note>
                 </p>
                 <p>While the Department of State was in this building, the United States declared
                     war with England on <date when="1812-06-18">June 18, 1812</date>. During the War
@@ -2013,7 +2127,8 @@
                     loaded them into carts. They were taken first to a vacant gristmill on the
                     Virginia side of the Potomac two miles above <placeName>Georgetown,</placeName>
                     and then, because that location seemed unsafe, to <placeName>Leesburg,
-                        Va.,</placeName> where they were kept for "some weeks."<note n="20">Ingraham, <hi rend="italic">Capture of Washington,</hi> pp. 35, 47-49.
+                        Va.,</placeName> where they were kept for "some weeks."<note n="20"
+                        >Ingraham, <hi rend="italic">Capture of Washington,</hi> pp. 35, 47-49.
                         Bryan, <hi rend="italic">National Capital,</hi> I. 626-627.</note> (The
                     records and models of the Patent Office, which were then in the Blodget Hotel
                     Building, were spared by the invaders.)</p>
@@ -2033,7 +2148,8 @@
                         all in relation to accounts, were placed in a state of security.... it was
                         not found practicable however, to preserve, in like manner, the volumes of
                         laws reserved by Congress for future disposition; many of the books
-                        belonging to the library of the Department, as well as some letters <pb n="32"/>on file of minor importance from individuals on business mostly
+                        belonging to the library of the Department, as well as some letters <pb
+                            n="32"/>on file of minor importance from individuals on business mostly
                         disposed of, which were unavoidably left, and shared the fate, it is
                         presumed, of the building in which they were deposited."</q>
                     <note n="21">
@@ -2059,7 +2175,7 @@
                         opportunity of erecting these Buildings in the interior, of solid material,
                         and thereby render them fireproof, an object often wished in their former
                         state, for the certain preservation of the Public Documents from accidental
-                        fire;[.]"<note n="23">MS. National Archives, Record Group 42, Letters
+                            fire;[.]"<note n="23">MS. National Archives, Record Group 42, Letters
                             Received by Commissioners, ХХ I, No. 2162.</note>
                     </q>
                 </p>
@@ -2076,7 +2192,8 @@
                     British invasion, the Washington <hi rend="italic">Daily National
                         Intelligence</hi> announced (September 3, 1814): "The Public Offices will be
                     accomodated in houses which have been tendered by their proprietors for that
-                    purpose, and will immediately recommence the usual routine of business. <figure rend="smallfloatinline">
+                    purpose, and will immediately recommence the usual routine of business. <figure
+                        rend="smallfloatinline">
                         <graphic url="25-g-street-near-eighteenth.jpg"/>
                         <head>G Street Near Eighteenth Street</head>
                     </figure>
@@ -2093,8 +2210,8 @@
                         occupied by the British minister Foster; the War Office is in the building
                         adjoining the Bank of the Metropolis. The Navy Office in Mr. Mechlin's House
                         near the West Market, and the General Post Office in one of Mr. Way's new
-                        houses, &amp;c. &amp;c." Therefore, sometime between September 3 and
-                        9, 1814, the Department of State moved into "the house lately inhabited by
+                        houses, &amp;c. &amp;c." Therefore, sometime between September 3 and 9,
+                        1814, the Department of State moved into "the house lately inhabited by
                         Judge Duvall."<note n="1">The reference is to Gabriel Duvall, of Maryland.
                             who was then an Associate Justice of the United States Supreme Court.
                             see <hi rend="italic">Biographical Directory of the American
@@ -2108,7 +2225,8 @@
                     that this building was located on the site of the present Young Men's Christian
                     Association Building on G Street.<note n="3">Maud Burr Morris, "An Old
                         Washington Mansion (2017 I Street Northwest)," in <hi rend="italic">Records
-                            of the Columbia Historical Society,</hi> XXI, 125-126. Bryan, <hi rend="italic">National Capital, </hi> II, 192.</note> District of
+                            of the Columbia Historical Society,</hi> XXI, 125-126. Bryan, <hi
+                            rend="italic">National Capital, </hi> II, 192.</note> District of
                     Columbia land records indicate that in 1814-1816 only one building stood in this
                     approximate location, and this was a house situated on the westerly half of
                     original lot 14 in square 169, astride the line between the former boy's
@@ -2117,8 +2235,8 @@
                     1805, names James Calder of Georgetown as the owner of the property and
                     describes the house as a three-story brick house measuring 26 feet 9 inches by
                     36 feet 9 inches, with kitchen, stable, and carriage house, all of brick, on a
-                    lot measuring 31 feet along G Street and 113 feet deep."<note n="4">MS.
-                        Recorder of Deeds, D.C., Land Records, lib. O No. 14, fols. 303-307.</note>
+                    lot measuring 31 feet along G Street and 113 feet deep."<note n="4">MS. Recorder
+                        of Deeds, D.C., Land Records, lib. O No. 14, fols. 303-307.</note>
                 </p>
                 <p>On September 1, 1815, while the Department of State still occupied the house,
                     Calder sold it, together with additional land extending westward to Eighteenth
@@ -2130,12 +2248,14 @@
                     1815, Lear bought a lot adjoining his son's lot on the east.<note n="7">
                         <hi rend="italic">Ibid.,</hi> fols. 232-234.</note>These purchases gave the
                     Lears a total frontage on G Street of approximately 240 feet.</p>
-                <p>The Department of State continued to occupy this house until about April <pb n="34"/> 1, 1816. During this time, <persName>James Monroe</persName> was
+                <p>The Department of State continued to occupy this house until about April <pb
+                        n="34"/> 1, 1816. During this time, <persName>James Monroe</persName> was
                     Secretary of State.</p>
                 <p>On January 21, 1818, Lear's widow and son sold the whole property on G Street to
                     Attorney General <persName>William Wirt</persName>
                     <note n="8">For a biographical sketch, see <hi rend="italic">Dictionary of
-                            American Biography,</hi> XX, 418-421.</note> for $12,000.<note n="9">MS. Recorder of Deeds, D.C., Land Records, lib. AP No. 40, fols. 475-476,
+                            American Biography,</hi> XX, 418-421.</note> for $12,000.<note n="9">MS.
+                        Recorder of Deeds, D.C., Land Records, lib. AP No. 40, fols. 475-476,
                         477-478.</note> Wirt continued as Attorney General until March 3, 1829.
                     During that time he made this house his residence,<note n="10">John P. Kennedy,
                             <hi rend="italic">Memoirs of the Life of William Wirt, Attorney-General
@@ -2147,7 +2267,7 @@
                     it, because, although it measured less than 27 by 37 feet in 1805 and stood
                     until 1815 on a lot only about four feet wider than the house, Wirt, who had a
                     large family, described the house on the day he bought it as "quite
-                    comfortable,"<note n="12">Kennedy, <hi rend="italic">op. crit.,</hi> p.
+                        comfortable,"<note n="12">Kennedy, <hi rend="italic">op. crit.,</hi> p.
                         67.</note> and there were subsequent references to it as a "mansion."</p>
                 <p>The house subsequently changed hands a number of times.<note n="13">For example,
                         see MS. Recorder of Deeds, D.C., Land Records, lib. WB No. 25, fols.
@@ -2162,7 +2282,8 @@
                         1881-1889, p. 188.</note>(These prints have not been located.)</p>
                 <p>On <date when="1889-03-01">March 1, 1889,</date> John R. McLean of Cincinnati,
                     Ohio, and his wife, sold the property, together with another property just south
-                    of it on Eighteenth Street, to the Columbia Athletic Club for $45,000.<note n="15">MS. Recorder of Deeds, D.C., Land Records, lib. 1377, fols.
+                    of it on Eighteenth Street, to the Columbia Athletic Club for $45,000.<note
+                        n="15">MS. Recorder of Deeds, D.C., Land Records, lib. 1377, fols.
                         279-282.</note> It was presumably shortly after this sale that the old house
                     was razed, for the Columbia Athletic Club proceeded to erect, partly on its
                     site, a five-story brick structure with an ornate brownstone front which later
@@ -2186,7 +2307,8 @@
                 <p>On or shortly before <date when="1816-03-01">April 1, 1816,</date> the Department
                     of State moved from its temporary quarters in the house on G Street to the
                     rebuilt public building west of the White House. As before the British invasion,
-                    the Department shared this building with the War and Navy Departments. <figure rend="smallfloatinline">
+                    the Department shared this building with the War and Navy Departments. <figure
+                        rend="smallfloatinline">
                         <graphic url="26-rebuilt-public-bldg-west-wh.jpg"/>
                         <head>The Navy Department building in 1884, showing added third
                             story.</head>
@@ -2197,7 +2319,8 @@
                     the President's House, Capitol and public offices, on their present sites in the
                     city of Washington,"<note n="1">3 Stat. 205.</note> Within fourteen months, the
                     reconstruction of the public building to the west of the White House was
-                    completed and ready for occupancy at a cost of not quite $32,000.<note n="2">American State Papers, <hi rend="italic">Miscellaneous,</hi> II,
+                    completed and ready for occupancy at a cost of not quite $32,000.<note n="2"
+                        >American State Papers, <hi rend="italic">Miscellaneous,</hi> II,
                         438.</note> The <hi rend="italic">Daily National Intelligencer </hi> of
                     April 2, 1816, offered the following comment: <hi rend="italic">"The Public
                         Offices.</hi> —It is very satisfactory to perceive that the Public
@@ -2212,8 +2335,8 @@
                     brick walls and the rebuilding of the roof and the interior. The architect was
                     James Hoban, who had been awarded first prize for his design of the White House,
                     who had designed and built the Blodget Hotel, and who was currently supervising
-                    the rebuilding of the White House.<note n="3">For a biographical sketch of
-                        James Hoban, see <hi rend="italic">Dictionary of American Biography,</hi> IX
+                    the rebuilding of the White House.<note n="3">For a biographical sketch of James
+                        Hoban, see <hi rend="italic">Dictionary of American Biography,</hi> IX
                         91-92.</note> Josias Thompson was the contractor, and the bricklaying work
                     was contracted by Peter Mortie.<note n="4">MS. National Archives, Record Group
                         42, Letters Received by Commissioners, XXII, Nos. 2202 and 2266, Mortie to
@@ -2242,7 +2365,7 @@
                     and the rooms were whitewashed.<note n="8">MS. Department of State, Account
                         Records, Contingent Expenses, Day Book, 1798- 1820, p. 334.</note> A new
                     desk and bookcase were purchased for the Secretary's room for $90 on March 19,
-                    1817.<note n="9">
+                        1817.<note n="9">
                         <hi rend="italic">Ibid.,</hi> p. 314.</note>
                 </p>
                 <p>The Department of State, by the end of 1817, occupied five rooms on the second
@@ -2255,7 +2378,8 @@
                         Great Britain at the time as the U.S. Minister and did not receive Monroe's
                         proposal until April 16, 1817. Adams accepted immediately, although he did
                         not arrive in the United States until August 6, and entered upon his duties
-                        September 22, 1817. John Graham, the Chief Clerk, served as <hi rend="italic">ad interim</hi> Secretary from March 4 to March 9, and the
+                        September 22, 1817. John Graham, the Chief Clerk, served as <hi
+                            rend="italic">ad interim</hi> Secretary from March 4 to March 9, and the
                         new Attorney General, Richard Rush, carried on in the same capacity until
                         Adams assumed the office.</note> this space was wholly inadequate to the
                     needs of the Department,<note n="11">MS. Department of State, 3 Report Book, p.
@@ -2270,18 +2394,18 @@
                     them therefore are not performed."<note n="12">
                         <hi rend="italic">The Writings of John Quincy Adams,</hi> ed., W.C. Ford
                         (New York 1916), VI, 354.</note> "All is disorder and confusion," he
-                    lamented.<note n="13">
+                        lamented.<note n="13">
                         <hi rend="italic">Memoirs of John Quincy Adams,</hi> ed. Charles F. Adams
                         (Philadelphia, 1875), IV, 100.</note>
                 </p>
                 <p>Consequently, Adams took steps to <pb n="36"/> improve the work of the
                     Department. By an executive order in 1818, the duties and salaries of a number
-                    of the clerks were specifically stated.<note n="14">House Document No. 194,
-                        15th Cong., 1st Sess., VII, (serial 11).</note> Among other things, he also
-                    set up an improved system for filing and registering diplomatic and consular
+                    of the clerks were specifically stated.<note n="14">House Document No. 194, 15th
+                        Cong., 1st Sess., VII, (serial 11).</note> Among other things, he also set
+                    up an improved system for filing and registering diplomatic and consular
                     correspondence put in order<note n="15">
                         <hi rend="italic">Memoirs... op. cit.,</hi> p. 224</note>; the Department's
-                    accounts;<note n="16">
+                        accounts;<note n="16">
                         <hi rend="italic">Ibid.,</hi> p. 366.</note> and improved the system of
                     recording the laws and resolutions of Congress, which was then a function of the
                     Department of state.<note n="17">
@@ -2291,7 +2415,8 @@
                     White House in 1819, that building continued to house the Navy Department for
                     nearly sixty-five years thereafter. Pursuant to a joint resolution of Congress
                     approved December 15, 1864,<note n="18">13 Stat. 565.</note> it was enlarged by
-                    the addition of a third story and an extension or wing on the south side.<note n="19">A photograph of the old building, which was taken by Third Assistant
+                    the addition of a third story and an extension or wing on the south side.<note
+                        n="19">A photograph of the old building, which was taken by Third Assistant
                         Secretary of State Alvey A. Adee in 1884, shortly before it was torn down,
                         and which shows in the background portions of the east and south wings of
                         the then unfinished State, War, and Navy Building, is reproduced in this
@@ -2314,7 +2439,8 @@
                     December 1817 (see previous chapter), was not unique in the administration. In
                     his annual message to the Congress on December 2, 1817, President Monroe
                     indicated that the public buildings in Washington had become "altogether
-                    insufficient for the accommodation of the several Executive Departments."<note n="1">James D. Richardson, <hi rend="italic">A Compilation of the Messages
+                    insufficient for the accommodation of the several Executive Departments."<note
+                        n="1">James D. Richardson, <hi rend="italic">A Compilation of the Messages
                             and Papers of the Presidents, 1789-1897</hi> (Washington, 1896-1899),
                         II, 19.</note>
                     <figure rend="smallfloatinline">
@@ -2335,7 +2461,7 @@
                     <note n="3">3 Stat. 441.</note>
                 </p>
                 <p>Construction of the two buildings was completed in 1819 at a total cost of
-                    $191,756.71.<note n="4">
+                        $191,756.71.<note n="4">
                         <hi rend="italic">American State Papers, Miscellaneous,</hi> II, 578.</note>
                     The designer and contractor was James Hoban.<note n="5">Hoban made two progress
                         reports, which together give a detailed picture of the two buildings. See
@@ -2363,10 +2489,12 @@
                     library, was in the center front, extending the length of the portico, and had
                     five windows. In the center of each building, on the south side of the corridor,
                     was a wide staircase.<note n="6">Peter Force, <hi rend="italic">A Directory for
-                            the Public Offices</hi> (Washington, 1820), pp. 3-7. Force, <hi rend="italic">National Calendar for 1820,</hi> pp. 177-181. David H.
+                            the Public Offices</hi> (Washington, 1820), pp. 3-7. Force, <hi
+                            rend="italic">National Calendar for 1820,</hi> pp. 177-181. David H.
                         Bates, <hi rend="italic">Lincoln in the Telegraph Office </hi> (New York,
                         1907), p. 146.</note> By the early 1830s, the exteriors of all four
-                    executive office buildings were painted a leaden-gray color with white trim.<note n="7">
+                    executive office buildings were painted a leaden-gray color with white
+                        trim.<note n="7">
                         <hi rend="italic">Picture of the City of Washington</hi> (Washington, 1836),
                         p. 13. MS. Department of State, Accounts Records, Northeast Executive
                         Building, Miscellaneous Accounts, 1843- 1857, p. 10. Also various
@@ -2386,9 +2514,10 @@
                         columns and pediment; and every observer must be convinced that the two
                         other buildings require some such finish on their south fronts, to make them
                         complete. —The grounds about these offices have been graduated and planted,
-                        of late years; and the shrubbery begins to present a pleasing appearance."<note n="8">Elliot, <hi rend="italic">Historical Sketches of the Ten
-                                Miles Square Forming the District of Columbia</hi> (Washington,
-                            1830), p. 164.</note>
+                        of late years; and the shrubbery begins to present a pleasing
+                            appearance."<note n="8">Elliot, <hi rend="italic">Historical Sketches of
+                                the Ten Miles Square Forming the District of Columbia</hi>
+                            (Washington, 1830), p. 164.</note>
                     </q>
                     <figure rend="smallfloatinline">
                         <graphic url="29-northeast-executive-bldg-p2.jpg"/>
@@ -2404,17 +2533,17 @@
                         Department of State, 17 Domestic Letters, pp. 350-351, 356-357, 359, 362.
                         MS. Department of State, Miscellaneous Letters, July-August 1819, Peter
                         Force to the Secretary of State, August 23, 1819.</note> It occupied eleven
-                    rooms on the second floor and six on the attic floor.<note n="10">MS.
-                        Department of State, Account Records, Requisitions of the Treasury,
-                        1818-1825, p. 67, October 13, 1819." Force, <hi rend="italic">National
-                            Calendar for 1820,</hi> pp. 178, 182-183. Force, <hi rend="italic">A
-                            Directory for the Public Offices,</hi> pp. 4, 8-9.</note> The large
-                    library probably counted as two rooms, because, according to a publication of
-                    1820, the Department then occupied ten rooms on the second floor, including the
-                    library, while the Fifth Auditor of the Treasury and his staff occupied the
-                    other five rooms on that floor<note n="11">Force, <hi rend="italic">National
-                            Calendar for 1820,</hi> pp. 178, 182-183. Force, <hi rend="italic">A
-                            Directory for the Public Offices,</hi> pp. 4, 8-9.</note>
+                    rooms on the second floor and six on the attic floor.<note n="10">MS. Department
+                        of State, Account Records, Requisitions of the Treasury, 1818-1825, p. 67,
+                        October 13, 1819." Force, <hi rend="italic">National Calendar for 1820,</hi>
+                        pp. 178, 182-183. Force, <hi rend="italic">A Directory for the Public
+                            Offices,</hi> pp. 4, 8-9.</note> The large library probably counted as
+                    two rooms, because, according to a publication of 1820, the Department then
+                    occupied ten rooms on the second floor, including the library, while the Fifth
+                    Auditor of the Treasury and his staff occupied the other five rooms on that
+                        floor<note n="11">Force, <hi rend="italic">National Calendar for 1820,</hi>
+                        pp. 178, 182-183. Force, <hi rend="italic">A Directory for the Public
+                            Offices,</hi> pp. 4, 8-9.</note>
                 </p>
                 <pb n="38"/>
                 <p>The Department's rooms were on the north side of the corridor, except the two at
@@ -2430,11 +2559,12 @@
                         Adams</ref> was Secretary of State at the time of the move. His staff
                     consisted of the Chief Clerk, nine clerks, one messenger, and one assistant
                     messenger, besides the Superintendent, one clerk, and one messenger in the
-                    Patent Office.<note n="13">MS. Department of State, 3 Report Book, p. 76.
-                        Force, <hi rend="italic">National Calendar for 1820,</hi> p. 9.</note>
+                    Patent Office.<note n="13">MS. Department of State, 3 Report Book, p. 76. Force,
+                            <hi rend="italic">National Calendar for 1820,</hi> p. 9.</note>
                 </p>
                 <p>The Department grew steadily, but without benefit of an organizational pattern
-                    until 1833 when, under Secretary <ref target="/departmenthistory/people/mclane-louis">Louis McLane</ref>, it was
+                    until 1833 when, under Secretary <ref
+                        target="/departmenthistory/people/mclane-louis">Louis McLane</ref>, it was
                     organized for the first time into bureaus. Now functions and responsibilities
                     were more specifically designated. This organization was subsequently modified,
                     but remained basically the same until 1870. By 1846 the Department of State,
@@ -2446,7 +2576,8 @@
                         <hi rend="italic">Annual Report,</hi> American Historical Association, 1899,
                         p. 641.</note>
                 </p>
-                <p>The following memorandum to Secretary of State <ref target="/departmenthistory/people/buchanan-james">James Buchanan</ref>,
+                <p>The following memorandum to Secretary of State <ref
+                        target="/departmenthistory/people/buchanan-james">James Buchanan</ref>,
                     unsigned and undated but evidently written by Edward Stubbs, Disbursing Agent of
                     the Department, about February 12-14, 1846, shows something of the disposition
                     of the offices of the Department throughout the building at that time:</p>
@@ -2468,8 +2599,7 @@
                     <q rend="blockquote">Three, by the 4 clerks of the Diplomatic Bureau</q>
                 </p>
                 <p>
-                    <q rend="blockquote">Two, including the longroom for the Library &amp;
-                        Libn</q>
+                    <q rend="blockquote">Two, including the longroom for the Library &amp; Libn</q>
                 </p>
                 <p>
                     <q rend="blockquote">One, for the Bureau of Archives &amp; Laws</q>
@@ -2485,9 +2615,9 @@
                 </p>
                 <p>
                     <q rend="blockquote">One, a small one, for two Clerks, one, assisting in
-                        Diplomatic Bureau; and one, keeper of Mail Registers &amp; issuing
-                        Pardons, and passports. The latter has charge of the great seal. The
-                        sealing, for want of other room, has to be done in the passage.</q>
+                        Diplomatic Bureau; and one, keeper of Mail Registers &amp; issuing Pardons,
+                        and passports. The latter has charge of the great seal. The sealing, for
+                        want of other room, has to be done in the passage.</q>
                 </p>
                 <p>
                     <q rend="blockquote">"On the lower floor there are 16 rooms two of them
@@ -2502,8 +2632,7 @@
                         rooms...</q>
                 </p>
                 <p>
-                    <q rend="blockquote">"For Watchmen &amp; laborers of the Buildg 1
-                        room...</q>
+                    <q rend="blockquote">"For Watchmen &amp; laborers of the Buildg 1 room...</q>
                 </p>
                 <p>
                     <q rend="blockquote">"For the clerk charged with keeping copy right books,
@@ -2513,8 +2642,8 @@
                     <q rend="blockquote">"For safe keeping the enrolled laws, Manuscript archives,
                         evidences of claims on foreign governments, Archives of Conventions to
                         adjust claims. Returns of Sixth Census 2 rooms. These are also occupied by
-                        Clerks employed by the Department, by Clarke &amp; Force copying for
-                        their <pb n="39"/> Documentary History, and, by clerks copying for the new
+                        Clerks employed by the Department, by Clarke &amp; Force copying for their
+                            <pb n="39"/> Documentary History, and, by clerks copying for the new
                         edition of the laws.</q>
                 </p>
                 <p>
@@ -2545,8 +2674,8 @@
                 </p>
                 <p>
                     <q rend="blockquote">"One for the reception and arrangement of Manuscript
-                        archives &amp; c for which there is at present no room; and one, for one
-                        of the two clerks at present in one of the small rooms on the 2nd Story. All
+                        archives &amp; c for which there is at present no room; and one, for one of
+                        the two clerks at present in one of the small rooms on the 2nd Story. All
                         three to be occasionally occupied by such temporary clerks as may be
                         required to transact extraordinary business."<note n="15">MS. Department of
                             State, Accounts Records, 16 Domestic Letters re Accounts, pp.
@@ -2556,10 +2685,10 @@
                 <p>It should be noted that, by an act of <date when="1836-06-04">July 4,
                         1836,</date> the Patent Office had been changed to the Commissioner of
                     Patents and recognized as a separate portion of the Department, responsible to
-                    the Secretary.<note n="16">5 Stat., 117.</note> This function was moved
-                    entirely from the Department's jurisdiction when it was incorporated in the
-                    Department of Interior upon that Department's formation in 1849.<note n="17">
-                        9 Stat., 395.</note>
+                    the Secretary.<note n="16">5 Stat., 117.</note> This function was moved entirely
+                    from the Department's jurisdiction when it was incorporated in the Department of
+                    Interior upon that Department's formation in 1849.<note n="17"> 9 Stat.,
+                        395.</note>
                 </p>
                 <p>The old accounts records of the Department of State reveal many details regarding
                     the Northeast Executive Building through the years. For example, there is
@@ -2570,7 +2699,8 @@
                     began supplying gas to the building. The Department's rooms were carpeted, at
                     least during the winter months, and at times the corridors were carpeted also.
                     Sometime around April 1863, a tin-roofed passageway had been erected to connect
-                    this building with the then unfinished Treasury Department Building.<note n="18">This paragraph is based on information found here and there in the
+                    this building with the then unfinished Treasury Department Building.<note n="18"
+                        >This paragraph is based on information found here and there in the
                         following volumes of MS. Department of State, Accounts Records: Cash Book,
                         1820-1824. Day Book A, 1824-1826. Day Book, 1826-1829. Northeast Executive
                         Building, Expense Accounts, 1833-1842. Northeast Executive Building,
@@ -2616,7 +2746,8 @@
                     for the records indicate that by November 1863 the Department had overflowed
                     into two or three rooms in the Treasury Department Building.<note n="20">MS.
                         Department of State, Accounts Records, Contingencies, Northeast Executive
-                        Building, 1857-1867, p. 68.</note> Also, in November 1866, Secretary <ref target="/departmenthistory/people/seward-william-henry">William H.
+                        Building, 1857-1867, p. 68.</note> Also, in November 1866, Secretary <ref
+                        target="/departmenthistory/people/seward-william-henry">William H.
                         Seward</ref> had a staff of forty-six, including thirteen extra or temporary
                     clerks but exclusive of laborers and watchmen.<note n="21"> MS. Department of
                         State, Accounts Records, Pay Rolls, 1866-1867, November 1866.</note>
@@ -2635,8 +2766,8 @@
                 </p>
                 <p>When Seward expressed his incredulity, the clerk explained that it had been
                     carved out of the handrail of the old stairway leading to the Secretary's
-                    office.<note n="22">Seward, <hi rend="italic">Seward at Washington,</hi> III,
-                        343.</note>
+                        office.<note n="22">Seward, <hi rend="italic">Seward at Washington,</hi>
+                        III, 343.</note>
                 </p>
             </div>
             <pb n="41"/>
@@ -2662,7 +2793,8 @@
                 <p>The Department began moving on <date when="1866-11-01">November 1, 1866,</date>
                     to its new home, the then newly erected <placeName>Washington City Orphan Asylum
                         Building</placeName> located on the southeast corner of Fourteenth and S
-                    Streets Northwest. The Washington <hi rend="italic">Evening Star</hi> on <date when="1866-11-01">November 1, 1866,</date> described the move as
+                    Streets Northwest. The Washington <hi rend="italic">Evening Star</hi> on <date
+                        when="1866-11-01">November 1, 1866,</date> described the move as
                     follows:</p>
                 <p>
                     <q rend="blockquote">"The work of removing the archives and documents of the
@@ -2671,21 +2803,23 @@
                         to-day, preparatory to tearing down the old State Department building to
                         make room for the Treasury extension."</q>
                 </p>
-                <p>The move was also reported the following day in two other Washington newspapers.<note n="2">
+                <p>The move was also reported the following day in two other Washington
+                        newspapers.<note n="2">
                         <hi rend="italic">Daily Morning Chronicle, and National Republican,</hi>
                         November 2, 1866.</note> It has been asserted over the years that in 1866
                     the Department moved for a brief period to a building on the southwest corner of
                     Thirteenth Street and Pennsylvania Avenue Northwest. This claim has been largely
                     based on evidence found in a Washington city directory of 1866 which gives the
-                    address of the Department of State as "Penn. Avenue, corner 13th Street,"<note n="3">
+                    address of the Department of State as "Penn. Avenue, corner 13th Street,"<note
+                        n="3">
                         <hi rend="italic">Boyd's Washington and Georgetown Directory...1866</hi>
                         (Washington, 1866), p. 107.</note> but the figure <hi rend="italic">13</hi>
                     is an error for <hi rend="italic">15</hi>. Based on the contemporary accounts
-                    records of the Department of State,<note n="4">MS. Department of State,
-                        Accounts Records, Contingencies, Northeast Executive Building, 1857-1867,
-                        pp. 90-105.</note> and the contemporary newspaper accounts already referred
-                    to, it is certain that the Department moved directly from the Northeast
-                    Executive Building to the Washington City Orphan Asylum Building.</p>
+                    records of the Department of State,<note n="4">MS. Department of State, Accounts
+                        Records, Contingencies, Northeast Executive Building, 1857-1867, pp.
+                        90-105.</note> and the contemporary newspaper accounts already referred to,
+                    it is certain that the Department moved directly from the Northeast Executive
+                    Building to the Washington City Orphan Asylum Building.</p>
                 <p>An item in the Washington <hi rend="italic">Daily National Intelligencer</hi> of
                     November 1, 1866, indicated that the <placeName>Orphan Asylum
                         Building</placeName> was being completed in time for the Department of State
@@ -2712,7 +2846,8 @@
                         charge. Workmen and carts enough for the purpose were placed at his
                         disposal. A single night sufficed to make the transfer, though the new and
                         old quarters were a mile apart. The next morning every official was at his
-                        post, and every paper in place, and forthcoming at call."<note n="5">Seward, <hi rend="italic">Seward at Washington,</hi> III, 343.</note>
+                        post, and every paper in place, and forthcoming at call."<note n="5">Seward,
+                                <hi rend="italic">Seward at Washington,</hi> III, 343.</note>
                     </q>
                 </p>
                 <p>The Department's contemporary accounts records suggest, however, that the moving
@@ -2748,21 +2883,25 @@
                         1875-1877, pp. 45, 113, 117.</note> Despite the high rental, the building
                     was not well suited to the needs of the Department, either in size or in
                     construction. On January 27, 1869, Secretary of State William Н. Seward wrote
-                    that "the building is much too small for the necessary uses of the department."<note n="9">House Executive Document No. 67, 40th Cong., 3d Sess. (serial
-                        1374), p. 1.</note> Also, two fires which broke out there during the
-                    Department's occupancy <quote>"came near proving disastrous."</quote>
+                    that "the building is much too small for the necessary uses of the
+                        department."<note n="9">House Executive Document No. 67, 40th Cong., 3d
+                        Sess. (serial 1374), p. 1.</note> Also, two fires which broke out there
+                    during the Department's occupancy <quote>"came near proving disastrous."</quote>
                     <note n="10">MS. Department of State, 5 Reports of Bureau Officers, undated
                         memorandum of James Fenner Lee, Chief Clerk of the Department from February
                         1, 1888, until February 10, 1890, entitled "Department of State
                         Building."</note>
                 </p>
                 <p>It was in this makeshift building that Seward concluded his eight years less one
-                    day of service as Secretary of State (a period exceeded only by that of <ref target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>,
+                    day of service as Secretary of State (a period exceeded only by that of <ref
+                        target="/departmenthistory/people/hull-cordell">Cordell Hull</ref>,
                     1933-1944, and <ref target="/departmenthistory/people/rusk-david-dean">Dean
                         Rusk,</ref> 1961-196911).<note n="11">Rusk's time of service exceeded
-                        Seward's by only one day.</note> It was also here that <ref target="/departmenthistory/people/washburne-elihu-benjamin">Elihu B.
+                        Seward's by only one day.</note> It was also here that <ref
+                        target="/departmenthistory/people/washburne-elihu-benjamin">Elihu B.
                         Washburne</ref> served as Secretary of State for twelve days, the shortest
-                    term on record; and it was here that <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>
+                    term on record; and it was here that <ref
+                        target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>
                     commenced on March 17, 1869, a period of service as Secretary which was to be
                     only three days shorter than Seward's. By December 1873 Secretary Fish had a
                     staff of thirty-seven officers, clerks, and other employees, exclusive of
@@ -2782,14 +2921,16 @@
                     Orphan Asylum Building, or perhaps for both reasons, the Department of State,
                     while it occupied that building, rented a building across the street, on the
                     southwest corner of Fourteenth and S Streets, "for the storage of Books, Maps,
-                    papers, archives, &amp;с ." This building is described as a "three story
-                    brick house and premises." Rent at the rate of $62.50 a month covering the
-                    period from July 1, 1870, to March 31, 1875, was paid first to J.P. Klingle,
-                    later to Moses Kelley, executor, and still later to Moses Kelley and J.B. Blake,
-                    executors.<note n="13">MS. Department of State, Accounts Records, Stationery,
-                        Furniture, &amp;c., 1872, 1867-1889, pp. 55, 58- 60. <hi rend="italic">Ibid.,</hi> Contingent Expenses, Department of State, 1867-1881, pp.
-                        55, 61, 78, 99, 101, 129, 134, 142, 151, 156, 169, 179.</note> This building
-                    has since been torn down, and its site is now occupied by a service station.</p>
+                    papers, archives, &amp;с ." This building is described as a "three story brick
+                    house and premises." Rent at the rate of $62.50 a month covering the period from
+                    July 1, 1870, to March 31, 1875, was paid first to J.P. Klingle, later to Moses
+                    Kelley, executor, and still later to Moses Kelley and J.B. Blake,
+                        executors.<note n="13">MS. Department of State, Accounts Records,
+                        Stationery, Furniture, &amp;c., 1872, 1867-1889, pp. 55, 58- 60. <hi
+                            rend="italic">Ibid.,</hi> Contingent Expenses, Department of State,
+                        1867-1881, pp. 55, 61, 78, 99, 101, 129, 134, 142, 151, 156, 169,
+                        179.</note> This building has since been torn down, and its site is now
+                    occupied by a service station.</p>
             </div>
             <pb n="43"/>
             <div type="section" xml:id="section27">
@@ -2800,16 +2941,20 @@
                 </head>
                 <p>The Department of State had been in the <placeName>Washington City Orphan Asylum
                         Building</placeName> for only three years when Congress recognized that,
-                    because of the high rent, the inadequate space, and the severe fire hazard,<note n="1">MS. Department of State, 5 Reports of bureau Officer's
-                        memorandum of James Fenner Lee, cited in the previous chapter.</note> new
-                    quarters would have to be found for the Department. Consequently, a Commission
-                    of six members, including Secretary of State <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>, was
+                    because of the high rent, the inadequate space, and the severe fire hazard,<note
+                        n="1">MS. Department of State, 5 Reports of bureau Officer's memorandum of
+                        James Fenner Lee, cited in the previous chapter.</note> new quarters would
+                    have to be found for the Department. Consequently, a Commission of six members,
+                    including Secretary of State <ref
+                        target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref>, was
                     appointed by Congress in 1869 to recommend a site and submit plans for a new
-                    executive office building to house the Department of State.<note n="2">Actually, as early as the 1830s and 1840s proposals had been submitted for
-                        new executive office buildings. Some of these plans even resembled those
-                        that were eventually accepted many years later. See <hi rend="italic">Executive Office Building,</hi> General Services Administration
-                        Historical Study No. 3 (Washington, revised September 1970) [Hereinafter
-                        referred to as <hi rend="italic">Executive Office Building.</hi>]</note>
+                    executive office building to house the Department of State.<note n="2">Actually,
+                        as early as the 1830s and 1840s proposals had been submitted for new
+                        executive office buildings. Some of these plans even resembled those that
+                        were eventually accepted many years later. See <hi rend="italic">Executive
+                            Office Building,</hi> General Services Administration Historical Study
+                        No. 3 (Washington, revised September 1970) [Hereinafter referred to as <hi
+                            rend="italic">Executive Office Building.</hi>]</note>
                     <figure rend="smallfloatinline">
                         <graphic url="31-state-war-navy-building.jpg"/>
                         <head>The State, War, and Navy Building</head>
@@ -2819,21 +2964,24 @@
                     Square or at Scott Square (now McPherson Square).<note n="3">House Executive
                         Document No. 71, 41st Cong., 2d Sess. (serial 1417), p.1.</note> By February
                     1870, however, the agreed upon site was west of the White House, a site which
-                    was then partially occupied by the buildings of the War and Navy Departments.<note n="4">MS. Department of State, Miscellaneous Letters, February 1870,
-                        pt. 2.</note>
+                    was then partially occupied by the buildings of the War and Navy
+                        Departments.<note n="4">MS. Department of State, Miscellaneous Letters,
+                        February 1870, pt. 2.</note>
                 </p>
                 <p>Secretary Fish drafted a bill to this effect. The bill also proposed that the new
                     building, which would house the State, War, and Navy Departments, should be
                     constructed in stages beginning with the south wing in order to avoid
-                    interfering with the War and Navy Departments while it was being constructed.<note n="5">MS. Department of State, 10 Repot Book, p. 268; and pp. 278-279,
-                        letter of February 25, 1870, and enclosure.</note> This would allow these
-                    two departments to remain in their buildings until later in the construction
-                    when those buildings would have to be razed to make way for the other wings.</p>
+                    interfering with the War and Navy Departments while it was being
+                        constructed.<note n="5">MS. Department of State, 10 Repot Book, p. 268; and
+                        pp. 278-279, letter of February 25, 1870, and enclosure.</note> This would
+                    allow these two departments to remain in their buildings until later in the
+                    construction when those buildings would have to be razed to make way for the
+                    other wings.</p>
                 <p>Congress did not immediately enact this bill, and President Grant was constrained
                     to emphasize, in his annual message of December 5, 1870, the inadequacy and the
                     hazardous condition of the Orphan Asylum Building and the urgent need of an
-                    appropriation for the construction of a new building.<note n="6">Richardson,
-                            <hi rend="italic">Messages and Papers of the Presidents,</hi> VII,
+                    appropriation for the construction of a new building.<note n="6">Richardson, <hi
+                            rend="italic">Messages and Papers of the Presidents,</hi> VII,
                         106.</note> In response to this entreaty, Congress, on March 3, 1871,
                     appropriated $500,000-the first of 18 appropriations amounting in all to
                     $10,124,500—</p>
@@ -2861,16 +3009,17 @@
                     completion.</p>
                 <p>Ground was broken for the south wing on June 21, 1871, and the first granite
                     stone was laid on February 2, 1872. This wing was completed in December 1875,
-                    although construction on the library apparently continued well into 1876.<note n="8">MS. Department of State, Accounts Records, New Department, Ledger,
+                    although construction on the library apparently continued well into 1876.<note
+                        n="8">MS. Department of State, Accounts Records, New Department, Ledger,
                         1871-1883, p. 116.</note>
                 </p>
                 <p>Just before the south wing was completed in the latter part of June 1875, the
                     Department of State began moving in. Secretary Fish mentioned the move in
                     various letters at the time. On June 29 he stated that "for the past week we
-                    have been gradually removing Documents &amp; c &amp;c."<note n="9"> MS.
-                        Library of Congress, Papers of Hamilton Fish, Letter Copy Book, February
-                        25-October 28, 1875, p. 290.</note> On July 17 he wrote, "On Monday [July
-                    19] we open shop &amp; transact business in the new Вuilding."<note n="10">
+                    have been gradually removing Documents &amp; c &amp;c."<note n="9"> MS. Library
+                        of Congress, Papers of Hamilton Fish, Letter Copy Book, February 25-October
+                        28, 1875, p. 290.</note> On July 17 he wrote, "On Monday [July 19] we open
+                    shop &amp; transact business in the new Вuilding."<note n="10">
                         <hi rend="italic">Ibid.,</hi> June 26, 1875-May 4, 1876, p. 22.</note>
                     Finally, on July 20 he wrote:</p>
                 <p>
@@ -2900,8 +3049,9 @@
                 <p>At the time of the move, the Department of State was comprised of a total of
                     fifty-five persons, exclusive of engineers, watchmen, firemen, and laborers. The
                     staff consisted of the Secretary, three Assistant Secretaries, the Chief Clerk,
-                    six chiefs of bureau, one translator, forty-one clerks, and two messengers.<note n="13">MS. Department of State, Accounts Records, Pay Roll, 1874-1875,
-                        July 31, 1875.</note>
+                    six chiefs of bureau, one translator, forty-one clerks, and two messengers.<note
+                        n="13">MS. Department of State, Accounts Records, Pay Roll, 1874-1875, July
+                        31, 1875.</note>
                 </p>
                 <p>Construction continued on the rest of the State, War and Navy Building while the
                     Department was in the south wing. Ground had been broken for the east wing on
@@ -2951,7 +3101,8 @@
                         bronze are topped by a mahogany hand rail. There is very little woodwork in
                         the entire building, the most noteworthy being the solid red mahogany doors
                         two inches thick. The total cost of the building was slightly more than 10
-                        million dollars."<note n="15">E. Wilder Spaulding and George V. Blue, <hi rend="italic">The Department of State of the United States,</hi>
+                        million dollars."<note n="15">E. Wilder Spaulding and George V. Blue, <hi
+                                rend="italic">The Department of State of the United States,</hi>
                             rev. edition (Washington, 1936), pp. 49-50.</note>
                     </q>
                 </p>
@@ -2977,9 +3128,11 @@
                     the south wing in 1882, as authorized by an act of Congress.<note n="18">22
                         Stat. 256.</note> Congress assigned the fourth and attic floors of that wing
                     to the War Department and three rooms on the first floor and four in the
-                    basement (now known as the "ground floor") to the <pb n="46"/> Navy Department.<note n="19">MS. Department of State, 5 Reports of Bureau Officers, above
-                        cited memorandum of James Fenner Lee, annex A.</note> The reassignment took
-                    away about 40 percent of the Department of State's space. <figure rend="smallfloatinline">
+                    basement (now known as the "ground floor") to the <pb n="46"/> Navy
+                        Department.<note n="19">MS. Department of State, 5 Reports of Bureau
+                        Officers, above cited memorandum of James Fenner Lee, annex A.</note> The
+                    reassignment took away about 40 percent of the Department of State's space.
+                        <figure rend="smallfloatinline">
                         <graphic url="33-state-war-navy-building.jpg"/>
                         <head>The Diplomatic Reception Room in the State, War, and Navy Building
                             adjoined the Secretary's office.</head>
@@ -2989,18 +3142,21 @@
                     as to seriously interfere with good executive management."<note n="20">
                         <hi rend="italic">Ibid.,</hi> annex B.</note> This situation not only went
                     unremedied for the next twenty-two years, but became increasingly acute as the
-                    Department grew in number of personnel and in bulk of records during that time.<note n="21">See Senate Document No. 155, 65th Cong., 2d Sess. (serial
+                    Department grew in number of personnel and in bulk of records during that
+                        time.<note n="21">See Senate Document No. 155, 65th Cong., 2d Sess. (serial
                         7315), pp. 80-84.</note> Finally, certain bureaus of the Department of State
                     were forced to move from the State, War, and Navy Building to rented
                     quarters.</p>
                 <p>The first unit of the Department to be squeezed out of the main building— despite
-                    subsequent statements otherwise—was the Bureau of Trade Relations.<note n="22">The statement, which has appeared in print, that the Passport Bureau was
+                    subsequent statements otherwise—was the Bureau of Trade Relations.<note n="22"
+                        >The statement, which has appeared in print, that the Passport Bureau was
                         moved out of the main building prior to the removal of the Bureau of Trade
                         Relations, is incorrect. Gaillard Hunt, who, as Chief of the Passport Bureau
                         from 1903 until 1909, was in a position to know, records in his book on the
                         Department of State that the "first bureau to go was the Bureau of Trade
                         Relations" (pp. 419-430); and the Department's accounts records bear out
-                        Hunt's statement. For a biographical sketch of Gaillard Hunt, see <hi rend="italic">Dictionary of American Biography,</hi> IX, 385. </note> It
+                        Hunt's statement. For a biographical sketch of Gaillard Hunt, see <hi
+                            rend="italic">Dictionary of American Biography,</hi> IX, 385. </note> It
                     was moved in July 1906 to a suite of four rooms on the top floor of the
                     Rochambeau Apartment House,<note n="23">MS. Department of State, Accounts
                         Records, Bill Book, 1907, p. 153. "Homes of the Department of State, X," in
@@ -3011,15 +3167,17 @@
                     and gray brick located on the east side of Connecticut Avenue between H and I
                     Streets Northwest, just north of the United States Chamber of Commerce Building.
                     The Rochambeau was purchased by the United States Chamber of Commerce in March
-                    1954.<note n="24">Washington <hi rend="italic">Evening Star,</hi> March 24,
+                        1954.<note n="24">Washington <hi rend="italic">Evening Star,</hi> March 24,
                         1954.</note> An office building was built on the site in 1965.</p>
                 <p>Commencing <date when="1907-07-01">July 1, 1907,</date> the Department rented, at
-                    the rate of $2,860 a year, the premises at 522 Seventeenth Street Northwest,<note n="25">MS. Department of State, Accounts Records, Bill Book, 1908, p.
-                        357; 1909, p. 294; 1910, p. 398; 1911, p. 266; 1912, p. 352.</note> an old,
-                    three-story, red-brick house on the northwest corner of Seventeenth Street and
-                    New York Avenue which for many years formed part of the Allies Inn. It has since
-                    been torn down to make way for an office building. The Bureau of Trade Relations
-                    moved into this building from the Rochambeau in July 1907.<note n="26">
+                    the rate of $2,860 a year, the premises at 522 Seventeenth Street
+                        Northwest,<note n="25">MS. Department of State, Accounts Records, Bill Book,
+                        1908, p. 357; 1909, p. 294; 1910, p. 398; 1911, p. 266; 1912, p. 352.</note>
+                    an old, three-story, red-brick house on the northwest corner of Seventeenth
+                    Street and New York Avenue which for many years formed part of the Allies Inn.
+                    It has since been torn down to make way for an office building. The Bureau of
+                    Trade Relations moved into this building from the Rochambeau in July 1907.<note
+                        n="26">
                         <hi rend="italic">Ibid.,</hi> 1908, pp. 148, 154.</note> Either then or a
                     little later, the Bureau of Citizenship (previously the Passport Bureau) moved
                     from the main building into this building,<note n="27">
@@ -3034,7 +3192,8 @@
                     the Blair-Lee House, at 1653 Pennsylvania Avenue Northwest, for the annual sum
                     of $5,500.<note n="30">
                         <hi rend="italic">Ibid.,</hi> 1912, p. 352; 1913, pp. 360-361.</note> This
-                    spacious brick house, which was built just before the Civil War<note n="31">Katharine E. Crane, <hi rend="italic">Blair House Past and Present; an
+                    spacious brick house, which was built just before the Civil War<note n="31"
+                        >Katharine E. Crane, <hi rend="italic">Blair House Past and Present; an
                             Account of Its Life and Times in the City of Washington</hi>
                         (Washington, 1945), p. 13.</note> and which consists of three stories plus
                     basement and attic, stands on the north side of Pennsylvania Avenue east of
@@ -3047,7 +3206,8 @@
                     Northwest; and the Lenman Building, at 1423 New York Avenue Northwest, a
                     five-story commercial structure which has since been razed and replaced by an
                     extension to the National Savings and Trust Company Building, located on the
-                    northeast corner of Fifteenth Street and New York Avenue Northwest.<note n="32">"Homes of the Department of State, X," pp. 9, 40.</note>
+                    northeast corner of Fifteenth Street and New York Avenue Northwest.<note n="32"
+                        >"Homes of the Department of State, X," pp. 9, 40.</note>
                 </p>
                 <p>The Navy Department left the State, War, and Navy Building for new quarters in
                     July 1918, and all the bureaus and offices of the Department of State were
@@ -3055,10 +3215,10 @@
                     Navy Building continued to accommodate the entire Department of State from 1918
                     until 1936.</p>
                 <p>On July 3, 1930 Congress changed the name of the building to "Department of State
-                    Building."<note n="33">46 Stat. 907.</note> This followed the departure of most
-                    of the War Department—final removal, excepting only the office of the General of
-                    the Armies of the United States, came in 1938—to the Munitions Building on
-                    Constitution Avenue.</p>
+                        Building."<note n="33">46 Stat. 907.</note> This followed the departure of
+                    most of the War Department—final removal, excepting only the office of the
+                    General of the Armies of the United States, came in 1938—to the Munitions
+                    Building on Constitution Avenue.</p>
                 <p>Again, however, the building grew overcrowded, and another exodus to outlying
                     buildings became necessary. This exodus began in 1936 with the removal of the
                     Treaty Division, the Visa Division, and the Translating <pb n="47"/> Bureau to
@@ -3105,26 +3265,31 @@
                     May 1946, when, through consolidation of organizational units and reduction in
                     force, the number of buildings was cut to twenty-nine.</p>
                 <p>Meanwhile, plans were being developed for removal of the Department to new
-                    quarters,<note n="37">
+                        quarters,<note n="37">
                         <hi rend="italic">The Department of State Bulletin,</hi> X VII, 1035-1036,
                         November 30, 1947.</note> and in 1947 the Department of State left the
                     building at Seventeenth Street and Pennsylvania Avenue Northwest. From this
                     building in the historic second-floor office directly above the south entrance,
-                    twenty-four Secretaries of State, from <ref target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref> to
+                    twenty-four Secretaries of State, from <ref
+                        target="/departmenthistory/people/fish-hamilton">Hamilton Fish</ref> to
                     General <ref target="/departmenthistory/people/marshall-george-catlett">George
                         C. Marshall</ref>, had directed the foreign relations of the United
                     States.</p>
-                <p>The building has been criticized as "A horrible example of... 'American ironic,'"<note n="38">Statement by Thomas Hastings quoted in <hi rend="italic">Executive Office Building, op. cit.,</hi> p. 88.</note> praised when
-                    there have been attempts to tear it down:</p>
+                <p>The building has been criticized as "A horrible example of... 'American
+                        ironic,'"<note n="38">Statement by Thomas Hastings quoted in <hi
+                            rend="italic">Executive Office Building, op. cit.,</hi> p. 88.</note>
+                    praised when there have been attempts to tear it down:</p>
                 <p>
                     <q rend="blockquote">"The proposal to replace the Executive Office Building with
                         another functional building is a bit like suggesting that the Egyptians tear
                         down their unsightly pyramids and replace them with modern efficient
-                        tombstones."<note n="39">Statement by unidentified source quoted in <hi rend="italic">ibid.,</hi> p. 89.</note> But, as another source
+                            tombstones."<note n="39">Statement by unidentified source quoted in <hi
+                                rend="italic">ibid.,</hi> p. 89.</note> But, as another source
                         describes it: "The building became a period piece and a symbol. But, even
                         more, its very flamboyance—with porticoes and pillars, with mansards and
                         peaks, with ironwork sculpture, with tier on tier of architectural
-                        orders—has been recognized as a vital part of the Washington memory."<note n="40">
+                        orders—has been recognized as a vital part of the Washington memory."<note
+                            n="40">
                             <hi rend="italic">Ibid.</hi>
                         </note>
                     </q>
@@ -3174,8 +3339,9 @@
                         land as a site for buildings for the War Department, and for the
                         construction of the first building unit,... within a total limit of cost of
                         $10,815,000."</quote>
-                    <note n="4">52 Stat. 1152.</note> Subsequent acts provided additional funds.<note n="5">53 Stat. 673, May 6, 1939, $5,000,000; 54 Stat. 127, April 18,
-                        1940, $2,000,000.</note>
+                    <note n="4">52 Stat. 1152.</note> Subsequent acts provided additional
+                        funds.<note n="5">53 Stat. 673, May 6, 1939, $5,000,000; 54 Stat. 127, April
+                        18, 1940, $2,000,000.</note>
                 </p>
                 <p>The site at the southwest corner of Twenty-first Street and Virginia Avenue was
                     acquired, and in 1939 architects Gilbert S. Underwood and William Dewey Foster
@@ -3185,7 +3351,8 @@
                     nine-story Boulevard Apartments located on the site. The building was completed
                     about June 30, 1941.<note n="6">
                         <hi rend="italic">Report of the Secretary of War to the President,</hi>
-                        1939, (Washington, 1939), pp. 32-33; ibid. , 1941, p. 11; <hi rend="italic">The New York Times,</hi> February 10, March 21, December 10, 1940,
+                        1939, (Washington, 1939), pp. 32-33; ibid. , 1941, p. 11; <hi rend="italic"
+                            >The New York Times,</hi> February 10, March 21, December 10, 1940,
                         April 10, May 30, 1941; <hi rend="italic">Congress Directory,</hi> 78th
                         Cong., 1st Sess., January 1943 (Washington, 1942), p. 330.</note>
                 </p>
@@ -3208,7 +3375,8 @@
                         Carl Hayden, April 7, 1955 (111/3-2155).</note> It was uncovered in early
                     1976.</p>
                 <p>The first unit of the Department of State moved into the New War Building—renamed
-                    "New State Building"—on January 22, 1947, the day after <ref target="/departmenthistory/people/marshall-george-catlett">General George C.
+                    "New State Building"—on January 22, 1947, the day after <ref
+                        target="/departmenthistory/people/marshall-george-catlett">General George C.
                         Marshall</ref> entered upon his duties as Secretary of State. During the
                     following three months the War Department gradually vacated the building, and,
                     as necessary alterations were completed, additional units of the Department of
@@ -3238,15 +3406,15 @@
                 <p>The plan to house the entire Department of State in one building was advanced by
                     an act approved August 4, 1955, in which Congress appropriated $1,000,000 for
                     the expenses of "planning the extension and remodeling, under the supervision of
-                    the General Services Administration, of the State Department Building."<note n="2">69 Stat. 463.</note> The project called for considerable remodeling
+                    the General Services Administration, of the State Department Building."<note
+                        n="2">69 Stat. 463.</note> The project called for considerable remodeling
                     and for an extension which would add approximately 1,040,000 square feet of
                     usable space to the 274,000 square feet in the existing building.</p>
                 <p>On January 10, 1956, the General Services Administration awarded contracts to
                     draw plans for the proposed building to the architectural firms of Graham,
-                    Anderson, Probst &amp; White, Inc:, of Chicago, and Harley, Ellington
-                    &amp; Day, Inc., of Detroit. The Washington firm of A.R. Clas was the local
-                    liaison. Contractor for the construction was John McShain, Inc., of
-                    Philadelphia.</p>
+                    Anderson, Probst &amp; White, Inc:, of Chicago, and Harley, Ellington &amp; Day,
+                    Inc., of Detroit. The Washington firm of A.R. Clas was the local liaison.
+                    Contractor for the construction was John McShain, Inc., of Philadelphia.</p>
                 <p>The project was inaugurated on September 13, 1956, in a brief ceremony at
                     Temporary H Building, located at Twenty-third and C Streets. Certain officers of
                     the Department of State and the General Services Administration participated in
@@ -3257,7 +3425,8 @@
                     beginning of what would eventually be the dismantling of Temporary H and the
                     other two World War II temporary buildings on Twenty-third Street in order to
                     clear the site for the new foundations.</p>
-                <p>On January 5, 1957, President Eisenhower joined with <ref target="/departmenthistory/people/dulles-john-foster">Secretary of State
+                <p>On January 5, 1957, President Eisenhower joined with <ref
+                        target="/departmenthistory/people/dulles-john-foster">Secretary of State
                         Dulles</ref> in laying the cornerstone. The President used the same trowel
                     that was used by George Washington to lay the cornerstone of the U.S. Capitol on
                     September 18, 1793. A sealed metal box containing a selection of historic
@@ -3267,15 +3436,18 @@
                         United States," Washington, D.C., January 5, 1957.</note>
                 </p>
                 <p>Under the supervision of the Public Buildings Service of the General Services
-                    Administration, the addition was completed in 1961 at a cost of $52,720,000.<note n="5">The original estimate for the addition was $57,400,000. For the
-                        appropriations in addition to the initial $1,000,000 referred to above, see
-                        70 Stat. 55 ($2,500,000), 73 State. 444 ($3,000,000), and 74 State. 555
-                        ($500,000).</note> Secretary of State <pb n="51"/>
+                    Administration, the addition was completed in 1961 at a cost of
+                        $52,720,000.<note n="5">The original estimate for the addition was
+                        $57,400,000. For the appropriations in addition to the initial $1,000,000
+                        referred to above, see 70 Stat. 55 ($2,500,000), 73 State. 444 ($3,000,000),
+                        and 74 State. 555 ($500,000).</note> Secretary of State <pb n="51"/>
                     <ref target="/departmenthistory/people/herter-christian-archibald">Christian A.
-                        Herter</ref> presided over the dedication ceremonies on January 5, 1961.<note n="6">For the text of the Statement, see Department of State press
-                        release No. 3, January 4, 1961.</note>
+                        Herter</ref> presided over the dedication ceremonies on January 5,
+                        1961.<note n="6">For the text of the Statement, see Department of State
+                        press release No. 3, January 4, 1961.</note>
                 </p>
-                <p>The extension is approximately four times as large as the initial section.<note n="7">Much of the information describing the new extension was taken from
+                <p>The extension is approximately four times as large as the initial section.<note
+                        n="7">Much of the information describing the new extension was taken from
                             <hi rend="italic">The Department of State Building,</hi> Department of
                         State publication 7400, September 1962.</note> The extended building covers
                     an area of four square blocks bounded by Virginia Avenue, C Street, Twenty-first
@@ -3343,7 +3515,8 @@
                     antiques and art treasures provided by the American people on loan or as gifts.
                     There is also a series of ongoing architectural improvements of the rooms to
                     make them more in keeping with the period furnishings.<note n="8">For a
-                        description, with illustrations, of the Diplomatic Reception Rooms, see <hi rend="italic">Guidebook to Diplomatic Reception Rooms,</hi> Department
+                        description, with illustrations, of the Diplomatic Reception Rooms, see <hi
+                            rend="italic">Guidebook to Diplomatic Reception Rooms,</hi> Department
                         of State, July 1975.</note>
                 </p>
                 <p>A pneumatic tube system transmits mail and documents within the building, and
@@ -3363,7 +3536,8 @@
                     building, an electronic map showing the location of the U.S. Foreign Service
                     posts in the countries of the world, a display on "The Secretaries of State and
                     Historic Achievements of American Diplomacy" (with replicas of particularly
-                    significant international treaties), and the <ref target="/about/faq/great-seal">Great Seal of the United States</ref> and its press (which is in the
+                    significant international treaties), and the <ref target="/about/faq/great-seal"
+                        >Great Seal of the United States</ref> and its press (which is in the
                     custody of the Department of State and is still in use).</p>
                 <p>Even with the completion of the extension in 1961, the building has not been
                     large enough to house all of the Department of State.<note n="9">Also housed in
@@ -3406,10 +3580,11 @@
                     its main building but failed to accomplish its objective of consolidating the
                     entire staff in one building; five annexes were still required. By 1976 the
                     Department, including the Agency for International Development and the Arms
-                    Control and Disarmament Agency, occupied some 14 annex buildings.<note n="1">SA-2 at 515 22nd St., N.W.; SA-3 (FSI) at 1400 Key Blvd., Rosslyn, Va.; SА-4 
-                        at 8400 Terminal Road, Newington, Va.; SA-5 at 1901 Pa. Ave., N.W.; SA-6
-                        at 1700 North Lynn St., Rosslyn, Va.; SA-10 at 1717 Н St., N.W.; SA-11 at
-                        1401 Wilson Blvd., Rosslyn, Va.; S А-12 (Universal Bldg.) at 1975 Florida
+                    Control and Disarmament Agency, occupied some 14 annex buildings.<note n="1"
+                        >SA-2 at 515 22nd St., N.W.; SA-3 (FSI) at 1400 Key Blvd., Rosslyn, Va.;
+                        SА-4 at 8400 Terminal Road, Newington, Va.; SA-5 at 1901 Pa. Ave., N.W.;
+                        SA-6 at 1700 North Lynn St., Rosslyn, Va.; SA-10 at 1717 Н St., N.W.; SA-11
+                        at 1401 Wilson Blvd., Rosslyn, Va.; S А-12 (Universal Bldg.) at 1975 Florida
                         Ave., N.W.; SA-13 at 880 South Pickett St., Alexandria, Va.; SA-14 at 1735
                         North Lynn St., Rosslyn, Va.; SA-15 at 1800 North Kent St., Rosslyn, Va.;
                         SA-1 6 at 1621 North Kent St., Rosslyn, Va; SA-17 at 1425 K St., N.W.; and

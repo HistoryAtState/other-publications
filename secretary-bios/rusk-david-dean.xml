@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -100,8 +100,7 @@
                             the Truman, Kennedy &amp; Johnson Years.</hi> New York: Simon and
                         Schuster, 1988</bibl>
                     <bibl>Zeiler, Thomas W. <hi rend="italic">Dean Rusk: Defending the American
-                            Mission Abroad.</hi> Wilmington, DE: Scholarly Resources,
-                        2000</bibl>
+                            Mission Abroad.</hi> Wilmington, DE: Scholarly Resources, 2000</bibl>
                 </listBibl>
             </div>
         </back>

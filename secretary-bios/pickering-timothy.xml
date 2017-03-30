@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -22,7 +22,8 @@
                     <persName>Timothy Pickering</persName> was appointed by President
                         <persName>George Washington</persName> as <hi rend="italic">ad interim</hi>
                     Secretary of State on <date when="1795-08-20">August 20, 1795</date>, and
-                    elevated to the position of Secretary of State on <date when="1795-12-10">December 10, 1795.</date> President <persName>John Adams</persName>
+                    elevated to the position of Secretary of State on <date when="1795-12-10"
+                        >December 10, 1795.</date> President <persName>John Adams</persName>
                     dismissed Pickering on May 12, 1800. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="pickering-timothy.jpg"/>
@@ -60,7 +61,9 @@
                     of passage through Iroquois Territory for U.S. citizens.</p>
                 <p>Pickering became Secretary of State in a controversial manner, and controversy
                     would characterize his tenure. He manipulated an end to the tenure of his
-                    predecessor, <ref target="/departmenthistory/people/randolph-edmund-jennings">Edmund Randolph,</ref> largely because of Randolph’s opposition to the <ref target="/milestones/1784-1800/jay-treaty">1794 Jay Treaty</ref>. Pickering
+                    predecessor, <ref target="/departmenthistory/people/randolph-edmund-jennings"
+                        >Edmund Randolph,</ref> largely because of Randolph’s opposition to the <ref
+                        target="/milestones/1784-1800/jay-treaty">1794 Jay Treaty</ref>. Pickering
                     produced a slanted translation of French documents that had been intercepted by
                     the British Navy and informed President Washington that they proved Randolph’s
                     traitorous behavior.</p>
@@ -71,7 +74,8 @@
                     Britain. France’s hostile reaction to the treaty—including the decision not to
                     receive a U.S. Minister and the seizure of U.S. merchant ships caught trading
                     with Britain—encouraged Pickering’s pro-British stance. He opposed Adams’
-                    decision to send a delegation to negotiate with France. The <ref target="/milestones/1784-1800/xyz">XYZ Affair</ref> (1797-1798) propelled
+                    decision to send a delegation to negotiate with France. The <ref
+                        target="/milestones/1784-1800/xyz">XYZ Affair</ref> (1797-1798) propelled
                     Pickering’s desire to ally with Great Britain in a full-scale war with
                     France.</p>
                 <p> When Adams reopened negotiations with France late in 1798 seeking to end the
@@ -96,7 +100,8 @@
                     <bibl>_______. <hi rend="italic">Timothy Pickering and the American
                             Republic.</hi> Pittsburgh: University of Pittsburgh Press, 1980. </bibl>
                     <bibl>Pickering, Octavius and Charles Wentworth Upham. <hi rend="italic">The
-                            Life of Timothy Pickering.</hi> 4 vols. Boston: Little, Brown, 1867–1873. </bibl>
+                            Life of Timothy Pickering.</hi> 4 vols. Boston: Little, Brown,
+                        1867–1873. </bibl>
                 </listBibl>
             </div>
         </back>

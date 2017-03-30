@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: James Addison Baker III</title>
+                <title type="complete">Biographies of the Secretaries of State: James Addison Baker
+                    III</title>
                 <title type="short">James Addison Baker III </title>
             </titleStmt>
             <publicationStmt>
@@ -32,20 +33,20 @@
             <div type="section" xml:id="rise">
                 <head>Rise to Prominence</head>
                 <p>Born in Texas on April 28, 1930, Baker attended prep school in Pennsylvania, and
-                    went on to graduate from Princeton University in 1952. Following a two-year active
-                    rotation in the United States Marine Corps from 1952 to 1954, Baker received his
-                    law degree from the University of Texas at Austin in 1957. He practiced law at
-                    the firm of Andrews and Kurth from 1957 to 1975, but it was not until the early
-                    1970s that he became involved in politics.</p>
+                    went on to graduate from Princeton University in 1952. Following a two-year
+                    active rotation in the United States Marine Corps from 1952 to 1954, Baker
+                    received his law degree from the University of Texas at Austin in 1957. He
+                    practiced law at the firm of Andrews and Kurth from 1957 to 1975, but it was not
+                    until the early 1970s that he became involved in politics.</p>
                 <p>Through the influence of his first wife, Baker became involved in the Republican
                     Party and began a long political relationship with <persName>George H.W.
-                    Bush</persName>. Baker chaired Bush’s unsuccessful Senate campaign in 1970. In
-                    1971 Baker became the Finance Chairman of the Republican Party and played a
+                        Bush</persName>. Baker chaired Bush’s unsuccessful Senate campaign in 1970.
+                    In 1971 Baker became the Finance Chairman of the Republican Party and played a
                     significant regional role in President Nixon’s reelection. During the Ford
                     Administration he was appointed Under Secretary of Commerce.</p>
                 <p> Baker also managed President <persName>Gerald Ford</persName>’s election bid in
                     1976. In 1981, following a short run as chairman for <persName>George H.W.
-                    Bush</persName>’s Republican presidential primary campaign Baker was named
+                        Bush</persName>’s Republican presidential primary campaign Baker was named
                     President <persName>Ronald Reagan</persName>’s White House Chief of Staff.</p>
                 <p> During the second Reagan Administration, Baker simultaneously served as
                     Secretary of the Treasury and as Chairman of the President’s Economic Council.
@@ -69,12 +70,12 @@
                 <p>As the head of the State Department, Baker was also the driving force behind
                     creating a coalition of nations to repel Saddam Hussein and Iraq from Kuwait
                     during the <ref target="/departmenthistory/short-history/firstgulf">First
-                    Persian Gulf War</ref>.</p>
-                <p>Baker continues to play a role in U.S. diplomacy and
-                    international affairs. He served as a Personal Envoy of the United Nations
-                    Secretary-General for Western Sahara from 1997 to 2004. In 2006, the former
-                    Secretary of State served as the Republican co-chair of the Iraq Study Group,
-                    tasked with assessing America’s policy toward Iraq. </p>
+                        Persian Gulf War</ref>.</p>
+                <p>Baker continues to play a role in U.S. diplomacy and international affairs. He
+                    served as a Personal Envoy of the United Nations Secretary-General for Western
+                    Sahara from 1997 to 2004. In 2006, the former Secretary of State served as the
+                    Republican co-chair of the Iraq Study Group, tasked with assessing America’s
+                    policy toward Iraq. </p>
             </div>
         </body>
         <back>
@@ -90,8 +91,8 @@
                     <bibl>Diggins, John P. <hi rend="italic">Ronald Reagan: Fate, Freedom, and the
                             Making of History.</hi> New York: W.W. Norton &amp; Co., 2007</bibl>
                     <bibl>Maynard, Christopher. <hi rend="italic">Out of the Shadow: George H.W.
-                            Bush and the End of the Cold War.</hi> College Station: Texas
-                        A&amp;M University Press, 2008.</bibl>
+                            Bush and the End of the Cold War.</hi> College Station: Texas A&amp;M
+                        University Press, 2008.</bibl>
                 </listBibl>
             </div>
         </back>

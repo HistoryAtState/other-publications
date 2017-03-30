@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: George Catlett Marshall</title>
+                <title type="complete">Biographies of the Secretaries of State: George Catlett
+                    Marshall</title>
                 <title type="short">George Catlett Marshall</title>
             </titleStmt>
             <publicationStmt>
@@ -37,8 +38,8 @@
                     in 1944.</p>
                 <p>During World War II, Marshall distinguished himself as Army Chief of Staff, a
                     position to which he was appointed by President <persName>Franklin D.
-                    Roosevelt</persName>. As Chief of Staff, Marshall earned a strong reputation as
-                    an administrator and successfully transformed a small peacetime army into a
+                        Roosevelt</persName>. As Chief of Staff, Marshall earned a strong reputation
+                    as an administrator and successfully transformed a small peacetime army into a
                     strong wartime force while also coordinating Allied operations.</p>
                 <p>Marshall also proved to be adept at negotiating with Congress and other members
                     of the executive branch, a talent that would serve him well in his civilian
@@ -72,14 +73,14 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
-                            State and Their Diplomacy.</hi> Vol. 14. New York: Alfred A. Knopf, 1928.
-                        Reprint 1965 (Cooper Square).</bibl>
+                            State and Their Diplomacy.</hi> Vol. 14. New York: Alfred A. Knopf,
+                        1928. Reprint 1965 (Cooper Square).</bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

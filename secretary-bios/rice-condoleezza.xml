@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Condoleezza Rice</title>
+                <title type="complete">Biographies of the Secretaries of State: Condoleezza
+                    Rice</title>
                 <title type="short">Condoleezza Rice</title>
             </titleStmt>
             <publicationStmt>
@@ -21,7 +22,8 @@
                     <persName>Condoleezza Rice</persName> was nominated for Secretary of State by
                         <persName>George W. Bush</persName> on <date when="2004-11-14">November 14,
                         2004</date>, and assumed office on <date when="2005-01-26">January 26,
-                    2005</date>. She served for four years, leaving the position on <date when="2009-01-20">January 20, 2009</date>. She was the first
+                        2005</date>. She served for four years, leaving the position on <date
+                        when="2009-01-20">January 20, 2009</date>. She was the first
                     African-American woman to serve as Secretary of State. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="rice-condoleezza.jpg"/>
@@ -42,7 +44,8 @@
                 <p> Rice returned to Stanford in 1991 and from 1993 until 1999 she served as
                     Stanford's Provost.</p>
                 <p>In 2001 she was appointed National Security Advisor by President <persName>George
-                        W. Bush</persName>, and succeeded <ref target="/departmenthistory/people/powell-colin-luther">Colin Powell</ref> as
+                        W. Bush</persName>, and succeeded <ref
+                        target="/departmenthistory/people/powell-colin-luther">Colin Powell</ref> as
                     Secretary of State in 2005.</p>
             </div>
             <div type="section" xml:id="influence">
@@ -70,10 +73,11 @@
                     with the signing of the U.S.-India Agreement for Cooperation Concerning Peaceful
                     Uses of Nuclear Energy (123 Agreement), which would allow civil nuclear trade
                     between the two countries.</p>
-                <p>Shortly after her term as Secretary of State ended in January 2009, she announced plans to write a book about
-                    her diplomatic career. Rice was succeeded as Secretary of State by former First
-                    Lady and New York Senator <ref target="/departmenthistory/people/clinton-hillary-rodham">Hillary Rodham
-                    Clinton</ref>.</p>
+                <p>Shortly after her term as Secretary of State ended in January 2009, she announced
+                    plans to write a book about her diplomatic career. Rice was succeeded as
+                    Secretary of State by former First Lady and New York Senator <ref
+                        target="/departmenthistory/people/clinton-hillary-rodham">Hillary Rodham
+                        Clinton</ref>.</p>
             </div>
         </body>
         <back>
@@ -85,7 +89,8 @@
                         2007. </bibl>
                     <bibl>Mabry, Marcus. <hi rend="italic">Twice as Good: Condoleezza Rice and Her
                             Path to Power</hi>. New York: Modern Times, 2007.</bibl>
-                    <bibl>Richter, Paul. "Under Rice, Powell's Policies are Reborn." <hi rend="italic">Los Angeles Times</hi>, 11 October 2005. </bibl>
+                    <bibl>Richter, Paul. "Under Rice, Powell's Policies are Reborn." <hi
+                            rend="italic">Los Angeles Times</hi>, 11 October 2005. </bibl>
                 </listBibl>
             </div>
         </back>

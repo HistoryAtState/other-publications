@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -20,8 +20,9 @@
                 <head>Introduction</head>
                 <p>John Forsyth was appointed Secretary of State by President <persName>Andrew
                         Jackson</persName> on <date when="1834-06-27">June 27, 1834.</date> He
-                    entered duty on July 1, 1834, and completed his tenure on <date when="1841-03-03">March 3, 1841</date>, during the administration of President
-                        <persName>Martin Van Buren.</persName> Forsyth faithfully served two
+                    entered duty on July 1, 1834, and completed his tenure on <date
+                        when="1841-03-03">March 3, 1841</date>, during the administration of
+                    President <persName>Martin Van Buren.</persName> Forsyth faithfully served two
                     Presidents who both held close control over foreign policy. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="forsyth-john.jpg"/>
@@ -35,14 +36,14 @@
                     1799. After studying the law, Forsyth gained admission to the Georgia bar in
                     1802 and began a legal practice in Augusta. In 1808 he gained an appointment to
                     serve as Georgia’s Attorney General.</p>
-                <p>Forsyth was elected to the U.S. House of
-                    Representatives and served from 1813 to 1818. He next won election
-                    to the U.S. Senate, serving from 1818 to 1819. In 1819 President <persName>James
-                        Monroe</persName> appointed Forsyth as U.S. Minister to Spain, an
-                    appointment that lasted until 1823. Forsyth returned to the United States and
-                    the U.S. House of Representatives in 1823, serving until 1827, when he began two
-                    years as Governor of Georgia. In 1829 he returned to the U.S. Senate, where he
-                    cemented his reputation as a powerful debater. He served until 1834. </p>
+                <p>Forsyth was elected to the U.S. House of Representatives and served from 1813 to
+                    1818. He next won election to the U.S. Senate, serving from 1818 to 1819. In
+                    1819 President <persName>James Monroe</persName> appointed Forsyth as U.S.
+                    Minister to Spain, an appointment that lasted until 1823. Forsyth returned to
+                    the United States and the U.S. House of Representatives in 1823, serving until
+                    1827, when he began two years as Governor of Georgia. In 1829 he returned to the
+                    U.S. Senate, where he cemented his reputation as a powerful debater. He served
+                    until 1834. </p>
             </div>
             <div type="section" xml:id="influence">
                 <head>Influence on U.S. Diplomacy</head>
@@ -56,25 +57,28 @@
                     Treaties. President Jackson appointed Forsyth Secretary of State as a reward for
                     political support and consistently ensured that Forsyth followed his lead on
                     foreign policy. Together, they finally concluded the long-standing controversy
-                    over the damages inflicted by France upon U.S. foreign commerce during the <ref target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref>.</p>
+                    over the damages inflicted by France upon U.S. foreign commerce during the <ref
+                        target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref>.</p>
                 <p>In 1834 Jackson urged Congress to pass legislation to seize French property
                     unless the French Government released the payments stipulated in an 1831
                     settlement treaty. Jackson’s bellicose stance convinced the French Government to
-                    sever relations with the United States. However, a clarification by Jackson—that he had
-                    not intended to insult France—ended the impasse and the payments began.
+                    sever relations with the United States. However, a clarification by Jackson—that
+                    he had not intended to insult France—ended the impasse and the payments began.
                     The French Government committed to a $5 million payment to settle outstanding
                     U.S. claims and the U.S. Government reduced the import duty on French wines.</p>
                 <p>Forsyth also cautiously coordinated with President Jackson on the U.S.
-                    recognition of the independent <ref target="/milestones/1830-1860/texas-annexation">Republic of Texas</ref> in 1837.</p>
+                    recognition of the independent <ref
+                        target="/milestones/1830-1860/texas-annexation">Republic of Texas</ref> in
+                    1837.</p>
                 <p>Under Van Buren’s presidency, Forsyth supported the President’s decision against
                     annexing Texas. Forsyth also backed Van Buren’s calm approach to the dispute
                     with Great Britain over the U.S.-Canadian border, which was complicated by the
                     aggressive stance of the Maine State Government. Forsyth also issued strong
                     statements denying British claims to the right to search U.S. vessels for slaves
                     off the African coast. Finally, Forsyth labored in vain to diffuse the
-                    controversy stirred by the <hi rend="italic">Amistad</hi> case of 1839. Ultimately, the Supreme Court
-                    held against the Van Buren administration’s position, and the African slaves
-                    were returned to Sierra Leone in 1842. </p>
+                    controversy stirred by the <hi rend="italic">Amistad</hi> case of 1839.
+                    Ultimately, the Supreme Court held against the Van Buren administration’s
+                    position, and the African slaves were returned to Sierra Leone in 1842. </p>
             </div>
         </body>
         <back>
@@ -88,10 +92,9 @@
                             the Presidency, 1837-1841.</hi> Lexington: University Press of Kentucky,
                         1970. </bibl>
                     <bibl>Duckett, Alvin L. <hi rend="italic">John Forsyth: Political
-                        Tactician.</hi> Athens: University of Georgia Press, 1962.</bibl>
-                    <bibl>Remini, Robert V. <hi rend="italic">Andrew Jackson: The Course of
-                            American Democracy, 1833-1845.</hi> Vol. 3. New York: Harper and Row,
-                        1984. </bibl>
+                            Tactician.</hi> Athens: University of Georgia Press, 1962.</bibl>
+                    <bibl>Remini, Robert V. <hi rend="italic">Andrew Jackson: The Course of American
+                            Democracy, 1833-1845.</hi> Vol. 3. New York: Harper and Row, 1984. </bibl>
                     <bibl>Stevens, Kenneth R. <hi rend="italic">Border Diplomacy: The Caroline and
                             McLeod Affairs in Anglo-American-Canadian Relations, 1837-1842.</hi>
                         Tuscaloosa: University of Alabama Press, 1989. </bibl>

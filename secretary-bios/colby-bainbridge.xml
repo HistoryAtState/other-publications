@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Bainbridge Colby</title>
+                <title type="complete">Biographies of the Secretaries of State: Bainbridge
+                    Colby</title>
                 <title type="short">Bainbridge Colby</title>
             </titleStmt>
             <publicationStmt>
@@ -32,15 +33,15 @@
                     graduated from Williams College in 1890 before attending Columbia University Law
                     School for one year. He completed his legal studies at New York Law School in
                     1892 and began to practice in New York upon admittance to its bar.</p>
-                <p>A successful
-                    lawyer, Colby joined the Republican Party and was elected to the New York State
-                    Assembly. Colby left the party in 1912 and helped form the Progressive Party. In
-                    1916, he publicly supported the reelection of President Wilson in a stirring
-                    speech that began a lifetime friendship between the two.</p>
-                <p>Wilson appointed Colby
-                    to the Shipping Board in 1917, and, later that year, Wilson invited him to serve as
-                    a representative on the U.S. delegation to the Interallied Conference in London.
-                    When then-Secretary of State <ref target="/departmenthistory/people/lansing-robert">Robert Lansing</ref>
+                <p>A successful lawyer, Colby joined the Republican Party and was elected to the New
+                    York State Assembly. Colby left the party in 1912 and helped form the
+                    Progressive Party. In 1916, he publicly supported the reelection of President
+                    Wilson in a stirring speech that began a lifetime friendship between the
+                    two.</p>
+                <p>Wilson appointed Colby to the Shipping Board in 1917, and, later that year,
+                    Wilson invited him to serve as a representative on the U.S. delegation to the
+                    Interallied Conference in London. When then-Secretary of State <ref
+                        target="/departmenthistory/people/lansing-robert">Robert Lansing</ref>
                     resigned in 1920, Wilson appointed Colby as his third Secretary of State. </p>
             </div>
             <div type="section" xml:id="infuence">
@@ -48,25 +49,23 @@
                 <p>President Wilson and Secretary of State Colby shared many of the same views on
                     the conduct of U.S. foreign policy. However, Colby entered office during the
                     challenging last years of the Wilson administration.</p>
-                <p>Despite Colby’s efforts, the
-                    Senate refused to ratify the <ref target="/milestones/1914-1920/paris-peace">Versailles Treaty</ref> following World War One and contested U.S.
-                        membership in Wilson’s League of Nations.</p>
-                <p>Colby experienced more success in his
-                    approach towards the new government of the Soviet Union. He formulated a
-                    non-recognition policy toward the <placeName>Soviet Union</placeName> based on its promotion of
-                    international communism and the threat it posed to existing governments.</p>
-                <p>Closer
-                    to home, Colby successfully negotiated recognition and normal diplomatic
+                <p>Despite Colby’s efforts, the Senate refused to ratify the <ref
+                        target="/milestones/1914-1920/paris-peace">Versailles Treaty</ref> following
+                    World War One and contested U.S. membership in Wilson’s League of Nations.</p>
+                <p>Colby experienced more success in his approach towards the new government of the
+                    Soviet Union. He formulated a non-recognition policy toward the
+                        <placeName>Soviet Union</placeName> based on its promotion of international
+                    communism and the threat it posed to existing governments.</p>
+                <p>Closer to home, Colby successfully negotiated recognition and normal diplomatic
                     relations with the Mexican Government following the Mexican Revolution. He
                     toured Latin America on behalf of the President, promoting hemispheric
                     cooperation.</p>
-                <p>Audiences warmly received the Secretary of State and approved of
-                    his willingness to publicly discuss the merits of the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>. Colby
-                    convincingly argued that the doctrine was not imperialistic, but rather promoted
-                    democracy throughout Latin America.</p>
-                <p>Colby left office at the end of the Wilson
-                    administration in 1921 and returned to private practice. Colby died on April 11,
-                    1950. </p>
+                <p>Audiences warmly received the Secretary of State and approved of his willingness
+                    to publicly discuss the merits of the <ref target="/milestones/1801-1829/monroe"
+                        >Monroe Doctrine</ref>. Colby convincingly argued that the doctrine was not
+                    imperialistic, but rather promoted democracy throughout Latin America.</p>
+                <p>Colby left office at the end of the Wilson administration in 1921 and returned to
+                    private practice. Colby died on April 11, 1950. </p>
             </div>
         </body>
         <back>
@@ -79,8 +78,8 @@
                             Secretaries of State and the World They Shaped. </hi>New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell. </hi>Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell. </hi>Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

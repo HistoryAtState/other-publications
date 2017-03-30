@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Daniel Webster</title>
+                <title type="complete">Biographies of the Secretaries of State: Daniel
+                    Webster</title>
                 <title type="short">Daniel Webster</title>
             </titleStmt>
             <publicationStmt>
@@ -22,7 +23,8 @@
                     <persName>Webster</persName> was appointed Secretary of State by President
                         <persName>William Henry Harrison</persName> on <date when="1841-03-05">March
                         5, 1841</date>. He entered duty the next day and completed his tenure on May
-                    8, 1843, during the administration of President <persName>John Tyler</persName>.</p>
+                    8, 1843, during the administration of President <persName>John
+                    Tyler</persName>.</p>
                 <p> Webster returned to the position when he was appointed by President
                         <persName>Millard Fillmore</persName> on July 22, 1850. Webster officially
                     entered duty as Secretary of State for his second tenure on July 23, 1850, and
@@ -39,11 +41,10 @@
                 <p>Webster was born into a family of frontier farmers in Salisbury, New Hampshire.
                     He graduated from Dartmouth College in 1801, began teaching school and studying
                     law, and joined the Massachusetts bar in 1805.</p>
-                <p>Webster practiced law for several
-                    years in New Hampshire before winning political office in 1813. He served as a
-                    Representative from New Hampshire until 1817. Webster’s gift for law
-                    and oratory made him an influential attorney, and he became involved in a number
-                    of landmark Supreme Court cases.</p>
+                <p>Webster practiced law for several years in New Hampshire before winning political
+                    office in 1813. He served as a Representative from New Hampshire until 1817.
+                    Webster’s gift for law and oratory made him an influential attorney, and he
+                    became involved in a number of landmark Supreme Court cases.</p>
                 <p>After relocating to Boston, Massachusetts, he became a U.S. Representative from
                     Massachusetts in 1823 and served until 1827. That year he became a U.S. Senator
                     and served until 1841. Webster became nationally famous for his defense of the
@@ -54,7 +55,8 @@
                 <head>Influence on American Diplomacy</head>
                 <p>Webster’s major task during his first appointment as Secretary of State was to
                     negotiate a number of longstanding disputes with Great Britain. He helped
-                    achieve the landmark Anglo-American <ref target="/milestones/1830-1860/webster-treaty">Webster-Ashburton Treaty</ref>
+                    achieve the landmark Anglo-American <ref
+                        target="/milestones/1830-1860/webster-treaty">Webster-Ashburton Treaty</ref>
                     of 1842. The treaty settled the Maine boundary, increased U.S. involvement in
                     suppressing the African slave trade, and included an extradition clause that
                     would become a model for future treaties. The agreement also ushered in an era
@@ -63,27 +65,26 @@
                 <p>Webster extended diplomatic protection to U.S. missionaries abroad, and he
                     arrogated the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>
                     to the Hawaiian Islands.</p>
-                <p>He resigned from the Secretaryship in 1843 due to
-                    financial difficulties and a disagreement with President Tyler over the <ref target="/milestones/1830-1860/texas-annexation">annexation of Texas</ref>, a move stridently opposed by Webster.</p>
-                <p>After President Fillmore
-                    brought Webster back as Secretary of State in 1850, Webster dedicated
-                    significant attention to domestic affairs such as the Compromise of 1850 and the
-                    Fugitive Slave Law.</p>
-                <p>Undiplomatically, he created a rift with the Austrian Empire
-                    with his so-called Hülseman note (named for J.G. Hülseman the Austrian Chargé to
-                    the United States). Webster intended to explain U.S. support for Hungarian
-                    independence, but his note starkly criticized European monarchism.</p>
-                <p>In somewhat of
-                    a contrast, he later defended the Spanish Crown’s right to protect its Cuban
-                    colony against U.S. filibustering expeditions.</p>
-                <p>Webster continued to take
-                    steps toward improving Anglo-American relations. He successfully advised the
-                    British Government to cede its protectorates and some geographical claims in
-                    Central America. However, he found no success with the Mexican Government,
-                    which blocked the U.S.-backed construction of a railway across the Isthmus of Tehuantepec.</p>
-                <p>Webster died while serving as Secretary of State and working on a
-                    number of prescient matters, including the drive to expand U.S. trade in Asia.
-                </p>
+                <p>He resigned from the Secretaryship in 1843 due to financial difficulties and a
+                    disagreement with President Tyler over the <ref
+                        target="/milestones/1830-1860/texas-annexation">annexation of Texas</ref>, a
+                    move stridently opposed by Webster.</p>
+                <p>After President Fillmore brought Webster back as Secretary of State in 1850,
+                    Webster dedicated significant attention to domestic affairs such as the
+                    Compromise of 1850 and the Fugitive Slave Law.</p>
+                <p>Undiplomatically, he created a rift with the Austrian Empire with his so-called
+                    Hülseman note (named for J.G. Hülseman the Austrian Chargé to the United
+                    States). Webster intended to explain U.S. support for Hungarian independence,
+                    but his note starkly criticized European monarchism.</p>
+                <p>In somewhat of a contrast, he later defended the Spanish Crown’s right to protect
+                    its Cuban colony against U.S. filibustering expeditions.</p>
+                <p>Webster continued to take steps toward improving Anglo-American relations. He
+                    successfully advised the British Government to cede its protectorates and some
+                    geographical claims in Central America. However, he found no success with the
+                    Mexican Government, which blocked the U.S.-backed construction of a railway
+                    across the Isthmus of Tehuantepec.</p>
+                <p>Webster died while serving as Secretary of State and working on a number of
+                    prescient matters, including the drive to expand U.S. trade in Asia. </p>
             </div>
         </body>
         <back>
@@ -93,11 +94,13 @@
                     <bibl>Bartlett, Irving H. <hi rend="italic">Daniel Webster.</hi> New York: W.W.
                         Norton, 1978.</bibl>
                     <bibl>Baxter, Maurice. <hi rend="italic">One and Inseparable: Daniel Webster and
-                            the Union.</hi> Cambridge: Belknap Press of Harvard University, 1984.</bibl>
+                            the Union.</hi> Cambridge: Belknap Press of Harvard University,
+                        1984.</bibl>
                     <bibl>Corey, Albert B. <hi rend="italic">The Crisis of 1830-1842 in
-                            Canadian-American Relations.</hi> New York: Russell and Russell, 1970.</bibl>
-                    <bibl>Fuess, Claude M. <hi rend="italic">Daniel Webster.</hi> 2 vols. New York: Little, Brown, 1930. Reprint.
-                        1968 (Da Capo).</bibl>
+                            Canadian-American Relations.</hi> New York: Russell and Russell,
+                        1970.</bibl>
+                    <bibl>Fuess, Claude M. <hi rend="italic">Daniel Webster.</hi> 2 vols. New York:
+                        Little, Brown, 1930. Reprint. 1968 (Da Capo).</bibl>
                     <bibl>Jones, Howard. <hi rend="italic">To the Webster-Ashburton Treaty: A Study
                             in Anglo-American Relations, 1783-1843.</hi> Chapel Hill: University of
                         North Carolina Press, 1977.</bibl>
@@ -108,15 +111,16 @@
                             Oregon, and the Mexican War.</hi> Columbia: University of Missouri
                         Press, 1973.</bibl>
                     <bibl>Remini, Robert. <hi rend="italic">Daniel Webster: The Man and His
-                        Time.</hi> New York: W.W. Norton, 1997.</bibl>
-                    <bibl>Shewmaker, Kenneth E. “'Congress Can Only Declare War' and 'the President Is
-                        Commander in Chief': Daniel Webster and the War Power.” <hi rend="italic">Diplomatic History</hi> 12 (October 1988): 383-410.</bibl>
-                    <bibl>______. “Daniel Webster and the Politics of Foreign Policy,
-                        1850-1852.” <hi rend="italic">Journal of American History</hi> 63 (September
-                        1976): 303-315. </bibl>
-                    <bibl>Shewmaker, Kenneth E., Kenneth R. Stevens, and Anita McGurn, eds. <hi rend="italic">The Papers of Daniel
-                            Webster, Diplomatic Papers.</hi> 2 vols. Hanover, N.H.: University Press
-                        of New England, 1983-1988. </bibl>
+                            Time.</hi> New York: W.W. Norton, 1997.</bibl>
+                    <bibl>Shewmaker, Kenneth E. “'Congress Can Only Declare War' and 'the President
+                        Is Commander in Chief': Daniel Webster and the War Power.” <hi rend="italic"
+                            >Diplomatic History</hi> 12 (October 1988): 383-410.</bibl>
+                    <bibl>______. “Daniel Webster and the Politics of Foreign Policy, 1850-1852.”
+                            <hi rend="italic">Journal of American History</hi> 63 (September 1976):
+                        303-315. </bibl>
+                    <bibl>Shewmaker, Kenneth E., Kenneth R. Stevens, and Anita McGurn, eds. <hi
+                            rend="italic">The Papers of Daniel Webster, Diplomatic Papers.</hi> 2
+                        vols. Hanover, N.H.: University Press of New England, 1983-1988. </bibl>
                 </listBibl>
             </div>
         </back>

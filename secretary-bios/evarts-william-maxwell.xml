@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,7 +38,8 @@
                     1853. Evarts later joined the newly formed Republican Party and was an
                     unsuccessful candidate for the U.S. Senate in 1861.</p>
                 <p>His work in private practice earned him a reputation as one of the country’s top
-                    lawyers. Upon the recommendation of Secretary of State <ref target="/departmenthistory/people/seward-william-henry">William H.
+                    lawyers. Upon the recommendation of Secretary of State <ref
+                        target="/departmenthistory/people/seward-william-henry">William H.
                         Seward</ref>, President <persName>Andrew Johnson</persName> retained Evarts
                     as his counsel during his impeachment trial. Afterwards, Johnson appointed
                     Evarts as Attorney General on July 16, 1868, a position in which he served until
@@ -47,7 +48,8 @@
                     before the Hayes-Tilden Commission established to resolve the disputed election
                     of 1876.</p>
                 <p>President Hayes nominated Evarts to be his Secretary of State on March 7, 1877.
-                    Despite opposition in the Senate, including that of <ref target="/departmenthistory/people/blaine-james-gillespie">James G.
+                    Despite opposition in the Senate, including that of <ref
+                        target="/departmenthistory/people/blaine-james-gillespie">James G.
                         Blaine</ref>, Evarts’s nomination was approved on March 10, and he began his
                     duties on March 12.</p>
                 <p>After leaving office, Evarts served as a delegate to the International Monetary
@@ -58,7 +60,8 @@
                 <head>Influence on American Diplomacy</head>
                 <p>As a federal prosecutor, Evarts addressed international issues including
                     investigations of possible filibustering expeditions into Central America. These
-                    investigations eventually led to the detention of the ship <hi rend="italic">Cleopatra</hi>, which was part of Narciso López’s expedition against
+                    investigations eventually led to the detention of the ship <hi rend="italic"
+                        >Cleopatra</hi>, which was part of Narciso López’s expedition against
                     Cuba.</p>
                 <p>During the Civil War, Evarts became involved in the early prosecution of
                     Confederate privateers. He was also dispatched on a mission to convince the
@@ -82,7 +85,8 @@
                 <p>Evarts also faced domestic challenges from anti-immigration supporters on the
                     West Coast, who began to make stronger demands that Chinese immigrants be
                     prevented from entering the United States despite the provisions of the 1868
-                        <ref target="/milestones/1866-1898/burlingame-seward-treaty">Burlingame-Seward Treaty</ref>.</p>
+                        <ref target="/milestones/1866-1898/burlingame-seward-treaty"
+                        >Burlingame-Seward Treaty</ref>.</p>
                 <p>In 1880, Evarts sent a committee to negotiate with the Chinese Government in an
                     effort to secure Chinese endorsement of restrictions on immigration. Chinese
                     officials were unwilling to allow an outright ban, but were willing to agree to
@@ -102,7 +106,9 @@
                     <bibl>Dyer, Brainerd. <hi rend="italic">The Public Career of William M.
                             Evarts.</hi> New York: Da Capo Press, 1969.</bibl>
                     <bibl>“William Maxwell Evarts,” in <hi rend="italic">Biographical Directory of
-                            the United States Congress.</hi> Accessed June 27, 2008. <ref target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262">http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262</ref>.</bibl>
+                            the United States Congress.</hi> Accessed June 27, 2008. <ref
+                            target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262"
+                            >http://bioguide.congress.gov/scripts/biodisplay.pl?index=E000262</ref>.</bibl>
                 </listBibl>
             </div>
         </back>

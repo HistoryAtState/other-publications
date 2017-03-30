@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Elihu Benjamin Washburne</title>
+                <title type="complete">Biographies of the Secretaries of State: Elihu Benjamin
+                    Washburne</title>
                 <title type="short">Elihu Benjamin Washburne</title>
             </titleStmt>
             <publicationStmt>
@@ -26,7 +27,7 @@
                     Cabinet, and thus Washburne resigned on March 10 to make way for his
                     replacement. However, Washburne remained at his post until the arrival of his
                     successor, <ref target="/departmenthistory/people/fish-hamilton">Hamilton
-                    Fish</ref>, on March 16, 1869.</p>
+                        Fish</ref>, on March 16, 1869.</p>
                 <figure rend="smallfloatinline">
                     <graphic url="washburne-elihu-benjamin.jpg"/>
                     <head>Elihu Benjamin Washburne, 25th Secretary of State</head>
@@ -35,63 +36,59 @@
             <div type="section" xml:id="rise">
                 <head>Rise to Prominence</head>
                 <p>Washburne was born in Livermore, Maine in 1816. He attended Harvard Law School,
-                and settled in Galena, Illinois in 1840, where he practiced law.</p>
-                <p>He was elected
-                    to Congress in 1853 as a Whig, but soon joined the new Republican Party.
-                    Washburne became well-known for his efforts to promote fiscal discipline and
-                    also rose to prominence as a leader of the Radical Republicans.</p>
-                <p>In 1869,
-                    incoming President <persName>Ulysses S. Grant</persName> selected Washburne to
-                    be Secretary of State. However, Grant came under investigation by the Senate for
-                    his attempt to appoint department store owner <persName>A.T. Stewart</persName>
-                    as Secretary of the Treasury, as key Senators were concerned about possible
-                    conflicts of interest in the appointment. Consequently, Grant was forced to
-                    restructure his Cabinet. Grant therefore appointed Washburne as Secretary of
-                    State as a temporary measure, with the agreement that Washburne was not to make
-                    any appointments or key decisions during his brief tenure. After serving as a
-                    placeholder from March 5 to 16, he was replaced by <persName>Hamilton
-                    Fish</persName>.</p>
-                <p>As a consolation, Grant appointed Washburne U.S. Minister to France,
-                    where he served until 1877. Washburne was a contender for the Republican
-                    candidacy for the Presidency in 1876 and 1880, but failed to win the party’s
-                    nomination. Thereafter, he retired from politics and wrote his memoirs, which
-                    were published in 1887.</p>
+                    and settled in Galena, Illinois in 1840, where he practiced law.</p>
+                <p>He was elected to Congress in 1853 as a Whig, but soon joined the new Republican
+                    Party. Washburne became well-known for his efforts to promote fiscal discipline
+                    and also rose to prominence as a leader of the Radical Republicans.</p>
+                <p>In 1869, incoming President <persName>Ulysses S. Grant</persName> selected
+                    Washburne to be Secretary of State. However, Grant came under investigation by
+                    the Senate for his attempt to appoint department store owner <persName>A.T.
+                        Stewart</persName> as Secretary of the Treasury, as key Senators were
+                    concerned about possible conflicts of interest in the appointment. Consequently,
+                    Grant was forced to restructure his Cabinet. Grant therefore appointed Washburne
+                    as Secretary of State as a temporary measure, with the agreement that Washburne
+                    was not to make any appointments or key decisions during his brief tenure. After
+                    serving as a placeholder from March 5 to 16, he was replaced by
+                        <persName>Hamilton Fish</persName>.</p>
+                <p>As a consolation, Grant appointed Washburne U.S. Minister to France, where he
+                    served until 1877. Washburne was a contender for the Republican candidacy for
+                    the Presidency in 1876 and 1880, but failed to win the party’s nomination.
+                    Thereafter, he retired from politics and wrote his memoirs, which were published
+                    in 1887.</p>
             </div>
             <div type="section" xml:id="influence">
                 <head>Influence on American Diplomacy</head>
                 <p>As Washburne’s tenure as Secretary of State was remarkably short, his main
-                    influence on U.S. foreign policy came during his tenure as U.S. Minister to France.
-                    Washburne’s term in Paris covered a tumultuous time in French history, as he
-                    served during the Franco-Prussian War and the violent suppression of the Paris
-                    Commune.</p>
-                <p>At the time of his arrival in the spring of 1869, he expected the post
-                    to be relatively undemanding. However, on July 19, 1870, France declared war on
-                    the German state of Prussia, and the North German states subsequently joined the war on
-                    the Prussian side, igniting the Franco-Prussian War.</p>
-                <p>During the war, Washburne
-                    assumed the duties of protecting North German citizens and property. He also had
-                    to deal with the inconsistent policies of the French Government, which
-                    alternately wanted to draft German residents of France and expel all Germans
-                    from France. Prussian victories led to the collapse of Emperor
+                    influence on U.S. foreign policy came during his tenure as U.S. Minister to
+                    France. Washburne’s term in Paris covered a tumultuous time in French history,
+                    as he served during the Franco-Prussian War and the violent suppression of the
+                    Paris Commune.</p>
+                <p>At the time of his arrival in the spring of 1869, he expected the post to be
+                    relatively undemanding. However, on July 19, 1870, France declared war on the
+                    German state of Prussia, and the North German states subsequently joined the war
+                    on the Prussian side, igniting the Franco-Prussian War.</p>
+                <p>During the war, Washburne assumed the duties of protecting North German citizens
+                    and property. He also had to deal with the inconsistent policies of the French
+                    Government, which alternately wanted to draft German residents of France and
+                    expel all Germans from France. Prussian victories led to the collapse of Emperor
                         <persName>Napoleon III</persName>’s government, the birth of the Third
-                        French Republic, and then to punitive peace terms.</p>
-                <p>When the new government
-                    placed disproportionate financial demands on Parisian renters to pay war
-                    indemnities to the newly constituted German Empire, Parisians rose up in a
-                    left-wing revolt known as the Paris Commune. Washburne was again caught by
-                    surprise, and although he personally did not sympathize with the Communards, he
-                    believed that his presence in Paris was crucial as U.S. citizens living there
-                    needed assistance.</p>
-                <p>While other diplomats left the city, Washburne remained to
-                    facilitate the departure of foreigners from the embattled city and to prevent
-                    Commune forces from enlisting foreigners into compulsory service. Washburne also
-                    visited imprisoned Americans and identified American bodies. Lastly, he acted as
-                    an intermediary between the Vatican and the Commune to try to exchange the
+                    French Republic, and then to punitive peace terms.</p>
+                <p>When the new government placed disproportionate financial demands on Parisian
+                    renters to pay war indemnities to the newly constituted German Empire, Parisians
+                    rose up in a left-wing revolt known as the Paris Commune. Washburne was again
+                    caught by surprise, and although he personally did not sympathize with the
+                    Communards, he believed that his presence in Paris was crucial as U.S. citizens
+                    living there needed assistance.</p>
+                <p>While other diplomats left the city, Washburne remained to facilitate the
+                    departure of foreigners from the embattled city and to prevent Commune forces
+                    from enlisting foreigners into compulsory service. Washburne also visited
+                    imprisoned Americans and identified American bodies. Lastly, he acted as an
+                    intermediary between the Vatican and the Commune to try to exchange the
                     imprisoned archbishop of Paris, but the archbishop was executed on May 23, as
-                    the Commune itself was on the brink of being crushed by the French Government.</p>
-                <p>
-                    Following the collapse of the Commune, Washburne continued to serve as U.S. Minister
-                    to France until 1877.</p>
+                    the Commune itself was on the brink of being crushed by the French
+                    Government.</p>
+                <p> Following the collapse of the Commune, Washburne continued to serve as U.S.
+                    Minister to France until 1877.</p>
             </div>
         </body>
         <back>
@@ -101,7 +98,8 @@
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
                             State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
                     <bibl>Dale, Clifford. “Elihu Benjamin Washburne: An American Diplomat in Paris,
-                        1870-71.” <hi rend="italic">The Journal of National Archives</hi>, 2 (1970): 161-174.</bibl>
+                        1870-71.” <hi rend="italic">The Journal of National Archives</hi>, 2 (1970):
+                        161-174.</bibl>
                     <bibl>Dougherty, Sister Patricia, O.P. <hi rend="italic">American Diplomats and
                             the Franco-Prussian War: Perceptions from Paris and Berlin.</hi>
                         Washington, DC: Institute for the Study of Diplomacy, 1980.</bibl>

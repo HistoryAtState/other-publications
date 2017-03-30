@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Edward Livingston</title>
+                <title type="complete">Biographies of the Secretaries of State: Edward
+                    Livingston</title>
                 <title type="short">Edward Livingston</title>
             </titleStmt>
             <publicationStmt>
@@ -34,14 +35,16 @@
                 <head>Rise to Prominence</head>
                 <p>Livingston was born on his family’s estate at Clermont, New York. He studied at
                     the College of New Jersey (now Princeton University), graduating in 1781.
-                    Following his admission to the bar in 1785, he practiced law in New York City.</p>
+                    Following his admission to the bar in 1785, he practiced law in New York
+                    City.</p>
                 <p> With the benefit of political advice from his older brother Robert, who had
                     served as Secretary of Foreign Affairs during the Articles of Confederation
                     government, Livingston won election to the U.S. Congress as a Representative of
                     New York and served from 1795 to 1800. He next served as U.S. Attorney for the
                     District of New York and Mayor of New York City from 1801 to 1803.</p>
-                <p>In 1804 Livingston moved to New Orleans and practiced law. He served as an <hi rend="italic">aide-de-camp</hi> to General <persName>Andrew
-                    Jackson</persName> during the Battle of New Orleans.</p>
+                <p>In 1804 Livingston moved to New Orleans and practiced law. He served as an <hi
+                        rend="italic">aide-de-camp</hi> to General <persName>Andrew
+                        Jackson</persName> during the Battle of New Orleans.</p>
                 <p>In 1820 Livingston returned to politics and enjoyed a series of victories: first
                     to the Louisiana State House of Representatives; next as a U.S. Representative
                     from Louisiana from 1823 to 1828; and finally, as a U.S. Senator from Louisiana
@@ -51,7 +54,7 @@
                 <head>Influence on U.S. Diplomacy</head>
                 <p>President Jackson asked for the resignation of his entire cabinet in 1831 in
                     order to neutralize his feud with Vice President <persName>John
-                    Calhoun</persName> and Calhoun’s supporters within the cabinet. Jackson
+                        Calhoun</persName> and Calhoun’s supporters within the cabinet. Jackson
                     appointed Livingston as Secretary of State upon the advice of outgoing Secretary
                     of State <persName>Martin Van Buren</persName>.</p>
                 <p>Like his predecessor, Livingston would have to pay deference to President Jackson
@@ -72,21 +75,21 @@
                     agreements with Naples, Muscat, Russia, Siam, and Turkey during his tenure,
                     Livingston had little to do with their progress.</p>
                 <p> Livingston was more involved with political disturbances in the Western
-                    Hemisphere. He followed an uneven approach regarding the <ref target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>. In 1832 New
+                    Hemisphere. He followed an uneven approach regarding the <ref
+                        target="/milestones/1801-1829/monroe">Monroe Doctrine</ref>. In 1832 New
                     Granada withdrew a commercial treaty with the United States at Britain’s urging.
                     In response, Livingston called upon the Monroe Doctrine, establishing the
                     commercial element of the doctrine.</p>
-                <p>In contrast, he declined to invoke the
-                    doctrine when Britain seized the Falkland Islands in 1833, ousting the Argentine
-                    Government to reaffirm a prior territorial claim.</p>
-                <p>On the day of Livingston’s
-                    resignation as Secretary of State, President Jackson appointed him U.S.
-                    Minister to France. During his stay in France from 1833 to 1835, Livingston
-                    employed his diplomatic skill and his appreciation of French culture to help
-                    bring into force the French Spoliation Claims Treaty, which addressed
-                    decades-old claims over the seizure of U.S. vessels and cargo. While delays
-                    infuriated President Jackson, the settlement finally came in 1836, shortly after
-                    Livingston’s departure and death.</p>
+                <p>In contrast, he declined to invoke the doctrine when Britain seized the Falkland
+                    Islands in 1833, ousting the Argentine Government to reaffirm a prior
+                    territorial claim.</p>
+                <p>On the day of Livingston’s resignation as Secretary of State, President Jackson
+                    appointed him U.S. Minister to France. During his stay in France from 1833 to
+                    1835, Livingston employed his diplomatic skill and his appreciation of French
+                    culture to help bring into force the French Spoliation Claims Treaty, which
+                    addressed decades-old claims over the seizure of U.S. vessels and cargo. While
+                    delays infuriated President Jackson, the settlement finally came in 1836,
+                    shortly after Livingston’s departure and death.</p>
             </div>
         </body>
         <back>
@@ -100,7 +103,8 @@
                             State and Their Diplomacy.</hi> Vol. 4. New York: Alfred A. Knopf, 1928.
                         Reprint 1963 (Cooper Square Publishers, Inc.).</bibl>
                     <bibl>Carosso, Vincent P., and Lawrence H. Leder. “Edward Livingston and
-                        Jacksonian Diplomacy.” <hi rend="italic">Louisiana History: The Journal of the Louisiana Historical Association</hi> 7 (1966): 241-248. </bibl>
+                        Jacksonian Diplomacy.” <hi rend="italic">Louisiana History: The Journal of
+                            the Louisiana Historical Association</hi> 7 (1966): 241-248. </bibl>
                     <bibl>Cole, Donald B. <hi rend="italic">Martin Van Buren and the American
                             Political System.</hi> Princeton: Princeton University Press, 1984. </bibl>
                     <bibl>Hatcher, William B. <hi rend="italic">Edward Livingston, Jeffersonian

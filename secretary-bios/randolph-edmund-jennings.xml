@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Edmund Randolph</title>
+                <title type="complete">Biographies of the Secretaries of State: Edmund
+                    Randolph</title>
                 <title type="short">Edmund Randolph</title>
             </titleStmt>
             <publicationStmt>
@@ -17,12 +18,12 @@
         <body>
             <div type="section" xml:id="intro">
                 <head>Introduction</head>
-                <p>Edmund Jennings Randolph succeeded <persName>Thomas Jefferson</persName> as Secretary of
-                    State on <date when="1794-01-02">January 2, 1794</date>. Like Jefferson,
-                    Randolph resigned from office. Randolph departed on August 20, 1795, following a
-                    struggle to maintain a policy of neutrality in the war between Great Britain and
-                    Revolutionary France and accusations of corruption by the Federalists in
-                    President <persName>George Washington’s</persName> cabinet. </p>
+                <p>Edmund Jennings Randolph succeeded <persName>Thomas Jefferson</persName> as
+                    Secretary of State on <date when="1794-01-02">January 2, 1794</date>. Like
+                    Jefferson, Randolph resigned from office. Randolph departed on August 20, 1795,
+                    following a struggle to maintain a policy of neutrality in the war between Great
+                    Britain and Revolutionary France and accusations of corruption by the
+                    Federalists in President <persName>George Washington’s</persName> cabinet. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="randolph-edmund-jennings.jpg"/>
                     <head>Edmund Randolph, Second Secretary of State</head>
@@ -35,49 +36,49 @@
                     joined the Virginia bar, and began practicing law in Williamsburg. Whereas his
                     father reacted to the American Revolution by returning to Great Britain,
                     Randolph served as an aide-de-camp to <persName>General George
-                    Washington</persName> in 1775.</p>
+                        Washington</persName> in 1775.</p>
                 <p>After returning to Virginia upon the news of his uncle’s death, Randolph was
                     elected to the Virginia Convention of 1776 that would establish the
                     Commonwealth’s first constitution. He was also elected as the Commonwealth’s
                     first Attorney General and Mayor of the town of Williamsburg (both in 1776). He
                     was subsequently elected as a Delegate to the Continental Congress in 1779 and
-                    1881. In 1786 Randolph was elected Governor of Virginia, but he resigned in 1788,
-                    preferring to serve in the Virginia House of Delegates where he could shape the
-                    state’s legal code.</p>
-                <p>He was an influential Delegate to the Annapolis Convention of 1786 and the
-                    <ref target="/milestones/1784-1800/convention-and-ratification">Constitutional Convention
-                        of 1787</ref>, where he introduced the Virginia Plan and was a member of the
-                    Committee on Detail charged with framing the first draft of the Constitution.
-                    Randolph had handled much of President Washington’s personal legal work, and
-                    Washington appointed him as the first Attorney General of the United States in
-                    1789 and then as Secretary of State in 1794. After leaving government service,
-                    Randolph represented <persName>Aaron Burr</persName> during Burr’s 1807
+                    1881. In 1786 Randolph was elected Governor of Virginia, but he resigned in
+                    1788, preferring to serve in the Virginia House of Delegates where he could
+                    shape the state’s legal code.</p>
+                <p>He was an influential Delegate to the Annapolis Convention of 1786 and the <ref
+                        target="/milestones/1784-1800/convention-and-ratification">Constitutional
+                        Convention of 1787</ref>, where he introduced the Virginia Plan and was a
+                    member of the Committee on Detail charged with framing the first draft of the
+                    Constitution. Randolph had handled much of President Washington’s personal legal
+                    work, and Washington appointed him as the first Attorney General of the United
+                    States in 1789 and then as Secretary of State in 1794. After leaving government
+                    service, Randolph represented <persName>Aaron Burr</persName> during Burr’s 1807
                     trial for treason. </p>
             </div>
             <div type="section" xml:id="Influence">
                 <head>Influence on U.S. Diplomacy</head>
                 <p>As Secretary of State, Randolph faced many of the same challenges that his
                     predecessor, Thomas Jefferson, had attempted to address. Randolph managed the
-                    settlement of the <ref target="/milestones/1784-1800/citizen-genet">Citizen Genêt
-                        Affair</ref>. He prompted a resumption of talks with Spain and assisted in
-                    the negotiations of the <ref target="/milestones/1784-1800/pickney-treaty">1795
-                        Treaty of San Lorenzo</ref>, which opened the Mississippi River to U.S.
-                    navigation and fixed the boundaries between Spanish possessions and the United
-                    States.</p>
-                <p>Randolph attempted to continue Jefferson’s efforts to maintain close
-                    relations with France and minimize <persName>Alexander Hamilton’s</persName>
-                    influence over President Washington. However, Washington chose to endorse Jay’s
-                    Treaty, an agreement that secured commercial ties with Great Britain. Randolph,
-                    along with the Senate, strongly objected to provisions that would disrupt the
-                    trade of neutral countries, particularly U.S. shipping to France. Political
-                    intrigue against Randolph ended his term as Secretary of State. Hoping to
-                    neutralize Randolph’s opposition to the favorable Jay Treaty, the British
-                    Government provided his opponents in Washington’s Cabinet with documents written
-                    by French Minister Jean Antoine Joseph Fauchet that had been intercepted by the
-                    British Navy. The documents were innocuous, yet Federalists in the Cabinet
-                    claimed they proved that Randolph had disclosed confidential information
-                    and solicited a bribe. Randolph was innocent, but his standing with Washington
-                    was permanently weakened. Randolph resigned in 1795.</p>
+                    settlement of the <ref target="/milestones/1784-1800/citizen-genet">Citizen
+                        Genêt Affair</ref>. He prompted a resumption of talks with Spain and
+                    assisted in the negotiations of the <ref
+                        target="/milestones/1784-1800/pickney-treaty">1795 Treaty of San
+                        Lorenzo</ref>, which opened the Mississippi River to U.S. navigation and
+                    fixed the boundaries between Spanish possessions and the United States.</p>
+                <p>Randolph attempted to continue Jefferson’s efforts to maintain close relations
+                    with France and minimize <persName>Alexander Hamilton’s</persName> influence
+                    over President Washington. However, Washington chose to endorse Jay’s Treaty, an
+                    agreement that secured commercial ties with Great Britain. Randolph, along with
+                    the Senate, strongly objected to provisions that would disrupt the trade of
+                    neutral countries, particularly U.S. shipping to France. Political intrigue
+                    against Randolph ended his term as Secretary of State. Hoping to neutralize
+                    Randolph’s opposition to the favorable Jay Treaty, the British Government
+                    provided his opponents in Washington’s Cabinet with documents written by French
+                    Minister Jean Antoine Joseph Fauchet that had been intercepted by the British
+                    Navy. The documents were innocuous, yet Federalists in the Cabinet claimed they
+                    proved that Randolph had disclosed confidential information and solicited a
+                    bribe. Randolph was innocent, but his standing with Washington was permanently
+                    weakened. Randolph resigned in 1795.</p>
             </div>
         </body>
         <back>

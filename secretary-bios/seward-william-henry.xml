@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: William Henry Seward</title>
+                <title type="complete">Biographies of the Secretaries of State: William Henry
+                    Seward</title>
                 <title type="short">William Henry Seward</title>
             </titleStmt>
             <publicationStmt>
@@ -48,16 +49,16 @@
                 <p>Along with other political leaders, Seward unsuccessfully negotiated to resolve
                     the secession crisis during the winter of 1861. Once in Lincoln’s Cabinet,
                     Seward anticipated that he would wield a strong influence over foreign policy.
-                   However, he underestimated Lincoln’s interest in foreign affairs.</p>
+                    However, he underestimated Lincoln’s interest in foreign affairs.</p>
                 <p>Although Seward was willing to consider war against European powers should they
                     prove too friendly toward the Confederacy, Lincoln overruled Seward on this
                     point. Seward thus focused most of his efforts on preventing foreign recognition
                     of the Confederacy. </p>
                 <p>Seward sent U.S. agents to Europe to publicly lobby for the Union cause, but
                     early in his tenure a diplomatic crisis arose when the U.S. Navy arrested
-                    Confederate envoys headed for Europe. Despite public support in favor of
-                    their detention, Seward agreed to release the envoys to avoid the threat of war
-                    with Great Britain.</p>
+                    Confederate envoys headed for Europe. Despite public support in favor of their
+                    detention, Seward agreed to release the envoys to avoid the threat of war with
+                    Great Britain.</p>
                 <p>Seward also faced difficulties in encouraging foreign governments to curtail the
                     smuggling of goods and war materiel, as well as the construction of Confederate
                     warships. Seward worked with the U.S. Minister in London, Charles Francis Adams,
@@ -66,22 +67,21 @@
                     embarrassment caused officials to more strictly enforce British neutrality and
                     prevented the building of further Confederate ships on British soil.</p>
                 <p>After the Civil War ended with a Union victory, Seward pursued negotiations to
-                    expand U.S. territory. He resumed discussions to purchase Russian Alaska,
-                    which resulted in the <ref target="/milestones/1866-1898/alaska-purchase">1867 Alaska
+                    expand U.S. territory. He resumed discussions to purchase Russian Alaska, which
+                    resulted in the <ref target="/milestones/1866-1898/alaska-purchase">1867 Alaska
                         Purchase</ref>. Seward also attempted, unsuccessfully, to acquire territory
                     elsewhere, as negotiations to acquire the Virgin Islands, part of the Dominican
                     Republic, as well as several other small islands in the Caribbean failed.
                     However, the U.S. Navy occupied Midway Atoll in 1867.</p>
-                <p>Seward also
-                    involved the United States in Mexican affairs from 1865 to 1867, by supporting
-                    the anti-French forces in defeating Austrian archduke Maximilian, whom the French
-                    had installed as Emperor of Mexico in 1862.</p>
-                <p>Seward continued to serve as
-                    Secretary of State under Lincoln’s successor, <persName>Andrew Johnson</persName>. As as a
-                    Republican moderate, however, Seward found himself at odds with Johnson and other
-                    conservatives in the Cabinet, while radicals in Congress distrusted him for his
-                    continued loyalty to Johnson. Despite congressional hostility toward Seward,
-                    Congress still approved the purchase of Alaska. </p>
+                <p>Seward also involved the United States in Mexican affairs from 1865 to 1867, by
+                    supporting the anti-French forces in defeating Austrian archduke Maximilian,
+                    whom the French had installed as Emperor of Mexico in 1862.</p>
+                <p>Seward continued to serve as Secretary of State under Lincoln’s successor,
+                        <persName>Andrew Johnson</persName>. As as a Republican moderate, however,
+                    Seward found himself at odds with Johnson and other conservatives in the
+                    Cabinet, while radicals in Congress distrusted him for his continued loyalty to
+                    Johnson. Despite congressional hostility toward Seward, Congress still approved
+                    the purchase of Alaska. </p>
             </div>
         </body>
         <back>
@@ -94,7 +94,8 @@
                             Genius of Abraham Lincoln.</hi> New York: Simon &amp; Schuster,
                         2005.</bibl>
                     <bibl>Long, Everette Beach, and Barbara Long. <hi rend="italic">Civil War Day by
-                        Day: An Almanac, 1861–1865.</hi> Garden City, NY: Doubleday, 1971.</bibl>
+                            Day: An Almanac, 1861–1865.</hi> Garden City, NY: Doubleday,
+                        1971.</bibl>
                     <bibl>Van Deusen, Glyndon G. <hi rend="italic">William Henry Seward.</hi> New
                         York: Oxford University Press, 1967.</bibl>
                 </listBibl>

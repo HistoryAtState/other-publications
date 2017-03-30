@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Henry Lewis Stimson</title>
+                <title type="complete">Biographies of the Secretaries of State: Henry Lewis
+                    Stimson</title>
                 <title type="short">Henry Lewis Stimson</title>
             </titleStmt>
             <publicationStmt>
@@ -31,9 +32,9 @@
                 <p>Stimpson was born into a wealthy New York family on September 21, 1867. He
                     attended Phillips Academy in Andover, Massachusetts, received his B.A. degree
                     from Yale, and graduated from Harvard Law School in 1890.</p>
-                <p>Stimson rose to prominence first as a partner in the legal firm
-                    run by <ref target="/departmenthistory/people/root-elihu">Elihu Root,</ref> who
-                    served as Secretary of State and Secretary of War in the administration of
+                <p>Stimson rose to prominence first as a partner in the legal firm run by <ref
+                        target="/departmenthistory/people/root-elihu">Elihu Root,</ref> who served
+                    as Secretary of State and Secretary of War in the administration of
                         <persName>Theodore Roosevelt</persName>. Stimson ran unsuccessfully as the
                     Republican candidate for Governor of New York in 1910, but was then appointed
                     Secretary of War by President <persName>William Howard Taft</persName> in 1911.
@@ -45,25 +46,29 @@
                     appointed Stimson Governor General of the Philippines later that year, a post
                     that he held until he was appointed Secretary of State in March of 1929. </p>
                 <p> After President Hoover’s defeat in 1932, Stimson retired but was recalled to
-                    U.S. Government service by President <persName>Franklin Roosevelt</persName>, who
-                    appointed him Secretary of War in 1940. Instrumental in directing the
-                    atomic bomb program after 1943, he advised President <persName>Harry S.
-                    Truman</persName> to use it in 1945. He also helped develop plans for the trial
-                    of war criminals after World War II. He retired in September of 1945. </p>
+                    U.S. Government service by President <persName>Franklin Roosevelt</persName>,
+                    who appointed him Secretary of War in 1940. Instrumental in directing the atomic
+                    bomb program after 1943, he advised President <persName>Harry S.
+                        Truman</persName> to use it in 1945. He also helped develop plans for the
+                    trial of war criminals after World War II. He retired in September of 1945. </p>
             </div>
             <div type="section" xml:id="influence">
                 <head>Influence in American Diplomacy</head>
-                <p>Stimson succeeded <ref target="/departmenthistory/people/kellogg-frank-billings">Frank Kellogg</ref> as Secretary of State only a few days after the U.S.
-                    Senate had ratified the <ref target="/milestones/1921-1936/kellogg">Kellogg-Briand Pact</ref>. He attempted during his tenure to save that
+                <p>Stimson succeeded <ref target="/departmenthistory/people/kellogg-frank-billings"
+                        >Frank Kellogg</ref> as Secretary of State only a few days after the U.S.
+                    Senate had ratified the <ref target="/milestones/1921-1936/kellogg"
+                        >Kellogg-Briand Pact</ref>. He attempted during his tenure to save that
                     pact, but commented in 1933 that <quote>"the situation in the world seemed to me
                         like the unfolding of a great Greek tragedy, where we could see the march of
                         events and know what ought to be done, but seemed to be powerless to prevent
                         its marching to its grim conclusion."</quote>
                 </p>
-                <p>He headed the U.S. delegation to the <ref target="/milestones/1921-1936/london-naval-conf">London Naval Conference</ref>
-                    in 1930, which succeeded in limiting the naval race among the largest naval
-                    powers, although Japan would withdraw from the agreement in 1935. He also led
-                    the U.S. delegation to the Geneva Disarmament Conference in 1932.</p>
+                <p>He headed the U.S. delegation to the <ref
+                        target="/milestones/1921-1936/london-naval-conf">London Naval
+                        Conference</ref> in 1930, which succeeded in limiting the naval race among
+                    the largest naval powers, although Japan would withdraw from the agreement in
+                    1935. He also led the U.S. delegation to the Geneva Disarmament Conference in
+                    1932.</p>
                 <p> Upon Japan’s occupation of Manchuria in 1931, Stimson articulated what later
                     became known as the "Stimson Doctrine," that the United States would recognize
                     no diminution of U.S. treaty rights brought about by aggression. He also
@@ -76,24 +81,26 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
-                            State and Their Diplomacy.</hi> Vol. 11. New York: Alfred A. Knopf, 1928.
-                        Reprint 1963 (Cooper Square). </bibl>
+                            State and Their Diplomacy.</hi> Vol. 11. New York: Alfred A. Knopf,
+                        1928. Reprint 1963 (Cooper Square). </bibl>
                     <bibl>Cohen, Warren I. <hi rend="italic">Empire Without Tears: America’s Foreign
-                            Relations, 1921-1933.</hi> Philadelphia: Temple University Press, 1987.</bibl>
-                    <bibl>“Henry L. Stimson Dies at 83 in his home on Long Island.” <hi rend="italic">The New York Times</hi>, Oct 21, 1950: 1.</bibl>
+                            Relations, 1921-1933.</hi> Philadelphia: Temple University Press,
+                        1987.</bibl>
+                    <bibl>“Henry L. Stimson Dies at 83 in his home on Long Island.” <hi
+                            rend="italic">The New York Times</hi>, Oct 21, 1950: 1.</bibl>
                     <bibl>Hodgson, Godfrey. <hi rend="italic">The Colonel: The Life and Wars of
                             Henry Stimson, 1867-1950.</hi> New York: Knopf, 1990.</bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Louria, Margot. <hi rend="italic">Triumph and Downfall: America’s Pursuit
-                            of Peace and Prosperity, 1921-1933.</hi> Westport, CT: Greenwood
-                        Press, 2001.</bibl>
+                            of Peace and Prosperity, 1921-1933.</hi> Westport, CT: Greenwood Press,
+                        2001.</bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                     <bibl>Schmitz, David F. <hi rend="italic">Henry L. Stimson: The First Wise
-                        Man.</hi> Wilmington, DE: Scholarly Resources, 2001.</bibl>
+                            Man.</hi> Wilmington, DE: Scholarly Resources, 2001.</bibl>
                 </listBibl>
             </div>
         </back>

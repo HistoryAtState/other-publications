@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: George Pratt Shultz</title>
+                <title type="complete">Biographies of the Secretaries of State: George Pratt
+                    Shultz</title>
                 <title type="short">George Pratt Shultz</title>
             </titleStmt>
             <publicationStmt>
@@ -67,7 +68,8 @@
                     its troops in January 1985, in spite of Lebanon’s contravention of the
                     settlement.</p>
                 <p>He completed the discussions between the United States and China, begun under
-                    Secretary of State <ref target="/departmenthistory/people/haig-alexander-meigs">Alexander Haig</ref>, which led to the joint communiqué of August 1982 that
+                    Secretary of State <ref target="/departmenthistory/people/haig-alexander-meigs"
+                        >Alexander Haig</ref>, which led to the joint communiqué of August 1982 that
                     has provided stability for U.S.-Chinese relations ever since.</p>
                 <p>Shultz had not been able to halt the arms-for-hostages deals with Iran that
                     provided funds for the Contras in Nicaragua, which he had opposed, but by 1988
@@ -88,12 +90,14 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Bell, Coral. <hi rend="italic">The Reagan Paradox: American Foreign Policy
-                            in the 1980s. </hi> London: Edward Elgar Publishing Limited, 1989.</bibl>
+                            in the 1980s. </hi> London: Edward Elgar Publishing Limited,
+                        1989.</bibl>
                     <bibl>Fischer, Beth. <hi rend="italic">The Reagan Reversal: Foreign Policy and
                             the End of the Cold War. </hi> Columbia: University of Missouri Press,
                         1997.</bibl>
                     <bibl>Shultz, George P. <hi rend="italic">Turmoil and Triumph: My Years as
-                            Secretary of State. </hi> New York: Charles Scribner’s Sons, 1993.</bibl>
+                            Secretary of State. </hi> New York: Charles Scribner’s Sons,
+                        1993.</bibl>
                     <bibl>Schaller, Michael. <hi rend="italic">Reckoning with Reagan: America and
                             Its President in the 1980s.</hi> New York: Oxford University Press,
                         1992.</bibl>

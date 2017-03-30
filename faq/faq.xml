@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -98,8 +98,8 @@
                         the series is available <ref target="/historicaldocuments/about-frus"
                             >here</ref>.</p>
                     <p>The series celebrated its sesquicentennial in 2011. More information about
-                        the history of the series is available <ref target="/historicaldocuments/frus-history"
-                        >here</ref>.</p>
+                        the history of the series is available <ref
+                            target="/historicaldocuments/frus-history">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="how-to-purchase-frus">
@@ -126,8 +126,8 @@
                             in print and sold by the <ref target="http://bookstore.gpo.gov"
                                 >Government Printing Office</ref>.</item>
                         <item><hi rend="strong">Ebook:</hi> newer <title level="s">FRUS</title>
-                            volumes are available as ebooks, compatible with popular readers such
-                            as the Kindle and iPad. Click <ref target="/historicaldocuments/ebooks"
+                            volumes are available as ebooks, compatible with popular readers such as
+                            the Kindle and iPad. Click <ref target="/historicaldocuments/ebooks"
                                 >here</ref> for more information on the ebook program.</item>
                         <item><hi rend="strong">Online:</hi> newer <title level="s">FRUS</title>
                             volumes are available in full on our website. Click <ref
@@ -179,8 +179,8 @@
                     <p>From time to time, the Office of the Historian has interns working in its
                         Washington, DC office. All applications must be submitted through the
                         Department of State’s internship program. Please click <ref
-                            target="http://www.careers.state.gov/intern">here</ref> for
-                        deadlines and more information.</p>
+                            target="http://www.careers.state.gov/intern">here</ref> for deadlines
+                        and more information.</p>
                     <p>The Office of the Historian also participates in the Department’s Virtual
                         Student Foreign Service program. Please click <ref
                             target="http://www.state.gov/vsfs/">here</ref> for deadlines and more

@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Henry Alfred Kissinger</title>
+                <title type="complete">Biographies of the Secretaries of State: Henry Alfred
+                    Kissinger</title>
                 <title type="short">Henry Alfred Kissinger</title>
             </titleStmt>
             <publicationStmt>
@@ -22,10 +23,10 @@
                     September 21 by President <persName>Richard M. Nixon</persName> and served in
                     the position from September 23, 1973 to January 20, 1977. With his appointment,
                     he became the first person ever to serve as both Secretary of State and National
-                    Security Adviser, a position he had held since President Nixon was sworn into office on
-                    January 20, 1969. However, on November 3, 1975, President <persName>Gerald R.
-                        Ford</persName> removed him from his National Security Adviser position
-                    while keeping him as Secretary of State. </p>
+                    Security Adviser, a position he had held since President Nixon was sworn into
+                    office on January 20, 1969. However, on November 3, 1975, President
+                        <persName>Gerald R. Ford</persName> removed him from his National Security
+                    Adviser position while keeping him as Secretary of State. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="kissinger-henry-a.jpg"/>
                     <head>Henry A. Kissinger, 56th Secretary of State</head>
@@ -57,17 +58,20 @@
                 <p>
                     <ref target="/departmenthistory/short-history/kissinger">Kissinger entered the
                         State Department</ref> just two weeks before Egypt and Syria launched a
-                    surprise attack on Israel. <ref target="/milestones/1969-1976/arab-israeli-war-1973">The October War of 1973</ref> played a major role in shaping Kissinger’s
-                    tenure as Secretary. First, he worked to ensure Israel received an airlift of
-                    U.S. military supplies. This airlift helped Israel turn the war in Israel’s
-                    favor, and it also led members of the <ref target="/milestones/1969-1976/oil-embargo">Organization of Petroleum Exporting Countries (OPEC)</ref> to initiate an
-                    oil embargo against the United States. After the implementation of a United
-                    Nation’s sponsored ceasefire, Kissinger began a series of “shuttle diplomacy”
-                    missions, in which he traveled between various Middle East capitals to reach
-                    disengagement agreements between the enemy combatants. These efforts produced an
-                    agreement in January 1974 between Egypt and Israel and in May 1974 between Syria
-                    and Israel. Additionally, Kissinger’s efforts contributed to OPEC’s decision to
-                    lift the embargo. </p>
+                    surprise attack on Israel. <ref
+                        target="/milestones/1969-1976/arab-israeli-war-1973">The October War of
+                        1973</ref> played a major role in shaping Kissinger’s tenure as Secretary.
+                    First, he worked to ensure Israel received an airlift of U.S. military supplies.
+                    This airlift helped Israel turn the war in Israel’s favor, and it also led
+                    members of the <ref target="/milestones/1969-1976/oil-embargo">Organization of
+                        Petroleum Exporting Countries (OPEC)</ref> to initiate an oil embargo
+                    against the United States. After the implementation of a United Nation’s
+                    sponsored ceasefire, Kissinger began a series of “shuttle diplomacy” missions,
+                    in which he traveled between various Middle East capitals to reach disengagement
+                    agreements between the enemy combatants. These efforts produced an agreement in
+                    January 1974 between Egypt and Israel and in May 1974 between Syria and Israel.
+                    Additionally, Kissinger’s efforts contributed to OPEC’s decision to lift the
+                    embargo. </p>
                 <p> On August 9, 1974, the Watergate scandal compelled President Nixon to resign,
                     but Kissinger stayed on in his dual roles under President Gerald Ford. Kissinger
                     helped Ford acclimate to the international scene and both men worked to continue
@@ -95,7 +99,8 @@
                     <bibl>Caldwell, Dan ed. <hi rend="italic">Henry Kissinger, His Personality and
                             Policies.</hi> Durham, NC: Duke University Press, 1983.</bibl>
                     <bibl>Hanhimäki, Jussi. <hi rend="italic">Flawed Architect: Henry Kissinger and
-                            American Foreign Policy.</hi> New York: Oxford University Press, 2004.</bibl>
+                            American Foreign Policy.</hi> New York: Oxford University Press,
+                        2004.</bibl>
                     <bibl>Issacson, Walter. <hi rend="italic">Kissinger. </hi> New York: Simon and
                         Schuster, 1983.</bibl>
                     <bibl>Immerman, Richard H. <hi rend="italic">John Foster Dulles and the

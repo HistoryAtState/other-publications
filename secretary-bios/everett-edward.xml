@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -53,7 +53,8 @@
                 <head>Influence on American Dipolmacy</head>
                 <p>As Webster’s successor, Everett had a relatively unremarkable and very short
                     tenure. One of Everett’s first acts as Secretary was to draft a formal letter to
-                    the Emperor of Japan for the <ref target="/milestones/1830-1860/opening-to-japan">Perry Expedition</ref>,
+                    the Emperor of Japan for the <ref
+                        target="/milestones/1830-1860/opening-to-japan">Perry Expedition</ref>,
                     which facilitated Japanese trade with the West.</p>
                 <p>He was also charged with dispelling a potential diplomatic crisis with Peru over
                     territorial claims to guano-rich Lobos Island. </p>
@@ -75,8 +76,8 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Adams, Randolph G. “Edward Everett.” <hi rend="italic">The American
-                            Secretaries of State and Their Diplomacy,</hi> edited by Samuel Flagg Bemis.
-                        Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
+                            Secretaries of State and Their Diplomacy,</hi> edited by Samuel Flagg
+                        Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
                         Publishers, Inc.). </bibl>
                     <bibl>Frothingham, Paul R. <hi rend="italic">Edward Everett: Orator and
                             Statesman.</hi> Boston: Houghton Mifflin, 1925. </bibl>
@@ -84,8 +85,8 @@
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

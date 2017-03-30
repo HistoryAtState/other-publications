@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -23,10 +23,11 @@
         <body>
             <div type="section" xml:id="intro">
                 <head>Introduction</head>
-                <p><hi rend="italic">A History of Diplomacy</hi> is an instructional package providing an overview of
-                    American diplomacy as it evolved from the colonial period through the present
-                    day. The video is presented in two parts: the first half ends with World War II,
-                    while the second half spans the period 1945 through the present day.</p>
+                <p><hi rend="italic">A History of Diplomacy</hi> is an instructional package
+                    providing an overview of American diplomacy as it evolved from the colonial
+                    period through the present day. The video is presented in two parts: the first
+                    half ends with World War II, while the second half spans the period 1945 through
+                    the present day.</p>
                 <p>This package also includes the video script, a timeline, glossary, suggested
                     lessons and extension activities, website links, and other support material.
                     Lessons focus on history, civics, geography, economics, and culture, and support

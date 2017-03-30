@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -19,8 +19,9 @@
                 <head>Introduction</head>
                 <p> John Sherman was appointed Secretary of State in President <persName>William
                         McKinley</persName>’s Cabinet, a position in which he served from March 6,
-                    1897, until April 27, 1898. Sherman resigned his position days after the outbreak
-                    of the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American War</ref>. </p>
+                    1897, until April 27, 1898. Sherman resigned his position days after the
+                    outbreak of the <ref target="/milestones/1866-1898/spanish-american-war"
+                        >Spanish-American War</ref>. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="sherman-john.jpg"/>
                     <head>John Sherman, 35th Secretary of State</head>
@@ -33,7 +34,8 @@
                     including older brother <persName>William Tecumseh Sherman</persName>, were
                     raised by various relatives and friends.</p>
                 <p>Sherman briefly followed an interest in civil engineering and surveying before
-                    studying law under his uncle, a judge. He was admitted to the Ohio bar in 1844.</p>
+                    studying law under his uncle, a judge. He was admitted to the Ohio bar in
+                    1844.</p>
                 <p>A decade later, Sherman was elected to the U.S. House of Representatives. An
                     active member of the Republican Party, Sherman was elected U.S. Senator
                     representing Ohio in 1860 and served until 1877. That year, he was nominated to
@@ -47,31 +49,32 @@
             <div type="section" xml:id="influence">
                 <head>Influence on American Diplomacy</head>
                 <p>Sherman’s tenure as Secretary of State was marked by the tension between him,
-                    President McKinley, and Assistant Secretary of State <ref target="/departmenthistory/people/day-william-rufus">William R. Day</ref>.
+                    President McKinley, and Assistant Secretary of State <ref
+                        target="/departmenthistory/people/day-william-rufus">William R. Day</ref>.
                     Sherman had been offered the position largely to free up a Senate seat for Mark
                     Hanna, a supporter and friend of the President. Unfortunately for the President,
                     Sherman often diverged from the President’s foreign policy agenda and became
                     increasingly vocal in his criticism of the McKinley administration.</p>
                 <p>As a result, the President and other members of the Cabinet soon ostracized
-                    Secretary of State Sherman, allowing Sherman’s subordinates to negotiate
-                    many foreign policy decisions.</p>
+                    Secretary of State Sherman, allowing Sherman’s subordinates to negotiate many
+                    foreign policy decisions.</p>
                 <p>Relations between Sherman and the McKinley administration became so tense that
                     Assistant Secretary Day often replaced Sherman at Cabinet meetings, an obvious
                     affront to the Secretary.</p>
                 <p>Day negotiated the <ref target="/milestones/1866-1898/hawaii">annexation of
-                        Hawaii</ref>, as well as U.S. policy towards Spain as the two nations were on
-                    the brink of war. </p>
-                <p>Sherman did wield influence when it came to upholding the U.S. interpretation
-                    of most-favored-nation treatment in matters relating to international trade. He
+                        Hawaii</ref>, as well as U.S. policy towards Spain as the two nations were
+                    on the brink of war. </p>
+                <p>Sherman did wield influence when it came to upholding the U.S. interpretation of
+                    most-favored-nation treatment in matters relating to international trade. He
                     also worked to secure U.S. commercial concessions in China; many of his policies
                     would become part of the <ref target="/milestones/1899-1913/hay-and-china">Open
                         Door Policy</ref> at the turn of the century. Despite his influence on
                     issues of international commerce, Sherman’s weak position in the Cabinet meant
                     that he was unable to press his opposition to U.S. acquisition of Cuba and his
                     objection to war with Spain.</p>
-                <p>Sherman finally resigned in protest four days into the Spanish-American
-                    War in 1898. His bitterness toward President McKinley and his
-                    administration continued until his death in 1900. </p>
+                <p>Sherman finally resigned in protest four days into the Spanish-American War in
+                    1898. His bitterness toward President McKinley and his administration continued
+                    until his death in 1900. </p>
             </div>
         </body>
         <back>
@@ -84,8 +87,8 @@
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

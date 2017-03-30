@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Martin Van Buren</title>
+                <title type="complete">Biographies of the Secretaries of State: Martin Van
+                    Buren</title>
                 <title type="short">Martin Van Buren</title>
             </titleStmt>
             <publicationStmt>
@@ -20,7 +21,8 @@
                 <head>Introduction</head>
                 <p>Martin Van Buren was appointed Secretary of State by President <persName>Andrew
                         Jackson</persName> on <date when="1829-03-06">March 6, 1829.</date> Van
-                    Buren served in that capacity from March 28, 1829, to <date when="1831-03-21">March 23, 1831.</date> He was an astute career politician who approached
+                    Buren served in that capacity from March 28, 1829, to <date when="1831-03-21"
+                        >March 23, 1831.</date> He was an astute career politician who approached
                     foreign affairs with caution. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="vanburen-martin.jpg"/>
@@ -41,8 +43,8 @@
                 <p>He resigned as Governor to join the Cabinet of President Andrew Jackson as
                     Secretary of State. Following his three years as Secretary, Van Buren was
                     elected Vice President under Jackson and served from 1833 to 1837.</p>
-                <p>Van Buren won the presidential election of 1836, becoming the eighth President and
-                    serving until 1841. </p>
+                <p>Van Buren won the presidential election of 1836, becoming the eighth President
+                    and serving until 1841. </p>
             </div>
             <div type="section" xml:id="influence">
                 <head>Influence on American Diplomacy</head>
@@ -56,19 +58,21 @@
                 <p>Van Buren’s tenure as Secretary of State included a number of successes. Working
                     with Jackson, he reached a settlement with Great Britain to allow trade with the
                     British West Indies. They also secured a settlement with France, gaining
-                    reparations for property seized during the <ref target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref>. In addition,
-                    they settled a commercial treaty with the Ottoman Empire that granted U.S.
-                    traders access to the Black Sea.</p>
+                    reparations for property seized during the <ref
+                        target="/milestones/1801-1829/napoleonic-wars">Napoleonic Wars</ref>. In
+                    addition, they settled a commercial treaty with the Ottoman Empire that granted
+                    U.S. traders access to the Black Sea.</p>
                 <p>However, Jackson and Van Buren encountered a number of difficult challenges. They
                     were unable to settle the Maine-New Brunswick boundary dispute with Great
                     Britain, or advance the U.S. claim to the Oregon territory. They failed to
                     establish a commercial treaty with Russia and could not persuade Mexico to sell
                     Texas.</p>
                 <p>Van Buren resigned as Secretary of State due to a split within Jackson’s Cabinet
-                    in which Vice President <ref target="/departmenthistory/people/calhoun-john-caldwell">John C.
-                    Calhoun</ref> led a dissenting group of Cabinet members. Jackson acquiesced and
-                    made a recess appointment to place Van Buren as U.S. Minister to Great Britain
-                    in 1831.</p>
+                    in which Vice President <ref
+                        target="/departmenthistory/people/calhoun-john-caldwell">John C.
+                        Calhoun</ref> led a dissenting group of Cabinet members. Jackson acquiesced
+                    and made a recess appointment to place Van Buren as U.S. Minister to Great
+                    Britain in 1831.</p>
                 <p>While in Great Britain, Van Buren worked to expand the U.S. consular presence in
                     British manufacturing centers. His progress was cut short when the Senate
                     rejected his nomination in January of 1832.</p>
@@ -79,7 +83,8 @@
                 <p>He worked to diffuse a potential breach with Great Britain when Maine farmers
                     attacked across the northern border and when Canadians burned the U.S. vessel
                     Caroline in the Niagara River. Van Buren was also wary of worsening U.S.
-                    relations with Mexico. He declined to support the U.S. <ref target="/milestones/1830-1860/texas-annexation">annexation of Texas</ref>,
+                    relations with Mexico. He declined to support the U.S. <ref
+                        target="/milestones/1830-1860/texas-annexation">annexation of Texas</ref>,
                     which would have added a slave state to the Union. </p>
             </div>
         </body>
@@ -102,16 +107,17 @@
                             Buren.</hi> Washington, D.C.: Government Printing Office, 1920. </bibl>
                     <bibl>Jones, Howard. “Anglophobia and the Aroostook War.” <hi rend="italic">New
                             England Quarterly</hi> 48 (December 1975): 519-539.</bibl>
-                    <bibl>______. “The Caroline Affair.” <hi rend="italic">Historian</hi> 38
-                        (May 1976): 485-502. </bibl>
-                    <bibl>______. <hi rend="italic">Mutiny on the Amistad: The Saga of a
-                            Slave Revolt and Its Impact on American Abolition, Law, and
-                        Diplomacy.</hi> New York: Oxford University Press, 1987. </bibl>
+                    <bibl>______. “The Caroline Affair.” <hi rend="italic">Historian</hi> 38 (May
+                        1976): 485-502. </bibl>
+                    <bibl>______. <hi rend="italic">Mutiny on the Amistad: The Saga of a Slave
+                            Revolt and Its Impact on American Abolition, Law, and Diplomacy.</hi>
+                        New York: Oxford University Press, 1987. </bibl>
                     <bibl>Niven, John. <hi rend="italic">Martin Van Buren: The Romantic Age of
                             American Politics.</hi> New York: Oxford University Press, 1983. </bibl>
-                    <bibl>Ritcheson, Charles R. “Van Buren’s Mission to London, 1831-1832.” <hi rend="italic">International History Review</hi> 8 (May 1986): 190-213. </bibl>
+                    <bibl>Ritcheson, Charles R. “Van Buren’s Mission to London, 1831-1832.” <hi
+                            rend="italic">International History Review</hi> 8 (May 1986): 190-213. </bibl>
                     <bibl>Wilson, Major L. <hi rend="italic">The Presidency of Martin Van
-                        Buren.</hi> Lawrence: University Press of Kansas, 1984. </bibl>
+                            Buren.</hi> Lawrence: University Press of Kansas, 1984. </bibl>
                 </listBibl>
             </div>
         </back>

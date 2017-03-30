@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: William Learned Marcy</title>
+                <title type="complete">Biographies of the Secretaries of State: William Learned
+                    Marcy</title>
                 <title type="short">William Learned Marcy</title>
             </titleStmt>
             <publicationStmt>
@@ -20,8 +21,8 @@
                 <head>Introduction</head>
                 <p>
                     <persName>William Learned Marcy</persName> was appointed Secretary of State by
-                    President <persName>Franklin Pierce</persName> on March 7, 1853, and entered into
-                    duty the following day. Marcy served until March 6, 1857. </p>
+                    President <persName>Franklin Pierce</persName> on March 7, 1853, and entered
+                    into duty the following day. Marcy served until March 6, 1857. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="marcy-william-learned.jpg"/>
                     <head>William Learned Marcy, 21st Secretary of State</head>
@@ -29,9 +30,10 @@
             </div>
             <div type="section" xml:id="rise">
                 <head>Rise to Prominence</head>
-                <p>Marcy was born to a farming family in Sturbridge, Massachusetts (now Southbridge) in 1786. He
-                    graduated from Brown University in 1808. After reading law, Marcy was admitted
-                    to the New York bar in 1811 and began his practice in Troy, New York.</p>
+                <p>Marcy was born to a farming family in Sturbridge, Massachusetts (now Southbridge)
+                    in 1786. He graduated from Brown University in 1808. After reading law, Marcy
+                    was admitted to the New York bar in 1811 and began his practice in Troy, New
+                    York.</p>
                 <p>Marcy served briefly as a soldier during the War of 1812. He served several years
                     as Recorder for the city of Troy while he became involved in state politics.</p>
                 <p>Marcy moved to Albany in 1823, where he served two terms as Comptroller of New
@@ -53,34 +55,35 @@
                     for his pragmatism and judgment.</p>
                 <p>During his four-year tenure, Marcy negotiated many treaties including the
                     prominent 1853 <ref target="/milestones/1830-1860/gadsden-purchase">Gadsden
-                        Treaty</ref>, which added nearly 30,000 square miles to the United States and
-                    made possible a transcontinental railroad.</p>
+                        Treaty</ref>, which added nearly 30,000 square miles to the United States
+                    and made possible a transcontinental railroad.</p>
                 <p>Interest in territorial expansion shifted from the American Southwest to the
                     Caribbean as the United States became increasingly involved in the question of
                     Cuba’s sovereignty. Marcy oversaw the drafting of the Ostend Manifesto, a
-                    document that detailed the reasons for a proposed U.S. acquisition of Cuba.
-                    The Manifesto was released to the public but was later rescinded after its
-                    issuance embarrassed the Pierce administration and met with international
-                    criticism over the expansion of U.S. slavery.</p>
+                    document that detailed the reasons for a proposed U.S. acquisition of Cuba. The
+                    Manifesto was released to the public but was later rescinded after its issuance
+                    embarrassed the Pierce administration and met with international criticism over
+                    the expansion of U.S. slavery.</p>
                 <p>The following year, Marcy negotiated a treaty with Great Britain over reciprocal
                     fishing rights in Canada.</p>
-                <p>Marcy served the duration of the Pierce presidency, until March 1857.
-                    Four months later, he unexpectedly died in New York. </p>
+                <p>Marcy served the duration of the Pierce presidency, until March 1857. Four months
+                    later, he unexpectedly died in New York. </p>
             </div>
         </body>
         <back>
             <div type="appendix">
                 <head>Bibliography</head>
                 <listBibl>
-                    <bibl>Adams, Randolph G. “William Learned Marcy.” In <hi rend="italic">The American Secretaries of State and Their
-                        Diplomacy.</hi> edited by Samuel Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
-                        Publishers, Inc.).</bibl>
+                    <bibl>Adams, Randolph G. “William Learned Marcy.” In <hi rend="italic">The
+                            American Secretaries of State and Their Diplomacy.</hi> edited by Samuel
+                        Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper
+                        Square Publishers, Inc.).</bibl>
                     <bibl>Lansford, Tom. <hi rend="italic">The Lords of Foggy Bottom: American
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001.</bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell</hi>. Westport,
-                        CT: Greenwood Press, 2004.</bibl>
+                            Secretaries of State from John Jay to Colin Powell</hi>. Westport, CT:
+                        Greenwood Press, 2004.</bibl>
                 </listBibl>
             </div>
         </back>

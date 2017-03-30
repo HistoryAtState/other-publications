@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -86,9 +86,9 @@
                 <head>Bibliography</head>
                 <listBibl>
                     <bibl>Adams, Randolph G. “James Francis Byrnes.” In <hi rend="italic">The
-                            American Secretaries of State and Their Diplomacy,</hi> edited by
-                        Samuel Flagg Bemis. Vol. 14. New York: Alfred A. Knopf, 1928. Reprint 1965
-                        (Cooper Square). </bibl>
+                            American Secretaries of State and Their Diplomacy,</hi> edited by Samuel
+                        Flagg Bemis. Vol. 14. New York: Alfred A. Knopf, 1928. Reprint 1965 (Cooper
+                        Square). </bibl>
                     <bibl>Gaddis, John Lewis. <hi rend="italic">Strategies of Containment: A
                             Critical Appraisal of American National Security Policy during the Cold
                             War.</hi> New York: Oxford University Press, 2005. </bibl>
@@ -96,8 +96,8 @@
                             Secretaries of State and the World They Shaped.</hi> New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

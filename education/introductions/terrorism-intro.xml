@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Introduction to Curriculum Packet on “Terrorism: A War Without
-                    Borders”</title>
+                <title type="complete">Introduction to Curriculum Packet on “Terrorism: A War
+                    Without Borders”</title>
                 <title type="short">Terrorism: A War Without Borders</title>
             </titleStmt>
             <publicationStmt>
@@ -23,10 +23,11 @@
         <body>
             <div type="section" xml:id="intro">
                 <head>Introduction</head>
-                <p><hi rend="italic">Terrorism: A War Without Borders</hi> was produced by the United States Department of
-                    State in collaboration with a special committee of social studies educators. The
-                    video, print materials, and other resources in this package are intended for use
-                    with middle school and high school courses.</p>
+                <p><hi rend="italic">Terrorism: A War Without Borders</hi> was produced by the
+                    United States Department of State in collaboration with a special committee of
+                    social studies educators. The video, print materials, and other resources in
+                    this package are intended for use with middle school and high school
+                    courses.</p>
                 <p>The purpose of this instructional package is to help students to understand the
                     connection between world events and their own lives and those of others in their
                     community. It builds upon the resources of the U.S. Department of State, and can

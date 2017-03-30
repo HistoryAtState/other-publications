@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: William Jennings Bryan</title>
+                <title type="complete">Biographies of the Secretaries of State: William Jennings
+                    Bryan</title>
                 <title type="short">William Jennings Bryan</title>
             </titleStmt>
             <publicationStmt>
@@ -19,8 +20,8 @@
                 <head>Introduction</head>
                 <p> President <persName>Woodrow Wilson</persName> appointed <persName>William
                         Jennings Bryan</persName> Secretary of State on March 5, 1913. He entered
-                    into duty the same day and served as Secretary until his resignation on
-                    June 9, 1915. </p>
+                    into duty the same day and served as Secretary until his resignation on June 9,
+                    1915. </p>
                 <figure rend="smallfloatinline">
                     <graphic url="bryan-william-jennings.jpg"/>
                     <head>William Jennings Bryan, 41st Secretary of State</head>
@@ -35,7 +36,8 @@
                 <p>Bryan won election to the U.S. House of Representatives in 1890 and served until
                     1895, championing Populist causes such as the free coinage of silver, national
                     income tax, and direct election of Senators. After mounting an unsuccessful bid
-                    for the U.S. Senate in 1894, Bryan returned to Nebraska and edited the <hi rend="italic">Omaha World-Herald</hi>. Although not a declared candidate for
+                    for the U.S. Senate in 1894, Bryan returned to Nebraska and edited the <hi
+                        rend="italic">Omaha World-Herald</hi>. Although not a declared candidate for
                     the 1896 presidential race, Bryan secured the Democratic nomination following
                     the delivery of his “Cross of Gold” speech but lost the election to Republican
                     candidate <persName>William McKinley</persName>. </p>
@@ -50,10 +52,11 @@
                     that pledged the 30 signatories to refrain from hostilities during arbitration
                     of disputes. He also negotiated the Bryan–Chamorro Treaty in 1914 (ratified by
                     the Senate in 1916), which permitted the United States the latitude to construct
-                    an isthmian canal across Nicaragua and secured rights to build naval bases at the Gulf
-                    of Fonseca and on the Corn Islands. </p>
+                    an isthmian canal across Nicaragua and secured rights to build naval bases at
+                    the Gulf of Fonseca and on the Corn Islands. </p>
                 <p>Bryan’s position on the rights of neutrals during wartime placed him at odds with
-                    President Wilson. Declaring U.S. neutrality following the outbreak of <ref target="/milestones/1914-1920/foreword">World War I</ref> in August 1914,
+                    President Wilson. Declaring U.S. neutrality following the outbreak of <ref
+                        target="/milestones/1914-1920/foreword">World War I</ref> in August 1914,
                     Wilson adhered to traditional concepts governing the recognition of blockades,
                     neutral transport of contraband goods, and travel of civilians to belligerent
                     nations on combatant ships. Bryan asserted that technological innovations such
@@ -80,7 +83,8 @@
                     <bibl>Bemis, Samuel Flagg, ed. <hi rend="italic">The American Secretaries of
                             State and Their Diplomacy.</hi> New York: Alfred A. Knopf, 1928.</bibl>
                     <bibl>Clements, Kendrick A. <hi rend="italic">William Jennings Bryan: Missionary
-                            Isolationist.</hi> Knoxville: University of Tennessee Press, 1983.</bibl>
+                            Isolationist.</hi> Knoxville: University of Tennessee Press,
+                        1983.</bibl>
                     <bibl>Coletta, Paolo E. <hi rend="italic">William Jennings Bryan.</hi> 3 vols.
                         Lincoln: University of Nebraska Press, 1964–1969.</bibl>
                     <bibl>Findling, John E. <hi rend="italic">Dictionary of American Diplomatic

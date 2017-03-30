@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -36,24 +36,28 @@
                     State College in 1852. Three years later, he enrolled in Brown University and
                     graduated in 1858. Hay studied law in the office of his uncle and was admitted
                     to the Illinois bar in 1861. During this time, he met <persName>Abraham
-                    Lincoln</persName> and played a small part in his presidential campaign. After
-                    Lincoln’s election, the new President selected Hay as his private secretary.</p>
-                <p>Following the U.S. Civil War, Hay served in multiple diplomatic posts, including those
-                    of Paris, Vienna, and Madrid. In 1870, he left the diplomatic service to write.
-                    He would eventually publish a ten-volume study of Lincoln, co-written with John
-                    Nicolay.</p>
+                        Lincoln</persName> and played a small part in his presidential campaign.
+                    After Lincoln’s election, the new President selected Hay as his private
+                    secretary.</p>
+                <p>Following the U.S. Civil War, Hay served in multiple diplomatic posts, including
+                    those of Paris, Vienna, and Madrid. In 1870, he left the diplomatic service to
+                    write. He would eventually publish a ten-volume study of Lincoln, co-written
+                    with John Nicolay.</p>
                 <p>Hay returned to public service in 1896 when newly elected President McKinley
                     appointed him Ambassador to Great Britain. He was offered the position as
-                    Secretary of State while the United States negotiated the peace treaty with Spain after
-                    winning the Spanish-American War. He accepted the offer and entered into duty in
-                    September of 1898. </p>
+                    Secretary of State while the United States negotiated the peace treaty with
+                    Spain after winning the Spanish-American War. He accepted the offer and entered
+                    into duty in September of 1898. </p>
             </div>
             <div type="section" xml:id="influence">
                 <head>Influence on American Diplomacy</head>
                 <p>Hay had a significant influence on the direction of U.S. foreign policy while
-                    serving in President McKinley’s Cabinet. He faced the aftermath of the <ref target="/milestones/1866-1898/spanish-american-war">Spanish-American
-                    War</ref> and the annexation of the <ref target="/milestones/1899-1913/war">Philippine Islands</ref>, which amplified U.S. interest in Asia.</p>
-                <p>As Secretary of State, Hay was a proponent of increased trade through the <ref target="/milestones/1899-1913/hay-and-china">"Open Door"</ref> policy. He
+                    serving in President McKinley’s Cabinet. He faced the aftermath of the <ref
+                        target="/milestones/1866-1898/spanish-american-war">Spanish-American
+                        War</ref> and the annexation of the <ref target="/milestones/1899-1913/war"
+                        >Philippine Islands</ref>, which amplified U.S. interest in Asia.</p>
+                <p>As Secretary of State, Hay was a proponent of increased trade through the <ref
+                        target="/milestones/1899-1913/hay-and-china">"Open Door"</ref> policy. He
                     worked to encourage stability in China and to counteract the rising nationalism
                     that threatened foreign interests in China, which included the challenge of the
                     Boxer Rebellion of 1900.</p>
@@ -63,8 +67,8 @@
                     Hay had few policy differences, although the new President wielded greater
                     influence over foreign policy than his predecessor.</p>
                 <p>Hay helped secure, by treaty, the right for the United States to construct and
-                    defend the <ref target="/milestones/1899-1913/panama-canal">Panama Canal</ref> in
-                    1903.</p>
+                    defend the <ref target="/milestones/1899-1913/panama-canal">Panama Canal</ref>
+                    in 1903.</p>
                 <p>Although he suffered from deteriorating health, Hay played an active role in the
                     Roosevelt administration during the last two years of his tenure. He died in
                     office in 1905. </p>
@@ -80,8 +84,8 @@
                             Secretaries of State and the World They Shaped. </hi>New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell. </hi>Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell. </hi>Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                 </listBibl>
             </div>
         </back>

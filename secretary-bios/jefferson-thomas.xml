@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Thomas Jefferson</title>
+                <title type="complete">Biographies of the Secretaries of State: Thomas
+                    Jefferson</title>
                 <title type="short">Thomas Jefferson</title>
             </titleStmt>
             <publicationStmt>
@@ -19,7 +20,8 @@
                 <head>Introduction</head>
                 <p>
                     <persName>Thomas Jefferson</persName> served as the first Secretary of State
-                    from <date when="1790-03-22">March 22, 1790</date>, to <date when="1793-12-31">December 31, 1793.</date> Jefferson brought remarkable talents to a long
+                    from <date when="1790-03-22">March 22, 1790</date>, to <date when="1793-12-31"
+                        >December 31, 1793.</date> Jefferson brought remarkable talents to a long
                     career guiding U.S. foreign affairs. He successfully balanced the country’s
                     relatively weak geopolitical position and his fear of expansive federal powers
                     with his desire for U.S. territorial and commercial expansion. </p>
@@ -34,18 +36,20 @@
                     of William &amp; Mary in 1762, studied law, and was admitted to the Virginia bar
                     in 1767. He was elected to the Virginia House of Burgesses in 1769 and served
                     until the British dissolved the House in 1774. Jefferson was a leading activist
-                    in the U.S. independence movement. In 1773, he was a founding member of Virginia's
-                        <ref target="/milestones/1776-1783/secret-committee"> Committee of
-                        Correspondence</ref>, which disseminated anti-British views, and, in 1774, he published
-                        <hi rend="italic">A Summary View of the Rights of British America</hi>.</p>
-                <p>Jefferson was elected as a Delegate to the Second Continental Congress in 1775, and,
-                    in 1776 when he was thirty-three years of age, he drafted the <ref target="/milestones/1776-1783/declaration">Declaration of
+                    in the U.S. independence movement. In 1773, he was a founding member of
+                    Virginia's <ref target="/milestones/1776-1783/secret-committee"> Committee of
+                        Correspondence</ref>, which disseminated anti-British views, and, in 1774,
+                    he published <hi rend="italic">A Summary View of the Rights of British
+                        America</hi>.</p>
+                <p>Jefferson was elected as a Delegate to the Second Continental Congress in 1775,
+                    and, in 1776 when he was thirty-three years of age, he drafted the <ref
+                        target="/milestones/1776-1783/declaration">Declaration of
                     Independence</ref>. During the Revolutionary War, Jefferson returned to Virginia
                     and served as a Delegate (1776-1779) and then as Governor (1779 and 1780). He
-                    served as a Delegate to the Confederation Congress from 1783 to 1784 and played a
-                    major role in shaping federal land policy. Jefferson joined <persName>John
-                    Adams</persName> and <persName>Benjamin Franklin</persName> in Paris in 1784 to
-                    negotiate commercial treaties with European powers. The following year, he
+                    served as a Delegate to the Confederation Congress from 1783 to 1784 and played
+                    a major role in shaping federal land policy. Jefferson joined <persName>John
+                        Adams</persName> and <persName>Benjamin Franklin</persName> in Paris in 1784
+                    to negotiate commercial treaties with European powers. The following year, he
                     succeeded Franklin as Minister to France (1785-1789) before becoming Secretary
                     of State.</p>
                 <p>A founder of the Democratic-Republican Party, Jefferson was elected Vice
@@ -63,9 +67,11 @@
                     Secretary of the Treasury <persName>Alexander Hamilton</persName>, who favored
                     an assertive central government—prompted Jefferson’s resignation.</p>
                 <p>As President, Jefferson’s interest in territorial expansion was satisfied by
-                        <persName>Napoleon Bonaparte’s</persName> 1803 offer to sell the <ref target="/milestones/1801-1829/louisiana-purchase">Louisiana Territory</ref>
+                        <persName>Napoleon Bonaparte’s</persName> 1803 offer to sell the <ref
+                        target="/milestones/1801-1829/louisiana-purchase">Louisiana Territory</ref>
                     for 15 million dollars. The purchase solved the longstanding dispute over
-                    navigation rights on the Mississippi River, and doubled the size of the country.</p>
+                    navigation rights on the Mississippi River, and doubled the size of the
+                    country.</p>
                 <p> Jefferson waged a foreign war, from 1801 to 1805, when he sent U.S. warships to
                     force the Barbary States to cease harassing U.S. shipping. War between France
                     and Great Britain and those states’ infringement of U.S. neutrality inspired
@@ -87,11 +93,13 @@
                             Jefferson</hi> 33 vols. to date. Princeton: Princeton University Press,
                         1950-.</bibl>
                     <bibl>Kaplan, Lawrence S. <hi rend="italic">Jefferson and France: An Essay on
-                            Politics and Political Ideas.</hi> 1967. Reprint, Westport, CT: Greenwood Press, 1980.</bibl>
+                            Politics and Political Ideas.</hi> 1967. Reprint, Westport, CT:
+                        Greenwood Press, 1980.</bibl>
                     <bibl>McCoy, Drew R. <hi rend="italic">The Elusive Republic: Political Economy
                             in Jeffersonian America.</hi> New York: Norton, 1982.</bibl>
                     <bibl>Peterson, Merrill D. <hi rend="italic">Thomas Jefferson and the New
-                            Nation: A Biography.</hi> New York: Oxford University Press, 1970.</bibl>
+                            Nation: A Biography.</hi> New York: Oxford University Press,
+                        1970.</bibl>
                     <bibl>Library of Congress: American Memory Collection, <hi rend="italic">The
                             Thomas Jefferson Papers</hi>
                     </bibl>

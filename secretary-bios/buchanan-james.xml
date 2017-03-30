@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -39,10 +39,11 @@
                     lawyer in Lancaster. After a failed attempt to begin his practice in Kentucky,
                     he returned to Pennsylvania where he was admitted to the bar in 1812. </p>
                 <p>Two years later, after marching in a military company against the British in the
-                    <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>, Buchanan entered politics when he was nominated to the State
-                    Assembly. Following a second term in the lower house of the Pennsylvania
-                    legislature, Buchanan was elected to the U.S. House of Representatives in 1820.
-                    He served in this position for ten years.</p>
+                        <ref target="/milestones/1801-1829/war-of-1812">War of 1812</ref>, Buchanan
+                    entered politics when he was nominated to the State Assembly. Following a second
+                    term in the lower house of the Pennsylvania legislature, Buchanan was elected to
+                    the U.S. House of Representatives in 1820. He served in this position for ten
+                    years.</p>
                 <p>In 1832, President <persName>Andrew Jackson</persName> made Buchanan Minister
                     Plenipotentiary to Russia. After returning from two years in St. Petersburg, he
                     was elected to the U.S. Senate in 1834 and served for three terms. Buchanan had
@@ -53,15 +54,17 @@
             </div>
             <div type="section" xml:id="Influence">
                 <head>Influence on American Diplomacy</head>
-                <p>Both President Polk and Secretary Buchanan believed in <ref target="/milestones/1830-1860/foreword">Manifest Destiny</ref> and were
+                <p>Both President Polk and Secretary Buchanan believed in <ref
+                        target="/milestones/1830-1860/foreword">Manifest Destiny</ref> and were
                     strong proponents of U.S. westward expansion.</p>
-                <p>In addition to supporting U.S. efforts to annex Texas, Buchanan
-                    was charged with negotiating a settlement on the boundary dispute with Great
-                    Britain over the <ref target="/milestones/1830-1860/oregon-territory">Oregon
-                        Territory</ref>. Like the 1848 treaty with Mexico that would soon follow,
-                    the 1846 Oregon Treaty fell short of a full territorial concession.</p>
-                <p>Outgoing President Tyler successfully pushed for the <ref target="/milestones/1830-1860/texas-annexation">Annexation of Texas</ref> by a
-                    congressional joint resolution just before leaving office, an effort supported
+                <p>In addition to supporting U.S. efforts to annex Texas, Buchanan was charged with
+                    negotiating a settlement on the boundary dispute with Great Britain over the
+                        <ref target="/milestones/1830-1860/oregon-territory">Oregon Territory</ref>.
+                    Like the 1848 treaty with Mexico that would soon follow, the 1846 Oregon Treaty
+                    fell short of a full territorial concession.</p>
+                <p>Outgoing President Tyler successfully pushed for the <ref
+                        target="/milestones/1830-1860/texas-annexation">Annexation of Texas</ref> by
+                    a congressional joint resolution just before leaving office, an effort supported
                     by Buchanan. Annexation prompted the Mexican-American War and resulted in the
                     1848 Treaty of Guadalupe Hidalgo. The treaty brought the United States
                     significant territorial expansion, yet Buchanan opposed its outcome and believed
@@ -81,9 +84,10 @@
             <div type="appendix">
                 <head>Bibliography</head>
                 <listBibl>
-                    <bibl>Adams, Randolph G. “James Buchanan.” In <hi rend="italic">The American Secretaries of State and Their
-                            Diplomacy,</hi> edited by Samuel Flagg Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963
-                        (Cooper Square Publishers, Inc.).</bibl>
+                    <bibl>Adams, Randolph G. “James Buchanan.” In <hi rend="italic">The American
+                            Secretaries of State and Their Diplomacy,</hi> edited by Samuel Flagg
+                        Bemis. Vol. 5. New York: Alfred A. Knopf, 1928. Reprint 1963 (Cooper Square
+                        Publishers, Inc.).</bibl>
                     <bibl>DeConde, Alexander. <hi rend="italic">The American Secretaries of State:
                             An Interpretation.</hi> New York: Praeger, 1962. </bibl>
                     <bibl>Klein, Philip Shriver. <hi rend="italic">President James Buchanan: A
@@ -92,8 +96,8 @@
                             Secretaries of State and the World They Shaped. </hi>New York:
                         Encyclopedia Society, 2001. </bibl>
                     <bibl>Mihalkanin, Edward S., ed. <hi rend="italic">American Statesmen:
-                            Secretaries of State from John Jay to Colin Powell.</hi> Westport,
-                        CT: Greenwood Press, 2004. </bibl>
+                            Secretaries of State from John Jay to Colin Powell.</hi> Westport, CT:
+                        Greenwood Press, 2004. </bibl>
                     <bibl>Potter, David. <hi rend="italic">The Impending Crisis, 1848-1861.</hi> New
                         York: Harper &amp; Row, 1976.</bibl>
                 </listBibl>

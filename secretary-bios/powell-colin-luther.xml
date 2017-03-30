@@ -1,8 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="complete">Biographies of the Secretaries of State: Colin L. Powell</title>
+                <title type="complete">Biographies of the Secretaries of State: Colin L.
+                    Powell</title>
                 <title type="short">Colin L. Powell</title>
             </titleStmt>
             <publicationStmt>
@@ -65,12 +66,12 @@
                 <p>When the Administration's attention shifted to Iraq and the possibility that
                         <persName>Saddam Hussein</persName> was manufacturing weapons of mass
                     destruction (WMD), Powell pressed to have UN inspectors investigate. In February
-                    2003, Powell presented intelligence to the UN that supported the claim that
-                    Iraq had weapons of mass destruction and could produce more.
-                    Subsequently, the Administration moved quickly toward preemptive military action
-                    against Iraq, despite Powell’s advice that war should not begin until a large
-                    coalition of allies and a long-term occupation plan were in place. In 2004, some of 
-                    the intelligence that Powell had brought before the UN in 2003 was found to be 
+                    2003, Powell presented intelligence to the UN that supported the claim that Iraq
+                    had weapons of mass destruction and could produce more. Subsequently, the
+                    Administration moved quickly toward preemptive military action against Iraq,
+                    despite Powell’s advice that war should not begin until a large coalition of
+                    allies and a long-term occupation plan were in place. In 2004, some of the
+                    intelligence that Powell had brought before the UN in 2003 was found to be
                     erroneous.</p>
                 <p>Although Afghanistan and Iraq demanded a great deal of Powell’s attention during
                     his tenure, he pursued other important U.S. foreign policy initiatives and
@@ -99,8 +100,8 @@
                 <p>On <date when="2004-11-16">November 15, 2004</date>, Powell announced his
                     resignation. After stepping down as Secretary of State, he returned to a busy
                     life in the private sector continuing his work with America's Promise Alliance.
-                    He serves on the Boards of Directors of the Council on Foreign Relations, the 
-                    Eisenhower Fellowship Program, and the Powell Center at the City College of New 
+                    He serves on the Boards of Directors of the Council on Foreign Relations, the
+                    Eisenhower Fellowship Program, and the Powell Center at the City College of New
                     York.</p>
             </div>
         </body>
@@ -108,7 +109,8 @@
             <div type="appendix">
                 <head>Bibliography</head>
                 <listBibl>
-                    <bibl> Allen, Mike. "Powell Announces His Resignation." <hi rend="italic">Washington Post</hi>, 16 November 2004. A1. </bibl>
+                    <bibl> Allen, Mike. "Powell Announces His Resignation." <hi rend="italic"
+                            >Washington Post</hi>, 16 November 2004. A1. </bibl>
                     <bibl>Deyoung, Karen. <hi rend="italic">Soldier: The Life of Colin Powell</hi>.
                         New York: Alfred A. Knopf, 2006.</bibl>
                     <bibl>Powell, Colin, and Joseph Persico. <hi rend="italic">My American
