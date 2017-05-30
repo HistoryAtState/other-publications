@@ -131,13 +131,13 @@
                                 >here</ref> for more information on the ebook program.</item>
                         <item><hi rend="strong">Online:</hi> newer <title level="s">FRUS</title>
                             volumes are available in full on our website. Click <ref
-                                target="$app/historicaldocuments">here</ref> for a list of volumes with
-                            links to the full text.</item>
+                                target="$app/historicaldocuments">here</ref> for a list of volumes
+                            with links to the full text.</item>
                         <item><hi rend="strong">PDF:</hi> newer <title level="s">FRUS</title>
                             volumes are available in Adobe’s Portable Document Format (PDF), which
                             you can download from our website. Click <ref
-                                target="$app/historicaldocuments">here</ref> for a list of volumes with
-                            links to the PDFs.</item>
+                                target="$app/historicaldocuments">here</ref> for a list of volumes
+                            with links to the PDFs.</item>
                     </list>
                 </div>
                 <milestone unit="question" rend="hr"/>
@@ -260,8 +260,8 @@
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-to-recognize-US">
                     <head>What country was the first to recognize the United States?</head>
-                    <p><ref target="$app/countries/france">France</ref> recognized the United States as
-                        an independent state on February 6, 1778.</p>
+                    <p><ref target="$app/countries/france">France</ref> recognized the United States
+                        as an independent state on February 6, 1778.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="who-was-first-US-consul">
@@ -277,8 +277,8 @@
                 <div type="question" xml:id="when-first-US-treaty">
                     <head>When was the first U.S. treaty signed?</head>
                     <p>The first U.S. treaty to be signed was a Treaty of Amity and Commerce with
-                            <ref target="$app/countries/france">France</ref> that was signed in Paris on
-                        February 6, 1778.</p>
+                            <ref target="$app/countries/france">France</ref> that was signed in
+                        Paris on February 6, 1778.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="when-first-non-European-treaty">
@@ -293,8 +293,8 @@
                 <div type="question" xml:id="first-treaty-under-constitution">
                     <head>What was the first U.S. treaty to be ratified under the
                         Constitution?</head>
-                    <p>A consular convention with <ref target="$app/countries/france">France</ref> was
-                        signed at Versailles on November 14, 1788. President George Washington
+                    <p>A consular convention with <ref target="$app/countries/france">France</ref>
+                        was signed at Versailles on November 14, 1788. President George Washington
                         submitted to the Senate on June 11, 1789, the Senate approved it on July 29,
                         and it entered into effect on January 6, 1790.</p>
                 </div>
@@ -326,9 +326,9 @@
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-female-secretary">
                     <head>Who was the first woman to serve as Secretary of State?</head>
-                    <p><ref target="$app/departmenthistory/people/albright-madeleine-korbel">Madeleine
-                            K. Albright</ref> was the first woman to serve as Secretary of
-                        State.</p>
+                    <p><ref target="$app/departmenthistory/people/albright-madeleine-korbel"
+                            >Madeleine K. Albright</ref> was the first woman to serve as Secretary
+                        of State.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-African-American-secretary">
@@ -342,10 +342,10 @@
                     <head>Were there equivalents to the Secretary of State prior to the
                         Constitution?</head>
                     <p>There were two Secretaries of Foreign Affairs under the Continental Congress.
-                            <ref target="$app/departmenthistory/people/livingston-robert-r">Robert R.
-                            Livingston</ref> served from October 20, 1781 until June 4, 1783. <ref
-                            target="$app/departmenthistory/people/jay-john">John Jay</ref> served from
-                        May 7, 1784 until March 4, 1789.</p>
+                            <ref target="$app/departmenthistory/people/livingston-robert-r">Robert
+                            R. Livingston</ref> served from October 20, 1781 until June 4, 1783.
+                            <ref target="$app/departmenthistory/people/jay-john">John Jay</ref>
+                        served from May 7, 1784 until March 4, 1789.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-secretary-to-travel">
@@ -356,8 +356,8 @@
                         and January 28, 1866. He met with <ref target="$app/countries/denmark"
                             >Danish</ref> colonial officials in the Virgin Islands, with the
                         Presidents of the <ref target="$app/countries/dominican-republic">Dominican
-                            Republic</ref> and <ref target="$app/countries/haiti">Haiti</ref>, and with
-                            <ref target="$app/countries/spain">Spanish</ref> colonial officials in
+                            Republic</ref> and <ref target="$app/countries/haiti">Haiti</ref>, and
+                        with <ref target="$app/countries/spain">Spanish</ref> colonial officials in
                         Cuba.</p>
                     <p>For general information on the travel of the Secretary of State, please click
                             <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
@@ -367,14 +367,15 @@
                     <head>Who was the first Secretary of State to travel outside the United States
                         on official business?</head>
                     <p>The first official travel by a Secretary of State outside the United States
-                        was by <ref target="$app/departmenthistory/people/root-elihu">Elihu Root</ref>
-                        in 1906. Root left the United States on July 4 and attended the Third
-                        International Conference of American States in Rio de Janeiro, <ref
-                            target="$app/countries/brazil">Brazil</ref>, after which he visited <ref
-                            target="$app/countries/uruguay">Uruguay</ref>, <ref
+                        was by <ref target="$app/departmenthistory/people/root-elihu">Elihu
+                            Root</ref> in 1906. Root left the United States on July 4 and attended
+                        the Third International Conference of American States in Rio de Janeiro,
+                            <ref target="$app/countries/brazil">Brazil</ref>, after which he visited
+                            <ref target="$app/countries/uruguay">Uruguay</ref>, <ref
                             target="$app/countries/argentina">Argentina</ref>, <ref
-                            target="$app/countries/chile">Chile</ref>, <ref target="$app/countries/peru"
-                            >Peru</ref>, <ref target="$app/countries/panama">Panama</ref>, and <ref
+                            target="$app/countries/chile">Chile</ref>, <ref
+                            target="$app/countries/peru">Peru</ref>, <ref
+                            target="$app/countries/panama">Panama</ref>, and <ref
                             target="$app/countries/colombia">Colombia</ref>.</p>
                     <p>For general information on the travel of the Secretary of State, please click
                             <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
@@ -386,7 +387,7 @@
                     <head>Who was the first Ambassador to …?</head>
                     <p>A listing of U.S. Ambassadors by country can be found <ref
                             target="$app/departmenthistory/people/chiefsofmission/by-country"
-                        >here</ref>.</p>
+                            >here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="who-were-first-ambassadors">
@@ -404,28 +405,28 @@
                     <p>Since World War II, the following U.S. Ambassadors have been killed by
                         militants:</p>
                     <list rend="bulleted">
-                        <item><ref target="$app/departmenthistory/people/mein-john-gordon">John Gordon
-                                Mein</ref>, Ambassador to Guatemala, August 28, 1968. Mein was <ref
-                                target="$app/historicaldocuments/frus1964-68v31/d114">killed by a gunman
-                                in Guatemala City</ref>.</item>
-                        <item><ref target="$app/departmenthistory/people/noel-cleo-allen">Cleo A. Noel,
-                                Jr.</ref>, Ambassador to Sudan, March 1, 1973. Noel was taken
+                        <item><ref target="$app/departmenthistory/people/mein-john-gordon">John
+                                Gordon Mein</ref>, Ambassador to Guatemala, August 28, 1968. Mein
+                            was <ref target="$app/historicaldocuments/frus1964-68v31/d114">killed by
+                                a gunman in Guatemala City</ref>.</item>
+                        <item><ref target="$app/departmenthistory/people/noel-cleo-allen">Cleo A.
+                                Noel, Jr.</ref>, Ambassador to Sudan, March 1, 1973. Noel was taken
                             hostage in Khartoum and <ref
                                 target="$app/historicaldocuments/frus1969-76ve06/d217">killed by his
                                 kidnappers</ref>.</item>
-                        <item><ref target="$app/departmenthistory/people/davies-rodger-paul">Rodger P.
-                                Davies</ref>, Ambassador to Cyprus, August 19, 1974. Davies was <ref
-                                target="$app/historicaldocuments/frus1969-76v30/d139">shot during a
-                                demonstration</ref> at the Embassy in Nicosia.</item>
-                        <item><ref target="$app/departmenthistory/people/meloy-francis-edward">Francis
-                                E. Meloy, Jr.</ref>, Ambassador to Lebanon, June 16, 1976. Meloy was
-                            killed by a gunman in Beruit.</item>
-                        <item><ref target="$app/departmenthistory/people/dubs-adolph">Adolph Dubs</ref>,
-                            Ambassador to Afghanistan, February 14, 1979. Dubs was captured in Kabul
-                            and was killed during the rescue attempt.</item>
-                        <item><ref target="$app/departmenthistory/people/stevens-john-christopher">J.
-                                Christopher Stevens</ref>, Ambassador to Libya, September 11, 2012.
-                            Stevens was killed in an attack on the Mission in Benghazi.</item>
+                        <item><ref target="$app/departmenthistory/people/davies-rodger-paul">Rodger
+                                P. Davies</ref>, Ambassador to Cyprus, August 19, 1974. Davies was
+                                <ref target="$app/historicaldocuments/frus1969-76v30/d139">shot
+                                during a demonstration</ref> at the Embassy in Nicosia.</item>
+                        <item><ref target="$app/departmenthistory/people/meloy-francis-edward"
+                                >Francis E. Meloy, Jr.</ref>, Ambassador to Lebanon, June 16, 1976.
+                            Meloy was killed by a gunman in Beruit.</item>
+                        <item><ref target="$app/departmenthistory/people/dubs-adolph">Adolph
+                                Dubs</ref>, Ambassador to Afghanistan, February 14, 1979. Dubs was
+                            captured in Kabul and was killed during the rescue attempt.</item>
+                        <item><ref target="$app/departmenthistory/people/stevens-john-christopher"
+                                >J. Christopher Stevens</ref>, Ambassador to Libya, September 11,
+                            2012. Stevens was killed in an attack on the Mission in Benghazi.</item>
                     </list>
                     <p>The American Foreign Service Association maintains a list of foreign service
                         officers killed in the line of duty <ref
@@ -518,15 +519,15 @@
                     <item><ref target="$app/departmenthistory/people/owen-ruth-bryan">Ruth Bryan
                             Owen</ref> was the first woman to be chief of a U.S. diplomatic
                         mission.</item>
-                    <item><ref target="$app/departmenthistory/people/anderson-helen-eugenie-moore">Helen
-                            Eugenie Moore Anderson</ref> was the first woman to hold the rank of
-                        Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/willis-frances-elizabeth">Frances
-                            E. Willis</ref> was the first female Foreign Service Officer to become
-                        an Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/laise-caroline-clendening">Carol C.
-                            Laise</ref> was the first woman to become an Assistant Secretary of
-                        State.</item>
+                    <item><ref target="$app/departmenthistory/people/anderson-helen-eugenie-moore"
+                            >Helen Eugenie Moore Anderson</ref> was the first woman to hold the rank
+                        of Ambassador.</item>
+                    <item><ref target="$app/departmenthistory/people/willis-frances-elizabeth"
+                            >Frances E. Willis</ref> was the first female Foreign Service Officer to
+                        become an Ambassador.</item>
+                    <item><ref target="$app/departmenthistory/people/laise-caroline-clendening"
+                            >Carol C. Laise</ref> was the first woman to become an Assistant
+                        Secretary of State.</item>
                     <item><ref target="$app/departmenthistory/people/benson-lucy-wilson-peters">Lucy
                             Wilson Benson</ref> was the first woman to become Under Secretary of
                         State.</item>
@@ -539,16 +540,16 @@
                     <item><ref target="$app/departmenthistory/people/bassett-ebenezer-don-carlos"
                             >Ebenezer Don Carlos Bassett</ref> was the first African-American
                         diplomat.</item>
-                    <item><ref target="$app/departmenthistory/people/wharton-clifton-reginald">Clifton
-                            R. Wharton</ref> was the first African American to join the Foreign
-                        Service. He was also the first African American appointed as chief of a
-                        diplomatic mission to a European country.</item>
-                    <item><ref target="$app/departmenthistory/people/dudley-edward-richard">Edward R.
-                            Dudley</ref> was the first African American to hold the rank of
+                    <item><ref target="$app/departmenthistory/people/wharton-clifton-reginald"
+                            >Clifton R. Wharton</ref> was the first African American to join the
+                        Foreign Service. He was also the first African American appointed as chief
+                        of a diplomatic mission to a European country.</item>
+                    <item><ref target="$app/departmenthistory/people/dudley-edward-richard">Edward
+                            R. Dudley</ref> was the first African American to hold the rank of
                         Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/harris-patricia-roberts">Patricia
-                            Roberts Harris </ref>was the first African American woman to hold the
-                        rank of Ambassador.</item>
+                    <item><ref target="$app/departmenthistory/people/harris-patricia-roberts"
+                            >Patricia Roberts Harris </ref>was the first African American woman to
+                        hold the rank of Ambassador.</item>
                 </list>
             </div>
             <div type="section" xml:id="diplomatic-and-consular-posts">
