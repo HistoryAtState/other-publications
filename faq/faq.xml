@@ -43,20 +43,20 @@
                         published in <title level="s">FRUS</title>, documents can generally be found
                         in one of two locations:</p>
                     <p>Most Department records prior to the mid-1970s have been retired to the <ref
-                            target="http://www.archives.gov">U.S. National Archives and Records
+                            target="https://www.archives.gov">U.S. National Archives and Records
                             Administration</ref> (NARA). NARA is located at <ref
-                            target="http://maps.google.com/maps?q=8601+Adelphi+Road,+College+Park,+MD+20740&amp;oe=UTF-8&amp;hnear=8601+Adelphi+Rd,+College+Park,+Maryland+20740&amp;gl=us&amp;t=m&amp;z=16"
+                            target="https://maps.google.com/maps?q=8601+Adelphi+Road,+College+Park,+MD+20740&amp;oe=UTF-8&amp;hnear=8601+Adelphi+Rd,+College+Park,+Maryland+20740&amp;gl=us&amp;t=m&amp;z=16"
                             >8601 Adelphi Road, College Park, MD 20740</ref>. You may contact NARA
                         by e-mail at <ref target="mailto:archives2reference@nara.gov"
                             >archives2reference@nara.gov</ref>, or by postal mail at the above
                         address, sent to the attention of the "Archives II Reference Branch (RDT2)."
                         Additional forms of contact are available at the National Archives and
-                        Records Administration's <ref target="http://www.archives.gov/contact"
+                        Records Administration's <ref target="https://www.archives.gov/contact"
                             >website</ref>.</p>
                     <p>Records not yet retired to the National Archives are controlled by the
                         Department of State’s Office of Information Programs and Services (IPS). IPS
                         oversees Freedom of Information Act requests for the Department. Information
-                        about IPS is available <ref target="http://www.state.gov/m/a/ips/"
+                        about IPS is available <ref target="https://www.state.gov/m/a/ips/"
                             >here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
@@ -66,10 +66,10 @@
                     <p>The Office of the Historian is not the repository for Department records.</p>
                     <p>Records of retired employees are held by the National Archives and Records
                         Administration’s <ref
-                            target="http://www.archives.gov/st-louis/archival-programs/civilian-personnel-archival/index.html"
+                            target="https://www.archives.gov/st-louis/archival-programs/civilian-personnel-archival/index.html"
                             >National Personnel Records Center</ref>. The National Personnel Records
                         Center is located at <ref
-                            target="http://maps.google.com/maps?q=1+Archives+Drive,+Saint+Louis,+MO+63138&amp;oe=UTF-8&amp;hnear=1+Archives+Dr,+St+Louis,+Missouri+63138&amp;gl=us&amp;t=m&amp;z=16"
+                            target="https://maps.google.com/maps?q=1+Archives+Drive,+Saint+Louis,+MO+63138&amp;oe=UTF-8&amp;hnear=1+Archives+Dr,+St+Louis,+Missouri+63138&amp;gl=us&amp;t=m&amp;z=16"
                             >1 Archives Drive, Saint Louis, MO 63138</ref>. You may contact the
                         National Personnel Records Center by email at <ref
                             target="mailto:stlarr.archives@nara.gov">stlarr.archives@nara.gov</ref>
@@ -95,11 +95,11 @@
                         States</title>?</head>
                     <p><title level="s">Foreign Relations of the United States</title> is the
                         official documentary record of U.S. foreign policy. More information about
-                        the series is available <ref target="/historicaldocuments/about-frus"
+                        the series is available <ref target="$app/historicaldocuments/about-frus"
                             >here</ref>.</p>
                     <p>The series celebrated its sesquicentennial in 2011. More information about
                         the history of the series is available <ref
-                            target="/historicaldocuments/frus-history">here</ref>.</p>
+                            target="$app/historicaldocuments/frus-history">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="how-to-purchase-frus">
@@ -107,7 +107,7 @@
                         do so?</head>
                     <p><title level="s">FRUS</title> volumes are sold by the Government Printing
                         Office. You may contact the Government Printing Office <ref
-                            target="http://bookstore.gpo.gov">here</ref>, or by telephone at
+                            target="https://bookstore.gpo.gov">here</ref>, or by telephone at
                         202-512-1800.</p>
                     <p><title level="s">FRUS</title> volumes are also available in electronic format
                         free of charge. Please click <ref target="#frus-formats">here</ref> for more
@@ -123,20 +123,20 @@
                             level="s">FRUS</title> catalog.</p>
                     <list rend="bulleted">
                         <item><hi rend="strong">Print:</hi> many volumes in the series are available
-                            in print and sold by the <ref target="http://bookstore.gpo.gov"
+                            in print and sold by the <ref target="https://bookstore.gpo.gov"
                                 >Government Printing Office</ref>.</item>
                         <item><hi rend="strong">Ebook:</hi> newer <title level="s">FRUS</title>
                             volumes are available as ebooks, compatible with popular readers such as
-                            the Kindle and iPad. Click <ref target="/historicaldocuments/ebooks"
+                            the Kindle and iPad. Click <ref target="$app/historicaldocuments/ebooks"
                                 >here</ref> for more information on the ebook program.</item>
                         <item><hi rend="strong">Online:</hi> newer <title level="s">FRUS</title>
                             volumes are available in full on our website. Click <ref
-                                target="/historicaldocuments">here</ref> for a list of volumes with
+                                target="$app/historicaldocuments">here</ref> for a list of volumes with
                             links to the full text.</item>
                         <item><hi rend="strong">PDF:</hi> newer <title level="s">FRUS</title>
                             volumes are available in Adobe’s Portable Document Format (PDF), which
                             you can download from our website. Click <ref
-                                target="/historicaldocuments">here</ref> for a list of volumes with
+                                target="$app/historicaldocuments">here</ref> for a list of volumes with
                             links to the PDFs.</item>
                     </list>
                 </div>
@@ -145,10 +145,10 @@
                     <head>When will the <title level="s">FRUS</title> volume on … be
                         published?</head>
                     <p>Information about forthcoming volumes is available <ref
-                            target="/historicaldocuments/status-of-the-series">here</ref>.</p>
+                            target="$app/historicaldocuments/status-of-the-series">here</ref>.</p>
                     <p>If you would like to be notified of future releases when they are available,
                         please follow the Office of the Historian’s Twitter feed, <ref
-                            target="http://twitter.com/HistoryAtState">@HistoryAtState</ref>.</p>
+                            target="https://twitter.com/HistoryAtState">@HistoryAtState</ref>.</p>
                     <p>The Office of the Historian also maintains an electronic mailing list for its
                         press releases, which are issued when a new volume is available. To be added
                         to this list, please send a request to <ref
@@ -161,7 +161,7 @@
                     <p>No. Information in <title level="s">FRUS</title> is in the public domain and
                         can be copied and distributed without permission. For more information on
                         copyright, please click <ref
-                            target="http://www.state.gov/misc/87529.htm#copyright">here</ref>.</p>
+                            target="https://www.state.gov/misc/87529.htm#copyright">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="how-should-i-cite-frus">
@@ -187,18 +187,18 @@
                     <p>From time to time, the Office of the Historian has interns working in its
                         Washington, DC office. All applications must be submitted through the
                         Department of State’s internship program. Please click <ref
-                            target="http://www.careers.state.gov/intern">here</ref> for deadlines
+                            target="https://www.careers.state.gov/intern">here</ref> for deadlines
                         and more information.</p>
                     <p>The Office of the Historian also participates in the Department’s Virtual
                         Student Foreign Service program. Please click <ref
-                            target="http://www.state.gov/vsfs/">here</ref> for deadlines and more
+                            target="https://www.state.gov/vsfs/">here</ref> for deadlines and more
                         information.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="paho-updates">
                     <head>Can I receive updates on activities at the Office of the Historian?</head>
                     <p>Follow us on Twitter! The Office of the Historian routinely posts updates on
-                        its activities at <ref target="http://twitter.com/HistoryAtState"
+                        its activities at <ref target="https://twitter.com/HistoryAtState"
                             >@HistoryAtState</ref>.</p>
                 </div>
             </div>
@@ -243,10 +243,10 @@
                         in the preparation and authentication of copies under the Department’s
                         Seal.</p>
                     <p>For more information about the Great Seal, please see <q><ref
-                                target="http://www.state.gov/documents/organization/27807.pdf">The
+                                target="https://www.state.gov/documents/organization/27807.pdf">The
                                 Great Seal of the United States</ref>.</q></p>
                     <p>For more information on copyright and use of the Great Seal, please click
-                            <ref target="http://www.state.gov/misc/87529.htm#copyright"
+                            <ref target="https://www.state.gov/misc/87529.htm#copyright"
                         >here</ref>.</p>
                 </div>
             </div>
@@ -255,12 +255,12 @@
                 <div type="quesiton" xml:id="when-did-US-start-relations">
                     <head>When did the United States start/break off relations with …?</head>
                     <p>For information on the history of U.S. relations with other countries, please
-                        click <ref target="/countries">here</ref>.</p>
+                        click <ref target="$app/countries">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-to-recognize-US">
                     <head>What country was the first to recognize the United States?</head>
-                    <p><ref target="/countries/france">France</ref> recognized the United States as
+                    <p><ref target="$app/countries/france">France</ref> recognized the United States as
                         an independent state on February 6, 1778.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
@@ -277,14 +277,14 @@
                 <div type="question" xml:id="when-first-US-treaty">
                     <head>When was the first U.S. treaty signed?</head>
                     <p>The first U.S. treaty to be signed was a Treaty of Amity and Commerce with
-                            <ref target="/countries/france">France</ref> that was signed in Paris on
+                            <ref target="$app/countries/france">France</ref> that was signed in Paris on
                         February 6, 1778.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="when-first-non-European-treaty">
                     <head>What was the first U.S. treaty with a non-European nation?</head>
                     <p>The first U.S. treaty with a non-European nation was a Treaty of Friendship
-                        and Amity that was signed with <ref target="/countries/morocco"
+                        and Amity that was signed with <ref target="$app/countries/morocco"
                             >Morocco</ref> on June 23, 1786. Thomas Barclay, the U.S. Consul General
                         in Paris, negotiated it. It was valid for fifty years and was renewed in
                         1837.</p>
@@ -293,7 +293,7 @@
                 <div type="question" xml:id="first-treaty-under-constitution">
                     <head>What was the first U.S. treaty to be ratified under the
                         Constitution?</head>
-                    <p>A consular convention with <ref target="/countries/france">France</ref> was
+                    <p>A consular convention with <ref target="$app/countries/france">France</ref> was
                         signed at Versailles on November 14, 1788. President George Washington
                         submitted to the Senate on June 11, 1789, the Senate approved it on July 29,
                         and it entered into effect on January 6, 1790.</p>
@@ -303,7 +303,7 @@
                     <head>When and where was the first U.S. consular post established?</head>
                     <p>The first U.S. consular post was established in Bordeaux, France, in March
                         1778. It was closed in 1995 and reopened in 2000 as an <ref
-                            target="http://bordeaux.usconsulate.gov/">American Presence
+                            target="https://bordeaux.usconsulate.gov/">American Presence
                         Post</ref>.</p>
                 </div>
             </div>
@@ -312,13 +312,13 @@
                 <div type="question" xml:id="how-many-secretaries">
                     <head>How many Secretaries of State have there been?</head>
                     <p>For a list of all Secretaries, click <ref
-                            target="/departmenthistory/people/secretaries">here</ref>.</p>
+                            target="$app/departmenthistory/people/secretaries">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="foreign-service-secretary">
                     <head>Has any member of the Foreign Service served as Secretary of State?</head>
                     <p>The only member of the Foreign Service to have served as Secretary of State
-                        was <ref target="/departmenthistory/people/eagleburger-lawrence-sidney"
+                        was <ref target="$app/departmenthistory/people/eagleburger-lawrence-sidney"
                             >Lawrence S. Eagleburger</ref>, who served from December 8, 1992 until
                         January 19, 1993. Eagleburger had served as Acting Secretary of State from
                         August 23, 1992.</p>
@@ -326,14 +326,14 @@
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-female-secretary">
                     <head>Who was the first woman to serve as Secretary of State?</head>
-                    <p><ref target="/departmenthistory/people/albright-madeleine-korbel">Madeleine
+                    <p><ref target="$app/departmenthistory/people/albright-madeleine-korbel">Madeleine
                             K. Albright</ref> was the first woman to serve as Secretary of
                         State.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-African-American-secretary">
                     <head>Who was the first African American to serve as Secretary of State?</head>
-                    <p><ref target="/departmenthistory/people/powell-colin-luther">Colin
+                    <p><ref target="$app/departmenthistory/people/powell-colin-luther">Colin
                             Powell</ref> was the first African American to serve as Secretary of
                         State.</p>
                 </div>
@@ -342,42 +342,42 @@
                     <head>Were there equivalents to the Secretary of State prior to the
                         Constitution?</head>
                     <p>There were two Secretaries of Foreign Affairs under the Continental Congress.
-                            <ref target="/departmenthistory/people/livingston-robert-r">Robert R.
+                            <ref target="$app/departmenthistory/people/livingston-robert-r">Robert R.
                             Livingston</ref> served from October 20, 1781 until June 4, 1783. <ref
-                            target="/departmenthistory/people/jay-john">John Jay</ref> served from
+                            target="$app/departmenthistory/people/jay-john">John Jay</ref> served from
                         May 7, 1784 until March 4, 1789.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-secretary-to-travel">
                     <head>Who was the first Secretary of State to travel outside the United States
                         while in office?</head>
-                    <p><ref target="/departmenthistory/people/seward-william-henry">William H.
+                    <p><ref target="$app/departmenthistory/people/seward-william-henry">William H.
                             Seward</ref> took a working vacation in the Caribbean between January 1
-                        and January 28, 1866. He met with <ref target="/countries/denmark"
+                        and January 28, 1866. He met with <ref target="$app/countries/denmark"
                             >Danish</ref> colonial officials in the Virgin Islands, with the
-                        Presidents of the <ref target="/countries/dominican-republic">Dominican
-                            Republic</ref> and <ref target="/countries/haiti">Haiti</ref>, and with
-                            <ref target="/countries/spain">Spanish</ref> colonial officials in
+                        Presidents of the <ref target="$app/countries/dominican-republic">Dominican
+                            Republic</ref> and <ref target="$app/countries/haiti">Haiti</ref>, and with
+                            <ref target="$app/countries/spain">Spanish</ref> colonial officials in
                         Cuba.</p>
                     <p>For general information on the travel of the Secretary of State, please click
-                            <ref target="/departmenthistory/travels/secretary">here</ref>.</p>
+                            <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="first-travel-on-business">
                     <head>Who was the first Secretary of State to travel outside the United States
                         on official business?</head>
                     <p>The first official travel by a Secretary of State outside the United States
-                        was by <ref target="/departmenthistory/people/root-elihu">Elihu Root</ref>
+                        was by <ref target="$app/departmenthistory/people/root-elihu">Elihu Root</ref>
                         in 1906. Root left the United States on July 4 and attended the Third
                         International Conference of American States in Rio de Janeiro, <ref
-                            target="/countries/brazil">Brazil</ref>, after which he visited <ref
-                            target="/countries/uruguay">Uruguay</ref>, <ref
-                            target="/countries/argentina">Argentina</ref>, <ref
-                            target="/countries/chile">Chile</ref>, <ref target="/countries/peru"
-                            >Peru</ref>, <ref target="/countries/panama">Panama</ref>, and <ref
-                            target="/countries/colombia">Colombia</ref>.</p>
+                            target="$app/countries/brazil">Brazil</ref>, after which he visited <ref
+                            target="$app/countries/uruguay">Uruguay</ref>, <ref
+                            target="$app/countries/argentina">Argentina</ref>, <ref
+                            target="$app/countries/chile">Chile</ref>, <ref target="$app/countries/peru"
+                            >Peru</ref>, <ref target="$app/countries/panama">Panama</ref>, and <ref
+                            target="$app/countries/colombia">Colombia</ref>.</p>
                     <p>For general information on the travel of the Secretary of State, please click
-                            <ref target="/departmenthistory/travels/secretary">here</ref>.</p>
+                            <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
                 </div>
             </div>
             <div type="section" xml:id="ambassadors-and-chiefs-of-mission">
@@ -385,16 +385,16 @@
                 <div type="question" xml:id="first-ambassador-to-country">
                     <head>Who was the first Ambassador to …?</head>
                     <p>A listing of U.S. Ambassadors by country can be found <ref
-                            target="/departmenthistory/people/chiefsofmission/by-country"
+                            target="$app/departmenthistory/people/chiefsofmission/by-country"
                         >here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="who-were-first-ambassadors">
                     <head>Who were the first U.S. Ambassadors?</head>
                     <p>The rank of Ambassador was first used by the United States in 1893. <ref
-                            target="/departmenthistory/people/bayard-thomas-francis">Thomas F.
+                            target="$app/departmenthistory/people/bayard-thomas-francis">Thomas F.
                             Bayard</ref> was appointed Ambassador to Great Britain on March 30. <ref
-                            target="/departmenthistory/people/eustis-james-biddle">James B.
+                            target="$app/departmenthistory/people/eustis-james-biddle">James B.
                             Eustis</ref> was appointed Ambassador to France on April 18. Prior to
                         this date, the highest-ranking U.S. diplomats were Ministers.</p>
                 </div>
@@ -404,26 +404,26 @@
                     <p>Since World War II, the following U.S. Ambassadors have been killed by
                         militants:</p>
                     <list rend="bulleted">
-                        <item><ref target="/departmenthistory/people/mein-john-gordon">John Gordon
+                        <item><ref target="$app/departmenthistory/people/mein-john-gordon">John Gordon
                                 Mein</ref>, Ambassador to Guatemala, August 28, 1968. Mein was <ref
-                                target="/historicaldocuments/frus1964-68v31/d114">killed by a gunman
+                                target="$app/historicaldocuments/frus1964-68v31/d114">killed by a gunman
                                 in Guatemala City</ref>.</item>
-                        <item><ref target="/departmenthistory/people/noel-cleo-allen">Cleo A. Noel,
+                        <item><ref target="$app/departmenthistory/people/noel-cleo-allen">Cleo A. Noel,
                                 Jr.</ref>, Ambassador to Sudan, March 1, 1973. Noel was taken
                             hostage in Khartoum and <ref
-                                target="/historicaldocuments/frus1969-76ve06/d217">killed by his
+                                target="$app/historicaldocuments/frus1969-76ve06/d217">killed by his
                                 kidnappers</ref>.</item>
-                        <item><ref target="/departmenthistory/people/davies-rodger-paul">Rodger P.
+                        <item><ref target="$app/departmenthistory/people/davies-rodger-paul">Rodger P.
                                 Davies</ref>, Ambassador to Cyprus, August 19, 1974. Davies was <ref
-                                target="/historicaldocuments/frus1969-76v30/d139">shot during a
+                                target="$app/historicaldocuments/frus1969-76v30/d139">shot during a
                                 demonstration</ref> at the Embassy in Nicosia.</item>
-                        <item><ref target="/departmenthistory/people/meloy-francis-edward">Francis
+                        <item><ref target="$app/departmenthistory/people/meloy-francis-edward">Francis
                                 E. Meloy, Jr.</ref>, Ambassador to Lebanon, June 16, 1976. Meloy was
                             killed by a gunman in Beruit.</item>
-                        <item><ref target="/departmenthistory/people/dubs-adolph">Adolph Dubs</ref>,
+                        <item><ref target="$app/departmenthistory/people/dubs-adolph">Adolph Dubs</ref>,
                             Ambassador to Afghanistan, February 14, 1979. Dubs was captured in Kabul
                             and was killed during the rescue attempt.</item>
-                        <item><ref target="/departmenthistory/people/stevens-john-christopher">J.
+                        <item><ref target="$app/departmenthistory/people/stevens-john-christopher">J.
                                 Christopher Stevens</ref>, Ambassador to Libya, September 11, 2012.
                             Stevens was killed in an attack on the Mission in Benghazi.</item>
                     </list>
@@ -515,19 +515,19 @@
                         on April 20, 1925, served as a Vice Consul at Amsterdam, and resigned on
                         June 27, 1929, to accept a job with the National Broadcasting
                         Company.</item>
-                    <item><ref target="/departmenthistory/people/owen-ruth-bryan">Ruth Bryan
+                    <item><ref target="$app/departmenthistory/people/owen-ruth-bryan">Ruth Bryan
                             Owen</ref> was the first woman to be chief of a U.S. diplomatic
                         mission.</item>
-                    <item><ref target="/departmenthistory/people/anderson-helen-eugenie-moore">Helen
+                    <item><ref target="$app/departmenthistory/people/anderson-helen-eugenie-moore">Helen
                             Eugenie Moore Anderson</ref> was the first woman to hold the rank of
                         Ambassador.</item>
-                    <item><ref target="/departmenthistory/people/willis-frances-elizabeth">Frances
+                    <item><ref target="$app/departmenthistory/people/willis-frances-elizabeth">Frances
                             E. Willis</ref> was the first female Foreign Service Officer to become
                         an Ambassador.</item>
-                    <item><ref target="/departmenthistory/people/laise-caroline-clendening">Carol C.
+                    <item><ref target="$app/departmenthistory/people/laise-caroline-clendening">Carol C.
                             Laise</ref> was the first woman to become an Assistant Secretary of
                         State.</item>
-                    <item><ref target="/departmenthistory/people/benson-lucy-wilson-peters">Lucy
+                    <item><ref target="$app/departmenthistory/people/benson-lucy-wilson-peters">Lucy
                             Wilson Benson</ref> was the first woman to become Under Secretary of
                         State.</item>
                 </list>
@@ -536,17 +536,17 @@
                 <head>African Americans in the Foreign Service</head>
                 <p>Notable firsts:</p>
                 <list rend="bulleted">
-                    <item><ref target="/departmenthistory/people/bassett-ebenezer-don-carlos"
+                    <item><ref target="$app/departmenthistory/people/bassett-ebenezer-don-carlos"
                             >Ebenezer Don Carlos Bassett</ref> was the first African-American
                         diplomat.</item>
-                    <item><ref target="/departmenthistory/people/wharton-clifton-reginald">Clifton
+                    <item><ref target="$app/departmenthistory/people/wharton-clifton-reginald">Clifton
                             R. Wharton</ref> was the first African American to join the Foreign
                         Service. He was also the first African American appointed as chief of a
                         diplomatic mission to a European country.</item>
-                    <item><ref target="/departmenthistory/people/dudley-edward-richard">Edward R.
+                    <item><ref target="$app/departmenthistory/people/dudley-edward-richard">Edward R.
                             Dudley</ref> was the first African American to hold the rank of
                         Ambassador.</item>
-                    <item><ref target="/departmenthistory/people/harris-patricia-roberts">Patricia
+                    <item><ref target="$app/departmenthistory/people/harris-patricia-roberts">Patricia
                             Roberts Harris </ref>was the first African American woman to hold the
                         rank of Ambassador.</item>
                 </list>
