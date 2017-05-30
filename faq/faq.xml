@@ -163,6 +163,14 @@
                         copyright, please click <ref
                             target="http://www.state.gov/misc/87529.htm#copyright">here</ref>.</p>
                 </div>
+                <milestone unit="question" rend="hr"/>
+                <div type="question" xml:id="how-should-i-cite-frus">
+                    <head>How should I cite documents from the <title level="s">FRUS</title>
+                        series?</head>
+                    <p>Please see the guidelines in “<ref
+                            target="$app/historicaldocuments/citing-frus">Citing the <title
+                                level="s">Foreign Relations</title> series</ref>.”</p>
+                </div>
             </div>
             <div type="section" xml:id="about-paho">
                 <head>About the Office of the Historian</head>
