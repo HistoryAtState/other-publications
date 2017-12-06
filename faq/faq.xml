@@ -260,7 +260,7 @@
             </div>
             <div type="section" xml:id="diplomatic-relations">
                 <head>Diplomatic Relations</head>
-                <div type="quesiton" xml:id="when-did-US-start-relations">
+                <div type="question" xml:id="when-did-US-start-relations">
                     <head>When did the United States start/break off relations with …?</head>
                     <p>For information on the history of U.S. relations with other countries, please
                         click <ref target="$app/countries">here</ref>.</p>
