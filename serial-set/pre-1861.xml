@@ -1,4 +1,4 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -10,7 +10,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>Edited by Aaron Marrs. A substantial portion of the research for this resource
-                    was carried out by Dawn Whitehead (<ref target="http://www.state.gov/vsfs/"
+                    was carried out by Dawn Whitehead (<ref target="https://www.state.gov/vsfs/"
                         >Virtual Student Foreign Service</ref> E-Intern, Academic Year 2011-12).</p>
             </sourceDesc>
         </fileDesc>
@@ -27,13 +27,13 @@
                     database which contains these documents. There are two indexes of the foreign
                     relations materials in the Serial Set. Between 1914 and 1921, Adelaide Rosalia
                     Hasse compiled a three-volume <ref
-                        target="http://catalog.hathitrust.org/api/volumes/oclc/1100023.html"><hi
+                        target="https://catalog.hathitrust.org/api/volumes/oclc/1100023.html"><hi
                             rend="italic">Index to United States Documents Relating to Foreign
                             Affairs, 1828-1861</hi></ref>, available online in full text via
                     HathiTrust. In 2012, the Office of the Historian compiled this much shorter
                     index of the foreign affairs material in the Serial Set. A substantial portion
                     of the research for this resource was carried out by Dawn Whitehead (<ref
-                        target="http://www.state.gov/vsfs/">Virtual Student Foreign Service</ref>
+                        target="https://www.state.gov/vsfs/">Virtual Student Foreign Service</ref>
                     E-Intern, Academic Year 2011-12).</p>
             </div>
         </front>

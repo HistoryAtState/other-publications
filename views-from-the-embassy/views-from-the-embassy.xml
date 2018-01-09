@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -48,10 +48,10 @@
                     1914.” This is a preview edition. We advise all those citing this version to
                     specify “Preview Edition, September 15, 2014” in their references.</p>
                 <p>Several documents referenced in “Views From the Embassy” are highlighted on U.S.
-                    Embassy France’s World War I Centennial website, located at <ptr
-                        target="http://france.usembassy.gov/ww1centenary.html"
-                    />http://france.usembassy.gov/ww1centenary.html. Readers may view full copies of
-                    these unclassified documents through links on that page’s “Interactive
+                    Embassy France’s World War I Centennial website, located at <ref
+                        target="https://fr.usembassy.gov/news-events/ww1-centenary/"
+                        >fr.usembassy.gov/news-events/ww1-centenary/</ref>. Readers may view full
+                    copies of these unclassified documents through links on that page’s “Interactive
                     Timeline.”</p>
                 <p><hi rend="italic">Disclaimer: Although this volume was prepared in the Department
                         of State’s Office of the Historian, the views expressed here are those of
@@ -174,9 +174,9 @@
                         1910 there were only 1,043 overseas personnel attached to the Department,
                         despite the growing involvement of the United States in international
                             relations.<note n="5" xml:id="fn5">Office of the Historian, “Department
-                            Personnel, 1781–2010,” Office of the Historian Website, <ptr
-                                target="http://history.state.gov/about/faq/department-personnel"
-                            />http://history.state.gov/about/faq/department-personnel</note> The
+                            Personnel, 1781–2010,” Office of the Historian Website, <ref
+                                target="https://history.state.gov/about/faq/department-personnel"
+                                >history.state.gov/about/faq/department-personnel</ref>.</note> The
                         U.S. Embassy in Paris was maintained by one ambassador, three diplomats, a
                         few military and naval attachés, and a handful of support staff (clerks,
                         secretaries, messengers, and the ambassador’s private secretary).</p>
@@ -417,9 +417,9 @@
                         the financial crisis.<note n="22" xml:id="fn22">Herrick (Paris) to Secretary
                             of State (Washington), August 2, 1914. See <hi rend="italic">Foreign
                                 Relations of the United States, 1914, Supplement, The World
-                                War,</hi> p. 33. <ptr
-                                target="http://history.state.gov/historicaldocuments/frus1914Supp/pg_33"
-                            />http://history.state.gov/historicaldocuments/frus1914Supp/pg_33.</note>
+                                War,</hi> p. 33. <ref
+                                target="https://history.state.gov/historicaldocuments/frus1914Supp/pg_33"
+                                >history.state.gov/historicaldocuments/frus1914Supp/pg_33</ref>.</note>
                         By July 31, cafés in Paris refused to change 50- and 100-franc notes.<note
                             n="23" xml:id="fn23">William J. Guard, <hi rend="italic">Soul of Paris:
                                 Two Months in the French Capital During the War of 1914</hi>, (The
@@ -606,7 +606,7 @@
                         French,” the paper noted.<note n="43" xml:id="fn43">“Odd War Bits,” <hi
                                 rend="italic">The Day Book</hi> (Chicago, Ill.), August 12, 1914.
                                 <ptr
-                                target="http://chroniclingamerica.loc.gov/lccn/sn83045487/1914-08-12/ed-1/seq-32"
+                                target="https://chroniclingamerica.loc.gov/lccn/sn83045487/1914-08-12/ed-1/seq-32/"
                             />http://chroniclingamerica.loc.gov/lccn/sn83045487/1914-08-12/ed-1/seq-32</note>
                         The French-language restrictions were imposed upon the diplomatic community
                         for several years. First Secretary and Embassy Counselor Robert Woods Bliss
@@ -1320,9 +1320,9 @@
                         francs/$594.49) and telegrams and cablegrams (994.75 francs/$191.99).
                         Contingent Expenses, Foreign Missions, Embassy Paris January 14, 1915. (The
                         Sheridan Libraries, The Johns Hopkins University, John Work Garrett Papers,
-                        GAR 19 Box 3.5). Conversion rates obtained on August 13, 2014 via <ptr
+                        GAR 19 Box 3.5). Conversion rates obtained on August 13, 2014 via <ref
                             target="http://www.usinflationcalculator.com"
-                        />http://www.usinflationcalculator.com.</note> Once in Paris, Garrett was
+                            >www.usinflationcalculator.com</ref>.</note> Once in Paris, Garrett was
                     tasked with running the Embassy’s German and Austro-Hungarian affairs division.
                     This was no small matter; by mid-December it was estimated that roughly 15,000
                     German and Austro-Hungarian subjects remained interned within French
@@ -1542,7 +1542,7 @@
                         <hi rend="italic">Former U.S. Ambassador to France, 1909–1912; Former U.S.
                             Secretary of State, 1909</hi>
                     </p>
-                    <p><ref target="http://history.state.gov/departmenthistory/people/bacon-robert"
+                    <p><ref target="https://history.state.gov/departmenthistory/people/bacon-robert"
                             >Robert Bacon</ref> was born in Jamaica Plain, Massachusetts, in 1860 to
                         a prominent merchant family. He attended Harvard, where he befriended future
                         President Theodore Roosevelt, and graduated in 1880. Bacon spent a year
@@ -1647,7 +1647,7 @@
                         <hi rend="italic">First Secretary, U.S. Embassy Paris, 1912–1916; Embassy
                             Counselor, 1916–1920.</hi></p>
                     <p><ref
-                            target="http://history.state.gov/departmenthistory/people/bliss-robert-woods"
+                            target="https://history.state.gov/departmenthistory/people/bliss-robert-woods"
                             >Robert Woods Bliss</ref> was born on August 5, 1875, in St. Louis,
                         Missouri. He graduated from Harvard University in 1900 and then spent
                         several years working in Puerto Rico. In June 1903, Bliss passed the
@@ -1719,7 +1719,7 @@
                         <hi rend="italic">Second Secretary, U.S. Embassy Paris.</hi>
                     </p>
                     <p><ref
-                            target="http://history.state.gov/departmenthistory/people/frazier-arthur-hugh"
+                            target="https://history.state.gov/departmenthistory/people/frazier-arthur-hugh"
                             >Arthur Hugh Frazier</ref> was born on August 12, 1868, in Heidelberg,
                         Germany, to U.S. citizens. Educated by private tutors, he graduated from
                         Lehigh University in 1889. From 1889 until 1891, Frazer studied at the
@@ -1752,7 +1752,7 @@
                         <hi rend="italic">Special Agent of the Department of State to Assist the
                             American Ambassador at Paris, 1914–1917.</hi></p>
                     <p><ref
-                            target="http://history.state.gov/departmenthistory/people/garrett-john-work"
+                            target="https://history.state.gov/departmenthistory/people/garrett-john-work"
                             >John Work Garrett</ref> was born in Baltimore, Maryland, on May 19,
                         1872. He graduated from Princeton University in 1895 and worked in banking
                         before embarking upon a career as a diplomat. Garrett was appointed
@@ -1803,7 +1803,7 @@
                         packing of the Herrick belongings and dismantling of the Ambassador’s
                         residence at 5, rue François Ièr (the mansion’s lease was expensive and not
                         set to be renewed by in-coming Ambassador <ref
-                            target="http://history.state.gov/departmenthistory/people/sharp-william-graves"
+                            target="https://history.state.gov/departmenthistory/people/sharp-william-graves"
                             >William Graves Sharp</ref>). And then war broke out.</p>
                     <p>In early August, Kitty quickly inserted herself in efforts to fund the newly
                         established American Ambulance Hospital in Paris and the American Relief
@@ -1826,7 +1826,7 @@
                     <p rend="flushleft">
                         <hi rend="italic">U.S. Ambassador to France, 1912–1914.</hi></p>
                     <p><ref
-                            target="http://history.state.gov/departmenthistory/people/herrick-myron-timothy"
+                            target="https://history.state.gov/departmenthistory/people/herrick-myron-timothy"
                             >Myron T. Herrick</ref> was born in Huntington, Ohio, on October 9,
                         1854, to Timothy R. and Mary Herrick. Raised in humble circumstances,
                         Herrick attended Oberlin College and Ohio Wesleyan University and also
@@ -1845,7 +1845,7 @@
                         broke out in 1914.</p>
                     <p>On June 2, 1914, Herrick learned that he would finally be relieved by his
                         successor, <ref
-                            target="http://history.state.gov/departmenthistory/people/sharp-william-graves"
+                            target="https://history.state.gov/departmenthistory/people/sharp-william-graves"
                             >William Graves Sharp</ref>, later that summer. As was (and remains)
                         custom, sitting U.S. ambassadors submit their letters of resignation when
                         new Presidents are elected. When Woodrow Wilson took office in 1913, Herrick
@@ -1853,7 +1853,7 @@
                         June 1914 and did not immediately sail for France. That summer, Herrick
                         began his farewell rounds in Paris. On August 1, however, Secretary of State
                             <ref
-                            target="http://history.state.gov/departmenthistory/people/bryan-william-jennings"
+                            target="https://history.state.gov/departmenthistory/people/bryan-william-jennings"
                             >William Jennings Bryan</ref> cabled Herrick, and asked that he remain
                         in place for the time being because of the increasingly critical situation
                         in Europe. Tensions mounted over the next several days as France went to war
@@ -1985,7 +1985,7 @@
                             <hi rend="bold">William Graves Sharp</hi></hi> (<hi rend="bold"
                             >1859–1922).</hi>
                         <ptr
-                            target="http://history.state.gov/departmenthistory/people/sharp-william-graves"/>
+                            target="https://history.state.gov/departmenthistory/people/sharp-william-graves"/>
                         <hi rend="italic">U.S. Ambassador to France, 1914–1919.</hi> William Graves
                         Sharp and his twin brother George W. were born in Mt. Gilead, Ohio, on March
                         14, 1859. William was raised in Ohio and received his law degree from the
@@ -2115,7 +2115,7 @@
                         Thackara, Sons &amp; Co., which manufactured and sold gas fixtures. On April
                         1, 1897, Thackara was appointed by President William McKinley to the U.S.
                         Consular Service. At the time, Thackara’s uncle-in-law, <ptr
-                            target="http://history.state.gov/departmenthistory/people/sherman-john"
+                            target="https://history.state.gov/departmenthistory/people/sherman-john"
                         />John Sherman, served as Secretary of State. Thackara’s first consular
                         posting was to Le Havre, France, that year. He remained there until his
                         March 13, 1905, assignment to Berlin as Consul General. On September 18,
@@ -2275,7 +2275,7 @@
                         that month aboard the <hi rend="italic">Mauretania</hi> for Liverpool and
                         then Bordeaux. One of his fellow passengers for the first leg of that
                         transatlantic journey was Katherine Page, daughter of <ptr
-                            target="http://historyatstate.tumblr.com/post/89128785134/u-s-ambassador-walter-hines-page-1855-1918"
+                            target="https://historyatstate.tumblr.com/post/89128785134/u-s-ambassador-walter-hines-page-1855-1918"
                         />U.S. Ambassador to the United Kingdom Walter Hines Page.</p>
                     <p>In Bordeaux, Roosevelt helped Garrett manage the onslaught of work entailed
                         in representing the United States Government as well as German and
@@ -2362,7 +2362,7 @@
                     <item>Hospital organized by James H. Hyde in rue Adolphe Yvon</item>
                     <item>American Church Relief run by Mr. Watson</item>
                     <item>Camp for French Soldiers fitted up by <ptr
-                            target="http://history.state.gov/departmenthistory/people/knight-ridgway-brewster"
+                            target="https://history.state.gov/departmenthistory/people/knight-ridgway-brewster"
                         />Ridgway Knight at Poissy [he later served as US Amb to Syria, Belgium, and
                         Portugal)</item>
                     <item>Convalescent Home instituted by Mrs. Robert Woods Bliss at Mormant</item>

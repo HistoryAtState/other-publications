@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -55,7 +55,7 @@
                         from 1969 to 1975.  Researchers can purchase the volumes through the U.S.
                         Government Printing Office or view them free of charge on the Office of the
                         Historian, U.S. Department of State website (<ref
-                            target="http://history.state.gov">http://history.state.gov</ref>).  In
+                            target="https://history.state.gov">history.state.gov</ref>).  In
                         keeping with prevailing scholarly practices, documents researchers initially
                         encounter in the series should be cited to <hi rend="italic">Foreign
                             Relations</hi>.</p>

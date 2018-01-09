@@ -1,4 +1,4 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +43,7 @@
                         published in <title level="s">FRUS</title>, documents can generally be found
                         in one of two locations:</p>
                     <p>Most Department records through the late 1970s that are designated for
-                        preservation have been retired to the <ref target="http://www.archives.gov"
+                        preservation have been retired to the <ref target="https://www.archives.gov"
                             >U.S. National Archives and Records Administration</ref> (NARA). NARA is
                         located at <ref
                             target="https://maps.google.com/maps?q=8601+Adelphi+Road,+College+Park,+MD+20740&amp;oe=UTF-8&amp;hnear=8601+Adelphi+Rd,+College+Park,+Maryland+20740&amp;gl=us&amp;t=m&amp;z=16"
@@ -438,7 +438,7 @@
                     </list>
                     <p>The American Foreign Service Association maintains a list of foreign service
                         officers killed in the line of duty <ref
-                            target="http://www.afsa.org/afsa_memorial_plaque_list.aspx"
+                            target="https://www.afsa.org/afsa-memorial-plaque-list"
                         >here</ref>.</p>
                 </div>
             </div>
