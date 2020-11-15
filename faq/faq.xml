@@ -56,9 +56,8 @@
                             >website</ref>.</p>
                     <p>Records not yet retired to the National Archives are controlled by the
                         Department of State’s Office of Information Programs and Services (IPS). IPS
-                        oversees Freedom of Information Act requests for the Department. Information
-                        about IPS is available <ref target="https://www.state.gov/m/a/ips/"
-                            >here</ref>.</p>
+                        oversees Freedom of Information Act (FOIA) requests for the Department. For
+                        more information, see <ref target="https://foia.state.gov/">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="where-are-employee-records">
@@ -162,7 +161,7 @@
                     <p>No. Information in <title level="s">FRUS</title> is in the public domain and
                         can be copied and distributed without permission. For more information on
                         copyright, please click <ref
-                            target="https://www.state.gov/misc/87529.htm#copyright">here</ref>.</p>
+                            target="https://www.state.gov/copyright-information/">here</ref>.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="how-should-i-cite-frus">
@@ -199,8 +198,8 @@
                         and more information.</p>
                     <p>The Office of the Historian also participates in the Department’s Virtual
                         Student Foreign Service program. Please click <ref
-                            target="https://www.state.gov/vsfs/">here</ref> for deadlines and more
-                        information.</p>
+                            target="https://www.state.gov/virtual-student-federal-service/"
+                            >here</ref> for deadlines and more information.</p>
                 </div>
                 <milestone unit="question" rend="hr"/>
                 <div type="question" xml:id="paho-updates">
@@ -251,10 +250,10 @@
                         in the preparation and authentication of copies under the Department’s
                         Seal.</p>
                     <p>For more information about the Great Seal, please see <q><ref
-                                target="https://www.state.gov/documents/organization/27807.pdf">The
-                                Great Seal of the United States</ref>.</q></p>
+                                target="https://2009-2017.state.gov/documents/organization/27807.pdf"
+                                >The Great Seal of the United States</ref>.</q></p>
                     <p>For more information on copyright and use of the Great Seal, please click
-                            <ref target="https://www.state.gov/misc/87529.htm#copyright"
+                            <ref target="https://www.state.gov/copyright-information/"
                         >here</ref>.</p>
                 </div>
             </div>
@@ -438,8 +437,7 @@
                     </list>
                     <p>The American Foreign Service Association maintains a list of foreign service
                         officers killed in the line of duty <ref
-                            target="https://www.afsa.org/afsa-memorial-plaque-list"
-                        >here</ref>.</p>
+                            target="https://www.afsa.org/afsa-memorial-plaque-list">here</ref>.</p>
                 </div>
             </div>
             <div type="section" xml:id="foreign-service">
@@ -533,9 +531,9 @@
                     <item><ref target="$app/departmenthistory/people/willis-frances-elizabeth"
                             >Frances E. Willis</ref> was the first female Foreign Service Officer to
                         become an Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/watson-barbara-mae"
-                            >Barbara M. Watson</ref> was the first woman to become an Assistant
-                        Secretary of State.</item>
+                    <item><ref target="$app/departmenthistory/people/watson-barbara-mae">Barbara M.
+                            Watson</ref> was the first woman to become an Assistant Secretary of
+                        State.</item>
                     <item><ref target="$app/departmenthistory/people/benson-lucy-wilson-peters">Lucy
                             Wilson Benson</ref> was the first woman to become Under Secretary of
                         State.</item>
