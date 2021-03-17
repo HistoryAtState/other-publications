@@ -1,0 +1,94 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: John Forbes
+                    Kerry</title>
+                <title type="short">John Forbes Kerry</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Adapted from Secretary Kerry’s official biography
+                    https://2009-2017.state.gov/r/pa/ei/biog/203657.htm (accessed March 17,
+                    2021).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>On February 1, 2013, John Forbes Kerry was sworn in as the 68th Secretary of
+                    State of the United States, becoming the first sitting Senate Foreign Relations
+                    Committee Chairman to become Secretary in over a century.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="kerry-john-forbes.jpg"/>
+                    <head>John Forbes Kerry, 68th Secretary of State</head>
+                </figure>
+                <p>Secretary Kerry joined the State Department after 28 years in the United States
+                    Senate, the last four as Chairman of the Senate Foreign Relations Committee.</p>
+                <p>Secretary Kerry was born on December 11, 1943, at Fitzsimons Army Hospital in
+                    Aurora, Colorado, one of four children of the late Rosemary Forbes Kerry and
+                    Richard Kerry, a Foreign Service Officer.</p>
+                <p>Shortly before he graduated from Yale University, Secretary Kerry enlisted to
+                    serve in the United States Navy, and went on to serve two tours of duty. He
+                    served in combat as a Swift Boat skipper patrolling the rivers of the Mekong
+                    Delta, returning home from Vietnam with a Silver Star, a Bronze Star with Combat
+                    V, and three Purple Hearts.</p>
+                <p>Back in the United States, Secretary Kerry began to forcefully speak out against
+                    the Vietnam War. Testifying at the invitation of Chairman J. William Fulbright
+                    before the Senate Foreign Relations Committee, he asked the poignant question,
+                    "How do you ask a man to be the last man to die for a mistake?" He also began a
+                    lifelong fight for his fellow veterans as a co-founder of the Vietnam Veterans
+                    of America, and later as a United States Senator who fought to secure veterans’
+                    benefits, extension of the G.I. Bill for Higher Education, and improved
+                    treatment for PTSD (post-traumatic stress disorder).</p>
+                <p>In 1976, Secretary Kerry received his law degree from Boston College Law School
+                    and went to work as a top prosecutor in Middlesex County, Massachusetts, where
+                    he took on organized crime, fought for victims’ rights, and created programs for
+                    rape counseling. He was elected Lieutenant Governor of Massachusetts in 1982,
+                    and 2 years later, he was elected to the United States Senate where he served
+                    for 28 years.</p>
+                <p>In 2009, Secretary Kerry became Chairman of the Senate Foreign Relations
+                    Committee, assuming a leadership role on key foreign policy and national
+                    security issues facing the United States, including Afghanistan and Pakistan,
+                    nuclear nonproliferation, and global climate change. His service as Chairman
+                    built on his previous Senate work that included helping to expose the
+                    Iran-Contra scandal and leadership on global AIDS.</p>
+                <p>As Chairman of the Senate Select Committee on POW/MIA Affairs, he worked to learn
+                    the truth about American soldiers missing in Vietnam and to normalize relations
+                    with that country.</p>
+                <p>In 2010, as Chairman of the Foreign Relations Committee, Secretary Kerry was
+                    instrumental in the ratification of the New START (Strategic Arms Reduction
+                    Treaty) Treaty, a vital nuclear arms reduction agreement with Russia that helps
+                    steer both countries away from dangerous nuclear confrontations.</p>
+                <p>In his 28 years on the Senate Foreign Relations Committee, Secretary Kerry
+                    chaired the Asia and Middle East subcommittees where he authored and passed
+                    major legislation on international drug trafficking, international money
+                    laundering, humanitarian aid, and climate change, and he helped negotiate the
+                    UN’s genocide tribunal to prosecute war crimes in Cambodia.</p>
+                <p>He also held senior positions on the Finance, Commerce, and Small Business
+                    committees, as well as served as a member of the bipartisan Joint Committee on
+                    Deficit Reduction, where he worked across party lines to try and reduce the
+                    country’s debt and strengthen our economy. Prior to his departure from the
+                    Senate, Secretary Kerry was the seventh-most senior Senator.</p>
+                <p>Secretary Kerry was the Democratic Party's nominee for President of the United
+                    States in 2004.</p>
+                <p>Secretary Kerry is the author of best-selling books, including <hi rend="italic"
+                        >A Call to Service: My Vision for a Better America</hi> and <hi
+                        rend="italic">This Moment on Earth</hi>, a book on the environment which he
+                    co-authored with his wife, Teresa Heinz Kerry. Together they are proud of a
+                    blended family that includes two daughters, three sons, and three
+                    grandchildren.</p>
+            </div>
+            <div type="section" xml:id="sources">
+                <head>Sources</head>
+                <p>This text was adapted from Secretary Kerry’s <ref
+                        target="https://2009-2017.state.gov/r/pa/ei/biog/203657.htm">official
+                        biography</ref> (accessed March 17, 2021).</p>
+            </div>
+        </body>
+    </text>
+</TEI>
