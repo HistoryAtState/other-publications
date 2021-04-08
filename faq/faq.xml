@@ -12,842 +12,124 @@
                 <p>Office of the Historian, United States Department of State Publication</p>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
-            <particDesc>
-                <listPerson>
-                    <person xml:id="AWM" role="editor">
-                        <persName>Aaron W. Marrs</persName>
-                    </person>
-                </listPerson>
-            </particDesc>
-        </profileDesc>
-        <revisionDesc>
-            <change who="#AWM" when="2012-09-13">Initial overhaul of text to delete old material and
-                insert new questions/answers as approved by Tiffany and Amy.</change>
-            <change who="#AWM" when="2012-09-19">Edited text based on response from
-                Tiffany.</change>
-            <change who="#AWM" when="2013-01-22">Updated NARA contact information on the basis of
-                information from David Langbart (via Tiffany).</change>
-        </revisionDesc>
     </teiHeader>
     <text>
         <body>
             <div type="section" xml:id="state-records">
-                <head>Documents on the History of U.S. Foreign Relations</head>
-                <div type="question" xml:id="where-are-state-records">
-                    <head>I am interested in doing research in Department of State records. Where
-                        can I find Department documents?</head>
-                    <p>The Office of the Historian is not the repository for Department records.</p>
-                    <p>The Office does publish selected records in its series <title level="s"
-                            >Foreign Relations of the United States</title>. For records not
-                        published in <title level="s">FRUS</title>, documents can generally be found
-                        in one of two locations:</p>
-                    <p>Most Department records through the late 1970s that are designated for
-                        preservation have been retired to the <ref target="https://www.archives.gov"
-                            >U.S. National Archives and Records Administration</ref> (NARA). NARA is
-                        located at <ref
-                            target="https://maps.google.com/maps?q=8601+Adelphi+Road,+College+Park,+MD+20740&amp;oe=UTF-8&amp;hnear=8601+Adelphi+Rd,+College+Park,+Maryland+20740&amp;gl=us&amp;t=m&amp;z=16"
-                            >8601 Adelphi Road, College Park, MD 20740</ref>. You may contact NARA
-                        by e-mail at <ref target="mailto:archives2reference@nara.gov"
-                            >archives2reference@nara.gov</ref>, or by postal mail at the above
-                        address, sent to the attention of the "Archives II Reference Branch (RDT2)."
-                        Additional forms of contact are available at the National Archives and
-                        Records Administration's <ref target="https://www.archives.gov/contact"
-                            >website</ref>.</p>
-                    <p>Records not yet retired to the National Archives are controlled by the
-                        Department of State’s Office of Information Programs and Services (IPS). IPS
-                        oversees Freedom of Information Act (FOIA) requests for the Department. For
-                        more information, see <ref target="https://foia.state.gov/">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="where-are-employee-records">
-                    <head>I am interested in information about the career of a former Department
-                        employee. Where can I find information on employee records?</head>
-                    <p>The Office of the Historian is not the repository for Department records.</p>
-                    <p>Records of retired employees are held by the National Archives and Records
-                        Administration’s <ref
-                            target="https://www.archives.gov/st-louis/archival-programs/civilian-personnel-archival/index.html"
-                            >National Personnel Records Center</ref>. The National Personnel Records
-                        Center is located at <ref
-                            target="https://maps.google.com/maps?q=1+Archives+Drive,+Saint+Louis,+MO+63138&amp;oe=UTF-8&amp;hnear=1+Archives+Dr,+St+Louis,+Missouri+63138&amp;gl=us&amp;t=m&amp;z=16"
-                            >1 Archives Drive, Saint Louis, MO 63138</ref>. You may contact the
-                        National Personnel Records Center by email at <ref
-                            target="mailto:stlarr.archives@nara.gov">stlarr.archives@nara.gov</ref>
-                        or by phone at 314-801-0850.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="where-are-state-photos">
-                    <head>I am interested in historical photographs of the Department of State.
-                        Where can I find them?</head>
-                    <p>The Office of the Historian is not the repository for Department records.</p>
-                    <p>The National Archives and Records Administration in College Park, Maryland,
-                        holds photographic materials retired from federal agencies in its Still
-                        Pictures branch. You may contact this branch by email at <ref
-                            target="mailto:stillpix@nara.gov">stillpix@nara.gov</ref> or by
-                        telephone at 301-837-0561. Videos, from which still pictures can be
-                        obtained, are held by the Motion Picture and Sound Branch. You may contact
-                        this branch by email at <ref target="mailto:mopix@nara.gov"
-                            >mopix@nara.gov</ref> or by telephone at 301-837-3520.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="what-is-frus">
-                    <head>What is <title level="s">Foreign Relations of the United
-                        States</title>?</head>
-                    <p><title level="s">Foreign Relations of the United States</title> is the
-                        official documentary record of U.S. foreign policy. More information about
-                        the series is available <ref target="$app/historicaldocuments/about-frus"
-                            >here</ref>.</p>
-                    <p>The series celebrated its sesquicentennial in 2011. More information about
-                        the history of the series is available <ref
-                            target="$app/historicaldocuments/frus-history">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="how-to-purchase-frus">
-                    <head>I would like to purchase a <title level="s">FRUS</title> volume. How can I
-                        do so?</head>
-                    <p><title level="s">FRUS</title> volumes are sold by the Government Printing
-                        Office. You may contact the Government Printing Office <ref
-                            target="https://bookstore.gpo.gov">here</ref>, or by telephone at
-                        202-512-1800.</p>
-                    <p><title level="s">FRUS</title> volumes are also available in electronic format
-                        free of charge. Please click <ref target="#frus-formats">here</ref> for more
-                        information.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="frus-formats">
-                    <head>What formats are <title level="s">FRUS</title> volumes available
-                        in?</head>
-                    <p><title level="s">FRUS</title> volumes are available in a variety of formats.
-                        While not all volumes are available in all formats, the Office of the
-                        Historian is working actively to expand the digitization of its <title
-                            level="s">FRUS</title> catalog.</p>
-                    <list rend="bulleted">
-                        <item><hi rend="strong">Print:</hi> many volumes in the series are available
-                            in print and sold by the <ref target="https://bookstore.gpo.gov"
-                                >Government Printing Office</ref>.</item>
-                        <item><hi rend="strong">Ebook:</hi> newer <title level="s">FRUS</title>
-                            volumes are available as ebooks, compatible with popular readers such as
-                            the Kindle and iPad. Click <ref target="$app/historicaldocuments/ebooks"
-                                >here</ref> for more information on the ebook program.</item>
-                        <item><hi rend="strong">Online:</hi> newer <title level="s">FRUS</title>
-                            volumes are available in full on our website. Click <ref
-                                target="$app/historicaldocuments">here</ref> for a list of volumes
-                            with links to the full text.</item>
-                        <item><hi rend="strong">PDF:</hi> newer <title level="s">FRUS</title>
-                            volumes are available in Adobe’s Portable Document Format (PDF), which
-                            you can download from our website. Click <ref
-                                target="$app/historicaldocuments">here</ref> for a list of volumes
-                            with links to the PDFs.</item>
-                    </list>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="when-will-frus-be-published">
-                    <head>When will the <title level="s">FRUS</title> volume on … be
-                        published?</head>
-                    <p>Information about forthcoming volumes is available <ref
-                            target="$app/historicaldocuments/status-of-the-series">here</ref>.</p>
-                    <p>If you would like to be notified of future releases when they are available,
-                        please follow the Office of the Historian’s Twitter feed, <ref
-                            target="https://twitter.com/HistoryAtState">@HistoryAtState</ref>.</p>
-                    <p>The Office of the Historian also maintains an electronic mailing list for its
-                        press releases, which are issued when a new volume is available. To be added
-                        to this list, please send a request to <ref
-                            target="mailto:history@state.gov">history@state.gov</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="pemission-needed-to-quote">
-                    <head>Do I need to request permission to quote from a <title level="s"
-                            >FRUS</title> volume?</head>
-                    <p>No. Information in <title level="s">FRUS</title> is in the public domain and
-                        can be copied and distributed without permission. For more information on
-                        copyright, please click <ref
-                            target="https://www.state.gov/copyright-information/">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="how-should-i-cite-frus">
-                    <head>How should I cite documents from the <title level="s">FRUS</title>
-                        series?</head>
-                    <p>Please see the guidelines in “<ref
-                            target="$app/historicaldocuments/citing-frus">Citing the <title
-                                level="s">Foreign Relations</title> series</ref>.”</p>
-                </div>
+                <head>How can I access Department of State records?</head>
+                <p>The Office of the Historian is not the repository for Department of State
+                    records.</p>
+                <p>Department of State permanent records that are more than 30 years old are
+                    transferred to the National Archives and Records Administration (NARA). NARA
+                    offers <ref target="https://www.archives.gov/research/foreign-policy">a guide to
+                        conducting research in its foreign policy-related holdings</ref>. NARA also
+                    provides information about <ref
+                        target="https://www.archives.gov/research/foreign-policy/state-dept/agency-records"
+                        >its various collections of Department of State agency records, including
+                        non-textual media records</ref>. In addition, you can learn about digitized
+                    and “born-digital” Department of State records available online <ref
+                        target="https://www.archives.gov/findingaid/stat/discovery/59">through
+                        NARA’s website</ref>.</p>
+                <p>NARA handles personnel records differently than agency records. Information about
+                    accessing personnel records is available from <ref
+                        target="https://www.archives.gov/st-louis/civilian-personnel">the National
+                        Archives at St. Louis</ref>.</p>
+                <p>The Office of Information Programs and Services manages more recent Department of
+                    State permanent records (those less than 30 years old) that have been “retired”
+                    from operational use. To access these records, or very recent records that
+                    remain in the custody of their originating bureau or office, you will need to
+                    use the Freedom of Information Act (FOIA) process. To learn about FOIA and to
+                    submit a request electronically, visit <ref target="https://foia.state.gov/">the
+                        Department of State’s FOIA website</ref>.</p>
             </div>
-            <div type="section" xml:id="about-paho">
-                <head>About the Office of the Historian</head>
-                <div type="question" xml:id="paho-employment">
-                    <head>How can I get a job in the Office of the Historian?</head>
-                    <p>Any job openings at the Office of the Historian will be posted to the Office
-                        of Personnel Management’s website, <ref target="https://www.usajobs.gov/"
-                            >USAJobs</ref>. Jobs at the Office are generally posted under job series
-                        0170, Historian.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="paho-internships">
-                    <head>Does the Office of the Historian offer internships?</head>
-                    <p>The Office of the Historian has interns working in its Washington, DC office
-                        in fall, spring, and summer. Previous interns have performed work that
-                        includes historical research and analysis, data entry, assisting in the
-                        preparation of <title level="s"><ref
-                                target="https://history.state.gov/historicaldocuments">Foreign
-                                Relations of the United States</ref></title> manuscripts, and social
-                        media projects. All applications must be submitted through the Department of
-                        State’s internship program. To be considered for an Office of the Historian
-                        internship, request placement in the Foreign Service Institute (FSI) when
-                        submitting your application materials. Please click <ref
-                            target="https://www.careers.state.gov/intern">here</ref> for deadlines
-                        and more information.</p>
-                    <p>The Office of the Historian also participates in the Department’s Virtual
-                        Student Foreign Service program. Please click <ref
-                            target="https://www.state.gov/virtual-student-federal-service/"
-                            >here</ref> for deadlines and more information.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="paho-updates">
-                    <head>Can I receive updates on activities at the Office of the Historian?</head>
-                    <p>Follow us on Twitter! The Office of the Historian routinely posts updates on
-                        its activities at <ref target="https://twitter.com/HistoryAtState"
-                            >@HistoryAtState</ref>.</p>
-                </div>
+            <div type="section" xml:id="what-is-frus">
+                <head>Where can I find information about the <title level="s">Foreign Relations of
+                        the United States</title> (<title level="s">FRUS</title>) series?</head>
+                <p>The Office of the Historian produces the <title level="s">Foreign Relations of
+                        the United States</title> (<title level="s">FRUS</title>) series, which is
+                    the U.S. Government’s official documentary history of foreign policy
+                    decision-making and significant diplomatic activity. You can <ref
+                        target="$app/historicaldocuments/about-frus">learn more about <title
+                            level="s">FRUS</title> on our website</ref>.</p>
+                <p>We also maintain information about the current status of every <title level="s"
+                        >FRUS</title> volume that <ref
+                        target="$app/historicaldocuments/status-of-the-series"> is currently in
+                        production or published recently</ref>. This page also identifies the
+                    volumes that we anticipate publishing this year.</p>
+                <p>All published volumes are available online and as downloadable ebooks. You can
+                    also <ref target="$app/historicaldocuments/">browse, search, and read our <title
+                            level="s">FRUS</title> collection online</ref>. Some recently published
+                    volumes may also be available for purchase as printed books from the <ref
+                        target="https://bookstore.gpo.gov/catalog/foreign-relations-united-states-series-frus"
+                        >Government Publishing Office’s bookstore</ref>.</p>
+                <p>Information in <title level="s">FRUS</title> is in the public domain and can be
+                    used, copied, and distributed without seeking permission from the Office of the
+                    Historian, the Department of State, or any other component of the U.S.
+                    Government. <ref target="$app/historicaldocuments/citing-frus">For information
+                        about citing <title level="s">FRUS</title> in your own work, please consult
+                        our recommendations</ref>.</p>
             </div>
-            <div type="section" xml:id="state-department-history">
-                <head>Department History</head>
-                <div type="question" xml:id="why-called-state">
-                    <head>Why is the Department called the Department of State?</head>
-                    <p>On September 15, 1789, Congress passed <q>An Act to provide for the safe
-                            keeping of the Acts, Records, and Seal of the United States, and for
-                            other purposes.</q> This law changed the name of the Department of
-                        Foreign Affairs to the Department of State because certain domestic duties
-                        were assigned to the agency. These included:</p>
-                    <list rend="bulleted">
-                        <item>Receipt, publication, distribution, and preservation of the laws of
-                            the United States;</item>
-                        <item>Preparation, sealing, and recording of the commissions of Presidential
-                            appointees;</item>
-                        <item>Preparation and authentication of copies of records and authentication
-                            of copies under the Department's seal;</item>
-                        <item>Custody of the Great Seal of the United States;</item>
-                        <item>Custody of the records of the former Secretary of the Continental
-                            Congress, except for those of the Treasury and War Departments.</item>
-                    </list>
-                    <p>Other domestic duties that the Department was responsible for at various
-                        times included issuance of patents on inventions, publication of the census
-                        returns, management of the mint, control of copyrights, and regulation of
-                        immigration. Most domestic functions have been transferred to other
-                        agencies. Those that remain in the Department are: storage and use of the
-                        Great Seal, performance of protocol functions for the White House, drafting
-                        of certain Presidential proclamations, and replies to public inquiries.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="great-seal">
-                    <head>Why does the Department of State have possession of the Great Seal of the
-                        United States?</head>
-                    <p>The Department of State acquired possession of the Great Seal through an Act
-                        of Congress on September 15, 1789, entitled, “An Act to provide for the safe
-                        keeping of the Acts, Records, and Seal of the United States, and for other
-                        purposes.” In the fulfillment of its duties, the Department of State uses
-                        the Great Seal in the preparation, sealing, and recording of the commissions
-                        of Presidential appointees, on instruments of ratification of treaties and
-                        in the preparation and authentication of copies under the Department’s
-                        Seal.</p>
-                    <p>For more information about the Great Seal, please see <q><ref
-                                target="https://2009-2017.state.gov/documents/organization/27807.pdf"
-                                >The Great Seal of the United States</ref>.</q></p>
-                    <p>For more information on copyright and use of the Great Seal, please click
-                            <ref target="https://www.state.gov/copyright-information/"
-                        >here</ref>.</p>
-                </div>
-            </div>
-            <div type="section" xml:id="diplomatic-relations">
-                <head>Diplomatic Relations</head>
-                <div type="question" xml:id="when-did-US-start-relations">
-                    <head>When did the United States start/break off relations with …?</head>
-                    <p>For information on the history of U.S. relations with other countries, please
-                        click <ref target="$app/countries">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-to-recognize-US">
-                    <head>What country was the first to recognize the United States?</head>
-                    <p><ref target="$app/countries/france">France</ref> recognized the United States
-                        as an independent state on February 6, 1778.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="who-was-first-US-consul">
-                    <head>Who was the first U.S. Consul?</head>
-                    <p>William Palfrey of Massachusetts was the first U.S. consul. Prior to his
-                        appointment as Consul to France on November 4, 1780, he had been a
-                        lieutenant colonel and Paymaster-General of the Continental Army. He was
-                        lost at sea on his way to his post. His name is the first on the memorial
-                        plaque in the lobby of the Department of State that honors U.S. diplomats
-                        who lost their lives under heroic or tragic circumstances.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="when-first-US-treaty">
-                    <head>When was the first U.S. treaty signed?</head>
-                    <p>The first U.S. treaty to be signed was a Treaty of Amity and Commerce with
-                            <ref target="$app/countries/france">France</ref> that was signed in
-                        Paris on February 6, 1778.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="when-first-non-European-treaty">
-                    <head>What was the first U.S. treaty with a non-European nation?</head>
-                    <p>The first U.S. treaty with a non-European nation was a Treaty of Friendship
-                        and Amity that was signed with <ref target="$app/countries/morocco"
-                            >Morocco</ref> on June 23, 1786. Thomas Barclay, the U.S. Consul General
-                        in Paris, negotiated it. It was valid for fifty years and was renewed in
-                        1837.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-treaty-under-constitution">
-                    <head>What was the first U.S. treaty to be ratified under the
-                        Constitution?</head>
-                    <p>A consular convention with <ref target="$app/countries/france">France</ref>
-                        was signed at Versailles on November 14, 1788. President George Washington
-                        submitted to the Senate on June 11, 1789, the Senate approved it on July 29,
-                        and it entered into effect on January 6, 1790.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-consular-post">
-                    <head>When and where was the first U.S. consular post established?</head>
-                    <p>The first U.S. consular post was established in Bordeaux, France, in March
-                        1778. It was closed in 1995 and reopened in 2000 as an <ref
-                            target="https://bordeaux.usconsulate.gov/">American Presence
-                        Post</ref>.</p>
-                </div>
+            <div type="section" xml:id="why-called-state">
+                <head>Why is the Department called the Department of State?</head>
+                <p>On September 15, 1789, Congress passed “An Act to provide for the safe keeping of
+                    the Acts, Records, and Seal of the United States, and for other purposes.” This
+                    law changed the name of the Department of Foreign Affairs to the Department of
+                    State because certain domestic duties were assigned to the agency. These
+                    included:</p>
+                <list>
+                    <item>Receipt, publication, distribution, and preservation of the laws of the
+                        United States;</item>
+                    <item>Preparation, sealing, and recording of the commissions of Presidential
+                        appointees;</item>
+                    <item>Preparation and authentication of copies of records and authentication of
+                        copies under the Department's seal;</item>
+                    <item>Custody of the Great Seal of the United States; and</item>
+                    <item>Custody of the records of the former Secretary of the Continental
+                        Congress, except for those of the Treasury and War Departments.</item>
+                </list>
+                <p>Other domestic duties that the Department was responsible for at various times
+                    included issuance of patents on inventions, publication of the census returns,
+                    management of the mint, control of copyrights, and regulation of immigration.
+                    Most domestic functions have been transferred to other agencies. Those that
+                    remain in the Department are: storage and use of the Great Seal, performance of
+                    protocol functions for the White House, drafting of certain Presidential
+                    proclamations, and replies to public inquiries.</p>
+                <p>More information on the Great Seal and its history can be found <ref
+                        target="https://diplomacy.state.gov/exhibits/explore-online-exhibits/the-great-seal"
+                        >at the National Museum of America Diplomacy’s online exhibit</ref>.</p>
             </div>
             <div type="section" xml:id="secretaries-of-state">
-                <head>The Secretaries of State</head>
-                <div type="question" xml:id="how-many-secretaries">
-                    <head>How many Secretaries of State have there been?</head>
-                    <p>For a list of all Secretaries, click <ref
-                            target="$app/departmenthistory/people/secretaries">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="foreign-service-secretary">
-                    <head>Has any member of the Foreign Service served as Secretary of State?</head>
-                    <p>The only member of the Foreign Service to have served as Secretary of State
-                        was <ref target="$app/departmenthistory/people/eagleburger-lawrence-sidney"
-                            >Lawrence S. Eagleburger</ref>, who served from December 8, 1992 until
-                        January 19, 1993. Eagleburger had served as Acting Secretary of State from
-                        August 23, 1992.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-female-secretary">
-                    <head>Who was the first woman to serve as Secretary of State?</head>
-                    <p><ref target="$app/departmenthistory/people/albright-madeleine-korbel"
-                            >Madeleine K. Albright</ref> was the first woman to serve as Secretary
-                        of State.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-African-American-secretary">
-                    <head>Who was the first African American to serve as Secretary of State?</head>
-                    <p><ref target="$app/departmenthistory/people/powell-colin-luther">Colin
-                            Powell</ref> was the first African American to serve as Secretary of
-                        State.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="secretaries-before-constitution">
-                    <head>Were there equivalents to the Secretary of State prior to the
-                        Constitution?</head>
-                    <p>There were two Secretaries of Foreign Affairs under the Continental Congress.
-                            <ref target="$app/departmenthistory/people/livingston-robert-r">Robert
-                            R. Livingston</ref> served from October 20, 1781 until June 4, 1783.
-                            <ref target="$app/departmenthistory/people/jay-john">John Jay</ref>
-                        served from May 7, 1784 until March 4, 1789.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-secretary-to-travel">
-                    <head>Who was the first Secretary of State to travel outside the United States
-                        while in office?</head>
-                    <p><ref target="$app/departmenthistory/people/seward-william-henry">William H.
-                            Seward</ref> took a working vacation in the Caribbean between January 1
-                        and January 28, 1866. He met with <ref target="$app/countries/denmark"
-                            >Danish</ref> colonial officials in the Virgin Islands, with the
-                        Presidents of the <ref target="$app/countries/dominican-republic">Dominican
-                            Republic</ref> and <ref target="$app/countries/haiti">Haiti</ref>, and
-                        with <ref target="$app/countries/spain">Spanish</ref> colonial officials in
-                        Cuba.</p>
-                    <p>For general information on the travel of the Secretary of State, please click
-                            <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-travel-on-business">
-                    <head>Who was the first Secretary of State to travel outside the United States
-                        on official business?</head>
-                    <p>The first official travel by a Secretary of State outside the United States
-                        was by <ref target="$app/departmenthistory/people/root-elihu">Elihu
-                            Root</ref> in 1906. Root left the United States on July 4 and attended
-                        the Third International Conference of American States in Rio de Janeiro,
-                            <ref target="$app/countries/brazil">Brazil</ref>, after which he visited
-                            <ref target="$app/countries/uruguay">Uruguay</ref>, <ref
-                            target="$app/countries/argentina">Argentina</ref>, <ref
-                            target="$app/countries/chile">Chile</ref>, <ref
-                            target="$app/countries/peru">Peru</ref>, <ref
-                            target="$app/countries/panama">Panama</ref>, and <ref
-                            target="$app/countries/colombia">Colombia</ref>.</p>
-                    <p>For general information on the travel of the Secretary of State, please click
-                            <ref target="$app/departmenthistory/travels/secretary">here</ref>.</p>
-                </div>
+                <head>Where do I find information on past Secretaries of State?</head>
+                <p>A list of the <ref target="$app/departmenthistory/people/secretaries">Secretaries
+                        of State</ref>, their years of service and biographical information, as well
+                    as information on their <ref target="$app/departmenthistory/travels/secretary"
+                        >official travels</ref> can be found on our website. visit.</p>
             </div>
-            <div type="section" xml:id="ambassadors-and-chiefs-of-mission">
-                <head>Ambassadors and Chiefs of Mission</head>
-                <div type="question" xml:id="first-ambassador-to-country">
-                    <head>Who was the first Ambassador to …?</head>
-                    <p>A listing of U.S. Ambassadors by country can be found <ref
-                            target="$app/departmenthistory/people/chiefsofmission/by-country"
-                            >here</ref>.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="who-were-first-ambassadors">
-                    <head>Who were the first U.S. Ambassadors?</head>
-                    <p>The rank of Ambassador was first used by the United States in 1893. <ref
-                            target="$app/departmenthistory/people/bayard-thomas-francis">Thomas F.
-                            Bayard</ref> was appointed Ambassador to Great Britain on March 30. <ref
-                            target="$app/departmenthistory/people/eustis-james-biddle">James B.
-                            Eustis</ref> was appointed Ambassador to France on April 18. Prior to
-                        this date, the highest-ranking U.S. diplomats were Ministers.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="ambassadors-killed">
-                    <head>How many U.S. Ambassadors have been killed by militants?</head>
-                    <p>Since World War II, the following U.S. Ambassadors have been killed by
-                        militants:</p>
-                    <list rend="bulleted">
-                        <item><ref target="$app/departmenthistory/people/mein-john-gordon">John
-                                Gordon Mein</ref>, Ambassador to Guatemala, August 28, 1968. Mein
-                            was <ref target="$app/historicaldocuments/frus1964-68v31/d114">killed by
-                                a gunman in Guatemala City</ref>.</item>
-                        <item><ref target="$app/departmenthistory/people/noel-cleo-allen">Cleo A.
-                                Noel, Jr.</ref>, Ambassador to Sudan, March 1, 1973. Noel was taken
-                            hostage in Khartoum and <ref
-                                target="$app/historicaldocuments/frus1969-76ve06/d217">killed by his
-                                kidnappers</ref>.</item>
-                        <item><ref target="$app/departmenthistory/people/davies-rodger-paul">Rodger
-                                P. Davies</ref>, Ambassador to Cyprus, August 19, 1974. Davies was
-                                <ref target="$app/historicaldocuments/frus1969-76v30/d139">shot
-                                during a demonstration</ref> at the Embassy in Nicosia.</item>
-                        <item><ref target="$app/departmenthistory/people/meloy-francis-edward"
-                                >Francis E. Meloy, Jr.</ref>, Ambassador to Lebanon, June 16, 1976.
-                            Meloy was killed by a gunman in Beruit.</item>
-                        <item><ref target="$app/departmenthistory/people/dubs-adolph">Adolph
-                                Dubs</ref>, Ambassador to Afghanistan, February 14, 1979. Dubs was
-                            captured in Kabul and was killed during the rescue attempt.</item>
-                        <item><ref target="$app/departmenthistory/people/stevens-john-christopher"
-                                >J. Christopher Stevens</ref>, Ambassador to Libya, September 11,
-                            2012. Stevens was killed in an attack on the Mission in Benghazi.</item>
-                    </list>
-                    <p>The American Foreign Service Association maintains a list of foreign service
-                        officers killed in the line of duty <ref
-                            target="https://www.afsa.org/afsa-memorial-plaque-list">here</ref>.</p>
-                </div>
+            <div type="section" xml:id="department-and-personnel">
+                <head>Where can I find information about the history of the Department and its
+                    personnel?</head>
+                <p>For information about the history of the Department, including key developments
+                    in its personnel, visit our website’s <ref
+                        target="$app/departmenthistory/timeline">Administrative Timeline</ref>.</p>
             </div>
-            <div type="section" xml:id="foreign-service">
-                <head>The Foreign Service</head>
-                <div type="question" xml:id="origin-of-foreign-service">
-                    <head>What was the origin of the Foreign Service?</head>
-                    <p>Article II, section 2 of the Constitution authorized the President to
-                        appoint, by and with the advice and consent of the Senate, <q>Ambassadors,
-                            other public Ministers, and Consuls.</q> From 1789 until 1924, the
-                        Diplomatic Service, which staffed U.S. Legations and Embassies, and the
-                        Consular Service, which was primarily responsible for promoting American
-                        commerce and assisting distressed American sailors, developed
-                        separately.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="origin-of-consular-service">
-                    <head>When was the Consular Service established?</head>
-                    <p>The first Act of Congress providing for U.S. consuls abroad was passed on
-                        April 14, 1792. Except for the consuls appointed to the Barbary States of
-                        North Africa (who enjoyed quasi-diplomatic status when Muslim countries did
-                        not maintain permanent missions abroad), U.S. consuls received no salary and
-                        were expected to earn their livings from private trade or from fees charged
-                        for official services. It was not uncommon for consuls to have been
-                        merchants with business connections in the cities to which they had been
-                        appointed. They did not have to be U.S. citizens.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-consul-salary">
-                    <head>When did U.S. consuls first receive a salary?</head>
-                    <p>An Act of Congress of August 18, 1856 established two schedules of consular
-                        posts. Consuls appointed to Schedule B posts were paid between $1,000 and
-                        $7,500 per year. They could still collect fees, but could no longer engage
-                        in trade. Schedule C appointees received between $500 and $1,000 per year
-                        and could engage in trade. Non-citizens might be appointed to consular
-                        posts, but could not be paid.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="first-professional-consuls">
-                    <head>Who were the first professional consular appointees?</head>
-                    <p>The Act of August 18, 1856 provided for the appointment of up to 25
-                            <q>consular pupils,</q> who would take an examination before their
-                        appointment and be assigned to consulates at the discretion of the
-                        President. This provision was repealed during the next session of Congress.
-                        On June 20, 1864, Congress authorized 13 consular clerks. Between 1864 and
-                        1896, 64 consular clerks were appointed. Only 8 were promoted to consul;
-                        most preferred a small ($1,000) salary and security to a larger one of
-                        uncertain duration.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="foreign-service-examination">
-                    <head>What was the forerunner of the Foreign Service Examination?</head>
-                    <p>President Grover Cleveland issued an Executive Order on September 20, 1895
-                        that required appointees to consular positions with salaries between $1,000
-                        and $2,500 to be either a qualified officer of the Department, or to pass a
-                        written examination on consular regulations and an oral examination that
-                        included demonstrating proficiency in a foreign language. Executive orders
-                        issued by President Theodore Roosevelt on November 10, 1905 and June 27,
-                        1906 instituted examinations for the lower grades of the Consular Service
-                        and for secretaries in the Diplomatic Service.</p>
-                </div>
-                <milestone unit="question" rend="hr"/>
-                <div type="question" xml:id="rogers-act">
-                    <head>When was the present-day Foreign Service established?</head>
-                    <p>The Rogers Act (named for Representative <ref
-                            target="http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000400"
-                            >John Jacob Rogers of Massachusetts</ref>) of May 24, 1924 amalgamated
-                        the Diplomatic and Consular Services into a unified Foreign Service. </p>
-                </div>
+            <div type="section" xml:id="diplomatic-relations">
+                <head>Where can I find information about diplomatic relations between the United
+                    States and other countries?</head>
+                <p>Our website provides information on <ref target="$app/countries">U.S. relations
+                        with the countries of the world from 1776</ref>.</p>
             </div>
-            <div type="section" xml:id="women-in-the-foreign-service">
-                <head>Women in the Foreign Service</head>
-                <p>Notable firsts:</p>
-                <list rend="bulleted">
-                    <item>Lucile Atcherson was the first woman in the Foreign Service. She passed
-                        the Diplomatic Service examination in 1922 with the third-highest score, and
-                        was appointed a secretary in the Diplomatic Service on December 5, 1922. She
-                        was assigned as Third Secretary of the Legation in Berne, Switzerland, on
-                        April 11, 1925. She resigned on September 19, 1927, in order to get
-                        married.</item>
-                    <item>Pattie H. Field was the first woman to enter the Foreign Service after
-                        passage of the <ref target="#rogers-act">Rogers Act</ref>. She was sworn in
-                        on April 20, 1925, served as a Vice Consul at Amsterdam, and resigned on
-                        June 27, 1929, to accept a job with the National Broadcasting
-                        Company.</item>
-                    <item><ref target="$app/departmenthistory/people/owen-ruth-bryan">Ruth Bryan
-                            Owen</ref> was the first woman to be chief of a U.S. diplomatic
-                        mission.</item>
-                    <item><ref target="$app/departmenthistory/people/anderson-helen-eugenie-moore"
-                            >Helen Eugenie Moore Anderson</ref> was the first woman to hold the rank
-                        of Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/willis-frances-elizabeth"
-                            >Frances E. Willis</ref> was the first female Foreign Service Officer to
-                        become an Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/watson-barbara-mae">Barbara M.
-                            Watson</ref> was the first woman to become an Assistant Secretary of
-                        State.</item>
-                    <item><ref target="$app/departmenthistory/people/benson-lucy-wilson-peters">Lucy
-                            Wilson Benson</ref> was the first woman to become Under Secretary of
-                        State.</item>
-                </list>
-            </div>
-            <div type="section" xml:id="african-americans-in-the-foreign-service">
-                <head>African Americans in the Foreign Service</head>
-                <p>Notable firsts:</p>
-                <list rend="bulleted">
-                    <item><ref target="$app/departmenthistory/people/bassett-ebenezer-don-carlos"
-                            >Ebenezer Don Carlos Bassett</ref> was the first African-American
-                        diplomat.</item>
-                    <item><ref target="$app/departmenthistory/people/wharton-clifton-reginald"
-                            >Clifton R. Wharton</ref> was the first African American to join the
-                        Foreign Service. He was also the first African American appointed as chief
-                        of a diplomatic mission to a European country.</item>
-                    <item><ref target="$app/departmenthistory/people/dudley-edward-richard">Edward
-                            R. Dudley</ref> was the first African American to hold the rank of
-                        Ambassador.</item>
-                    <item><ref target="$app/departmenthistory/people/harris-patricia-roberts"
-                            >Patricia Roberts Harris </ref>was the first African American woman to
-                        hold the rank of Ambassador.</item>
-                </list>
-            </div>
-            <div type="section" xml:id="diplomatic-and-consular-posts">
-                <head>Diplomatic and Consular Posts, 1781-2010</head>
-                <p>Diplomatic Posts includes Embassies and Legations only; does not include Embassy
-                    Branch Offices, U.S. Liaison Offices, U.S. Interests Sections, and Missions to
-                    International Organizations. Consular Posts includes Consulates and Consulates
-                    General only; does not include Consular Agencies.</p>
-                <table rows="24" cols="3">
-                    <row role="label">
-                        <cell>Year</cell>
-                        <cell>Diplomatic Posts</cell>
-                        <cell>Consular Posts</cell>
-                    </row>
-                    <row>
-                        <cell>1781</cell>
-                        <cell>4</cell>
-                        <cell>3</cell>
-                    </row>
-                    <row>
-                        <cell>1790</cell>
-                        <cell>2</cell>
-                        <cell>10</cell>
-                    </row>
-                    <row>
-                        <cell>1800</cell>
-                        <cell>6</cell>
-                        <cell>52</cell>
-                    </row>
-                    <row>
-                        <cell>1810</cell>
-                        <cell>4</cell>
-                        <cell>60</cell>
-                    </row>
-                    <row>
-                        <cell>1820</cell>
-                        <cell>7</cell>
-                        <cell>83</cell>
-                    </row>
-                    <row>
-                        <cell>1830</cell>
-                        <cell>15</cell>
-                        <cell>141</cell>
-                    </row>
-                    <row>
-                        <cell>1840</cell>
-                        <cell>20</cell>
-                        <cell>152</cell>
-                    </row>
-                    <row>
-                        <cell>1850</cell>
-                        <cell>27</cell>
-                        <cell>197</cell>
-                    </row>
-                    <row>
-                        <cell>1860</cell>
-                        <cell>33</cell>
-                        <cell>282</cell>
-                    </row>
-                    <row>
-                        <cell>1870</cell>
-                        <cell>36</cell>
-                        <cell>318</cell>
-                    </row>
-                    <row>
-                        <cell>1880</cell>
-                        <cell>35</cell>
-                        <cell>303</cell>
-                    </row>
-                    <row>
-                        <cell>1890</cell>
-                        <cell>41</cell>
-                        <cell>323</cell>
-                    </row>
-                    <row>
-                        <cell>1900</cell>
-                        <cell>41</cell>
-                        <cell>318</cell>
-                    </row>
-                    <row>
-                        <cell>1910</cell>
-                        <cell>48</cell>
-                        <cell>324</cell>
-                    </row>
-                    <row>
-                        <cell>1920</cell>
-                        <cell>45</cell>
-                        <cell>368</cell>
-                    </row>
-                    <row>
-                        <cell>1930</cell>
-                        <cell>57</cell>
-                        <cell>299</cell>
-                    </row>
-                    <row>
-                        <cell>1940</cell>
-                        <cell>58</cell>
-                        <cell>264</cell>
-                    </row>
-                    <row>
-                        <cell>1950</cell>
-                        <cell>74</cell>
-                        <cell>179</cell>
-                    </row>
-                    <row>
-                        <cell>1960</cell>
-                        <cell>99</cell>
-                        <cell>166</cell>
-                    </row>
-                    <row>
-                        <cell>1970</cell>
-                        <cell>117</cell>
-                        <cell>122</cell>
-                    </row>
-                    <row>
-                        <cell>1980</cell>
-                        <cell>133</cell>
-                        <cell>100</cell>
-                    </row>
-                    <row>
-                        <cell>1990</cell>
-                        <cell>145</cell>
-                        <cell>97</cell>
-                    </row>
-                    <row>
-                        <cell>2000</cell>
-                        <cell>161</cell>
-                        <cell>82</cell>
-                    </row>
-                    <row>
-                        <cell>2010</cell>
-                        <cell>168</cell>
-                        <cell>89</cell>
-                    </row>
-                </table>
-            </div>
-            <div type="section" xml:id="department-personnel">
-                <head>Department Personnel, 1781-2010</head>
-                <p>Domestic personnel includes both Civil Service and Foreign Service. Overseas
-                    personnel includes Foreign Service only.</p>
-                <table rows="24" cols="4">
-                    <row role="label">
-                        <cell>Year</cell>
-                        <cell>Domestic</cell>
-                        <cell>Overseas</cell>
-                        <cell>Total</cell>
-                    </row>
-                    <row>
-                        <cell>1781</cell>
-                        <cell>4</cell>
-                        <cell>10</cell>
-                        <cell>14</cell>
-                    </row>
-                    <row>
-                        <cell>1790</cell>
-                        <cell>8</cell>
-                        <cell>20</cell>
-                        <cell>28</cell>
-                    </row>
-                    <row>
-                        <cell>1800</cell>
-                        <cell>10</cell>
-                        <cell>62</cell>
-                        <cell>72</cell>
-                    </row>
-                    <row>
-                        <cell>1810</cell>
-                        <cell>9</cell>
-                        <cell>56</cell>
-                        <cell>65</cell>
-                    </row>
-                    <row>
-                        <cell>1820</cell>
-                        <cell>16</cell>
-                        <cell>96</cell>
-                        <cell>111</cell>
-                    </row>
-                    <row>
-                        <cell>1830</cell>
-                        <cell>23</cell>
-                        <cell>153</cell>
-                        <cell>176</cell>
-                    </row>
-                    <row>
-                        <cell>1840</cell>
-                        <cell>38</cell>
-                        <cell>170</cell>
-                        <cell>208</cell>
-                    </row>
-                    <row>
-                        <cell>1850</cell>
-                        <cell>22</cell>
-                        <cell>218</cell>
-                        <cell>240</cell>
-                    </row>
-                    <row>
-                        <cell>1860</cell>
-                        <cell>42</cell>
-                        <cell>281</cell>
-                        <cell>323</cell>
-                    </row>
-                    <row>
-                        <cell>1870</cell>
-                        <cell>65</cell>
-                        <cell>804</cell>
-                        <cell>869</cell>
-                    </row>
-                    <row>
-                        <cell>1880</cell>
-                        <cell>80</cell>
-                        <cell>977</cell>
-                        <cell>1,067</cell>
-                    </row>
-                    <row>
-                        <cell>1890</cell>
-                        <cell>76</cell>
-                        <cell>1,105</cell>
-                        <cell>1,181</cell>
-                    </row>
-                    <row>
-                        <cell>1900</cell>
-                        <cell>91</cell>
-                        <cell>1,137</cell>
-                        <cell>1,228</cell>
-                    </row>
-                    <row>
-                        <cell>1910</cell>
-                        <cell>234</cell>
-                        <cell>1,043</cell>
-                        <cell>1,277</cell>
-                    </row>
-                    <row>
-                        <cell>1920</cell>
-                        <cell>708</cell>
-                        <cell>514</cell>
-                        <cell>1,222</cell>
-                    </row>
-                    <row>
-                        <cell>1930</cell>
-                        <cell>714</cell>
-                        <cell>633</cell>
-                        <cell>1,347</cell>
-                    </row>
-                    <row>
-                        <cell>1940</cell>
-                        <cell>1,128</cell>
-                        <cell>840</cell>
-                        <cell>1,968</cell>
-                    </row>
-                    <row>
-                        <cell>1950</cell>
-                        <cell>8,609</cell>
-                        <cell>7,710</cell>
-                        <cell>16,319</cell>
-                    </row>
-                    <row>
-                        <cell>1960</cell>
-                        <cell>7,116</cell>
-                        <cell>6,178</cell>
-                        <cell>13,294</cell>
-                    </row>
-                    <row>
-                        <cell>1970</cell>
-                        <cell>6,983</cell>
-                        <cell>5,865</cell>
-                        <cell>12,848</cell>
-                    </row>
-                    <row>
-                        <cell>1980</cell>
-                        <cell>8,433</cell>
-                        <cell>5,861</cell>
-                        <cell>13,962</cell>
-                    </row>
-                    <row>
-                        <cell>1990</cell>
-                        <cell>10,063</cell>
-                        <cell>6,783</cell>
-                        <cell>16,846</cell>
-                    </row>
-                    <row>
-                        <cell>2000</cell>
-                        <cell>11,530</cell>
-                        <cell>7,374</cell>
-                        <cell>18,904</cell>
-                    </row>
-                    <row>
-                        <cell>2010</cell>
-                        <cell>16,565</cell>
-                        <cell>10,581</cell>
-                        <cell>27,146</cell>
-                    </row>
-                </table>
+            <div type="section" xml:id="us-ambassadors-chiefs-of-mission">
+                <head>Where can I find information about U.S. Ambassadors and Chiefs of
+                    Mission?</head>
+                <p>Our website provides <ref
+                        target="$app/departmenthistory/people/chiefsofmission/by-country">a listing
+                        of U.S. Ambassadors by country</ref>.</p>
+                <p>The rank of Ambassador was first used by the United States in 1893: <ref
+                        target="$app/departmenthistory/people/bayard-thomas-francis">Thomas F.
+                        Bayard</ref> was appointed Ambassador to Great Britain on March 30 and <ref
+                        target="$app/departmenthistory/people/eustis-james-biddle">James B.
+                        Eustis</ref> was appointed Ambassador to France on April 18. Prior to this
+                    date, the highest-ranking U.S. diplomats held the rank of Minister.</p>
             </div>
         </body>
     </text>
