@@ -1,0 +1,56 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Rex Wayne
+                    Tillerson</title>
+                <title type="short">Rex Wayne Tillerson</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Adapted from Secretary Tillerson’s official biography
+                    https://2017-2021.state.gov/biographies/rex-w-tillerson/index.html (accessed
+                    March 17, 2021).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Rex W. Tillerson was sworn in as the 69th U.S. Secretary of State on February 1,
+                    2017, and served until March 31, 2018.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="tillerson-rex-wayne.jpg"/>
+                    <head>Rex Wayne Tillerson, 69th Secretary of State</head>
+                </figure>
+                <p>A native of Wichita Falls, Texas, Secretary Tillerson earned a Bachelor of
+                    Science degree in civil engineering at the University of Texas at Austin before
+                    joining Exxon Company, U.S.A., in 1975 as a production engineer. Secretary
+                    Tillerson rose through the ranks to become president of the corporation and a
+                    member of the board of directors in 2004, and served as ExxonMobil’s chairman
+                    and chief executive officer from 2006 to 2016.</p>
+                <p>Secretary Tillerson has a longstanding involvement with the Boy Scouts of
+                    America, earning its highest rank of Distinguished Eagle Scout in his youth. He
+                    is a former member of the Boy Scouts of America’s Executive Committee and served
+                    as the National President of the Boy Scouts from 2010 to 2012.</p>
+                <p>Secretary Tillerson is a former member of the American Petroleum Institute and
+                    the National Petroleum Council, and was elected to the National Academy of
+                    Engineering in 2013. He formerly served as a trustee of the Center for Strategic
+                    and International Studies. He was also a member of the Business Roundtable and
+                    the Business Council, as well as an honorary trustee of the Business Council for
+                    International Understanding, and a member of the Emergency Committee for
+                    American Trade. He is a former director of the United Negro College Fund and a
+                    former vice-chairman of the Ford’s Theatre Society.</p>
+            </div>
+            <div type="section" xml:id="sources">
+                <head>Sources</head>
+                <p>This text was adapted from Secretary Tillerson’s <ref
+                        target="https://2017-2021.state.gov/biographies/rex-w-tillerson/index.html"
+                        >official biography</ref> (accessed March 17, 2021).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

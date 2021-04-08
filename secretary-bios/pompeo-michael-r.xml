@@ -1,0 +1,55 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Michael R.
+                    Pompeo</title>
+                <title type="short">Michael R. Pompeo</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Adapted from Secretary Pompeo’s official biography
+                    https://2017-2021.state.gov/biographies/michael-r-pompeo/index.html (accessed
+                    March 17, 2021).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Michael R. Pompeo was sworn in as the 69th Secretary of State on April 26, 2018.
+                    He previously served as Director of the Central Intelligence Agency from January
+                    2017 to April 2018.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="pompeo-michael-r.jpg"/>
+                    <head>Michael R. Pompeo, 70th Secretary of State</head>
+                </figure>
+                <p>Prior to joining the Trump Administration, Mr. Pompeo was serving in his fourth
+                    term as congressman from Kansas’ 4th District. He served on the House
+                    Intelligence Committee, as well as the Energy and Commerce Committee and House
+                    Select Benghazi Committee.</p>
+                <p>Prior to his service in Congress, Mr. Pompeo founded Thayer Aerospace, where he
+                    served as CEO for more than a decade. He later became President of Sentry
+                    International, an oilfield equipment manufacturing, distribution, and service
+                    company.</p>
+                <p>Mr. Pompeo graduated first in his class at the United States Military Academy at
+                    West Point in 1986 and served as a cavalry officer patrolling the Iron Curtain
+                    before the fall of the Berlin Wall. He also served with the 2nd Squadron, 7th
+                    Cavalry in the US Army’s Fourth Infantry Division.</p>
+                <p>After leaving active duty, Mr. Pompeo graduated from Harvard Law School, having
+                    been an editor of the Harvard Law Review.</p>
+                <p>Mr. Pompeo was born on December 30, 1963, in Orange, California. He is married to
+                    Susan Pompeo and has one son, Nick.</p>
+            </div>
+            <div type="section" xml:id="sources">
+                <head>Sources</head>
+                <p>This text was adapted from Secretary Pompeo’s <ref
+                        target="https://2017-2021.state.gov/biographies/michael-r-pompeo/index.html"
+                        >official biography</ref> (accessed March 17, 2021).</p>
+            </div>
+        </body>
+    </text>
+</TEI>
