@@ -100,10 +100,11 @@
             </div>
             <div type="section" xml:id="secretaries-of-state">
                 <head>Where do I find information on past Secretaries of State?</head>
-                <p>A list of the <ref target="$app/departmenthistory/people/secretaries">Secretaries
-                        of State</ref>, their years of service and biographical information, as well
-                    as information on their <ref target="$app/departmenthistory/travels/secretary"
-                        >official travels</ref> can be found on our website. visit.</p>
+                <p>Our website offers a list of the <ref
+                        target="$app/departmenthistory/people/secretaries">Secretaries of
+                        State</ref>, their years of service and biographical information, as well as
+                    information on their <ref target="$app/departmenthistory/travels/secretary"
+                        >official travels</ref>.</p>
             </div>
             <div type="section" xml:id="department-and-personnel">
                 <head>Where can I find information about the history of the Department and its
