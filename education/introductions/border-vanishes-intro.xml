@@ -1,4 +1,5 @@
-﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+﻿<!-- Linked PDFs are at static.history.state.gov, and # character in filenames have been escaped as %23 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -203,17 +204,17 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #1 Presidents  and Environmental Legislation.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %231 Presidents  and Environmental Legislation.pdf"
                                         >Handout #1: Presidents and Environmental Legislation</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #2 Presidents  and Environmental Legislation.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %232 Presidents  and Environmental Legislation.pdf"
                                         >Handout #2: Presidents and Environmental Legislation</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #3 Presidents  and Environmental Legislation.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %233 Presidents  and Environmental Legislation.pdf"
                                         >Handout #3: Presidents and Environmental Legislation</ref>
                                 </item>
                                 <item>
@@ -478,17 +479,17 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #1 Duck Stamp.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %231 Duck Stamp.pdf"
                                         >Handout #1: Duck Stamp</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #2 Duck Stamp Information.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %232 Duck Stamp Information.pdf"
                                         >Handout #2: Duck Stamp Information</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #3 Duck Stamp 2009-2010.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %233 Duck Stamp 2009-2010.pdf"
                                         >Handout #3: Duck Stamp 2009-2010</ref>
                                 </item>
                             </list>
@@ -500,23 +501,23 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #1 Influenza Epidemic of 1918.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %231 Influenza Epidemic of 1918.pdf"
                                         >Handout #1: The Influenza Epidemic of 1918</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #2 Questions about 1918 Influenza Epidemic.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %232 Questions about 1918 Influenza Epidemic.pdf"
                                         >Handout #2: Questions about the 1918 Influenza
                                         Epidemic</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #3 1918 US Influenza Map.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %233 1918 US Influenza Map.pdf"
                                         >Handout #3: US Map of the 1918 Influenza Epidemic</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #4 Blank map of the United States.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %234 Blank map of the United States.pdf"
                                         >Handout #4: Blank map of the United States</ref>
                                 </item>
                             </list>
@@ -546,13 +547,13 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #1 Jefferson von Humboldt primary documents.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %231 Jefferson von Humboldt primary documents.pdf"
                                         >Handout #1: Jefferson and von Humboldt primary
                                         documents</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #2 A Conversation between Jefferson and von Humboldt.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %232 A Conversation between Jefferson and von Humboldt.pdf"
                                         >Handout #2: A Conversation Between Jefferson and von
                                         Humboldt</ref>
                                 </item>
@@ -565,28 +566,28 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Cartoon #1 TR Digging the Canal.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Cartoon %231 TR Digging the Canal.pdf"
                                         >Cartoon #1: T.R. Digging the Panama Canal</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Cartoon #2 When the News Reached Africa.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Cartoon %232 When the News Reached Africa.pdf"
                                         >Cartoon #2: When the News of President Roosevelt’s Visit
                                         Reached Africa</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Cartoon #3 TR as Many Men.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Cartoon %233 TR as Many Men.pdf"
                                         >Cartoon #3: The Many Faces of Theodore Roosevelt</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #1 TR's Petrified Forest Proclamation.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %231 TR's Petrified Forest Proclamation.pdf"
                                         >Handout #1: Presidential Proclamation</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Handout #2 Jungle Jangle Text.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Handout %232 Jungle Jangle Text.pdf"
                                         >Handout #2: “Jungle Jangle” text</ref>
                                 </item>
                             </list>
@@ -628,58 +629,58 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #1 Human Needs.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %231 Human Needs.pdf"
                                         >Activity Sheet #1 Human Needs</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #2 Hierarchy of Human Needs.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %232 Hierarchy of Human Needs.pdf"
                                         >Activity Sheet #2 A Hierarchy of Human Needs</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #3 A Closer Look at What I Have.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %233 A Closer Look at What I Have.pdf"
                                         >Activity Sheet #3 A Closer Look at What I Have</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #4 Perceptions of Poverty.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %234 Perceptions of Poverty.pdf"
                                         >Activity Sheet #4 Perceptions of Poverty</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #5 Megacities.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %235 Megacities.pdf"
                                         >Activity Sheet #5 Megacities Where are They?</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #6 Information Sheet.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %236 Information Sheet.pdf"
                                         >Activity Sheet #6 Megacities</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #7 Another point of view.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %237 Another point of view.pdf"
                                         >Activity Sheet #7 Another Point of View</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #8 Map.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %238 Map.pdf"
                                         >Activity Sheet #8 World Map of the Undernourished</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #9 Map of World Poverty.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %239 Map of World Poverty.pdf"
                                         >Activity Sheet #9 World Map of Poverty</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #10 A Closer Look at What I Have.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %2310 A Closer Look at What I Have.pdf"
                                         >Activity Sheet #10 A Closer Look at What I Have, Part
                                         II</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet #11 The Magnifying Glass.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Activity Sheet %2311 The Magnifying Glass.pdf"
                                         >Activity Sheet #11 The Magnifying Glass</ref>
                                 </item>
                             </list>
@@ -691,133 +692,133 @@
                             <list>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #1.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %231.pdf"
                                         >Millennium Handout #1 UN Millennium Goals</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2a Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232a Posters.pdf"
                                         >Millennium Handout #2a Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2b Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232b Posters.pdf"
                                         >Millennium Handout #2b Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2c Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232c Posters.pdf"
                                         >Millennium Handout #2c Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2d Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232d Posters.pdf"
                                         >Millennium Handout #2d Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2e Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232e Posters.pdf"
                                         >Millennium Handout #2e Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2f Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232f Posters.pdf"
                                         >Millennium Handout #2f Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #2g Posters.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %232g Posters.pdf"
                                         >Millennium Handout #2g Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3a Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233a Poster Identification.pdf"
                                         >Millennium Handout #3a Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3b Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233b Poster Identification.pdf"
                                         >Millennium Handout #3b Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3c Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233c Poster Identification.pdf"
                                         >Millennium Handout #3c Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3d Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233d Poster Identification.pdf"
                                         >Millennium Handout #3d Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3e Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233e Poster Identification.pdf"
                                         >Millennium Handout #3e Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3f Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233f Poster Identification.pdf"
                                         >Millennium Handout #3f Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #3g Poster Identification.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %233g Poster Identification.pdf"
                                         >Millennium Handout #3g Identification of Posters</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #4.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %234.pdf"
                                         >Millennium Handout #4 List of MDG Indicators</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #5.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %235.pdf"
                                         >Millennium Handout #5 Studying the UN Millennium
                                         Goals</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #6 Vocabulary.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %236 Vocabulary.pdf"
                                         >Millennium Handout #6 Vocabulary</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7a Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237a Drawings.pdf"
                                         >Millennium Handout #7a Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7b Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237b Drawings.pdf"
                                         >Millennium Handout #7b Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7c Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237c Drawings.pdf"
                                         >Millennium Handout #7c Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7d Drawing.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237d Drawing.pdf"
                                         >Millennium Handout #7d Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7e Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237e Drawings.pdf"
                                         >Millennium Handout #7e Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7f Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237f Drawings.pdf"
                                         >Millennium Handout #7f Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7g Drawings.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237g Drawings.pdf"
                                         >Millennium Handout #7g Millennium Goal Drawings</ref>
                                 </item>
                                 <item>
                                     <ref
-                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout #7h Drawing.pdf"
+                                        target="https://static.history.state.gov/edu-modules/border/Millennium Handout %237h Drawing.pdf"
                                         >Millennium Handout #7h Millennium Goal Drawings</ref>
                                 </item>
                             </list>
