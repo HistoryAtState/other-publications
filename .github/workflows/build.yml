@@ -61,26 +61,22 @@ jobs:
         uses: wagoid/commitlint-github-action@v6
 
       # Get all changed files in current commit
-      - name: Check for changed files
-        id: changed
+      - uses: actions/checkout@v3
+        with:
+            fetch-depth: ${{ github.event_name == 'pull_request' && 2 || 0 }}
+      - name: Get changed files
+        id: changed-files
         run: |
-          {
-            echo "FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | xargs)"
-          } >> "$GITHUB_OUTPUT"
-
-      # If no files were changed ...
-      - name: No files changed
-        if: ${{ steps.changed.outputs.FILES == '' }}
+            if ${{ github.event_name == 'pull_request' }}; then
+                echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
+            else
+                echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
+            fi
+      - name: List changed files
         run: |
-          echo "No files were modified"
-
-      # ... otherwise list the changes
-      - name: List modified files
-        env:
-          FILES: ${{ steps.changed.outputs.FILES }}
-        if: ${{ steps.changed.outputs.FILES != '' }}
-        run: |
-          echo "Modified files: $FILES"
+            for file in ${{ steps.changed-files.outputs.changed_files }}; do
+                echo "$file was changed"
+            done
 
   release:
     name: Release
