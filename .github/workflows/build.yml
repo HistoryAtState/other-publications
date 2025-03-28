@@ -75,7 +75,54 @@ jobs:
       - name: List changed files
         run: |
             for file in ${{ steps.changed-files.outputs.changed_files }}; do
-                echo "$file was changed"
+              if [ ! -f "$file" ]; then
+                  echo "Error: File '$file' does not exist" >&2
+                  return 1
+              fi
+              
+              # Get last commit date in ISO format    
+              if ! iso=$(git log -1 --format=%cd --date=format-local:'%Y-%m-%dT%H:%M:%S%z' "$file"); then
+                  echo "Error: Failed to get git log for '$file'" >&2
+                  return 1
+              fi
+              if ! datetime=$(git log -1 --format=%cd --date=iso-strict-local "$file"); then
+                  echo "Error: Failed to get git log for '$file'" >&2
+                  return 1
+              fi
+          
+              # Create output directory structure
+              dir=$(dirname ".last-modified/$file")
+              if ! mkdir -p "$dir"; then
+                  echo "Error: Failed to create directory '$dir'" >&2
+                  return 1
+              fi
+              
+              # Replace any forward slashes in path with underscores for xml:id
+              xml_id=${file//\//0x2F}
+              
+              # Convert date to seconds since epoch
+              if [[ "$OSTYPE" == "darwin"* ]]; then
+                  if ! seconds_since_epoch=$(date -j -f "%Y-%m-%dT%H:%M:%S%z" "$iso" "+%s"); then
+                      echo "Error: Failed to convert date for '$file'" >&2
+                      return 1
+                  fi
+              else
+                  if ! seconds_since_epoch=$(date -d "$iso" +%s); then
+                      echo "Error: Failed to convert date for '$file'" >&2
+                      return 1
+                  fi
+              fi
+              
+              # Write XML files
+              if ! echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>" > ".last-modified/$file"; then
+                  echo "Error: Failed to write XML header for '$file'" >&2
+                  return 1
+              fi
+              
+              if ! echo "<last-modified xml:id=\"$xml_id\" seconds_since_epoch=\"$seconds_since_epoch\">$datetime</last-modified>" >> ".last-modified/$file"; then
+                  echo "Error: Failed to write XML content for '$file'" >&2
+                  return 1
+              fi    
             done
 
   release:
