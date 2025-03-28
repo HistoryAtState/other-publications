@@ -72,7 +72,7 @@ jobs:
             else
                 echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
             fi
-      - name: List changed files
+      - name: Create xml files in .last-modified folder
         run: |
             for file in ${{ steps.changed-files.outputs.changed_files }}; do
               if [ ! -f "$file" ]; then
@@ -124,6 +124,13 @@ jobs:
                   return 1
               fi    
             done
+      - name: Commit and Push
+        if: ${{ github.ref != 'refs/heads/master' }}
+        uses: actions-x/commit@v6
+        with:
+          message: "fix: updated .last-modified [skip ci]"
+    
+
 
   release:
     name: Release
