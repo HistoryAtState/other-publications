@@ -60,6 +60,30 @@ jobs:
       - name: lint commit message
         uses: wagoid/commitlint-github-action@v6
 
+      # Compare locally changed files to PR's base
+      - name: Check for changed source files
+        id: changed
+        run: |
+          {
+            echo "FILES=$(git diff --name-only --diff-filter=ACMRT \
+            ${{ github.event.pull_request.base.sha }} \
+            ${{ github.sha }} \
+            -- ':./**/*.xml' \  
+                ':*.xml' ':!build.xml' ':!expath-pkg.xml' ':!repo.xml' | xargs)"
+          } >> "$GITHUB_OUTPUT"
+      # If no xml files were modified ...
+      - name: No source files changed
+        if: ${{ steps.changed.outputs.FILES == '' }}
+        run: |
+          echo "All good"
+      # ... otherwise
+      - name: List modified documents
+        env:
+          FILES: ${{ steps.changed.outputs.FILES }}
+        if: ${{ steps.changed.outputs.FILES != '' }}  
+        run: |
+          echo "modified: $FILES"
+
   release:
     name: Release
     runs-on: ubuntu-latest
