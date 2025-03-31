@@ -77,6 +77,11 @@ jobs:
         if: ${{matrix.java-version == 17 && github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         run: |
             for file in ${{ steps.changed-files.outputs.changed_files }}; do
+              # Skip files in hidden folders (starting with .)
+              if [[ "$file" =~ ^\..*/ ]]; then
+                continue
+              fi
+              
               if [ ! -f "$file" ]; then
                   echo "Error: File '$file' does not exist" >&2
                   return 1
