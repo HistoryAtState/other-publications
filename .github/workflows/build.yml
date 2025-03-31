@@ -65,6 +65,7 @@ jobs:
         with:
             fetch-depth: ${{ github.event_name == 'pull_request' && 2 || 0 }}
       - name: Get changed files
+        if: ${{matrix.java-version == 17 && github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         id: changed-files
         run: |
             if ${{ github.event_name == 'pull_request' }}; then
@@ -73,6 +74,7 @@ jobs:
                 echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
             fi
       - name: Create xml files in .last-modified folder
+        if: ${{matrix.java-version == 17 && github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         run: |
             for file in ${{ steps.changed-files.outputs.changed_files }}; do
               if [ ! -f "$file" ]; then
