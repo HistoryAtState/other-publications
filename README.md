@@ -2,8 +2,6 @@
 
 [![exist-db CI](https://github.com/HistoryAtState/other-publications/actions/workflows/build.yml/badge.svg)](https://github.com/HistoryAtState/other-publications/actions/workflows/build.yml)
 
-Test
-
 Source data for:
 
 - [Foreign Relations of the United States Guide to Sources on Vietnam, 1969-1975](https://history.state.gov/historicaldocuments/guide-to-sources-on-vietnam-1969-1975)
