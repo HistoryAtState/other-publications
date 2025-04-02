@@ -68,11 +68,7 @@ jobs:
         if: ${{matrix.java-version == 17 && github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         id: changed-files
         run: |
-            if ${{ github.event_name == 'pull_request' }}; then
-                echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
-            else
-                echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
-            fi
+              echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
       - name: Create xml files in .last-modified folder
         if: ${{matrix.java-version == 17 && github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         run: |
