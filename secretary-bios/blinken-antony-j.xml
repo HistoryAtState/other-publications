@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="complete">Biographies of the Secretaries of State: Antony J.
+                    Blinken</title>
+                <title type="short">Antony J. Blinken</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Adapted from Secretary Blinken’s official biography
+                    https://2021-2025.state.gov/biographies/antony-j-blinken/ (accessed May 1,
+                    2025).</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="intro">
+                <head>Introduction</head>
+                <p>Antony J. Blinken was nominated by President Biden on November 23, 2020;
+                    confirmed by the U.S. Senate on January 26, 2021; and sworn in by Vice President
+                    Kamala Harris the following day.</p>
+                <figure rend="smallfloatinline">
+                    <graphic url="blinken-antony-j.jpg"/>
+                    <head>Antony J. Blinken, 71st Secretary of State</head>
+                </figure>
+                <p>Over three decades and three presidential administrations, Mr. Blinken has helped
+                    shape U.S. foreign policy to ensure it protects U.S. interests and delivers
+                    results for the American people. He served as deputy secretary of state for
+                    President Barack Obama from 2015 to 2017, and before that, as President Obama’s
+                    principal deputy national security advisor. In that role, Mr. Blinken chaired
+                    the interagency deputies committee, the main forum for hammering out the
+                    administration’s foreign policy.</p>
+                <p>During the first term of the Obama Administration, Mr. Blinken was national
+                    security advisor to then-Vice President Joe Biden. This was the continuation of
+                    a long professional relationship that stretched back to 2002, when Mr. Blinken
+                    began his six-year stint as Democratic staff director for the U.S. Senate
+                    Foreign Relations Committee. Then-Senator Biden was the chair of that committee
+                    from 2001 to 2003 and 2007 to 2009.</p>
+                <p>During the Clinton Administration, Mr. Blinken served as a member of the National
+                    Security Council staff, including two years as the senior director for European
+                    affairs, the president’s principal advisor on the countries of Europe, the
+                    European Union, and NATO. He also spent four years as President Clinton’s chief
+                    foreign policy speechwriter, and he led the NSC’s strategic planning team.</p>
+                <p>Mr. Blinken’s public service began at the State Department. From 1993 to 1994, he
+                    was a special assistant in what was then called the Bureau of European and
+                    Canadian Affairs. Now he is proud to lead the department where he got his start
+                    in government nearly 30 years ago.</p>
+                <p>Outside of government, Mr. Blinken has worked in the private sector, civil
+                    society, and journalism. He was a founder of WestExec Advisors, an international
+                    strategic consulting firm focused on geopolitics and national security. He was a
+                    senior fellow at the Center for Strategic and International Studies from 2001
+                    and 2002. Before joining government, Mr. Blinken practiced law in New York and
+                    Paris. He was also a reporter for The New Republic magazine and is the author of
+                        <hi rend="italic">Ally Versus Ally: America, Europe and the Siberian
+                        Pipeline Crisis</hi> (Praeger, 1987).</p>
+                <p>Mr. Blinken attended grade school and high school in Paris, where he received a
+                    French Baccalaureat degree with high honors. He is a graduate of Harvard
+                    College and Columbia Law School. He and his wife Evan Ryan have two
+                    children.</p>
+            </div>
+            <div type="section" xml:id="sources">
+                <head>Sources</head>
+                <p>This text was adapted from Secretary Blinken’s <ref
+                        target="https://2021-2025.state.gov/biographies/antony-j-blinken/">official
+                        biography</ref> (accessed May 1, 2025).</p>
+            </div>
+        </body>
+    </text>
+</TEI>
