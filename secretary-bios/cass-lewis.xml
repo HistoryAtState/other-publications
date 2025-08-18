@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="cass-lewis" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,6 +13,13 @@
                 <p>United States Department of State Publication</p>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="https://history.state.gov/tags">
+                    <term>cass-lewis</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
