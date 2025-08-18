@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:id="eagleburger-lawrence-sidney" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -14,6 +14,13 @@
                 <p>United States Department of State Publication </p>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="https://history.state.gov/tags">
+                    <term>eagleburger-lawrence-sidney</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
     </teiHeader>
     <text>
         <body>
@@ -44,9 +51,9 @@
                     Executive Assistant to the President’s Assistant for National Security Affairs
                     (1969), Political Adviser and Chief of the Political Section of the U.S. Mission
                     to NATO (1969-1971), and Deputy Assistant Secretary of Defense (1971-1973). He
-                    was then named Deputy Under Secretary of State for Management from 1975 to
-                    1977, before President <persName>Jimmy Carter</persName> appointed him
-                    Ambassador to Yugoslavia from 1977 to 1981.</p>
+                    was then named Deputy Under Secretary of State for Management from 1975 to 1977,
+                    before President <persName>Jimmy Carter</persName> appointed him Ambassador to
+                    Yugoslavia from 1977 to 1981.</p>
                 <p>Eagleburger continued to rise within the ranks of the Department of State during
                     the Reagan and Bush I administrations, serving as Undersecretary of State for
                     Political Affairs under President <persName>Ronald Reagan</persName> and Deputy
