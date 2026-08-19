@@ -1,0 +1,12 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <!-- Range index backing the region/subject term filters of the
+             pre-1861 Serial Set pages in hsg-jinks (its serial-set.xqm
+             filters the ~2800 bibl records on tei:term string values and
+             tei:term/@type); raised in review of hsg-jinks PR #46. -->
+        <range>
+            <create qname="tei:term" type="xs:string"/>
+            <create qname="@type" type="xs:string"/>
+        </range>
+    </index>
+</collection>
