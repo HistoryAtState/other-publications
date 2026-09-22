@@ -1,12 +1,15 @@
 <collection xmlns="http://exist-db.org/collection-config/1.0">
     <index xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-        <lucene>
+        <lucene vector-store="db">
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="tei:div" index="no">
                 <!-- start required facets and fields -->
                 <facet dimension="hsg-category" expression="'department'"/>
                 <facet dimension="hsg-publication" expression="'short-history'"/>
                 <field name="hsg-fulltext" if="@type eq 'subchapter'" store="no"/>
+                <vector-field name="hsg-embedding" expression="if (@type eq 'subchapter') then . else ()"
+                    dimension="384" similarity="cosine"
+                    embedding="local" model="all-MiniLM-L6-v2"/>
                 <field name="hsg-url" expression="'/departmenthistory/short-history/' || @xml:id"/>
                 <!-- end required facets and fields -->
             </text>
