@@ -1,0 +1,31 @@
+buildings.xconf
+  s_301c0f53682c90::t_ded6f96affd7a5 3,10-12
+education.xconf
+  s_301c0f53682c90::t_5ccf00c9dabe60 3,10-12
+faq.xconf
+  s_301c0f53682c90::t_10eb6f2da8d4e2 3,10-12
+secretary-bios.xconf
+  s_301c0f53682c90::t_0eecc8d637b75b 3,10-12
+short-history.xconf
+  s_301c0f53682c90::t_03b2fd1d8c207a 3,10-12
+vietnam-guide.xconf
+  s_301c0f53682c90::t_117ef7ac04bf01 3,10-12
+views-from-the-embassy.xconf
+  s_301c0f53682c90::t_35c49d7aa4eec1 3,10-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "59ac2c2141ad37d2fa3360856ef14ccea517b8a6",
+  "prompts": {},
+  "sessions": {
+    "s_301c0f53682c90": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "b0549825-9c58-4674-ac97-c7e8a68fb3ff",
+        "model": "grok-4.7"
+      },
+      "human_author": "duncdrum <d.paterson@me.com>"
+    }
+  }
+}
